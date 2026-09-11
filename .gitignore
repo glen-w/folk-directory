@@ -1,0 +1,27 @@
+# Build
+/public/
+/resources/
+.hugo_build.lock
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+.cursor/
+
+# Local tooling (not published; Pages only needs Hugo content + theme)
+prompts/
+ingest/
+scripts/
+docs/
+data/
+add_titles.py
+fix_front_matter.py
+migrate_descriptions.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

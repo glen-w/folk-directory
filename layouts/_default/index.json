@@ -1,0 +1,19 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- $searchData := dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary -}}
+    
+    {{- /* Add venue information to search */ -}}
+    {{- if .Params.venue }}{{ $searchData = merge $searchData (dict "venue" .Params.venue) }}{{- end -}}
+    {{- if .Params.place }}{{ $searchData = merge $searchData (dict "place" .Params.place) }}{{- end -}}
+    {{- if .Params.address }}{{ $searchData = merge $searchData (dict "address" .Params.address) }}{{- end -}}
+    {{- if .Params.post_code }}{{ $searchData = merge $searchData (dict "post_code" .Params.post_code) }}{{- end -}}
+    {{- if .Params.when }}{{ $searchData = merge $searchData (dict "when" .Params.when) }}{{- end -}}
+    {{- if .Params.event_type }}{{ $searchData = merge $searchData (dict "event_type" .Params.event_type) }}{{- end -}}
+    {{- if .Params.tags }}{{ $searchData = merge $searchData (dict "tags" .Params.tags) }}{{- end -}}
+    {{- if .Params.categories }}{{ $searchData = merge $searchData (dict "categories" .Params.categories) }}{{- end -}}
+    
+    {{- $.Scratch.Add "index" $searchData -}}
+    {{- end }}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}} 

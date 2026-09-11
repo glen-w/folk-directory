@@ -1,0 +1,5959 @@
+{
+  "metadata": {
+    "generated_at": "2026-09-11T04:48:27.711901+00:00",
+    "source": "folkdirectory-legacy",
+    "total": 481,
+    "geocoded": 379,
+    "api_calls": 449,
+    "cache_hits": 32
+  },
+  "locations": [
+    {
+      "id": 548,
+      "title": "Above The Parapet",
+      "address": "Westgarth Social Club, Southfield Road, Middlesbrough, TS1 3EZ, North Yorkshire, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/above-the-parapet/",
+      "coordinates": {
+        "lat": 54.57015,
+        "lng": -1.23244
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 200,
+      "title": "Acoustic Festival of Britain",
+      "address": "Uttoxeter Racecourse, Wood Lane, Uttoxeter, ST14 8BD, Staffordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/acoustic-festival-of-britain/",
+      "coordinates": {
+        "lat": 52.8926961,
+        "lng": -1.8455608
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 546,
+      "title": "Acoustic Session",
+      "address": "The Chequers Inn, St.Marys Street, Eynesbury, St.Neots, PE19 2TA, Cambridgeshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/acoustic-session/",
+      "coordinates": {
+        "lat": 52.2247093,
+        "lng": -0.2681601
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 67,
+      "title": "Acoustic Sessions",
+      "address": "Millstone Inn, Millstone Lane, Barnack, near Stamford, PE9 3ET, Cambridgeshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/acoustic-sessions/",
+      "coordinates": {
+        "lat": 52.6315104,
+        "lng": -0.4104187
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 473,
+      "title": "Acoustic Sussex",
+      "address": "White Hart Inn, Ardingley, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/acoustic-sussex/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 167,
+      "title": "Alcester Folk Festival",
+      "address": "Greig Hall, Kinwarton Road, B97 9AU, Warwickshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/alcester-folk-festival/",
+      "coordinates": {
+        "lat": 54.9692038,
+        "lng": -5.9578948
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 475,
+      "title": "Amberley Folk Club",
+      "address": "The Black Horse, High Street, Amberley, BN18 9NL, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/amberley-folk-club/",
+      "coordinates": {
+        "lat": 50.9093061,
+        "lng": -0.5336722
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 46,
+      "title": "Anchor Folk Club",
+      "address": "Blue Anchor Pub, High Road, Byfleet, KT14 7RL, Surrey, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/anchor-folk-club/",
+      "coordinates": {
+        "lat": 51.3381529,
+        "lng": -0.4698376
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 530,
+      "title": "Arran Folk Festival",
+      "address": "Various locations, Isle of Arran, KA27, North Ayrshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/arran-folk-festival/",
+      "coordinates": {
+        "lat": 55.5764672,
+        "lng": -5.1390774
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 102,
+      "title": "Arthur Wakefield's Folk Club",
+      "address": "Dog and Partridge, Palmerston Street, Bollington, Cheshire, SK10 5JX, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/arthur-wakefield's-folk-club/",
+      "coordinates": {
+        "lat": 53.2983985,
+        "lng": -2.1033022
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 65,
+      "title": "Baldock and Letchworth Folk Club",
+      "address": "The Orange Tree, Norton Road, Baldock, SG7 5AW, Hertfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/baldock-and-letchworth-folk-club/",
+      "coordinates": {
+        "lat": 51.9906604,
+        "lng": -0.1930473
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 55,
+      "title": "Banbury Folk Club",
+      "address": "The Mill Arts Centre, Spiceball Park, Banbury, Oxfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/banbury-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 305,
+      "title": "Banbury Folk Festival",
+      "address": "Various, Banbury, OX16 6ET, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/banbury-folk-festival/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 178,
+      "title": "Banbury Song and Ale Weekend",
+      "address": "Various, Banbury, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/banbury-song-and-ale-weekend/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 177,
+      "title": "Barnsley Acoustic Roots Festival",
+      "address": "Barnsley Civic Hall, Hanson Street, S70 2HZ, South Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/barnsley-acoustic-roots-festival/",
+      "coordinates": {
+        "lat": 53.5535907,
+        "lng": -1.4798091
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 201,
+      "title": "Bath International Music Festival",
+      "address": "Various, Bath, BA1 1NL, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bath-international-music-festival/",
+      "coordinates": {
+        "lat": 51.3807786,
+        "lng": -2.3587763
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 599,
+      "title": "Baw-bee' Folk'n Blues Club,Dumfries",
+      "address": "Birkhill Hospitality Venue, 16 St Mary's Street, Dumfries, DG1 1LZ, Dumfries and Galloway, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/baw-bee'-folk'n-blues-club,dumfries/",
+      "coordinates": {
+        "lat": 55.0718196,
+        "lng": -3.6007363
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 597,
+      "title": "Bawbee Folk n Blues Club",
+      "address": "The Birkhill, 16 St.Mary's Street, Dumfries, DG1 1LZ, Dumfries and Galloway, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bawbee-folk-n-blues-club/",
+      "coordinates": {
+        "lat": 55.0718196,
+        "lng": -3.6007363
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 310,
+      "title": "Bedworth Folk Festival",
+      "address": "Various, Bedworth, Warwickshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bedworth-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 542,
+      "title": "Bellingham All Acoustic Music Festival",
+      "address": "Riverdale Hall Hotel grounds, Bellingham, NE48 2JT, Northumberland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bellingham-all-acoustic-music-festival/",
+      "coordinates": {
+        "lat": 55.1445716,
+        "lng": -2.2634225
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 430,
+      "title": "Belper Folk Club",
+      "address": "The Old Kings Head, Days Lane, Belper, DE56 1NP, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/belper-folk-club/",
+      "coordinates": {
+        "lat": 53.0216566,
+        "lng": -1.4803186
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 452,
+      "title": "Beverley Festival",
+      "address": "Various, Beverley, East Riding, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/beverley-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 553,
+      "title": "Billingham International Folklore Festival",
+      "address": "Billingham, Middlesbrough, Newcastle, Town centre & theatres, Billingham, TS232JZ, Durham, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/billingham-international-folklore-festival/",
+      "coordinates": {
+        "lat": 54.60671,
+        "lng": -1.28975
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 135,
+      "title": "Bingham Folk Club",
+      "address": "Town Pavillion, Brendan Grove, G13 8TN, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bingham-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 23,
+      "title": "Black Diamond Folk Club",
+      "address": "The Holy Name Parish Centre, Birmingham Road, Great Barr, B43 6LN, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/black-diamond-folk-club/",
+      "coordinates": {
+        "lat": 52.5471761,
+        "lng": -1.9360509
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 552,
+      "title": "Black Swan Folk Club",
+      "address": "The Black Swan Inn, Peasholme Green, York, YO1 7PR, North Yorkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/black-swan-folk-club/",
+      "coordinates": {
+        "lat": 53.9598555,
+        "lng": -1.0756757
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 450,
+      "title": "Blackheath Folk Club",
+      "address": "The British Oak, 109 Old Dover Rd, London, SE3 8SU, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/blackheath-folk-club/",
+      "coordinates": {
+        "lat": 51.4761799,
+        "lng": 0.0260756
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 66,
+      "title": "Blackmore Folk Club",
+      "address": "The Rose & Crown, Writtle Green, CM1 3DT, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/blackmore-folk-club/",
+      "coordinates": {
+        "lat": 51.7300596,
+        "lng": 0.4268045
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 576,
+      "title": "Blazin' in Beauly",
+      "address": "Various, Beauly, Inverness-shire, Highland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/blazin'-in-beauly/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 538,
+      "title": "Blues Club",
+      "address": "The Railway Hotel, North Quay, Douglas, IM1, Isle of Man, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/blues-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 43,
+      "title": "Bodmin Folk Club",
+      "address": "Mason's Arms, Higher Bore Street, Bodmin, PL31 1JS, Cornwall, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bodmin-folk-club/",
+      "coordinates": {
+        "lat": 50.4715358,
+        "lng": -4.7281833
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 408,
+      "title": "Borough Music Session",
+      "address": "The Horseshoe Inn, 26 Melior Street, London, SE1 3QP, London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/borough-music-session/",
+      "coordinates": {
+        "lat": 51.502486,
+        "lng": -0.0840073
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 128,
+      "title": "Boston Folk Club",
+      "address": "The Eagle, 144 West Street, Boston, PE21 8RE, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/boston-folk-club/",
+      "coordinates": {
+        "lat": 52.976223,
+        "lng": -0.0309661
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 25,
+      "title": "Bournemouth Folk Club",
+      "address": "Centre Stage, Queens Road, Bournemouth, BH2 6BE, Dorset, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bournemouth-folk-club/",
+      "coordinates": {
+        "lat": 50.7217368,
+        "lng": -1.8931097
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 172,
+      "title": "Bournemouth Folk Festival",
+      "address": "The Jays, Horton Road, BH24 2EJ, Hampshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bournemouth-folk-festival/",
+      "coordinates": {
+        "lat": 50.8412502,
+        "lng": -1.8418152
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 49,
+      "title": "Bracknell Folk Club",
+      "address": "The Sun, 1 Chertsey Road, Windlesham, GU20, Surrey, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bracknell-folk-club/",
+      "coordinates": {
+        "lat": 51.3646598,
+        "lng": -0.6544409
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 259,
+      "title": "Bradfield Traditional Music Weekend",
+      "address": "Various, Bradfield, South Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bradfield-traditional-music-weekend/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 526,
+      "title": "Bradninch Acoustic Music Club",
+      "address": "St Disens Hall, 1 Church Street, Bradninch, EX5 4NS, Devon, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bradninch-acoustic-music-club/",
+      "coordinates": {
+        "lat": 50.8277916,
+        "lng": -3.421207
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 82,
+      "title": "Brampton Folk Session",
+      "address": "The Howard Arms, Front Street, Brampton, Carlisle, CA8 1NG, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/brampton-folk-session/",
+      "coordinates": {
+        "lat": 54.9419577,
+        "lng": -2.7356498
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 306,
+      "title": "Bristol Cajun & Zydeco Festival",
+      "address": "The Folk House, 40a Park Street, Bristol, CT5 4HS, Bristol, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bristol-cajun-&-zydeco-festival/",
+      "coordinates": {
+        "lat": 51.351899,
+        "lng": 1.0253919
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 186,
+      "title": "Bristol Folk Festival",
+      "address": "Colston Hall, Colston Street, Bristol, BS1 5AR, Bristol, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bristol-folk-festival/",
+      "coordinates": {
+        "lat": 51.4547089,
+        "lng": -2.5982673
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 469,
+      "title": "Broadside Folk Club",
+      "address": "Old House at Home, Locksway Road, Portsmouth, PO4 8JR, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/broadside-folk-club/",
+      "coordinates": {
+        "lat": 50.7936281,
+        "lng": -1.0518985
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 536,
+      "title": "Broadstairs Folk Week",
+      "address": "Venues around the town, Broadstairs, CT10 1JX, Kent, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/broadstairs-folk-week/",
+      "coordinates": {
+        "lat": 51.35909,
+        "lng": 1.43752
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 88,
+      "title": "Bromborough Folk Club",
+      "address": "The Bridge Inn, Bolton Road, Port Sunlight, CH62 4UQ, Merseyside, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/bromborough-folk-club/",
+      "coordinates": {
+        "lat": 53.35269,
+        "lng": -2.99501
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 83,
+      "title": "Bromley Cross Folk Club",
+      "address": "The Barlow Institute, Bolton Rd, Edgworth, BL7 0AP, Gloucestershire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/bromley-cross-folk-club/",
+      "coordinates": {
+        "lat": 53.6452482,
+        "lng": -2.3933042
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 251,
+      "title": "Bromsgrove Folk Festival",
+      "address": "Various, Bromsgrove, Worcestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bromsgrove-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 296,
+      "title": "Bromyard Folk Festival",
+      "address": "Various, Bromyard, Herefordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bromyard-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 208,
+      "title": "Bude & Stratton Folk Festival",
+      "address": "The Falcon Hotel, Bude, EX23 8SD1, Cornwall, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/bude-&-stratton-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 496,
+      "title": "Burnham-on-Sea Folkfest",
+      "address": "Town Centre and Manor Gardens, Burnham-on-Sea, TA8 1AR, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/burnham-on-sea-folkfest/",
+      "coordinates": {
+        "lat": 51.2369532,
+        "lng": -2.9980502
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 290,
+      "title": "Burnham-on-Sea Free Folkfest",
+      "address": "Various, Burnham-on-Sea, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/burnham-on-sea-free-folkfest/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 269,
+      "title": "Cambridge Folk Festival",
+      "address": "Cherry Hinton Hall Grounds, Cambridge, CB1 8DW, Cambridgeshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/cambridge-folk-festival/",
+      "coordinates": {
+        "lat": 52.186279,
+        "lng": 0.1655852
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 164,
+      "title": "Celtic Connections",
+      "address": "Royal Concert Hall, 2 Sauchiehall Street, G2 3NY, Glasgow, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/celtic-connections/",
+      "coordinates": {
+        "lat": 55.864539,
+        "lng": -4.2531304
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 169,
+      "title": "Celtic Festival of Wales",
+      "address": "Various, Porthcawl, CF36 3YW, Glamorgan, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/celtic-festival-of-wales/",
+      "coordinates": {
+        "lat": 51.4765649,
+        "lng": -3.7068734
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 162,
+      "title": "Cheltenham Folk Festival",
+      "address": "Cheltenham Town Hall, Imperial Square, GL50 1QA, Gloucestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/cheltenham-folk-festival/",
+      "coordinates": {
+        "lat": 51.8971284,
+        "lng": -2.0777875
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 206,
+      "title": "Chester Folk Festival",
+      "address": "Various, Kelsall, Cheshire, CW6 0RS, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/chester-folk-festival/",
+      "coordinates": {
+        "lat": 53.20819,
+        "lng": -2.71731
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 429,
+      "title": "Chesterfield Folk Club",
+      "address": "Club Chesterfield, Chester Street, Chesterfield, S40 1DL, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/chesterfield-folk-club/",
+      "coordinates": {
+        "lat": 53.2385187,
+        "lng": -1.4455464
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 476,
+      "title": "Chichester Folk Song Club",
+      "address": "The 4 Chesnuts, Oving  Road, Chichester, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/chichester-folk-song-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 205,
+      "title": "Chippenham Folk Festival",
+      "address": "The Cause Music & Arts Centre, The Causeway, Chippenham, SN15 3DD, Wiltshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/chippenham-folk-festival/",
+      "coordinates": {
+        "lat": 51.4567544,
+        "lng": -2.1125592
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 92,
+      "title": "Chorlton Folk Club",
+      "address": "Cricket Club, Ellesmere Road, Chorlton, Greater Manchester, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/chorlton-folk-club/",
+      "coordinates": {
+        "lat": 53.4448773,
+        "lng": -2.2692533
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 30,
+      "title": "Christchurch Folk Traditional Music Sessions",
+      "address": "Ye Olde George Inn, Castle Street, Christchurch, Dorset, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/christchurch-folk-traditional-music-sessions/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 246,
+      "title": "Cleckheaton Folk Festival",
+      "address": "Various, Cleckheaton, West Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/cleckheaton-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 196,
+      "title": "Clennell Hall Folk Festival",
+      "address": "Clennell Hall Hotel, Alwinton, NE65 7BG, Northumberland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/clennell-hall-folk-festival/",
+      "coordinates": {
+        "lat": 55.3582351,
+        "lng": -2.1142261
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 256,
+      "title": "Clogfest",
+      "address": "Various, Skipton, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/clogfest/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 433,
+      "title": "Club Acoustic",
+      "address": "The Eagle/The Prince of Wales, Buxton, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/club-acoustic/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 87,
+      "title": "Co-operative Folk Club",
+      "address": "The Crown, Platt Lane, Worthington, near Standish, WN1 2XF, Lancashire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/co-operative-folk-club/",
+      "coordinates": {
+        "lat": 53.59707,
+        "lng": -2.6414
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 288,
+      "title": "Cornwall Folk Festival",
+      "address": "Various, Wadebridge, Cornwall, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/cornwall-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 180,
+      "title": "Crediton Folk Weekend",
+      "address": "Various, Devon, EX17 1EZ, Devon, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/crediton-folk-weekend/",
+      "coordinates": {
+        "lat": 50.79011,
+        "lng": -3.64807
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 265,
+      "title": "Cullerlie Traditional Singing Weekend",
+      "address": "Various, Cullerlie, Aberdeenshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/cullerlie-traditional-singing-weekend/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 98,
+      "title": "Dabbers Session",
+      "address": "The Rifleman, 68 James Hall Street, Nantwich, CW5 5QE, Cheshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/dabbers-session/",
+      "coordinates": {
+        "lat": 53.0718144,
+        "lng": -2.5189373
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 309,
+      "title": "Dance Around the World",
+      "address": "?, Camden, London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/dance-around-the-world/",
+      "coordinates": {
+        "lat": 51.5427966,
+        "lng": -0.1624803
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 121,
+      "title": "Dartford Folk Club",
+      "address": "Dartford Working Men's Club, 40 Essex Road, Dartford, DA1 2AU, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/dartford-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 278,
+      "title": "Dartmoor Folk Festival",
+      "address": "Various, South Zeal, Devon, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/dartmoor-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 539,
+      "title": "Derby Heritage Traditional Folk Club (Gaol Folk Club)",
+      "address": "The Old Derby Gaol, Agard Street, Derby, DE1 1YS, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/derby-heritage-traditional-folk-club-(gaol-folk-club)/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 304,
+      "title": "Derby Traditional Music & Arts Festival",
+      "address": "Various, Derby, Derbyshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/derby-traditional-music-&-arts-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 543,
+      "title": "Devauden Music Festival",
+      "address": "Devauden, Nr Chepstow, NP16, Monmouthshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/devauden-music-festival/",
+      "coordinates": {
+        "lat": 51.6401741,
+        "lng": -2.6648806
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 555,
+      "title": "Devoran Acoustic Sessions",
+      "address": "Devoran Village Hall, Quay Road, Devoran, TR3 6PW, Cornwall, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/devoran-acoustic-sessions/",
+      "coordinates": {
+        "lat": 50.2101776,
+        "lng": -5.0926732
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 197,
+      "title": "Doncaster Folk Festival",
+      "address": "Various, Doncaster, DN2 6AJ, South Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/doncaster-folk-festival/",
+      "coordinates": {
+        "lat": 53.51972,
+        "lng": -1.11545
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 47,
+      "title": "Dorking Folk Club",
+      "address": "Friends Life Social Club, Friends Life, Dorking, RH4 1QA, Surrey, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/dorking-folk-club/",
+      "coordinates": {
+        "lat": 51.24292,
+        "lng": -0.32348
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 550,
+      "title": "Droitwich Session",
+      "address": "Hop Pole, Friar Street, Droitwich, WR9 8ED, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/droitwich-session/",
+      "coordinates": {
+        "lat": 52.2690967,
+        "lng": -2.1512672
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 207,
+      "title": "Dulverton Folk Festival",
+      "address": "Various, Dulverton, TA22, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/dulverton-folk-festival/",
+      "coordinates": {
+        "lat": 51.0396375,
+        "lng": -3.5427108
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 139,
+      "title": "Dumbles Folk Club",
+      "address": "The Dumbles Pub, Westhorpe, Southwell, NG25 0ND, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/dumbles-folk-club/",
+      "coordinates": {
+        "lat": 53.0755613,
+        "lng": -0.968049
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 580,
+      "title": "Dunton Folk",
+      "address": "St Mary Magdalene Church, Church Street, Dunton, Biggleswade, SG18 8RR, Bedfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/dunton-folk/",
+      "coordinates": {
+        "lat": 52.0829386,
+        "lng": -0.1950262
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 281,
+      "title": "Durham Gathering",
+      "address": "The Sage, Gateshead, NE8 2JR, Durham, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/durham-gathering/",
+      "coordinates": {
+        "lat": 54.9677067,
+        "lng": -1.6020754
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 594,
+      "title": "DV8 barn dance",
+      "address": "DV8 studios, Caedom Hall, Pall Mall, Leigh on Sea, SS9 1RA, Essex, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/dv8-barn-dance/",
+      "coordinates": {
+        "lat": 51.5435299,
+        "lng": 0.65925
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 188,
+      "title": "Eastbourne International Folk Dance Festival",
+      "address": "Various, Inwood Road, Wembdon, Bridgwater, TA6 7PP, East Sussex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/eastbourne-international-folk-dance-festival/",
+      "coordinates": {
+        "lat": 51.1318658,
+        "lng": -3.0273148
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 454,
+      "title": "Elsie`s",
+      "address": "The Queens Arms, Cowden Pound, near Edenbridge, TN8  5NP, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/elsie`s/",
+      "coordinates": {
+        "lat": 51.1635599,
+        "lng": 0.09087
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 250,
+      "title": "Ely Folk Festival",
+      "address": "Various, Ely, Cambridgeshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/ely-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 581,
+      "title": "Erewash Acoustic",
+      "address": "The Larklands, Park Road, Ilkeston, DE7 5DN, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/erewash-acoustic/",
+      "coordinates": {
+        "lat": 52.9682299,
+        "lng": -1.3009699
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 78,
+      "title": "Everyman Folk Club",
+      "address": "The Riverside Centre, Glemham Road, Stratford St Andrew, Saxmundham, IP17 1LL, Suffolk, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/everyman-folk-club/",
+      "coordinates": {
+        "lat": 52.1912499,
+        "lng": 1.44689
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 117,
+      "title": "FAB",
+      "address": "The White Hart, King's Walk, Argent Street, Grays, RM17 6HR, Essex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/fab/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 313,
+      "title": "Fairport's Cropredy Convention",
+      "address": "A field! And various venues in the town, Cropredy, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/fairport's-cropredy-convention/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 127,
+      "title": "Faldingworth Live",
+      "address": "Faldingworth Memorial Hall, Faldingworth, LN8 3SE, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/faldingworth-live/",
+      "coordinates": {
+        "lat": 53.3491415,
+        "lng": -0.3977907
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 479,
+      "title": "Falkirk Folk Club",
+      "address": "Tolbooth Tavern, Tolbooth Street, Falkirk, FK1 1NL, Falkirk, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/falkirk-folk-club/",
+      "coordinates": {
+        "lat": 55.9993372,
+        "lng": -3.784073
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 222,
+      "title": "Falmouth International Sea Shanty Festival",
+      "address": "Various, Falmouth, falmouthshout.com, Cornwall, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/falmouth-international-sea-shanty-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 125,
+      "title": "Faversham Folk Club",
+      "address": "The Chimney Boy, 59 Preston Street, Faversham, ME13 8PG, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/faversham-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 168,
+      "title": "February Folk Day",
+      "address": "Hoole Community Centre, Westminster Road, Chester, CH2 3AU, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/february-folk-day/",
+      "coordinates": {
+        "lat": 53.1978823,
+        "lng": -2.8739567
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 260,
+      "title": "Festival at the Edge",
+      "address": "Stokes Barn, Much Wenlock, festivalattheedge.org, Shropshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/festival-at-the-edge/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 520,
+      "title": "Fiddle Festival of Britain",
+      "address": "Manor Farm, Ardley, OX27 7NS, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/fiddle-festival-of-britain/",
+      "coordinates": {
+        "lat": 51.9437799,
+        "lng": -1.21606
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 589,
+      "title": "First Sunday Tunes Session",
+      "address": "Gun and Spitroast, The Heath, Horsmonden, TN12 8HT, Kent, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/first-sunday-tunes-session/",
+      "coordinates": {
+        "lat": 51.138656,
+        "lng": 0.4289423
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 209,
+      "title": "Fishguard Folk Festival",
+      "address": "Various, Fishguard, Pembrokeshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/fishguard-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 515,
+      "title": "Fishguard Folk",
+      "address": "The Royal Oak - The Globe, Fishguard, Pembrokeshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/fishguard-folk/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 86,
+      "title": "Fleetwood Folk Club",
+      "address": "The Steamer Hotel, Queens Terrace, Fleetwood, FY7 6BT, Lancashire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/fleetwood-folk-club/",
+      "coordinates": {
+        "lat": 53.9245403,
+        "lng": -3.0057526
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 108,
+      "title": "Fo'c'sle Folk Club",
+      "address": "The Richmond Inn, 108 Portswood Road, Portswood, Southampton, SO17 2FW, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/fo'c'sle-folk-club/",
+      "coordinates": {
+        "lat": 50.9222799,
+        "lng": -1.3949871
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 616,
+      "title": "Folk at the Landmark",
+      "address": "Landmark Arts Centre, Ferry Road, Teddington, TW11 9NN, London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-at-the-landmark/",
+      "coordinates": {
+        "lat": 51.4281539,
+        "lng": -0.3244845
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 559,
+      "title": "Folk at the Manor",
+      "address": "The Old Manor, Withens Lane, Wallasey, CH45 7NF, Merseyside, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/folk-at-the-manor/",
+      "coordinates": {
+        "lat": 53.4245627,
+        "lng": -3.0408443
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 101,
+      "title": "Folk at the Prospect",
+      "address": "Prospect Inn, Weston Village, Runcorn, WA7 4LD, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-at-the-prospect/",
+      "coordinates": {
+        "lat": 53.3242163,
+        "lng": -2.7449889
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 554,
+      "title": "Folk at the Royal Oak",
+      "address": "The Royal Oak, 3 Station Street, Lewes, BN7 2DA, East Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-at-the-royal-oak/",
+      "coordinates": {
+        "lat": 50.8727896,
+        "lng": 0.0108942
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 517,
+      "title": "Folk at the Unicorn",
+      "address": "Unicorn Theatre, Checker Walk, Abingdon, OX14 3HZ, Oxfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-at-the-unicorn/",
+      "coordinates": {
+        "lat": 51.6696529,
+        "lng": -1.2792084
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 267,
+      "title": "Folk by the Oak",
+      "address": "Hatfield House, Great North Road, Hatfield, AL9 5NQ, Hertfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/folk-by-the-oak/",
+      "coordinates": {
+        "lat": 51.7617039,
+        "lng": -0.2104241
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 60,
+      "title": "Folk in the Bourne",
+      "address": "Boscombe Village Social Club, Boscombe, SP4 0AB, Wiltshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-in-the-bourne/",
+      "coordinates": {
+        "lat": 51.14668,
+        "lng": -1.71286
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 481,
+      "title": "Folk Music at the Links",
+      "address": "Links Hotel, Mid Links, Montrose, DD10 8RL, Angus, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-music-at-the-links/",
+      "coordinates": {
+        "lat": 56.7127,
+        "lng": -2.4641
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 582,
+      "title": "Folk Music Events",
+      "address": "Nottingham Playhouse, Wellington Circus, Nottingham, NG1 5AF, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-music-events/",
+      "coordinates": {
+        "lat": 52.9535369,
+        "lng": -1.1564159
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 603,
+      "title": "Folk on the Coast",
+      "address": "Seasons, Bognor Town FC, Nyewood Lane, Bognor Regis, PO21 2TY, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-on-the-coast/",
+      "coordinates": {
+        "lat": 50.7869741,
+        "lng": -0.6892211
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 32,
+      "title": "Folk on the Moor",
+      "address": "Westward Inn, Lee Mill, Ivybridge, PL21 9EE, Devon, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folk-on-the-moor/",
+      "coordinates": {
+        "lat": 50.3845155,
+        "lng": -3.9717469
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 193,
+      "title": "Folk on the Pier",
+      "address": "Pavilion Theatre, Cromer Pier, Cromer, NR27 9HE, Norfolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/folk-on-the-pier/",
+      "coordinates": {
+        "lat": 52.932344,
+        "lng": 1.3012727
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 622,
+      "title": "Folk Session",
+      "address": "White Horse, Mill Green, Edwardstone, Sudbury, CO105PX, Suffolk, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-session-/",
+      "coordinates": {
+        "lat": 52.0500375,
+        "lng": 0.8439461
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 613,
+      "title": "Folk Sessions",
+      "address": "Coopers Arms, Cooper Lane, Crowborough, TN6, East Sussex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-sessions/",
+      "coordinates": {
+        "lat": 51.0584477,
+        "lng": 0.2569469
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 254,
+      "title": "Folk Station",
+      "address": "Various, Havenstreet, Isle of Wight, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/folk-station/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 448,
+      "title": "Folkmob",
+      "address": "Well Hall, Kidbrooke Lane, Eltham, SE9 6TE, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folkmob/",
+      "coordinates": {
+        "lat": 51.4583899,
+        "lng": 0.0469914
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 507,
+      "title": "FolkOnMonday",
+      "address": "Green Note, 106 Parkway, Camden, London, NW1 7AN, London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folkonmonday/",
+      "coordinates": {
+        "lat": 51.5372895,
+        "lng": -0.1459464
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 565,
+      "title": "Folkroom",
+      "address": "The Queen's Head, 66 Acton Street, London, WC1X 9NB, London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/folkroom/",
+      "coordinates": {
+        "lat": 51.5284524,
+        "lng": -0.1181488
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 534,
+      "title": "FolkStation",
+      "address": "The Green Barn Field, Whitehouse Road, Newport, PO30 4LH, Isle of Wight, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/folkstation/",
+      "coordinates": {
+        "lat": 50.71308,
+        "lng": -1.3494
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 183,
+      "title": "Folkworks Fiddles on Fire",
+      "address": "Kings Place, 90 York Way, N1 9AG, London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/folkworks-fiddles-on-fire/",
+      "coordinates": {
+        "lat": 51.5349626,
+        "lng": -0.1217677
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 111,
+      "title": "Forest Folk",
+      "address": "North Boarhunt Social Club, Trampers Lane, North Boarhunt, near Wickham, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/forest-folk/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 623,
+      "title": "Friday Folk Club",
+      "address": "The Globe, Northgate, Guisborough, TS14 6JP, North Yorkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/friday-folk-club/",
+      "coordinates": {
+        "lat": 54.5380066,
+        "lng": -1.0531771
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 175,
+      "title": "Frittenden Old Fashioned Night Out",
+      "address": "Bell & Jorrocks pub, Frittenden, TN17 2EJ, Kent, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/frittenden-old-fashioned-night-out/",
+      "coordinates": {
+        "lat": 51.1414608,
+        "lng": 0.5938032
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 38,
+      "title": "Frome Acoustic Club",
+      "address": "The Griffin Pub, Milk Street, Frome, Devon, Devon, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/frome-acoustic-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 252,
+      "title": "Furness Tradition",
+      "address": "Various, Ulverston, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/furness-tradition/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 315,
+      "title": "Fylde Folk Festival",
+      "address": "Marine Hall &#40;and others&#41;, Fleetwood, FY7 6HF, Lancashire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/fylde-folk-festival/",
+      "coordinates": {
+        "lat": 53.9269344,
+        "lng": -3.0158571
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 133,
+      "title": "Gainsborough Folk Club",
+      "address": "Melrose Club, Melrose Road, Gainsborough, DN21 2SA, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/gainsborough-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 307,
+      "title": "Gainsborough Folk Festival",
+      "address": "Various, Gainsborough, Lincolnshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/gainsborough-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 163,
+      "title": "Gainsborough Old Time Festival",
+      "address": "Various, Gainsborough, London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/gainsborough-old-time-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 214,
+      "title": "Garway Folk Festival Weekend",
+      "address": "Looking for new site, Garway, Herefordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/garway-folk-festival-weekend/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 161,
+      "title": "Gloucester Cajun Festival",
+      "address": "Gloucester Guildhall, 23 Eastgate Street, GL1 1NS, Gloucestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/gloucester-cajun-festival/",
+      "coordinates": {
+        "lat": 51.8644913,
+        "lng": -2.2442957
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 218,
+      "title": "Gower Folk Festival",
+      "address": "June, The Gower Heritage Centre, Parkmill, Gower, Swansea, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/gower-folk-festival/",
+      "coordinates": {
+        "lat": 51.5238591,
+        "lng": -0.1341273
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 637,
+      "title": "Grand Ceilidh Club",
+      "address": "Royal Naval Association, East Street, Southend-on-Sea, SS2 6LQ, Essex, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/grand-ceilidh-club/",
+      "coordinates": {
+        "lat": 51.5494688,
+        "lng": 0.7081556
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 434,
+      "title": "Grand Union Folk Club",
+      "address": "The Soar Bridge Inn, Barrow upon Soar, near Loughborough, LE12 8PN, Leicestershire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/grand-union-folk-club/",
+      "coordinates": {
+        "lat": 52.7504288,
+        "lng": -1.1522153
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 119,
+      "title": "Great Bardfield Folk Club",
+      "address": "High Barn, Great Bardfield, CM7 4SL, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/great-bardfield-folk-club/",
+      "coordinates": {
+        "lat": 51.9449188,
+        "lng": 0.4389395
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 255,
+      "title": "Greensleeves Morris Ring Meeting",
+      "address": "Various, London, Greater London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/greensleeves-morris-ring-meeting/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 132,
+      "title": "Grimbsby Folk Club",
+      "address": "The Spider's Web, 180 Carr Lane, Grimsby, DN32 8LN, Grimsby, DN32 8LN, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/grimbsby-folk-club/",
+      "coordinates": {
+        "lat": 53.5576142,
+        "lng": -0.0527457
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 636,
+      "title": "Gwerin Aber Folk",
+      "address": "The Coopers Arms, Northgate Street, Aberystwyth, sy24, Ceredigion, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/gwerin-aber-folk/",
+      "coordinates": {
+        "lat": 52.4624743,
+        "lng": -4.024177
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 68,
+      "title": "Haconby Hare music sessions",
+      "address": "Hare & Hounds, 2 West Road, Haconby, Bourne, PE10 0UZ, Lincolnshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/haconby-hare-music-sessions/",
+      "coordinates": {
+        "lat": 52.814764,
+        "lng": -0.3645383
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 311,
+      "title": "Haddenham Folk Festival",
+      "address": "Various, Haddenham, Buckinghamshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/haddenham-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 109,
+      "title": "Hambledon Folk Club",
+      "address": "Youth Club, West Street, PO7 4RW, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/hambledon-folk-club/",
+      "coordinates": {
+        "lat": 50.931061,
+        "lng": -1.0820388
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 511,
+      "title": "Harwich International Sea Shanty Festival",
+      "address": "Old Harwich Town, Harwich, Essex, CO12, Essex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/harwich-international-sea-shanty-festival/",
+      "coordinates": {
+        "lat": 51.9311931,
+        "lng": 1.2641002
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 116,
+      "title": "Havering Folk Club",
+      "address": "The White Horse, Chadwell Heath, Romford, RM6 6NU, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/havering-folk-club/",
+      "coordinates": {
+        "lat": 51.57175,
+        "lng": 0.13708
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 202,
+      "title": "Hexham Gathering",
+      "address": "The Sage, St Mary's Sq, Hexham, NE8 2JR, Northumberland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/hexham-gathering/",
+      "coordinates": {
+        "lat": 54.9677067,
+        "lng": -1.6020754
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 64,
+      "title": "Hitchin Folk Club",
+      "address": "The Sun Hotel, Sun Street,, Hitchin, SG5 1AF, Hertfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/hitchin-folk-club/",
+      "coordinates": {
+        "lat": 51.9467686,
+        "lng": -0.278251
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 192,
+      "title": "Holmfirth Festival of Folk",
+      "address": "Various, Holmfirth, HD9 3JP, West Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/holmfirth-festival-of-folk/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 34,
+      "title": "Honinton Folk Dance Club",
+      "address": "Offwell Village Hall, Offwell, Honiton, EX14 9SE, Devon, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/honinton-folk-dance-club/",
+      "coordinates": {
+        "lat": 50.79417,
+        "lng": -3.14297
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 533,
+      "title": "Hop Farm Music Festival",
+      "address": "The Hop Farm, Paddock Wood, Tonbridge, TN12 6PY, Kent, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/hop-farm-music-festival/",
+      "coordinates": {
+        "lat": 51.19743,
+        "lng": 0.39516
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 477,
+      "title": "Horsham Folk Club",
+      "address": "The Normandy Centre, Denne Road, Horsham, RH12 1JF, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/horsham-folk-club/",
+      "coordinates": {
+        "lat": 51.0598531,
+        "lng": -0.3285548
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 103,
+      "title": "Hungry Horse Folk Club",
+      "address": "Whitby Sports & Social Club, Chester Road, Whitby, CH65 6QF, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/hungry-horse-folk-club/",
+      "coordinates": {
+        "lat": 53.2624722,
+        "lng": -2.9096293
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 190,
+      "title": "Hurdy Gurdy Festival",
+      "address": "Various, Youlgrave, Derby, DE1 2AW, Derbyshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/hurdy-gurdy-festival/",
+      "coordinates": {
+        "lat": 52.9221774,
+        "lng": -1.4741311
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 431,
+      "title": "Ilkeston Folk & Blues Club",
+      "address": "The Stute (Ilkeston Rugby Club), Hallam Fields Rd, Ilkeston, DE7 4AZ, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/ilkeston-folk-&-blues-club/",
+      "coordinates": {
+        "lat": 52.9529775,
+        "lng": -1.2930146
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 572,
+      "title": "Ilkeston Folk Club",
+      "address": "The Stute - Ilkeston Rugby Club, Little Halam Lane, Ilkeston, DE7 4AZ, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/ilkeston-folk-club/",
+      "coordinates": {
+        "lat": 52.9529775,
+        "lng": -1.2930146
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 579,
+      "title": "Ingleton Folk Weekend",
+      "address": "Various, Ingleton, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/ingleton-folk-weekend/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 562,
+      "title": "Innerleithen Music Festival",
+      "address": "Memorial Hall, Leithen Road, Innerleithen, EH44 6HZ, Scottish Borders, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/innerleithen-music-festival/",
+      "coordinates": {
+        "lat": 55.6207504,
+        "lng": -3.061944
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 527,
+      "title": "Inter-Varsity Folk Dance Festival",
+      "address": "Aberdeen University, University Road, Aberdeen, AB24 3UT, Aberdeenshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/inter-varsity-folk-dance-festival/",
+      "coordinates": {
+        "lat": 57.1626033,
+        "lng": -2.1000439
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 219,
+      "title": "Ipswich Riverside Folk Weekend",
+      "address": "Steamboat Tavern, 78 New Cut West, Ipswich, IP2 8HW, Suffolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/ipswich-riverside-folk-weekend/",
+      "coordinates": {
+        "lat": 52.0490579,
+        "lng": 1.1589812
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 203,
+      "title": "Ireby Festival",
+      "address": "Bank Top Cottage, Ireby, CA7 1EA, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/ireby-festival/",
+      "coordinates": {
+        "lat": 54.7379181,
+        "lng": -3.1845211
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 592,
+      "title": "Irish Set Dance",
+      "address": "Leintwardine Village Hall, High Street, Leintwardine, SY7 0LQ, Herefordshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/irish-set-dance/",
+      "coordinates": {
+        "lat": 52.36542,
+        "lng": -2.87681
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 587,
+      "title": "Irish Set Dancing",
+      "address": "Leintwardine Village Hall, High Street, Leintwardine, SY7 0LQ, Herefordshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/irish-set-dancing/",
+      "coordinates": {
+        "lat": 52.36542,
+        "lng": -2.87681
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 445,
+      "title": "Islington Folk Club",
+      "address": "The Horseshoe, 24 Clerkenwell Close, Islington, EC1R 0AG, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/islington-folk-club/",
+      "coordinates": {
+        "lat": 51.5239,
+        "lng": -0.10672
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 84,
+      "title": "Jangles Folk",
+      "address": "Littleborough Conservative Club, Peel Street, Littleborough, OL15 8AQ, Lancashire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/jangles-folk/",
+      "coordinates": {
+        "lat": 53.64276,
+        "lng": -2.0979899
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 194,
+      "title": "Keith Summers Festival",
+      "address": "Various, Cecil Park, N8 9AS, London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/keith-summers-festival/",
+      "coordinates": {
+        "lat": 51.5772477,
+        "lng": -0.1205772
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 137,
+      "title": "Kirkby in Ashfield Folk and Acoustic Club",
+      "address": "The Duke of Wellington, Church Street, Kirkby in Ashfield,, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/kirkby-in-ashfield-folk-and-acoustic-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 221,
+      "title": "Kirtlington Lamb Ale Morris Festival",
+      "address": "Kirtlington, OX5 3HJ, kirtlington-morris.org.uk, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/kirtlington-lamb-ale-morris-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 349,
+      "title": "Knutsford Sessions",
+      "address": "The Cross Keys, King Street, Knutsford, WA16 6DT, Cheshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/knutsford-sessions/",
+      "coordinates": {
+        "lat": 53.3039843,
+        "lng": -2.3727464
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 70,
+      "title": "Kontra Roots Club",
+      "address": "Kennedy's Bar, The Tower Sports Ground, Irthlingborough Road, Finedon, NN9 5EJ, Northamptonshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/kontra-roots-club/",
+      "coordinates": {
+        "lat": 52.3370667,
+        "lng": -0.644624
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 258,
+      "title": "Larmer Tree Festival",
+      "address": "Various, Salisbury, Wiltshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/larmer-tree-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 583,
+      "title": "Le Grand Boeuf",
+      "address": "The Hope, West Street,, Carshalton, SM5 2PR, Surrey, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/le-grand-boeuf/",
+      "coordinates": {
+        "lat": 51.367689,
+        "lng": -0.1674672
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 609,
+      "title": "Leadenham Folk Day",
+      "address": "The George Hotel, High Street, Leadenham, LN5 0PN, Lincolnshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/leadenham-folk-day/",
+      "coordinates": {
+        "lat": 53.05917,
+        "lng": -0.5824
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 303,
+      "title": "Lewes Folk Festival",
+      "address": "Various, Lewes, East Sussex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/lewes-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 531,
+      "title": "Leyland Accordion Club",
+      "address": "The Priory Club, Broadfield Drive, Leyland, PR25 1QN, Lancashire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/leyland-accordion-club/",
+      "coordinates": {
+        "lat": 53.6939004,
+        "lng": -2.7073257
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 130,
+      "title": "Lincoln's Folk in the Cellar plus one",
+      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/lincoln's-folk-in-the-cellar-plus-one/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 129,
+      "title": "Lincoln Folk Club",
+      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/lincoln-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 22,
+      "title": "Listing 22",
+      "address": "The Kitchen Garden Cafe, 17 York Road, Kings Heath, Birmingham, B14 7SA, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/listing-22/",
+      "coordinates": {
+        "lat": 52.4343039,
+        "lng": -1.8939184
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 316,
+      "title": "Listing 316",
+      "address": "The Beech Inn, Beech Road, Chorlton cum Hardy, M21 9EG, 0, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-316/",
+      "coordinates": {
+        "lat": 53.4386311,
+        "lng": -2.2806007
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 317,
+      "title": "Listing 317",
+      "address": "The Beech Inn, Beech Road, Chorlton cum Hardy, M21 9EG, Greater Manchester, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-317/",
+      "coordinates": {
+        "lat": 53.4386311,
+        "lng": -2.2806007
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 320,
+      "title": "Listing 320",
+      "address": "Bowling Green Inn, Shaw Lane, Stoke Prior, Bromsgrove, B60 4BH, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-320/",
+      "coordinates": {
+        "lat": 52.288466,
+        "lng": -2.0927483
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 323,
+      "title": "Listing 323",
+      "address": "The Talbot, Knightwick, WR6 5PH, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-323/",
+      "coordinates": {
+        "lat": 52.2020162,
+        "lng": -2.3919171
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 324,
+      "title": "Listing 324",
+      "address": "Fox Inn, Monkwood Green, Worcester, WR2 6NX, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-324/",
+      "coordinates": {
+        "lat": 52.24024,
+        "lng": -2.29455
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 325,
+      "title": "Listing 325",
+      "address": "Hollybush, 37 Henley Street, Alcester, b49 5qx, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-325/",
+      "coordinates": {
+        "lat": 52.2161263,
+        "lng": -1.8685137
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 327,
+      "title": "Listing 327",
+      "address": "The Progressive Club, Halford Street, Tamworth, B79 7RD, Staffordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-327/",
+      "coordinates": {
+        "lat": 52.6349519,
+        "lng": -1.6996347
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 328,
+      "title": "Listing 328",
+      "address": "Cottage of Content, Barton, B50 4NP, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-328/",
+      "coordinates": {
+        "lat": 52.1590379,
+        "lng": -1.844781
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 329,
+      "title": "Listing 329",
+      "address": "The Three Horseshoes, Spring Hill, Bubbenhall, CV8 3BD, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-329/",
+      "coordinates": {
+        "lat": 52.3486573,
+        "lng": -1.469636
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 330,
+      "title": "Listing 330",
+      "address": "Bredenbury Village Hall, Bredenbury, HR7 4TF, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-330/",
+      "coordinates": {
+        "lat": 52.2043137,
+        "lng": -2.5729566
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 331,
+      "title": "Listing 331",
+      "address": "Rose & Lion, New Road, Bromyard, HR7 4AJ, Herefordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-331/",
+      "coordinates": {
+        "lat": 52.1888323,
+        "lng": -2.5082028
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 332,
+      "title": "Listing 332",
+      "address": "Falcon Hotel, Broad Street, Bromyard, HR7 4BT, Herefordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-332/",
+      "coordinates": {
+        "lat": 52.1884841,
+        "lng": -2.5065834
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 333,
+      "title": "Listing 333",
+      "address": "Whitefriars, Gosford Street, Coventry, CV1 5DL, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-333/",
+      "coordinates": {
+        "lat": 52.4065229,
+        "lng": -1.5030347
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 334,
+      "title": "Listing 334",
+      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-334/",
+      "coordinates": {
+        "lat": 52.2935463,
+        "lng": -1.5256843
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 335,
+      "title": "Listing 335",
+      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-335/",
+      "coordinates": {
+        "lat": 52.2935463,
+        "lng": -1.5256843
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 336,
+      "title": "Listing 336",
+      "address": "The Boar's Head, Church St, Hampton Lucy, CV35 8BE, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-336/",
+      "coordinates": {
+        "lat": 52.2109449,
+        "lng": -1.6271688
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 337,
+      "title": "Listing 337",
+      "address": "Cooper's Tavern, 43 Cross Street, Burton-on-Trent, DE14 1EG, Staffordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-337/",
+      "coordinates": {
+        "lat": 52.8042961,
+        "lng": -1.6382053
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 338,
+      "title": "Listing 338",
+      "address": "The White Lion, Stratford Road, Tredington, CV36 4NS, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-338/",
+      "coordinates": {
+        "lat": 52.0905954,
+        "lng": -1.6267003
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 339,
+      "title": "Listing 339",
+      "address": "The Norman Knight, Whichford, near Shipston-on-Stour, CV36 5PE, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-339/",
+      "coordinates": {
+        "lat": 52.0099387,
+        "lng": -1.5409697
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 342,
+      "title": "Listing 342",
+      "address": "The Old Town Hall Vaults, St John's street, Whitchurch, SY13 1QU, Shropshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-342/",
+      "coordinates": {
+        "lat": 52.9694038,
+        "lng": -2.6832507
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 343,
+      "title": "Listing 343",
+      "address": "The Fountain, Westgate Street, Gloucester, GL1 2NW, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-343/",
+      "coordinates": {
+        "lat": 51.8660704,
+        "lng": -2.2479012
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 345,
+      "title": "Listing 345",
+      "address": "White Horse, Soudley, GL14 2UA, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-345/",
+      "coordinates": {
+        "lat": 51.7919337,
+        "lng": -2.4974174
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 346,
+      "title": "Listing 346",
+      "address": "The Harp Inn, Glasbury-on-Wye, Glasbury, HR3 5NR, Powys, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-346/",
+      "coordinates": {
+        "lat": 52.0463313,
+        "lng": -3.1945683
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 347,
+      "title": "Listing 347",
+      "address": "The White Horse, Walgrave Road, Old, Northampton, NN6 9QX, Northamptonshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-347/",
+      "coordinates": {
+        "lat": 52.3511025,
+        "lng": -0.8477784
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 348,
+      "title": "Listing 348",
+      "address": "The New Inn, Woodmancote, Dursley, GL11 4AJ, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-348/",
+      "coordinates": {
+        "lat": 51.67347,
+        "lng": -2.34873
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 350,
+      "title": "Listing 350",
+      "address": "Red Lion, Llanbedr, near Crickowel, NP8 1SR, Powys, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-350/",
+      "coordinates": {
+        "lat": 51.8760381,
+        "lng": -3.1060378
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 351,
+      "title": "Listing 351",
+      "address": "The Rose & Crown, The Green, Highworth, SN6 7DB, Wiltshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-351/",
+      "coordinates": {
+        "lat": 51.6286689,
+        "lng": -1.7122428
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 352,
+      "title": "Listing 352",
+      "address": "The Swan, Park Road, Faringdon, SN7 7BP, Oxfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-352/",
+      "coordinates": {
+        "lat": 51.6554621,
+        "lng": -1.5862325
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 353,
+      "title": "Listing 353",
+      "address": "The Barrel Inn, St Mary's Street, Thornbury, BS35 2AB, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-353/",
+      "coordinates": {
+        "lat": 51.6078544,
+        "lng": -2.5249037
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 354,
+      "title": "Listing 354",
+      "address": "Royal George, Pavenhill, Purton, SN5 4BZ, Wiltshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-354/",
+      "coordinates": {
+        "lat": 51.5869494,
+        "lng": -1.884155
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 355,
+      "title": "Listing 355",
+      "address": "The Bell, High Street, Swindon, SN1 3EP, Wiltshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-355/",
+      "coordinates": {
+        "lat": 51.5519147,
+        "lng": -1.7743042
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 356,
+      "title": "Listing 356",
+      "address": "The Beehive, Prospect Hill, Swindon, SN1 3JS, Wiltshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-356/",
+      "coordinates": {
+        "lat": 51.5560304,
+        "lng": -1.7804011
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 357,
+      "title": "Listing 357",
+      "address": "Prince of Wales, Alcester Road, Moseley, Birmingham, B13 8EE, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-357/",
+      "coordinates": {
+        "lat": 52.4489785,
+        "lng": -1.8877691
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 358,
+      "title": "Listing 358",
+      "address": "Kitchen Garden Cafe, York Road, Kings Heath, Birmingham, B14 7SA, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-358/",
+      "coordinates": {
+        "lat": 52.4341123,
+        "lng": -1.8937292
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 359,
+      "title": "Listing 359",
+      "address": "Bowling Green Inn, Shaw Lane, Stoke Prior, Bromsgrove, B60 4BH, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-359/",
+      "coordinates": {
+        "lat": 52.288466,
+        "lng": -2.0927483
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 362,
+      "title": "Listing 362",
+      "address": "The Talbot, Knightwick, WR6 5PH, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-362/",
+      "coordinates": {
+        "lat": 52.2020162,
+        "lng": -2.3919171
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 363,
+      "title": "Listing 363",
+      "address": "Fox Inn, Monkwood Green, Worcester, WR2 6NX, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-363/",
+      "coordinates": {
+        "lat": 52.24024,
+        "lng": -2.29455
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 364,
+      "title": "Listing 364",
+      "address": "The Hollybush, Henley Street, Alcester, B49 5QX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-364/",
+      "coordinates": {
+        "lat": 52.2161263,
+        "lng": -1.8685137
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 366,
+      "title": "Listing 366",
+      "address": "The Progressive Club, Halford Street, Tamworth, B79 7RD, Staffordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-366/",
+      "coordinates": {
+        "lat": 52.6349519,
+        "lng": -1.6996347
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 367,
+      "title": "Listing 367",
+      "address": "Cottage of Content, Barton, B50 4NP, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-367/",
+      "coordinates": {
+        "lat": 52.1590379,
+        "lng": -1.844781
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 368,
+      "title": "Listing 368",
+      "address": "The Three Horseshoes, Spring Hill, Bubbenhall, CV8 3BD, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-368/",
+      "coordinates": {
+        "lat": 52.3486573,
+        "lng": -1.469636
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 369,
+      "title": "Listing 369",
+      "address": "Bredenbury Village Hall, Bredenbury, HR7 4TF, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-369/",
+      "coordinates": {
+        "lat": 52.2043137,
+        "lng": -2.5729566
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 370,
+      "title": "Listing 370",
+      "address": "The Rose & Lion, New Road, Bromyard, HR7 4AJ, Herefordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-370/",
+      "coordinates": {
+        "lat": 52.188496,
+        "lng": -2.5089894
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 371,
+      "title": "Listing 371",
+      "address": "Falcon Hotel, Broad Street, Bromyard, HR7 4BT, Herefordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-371/",
+      "coordinates": {
+        "lat": 52.1884841,
+        "lng": -2.5065834
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 372,
+      "title": "Listing 372",
+      "address": "Whitefriars, Gosford Street, Coventry, CV1 5DL, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-372/",
+      "coordinates": {
+        "lat": 52.4065229,
+        "lng": -1.5030347
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 373,
+      "title": "Listing 373",
+      "address": "The Mary Arden Inn, Wilmcote, near Stratford-upon-Avon, CV37 9XJ, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-373/",
+      "coordinates": {
+        "lat": 52.22048,
+        "lng": -1.76207
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 374,
+      "title": "Listing 374",
+      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-374/",
+      "coordinates": {
+        "lat": 52.2935463,
+        "lng": -1.5256843
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 375,
+      "title": "Listing 375",
+      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-375/",
+      "coordinates": {
+        "lat": 52.2935463,
+        "lng": -1.5256843
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 376,
+      "title": "Listing 376",
+      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-376/",
+      "coordinates": {
+        "lat": 52.2935463,
+        "lng": -1.5256843
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 377,
+      "title": "Listing 377",
+      "address": "The Boar's Head, Church St, Hampton Lucy, CV35 8BE, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-377/",
+      "coordinates": {
+        "lat": 52.2109449,
+        "lng": -1.6271688
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 378,
+      "title": "Listing 378",
+      "address": "Cooper's Tavern, 43 Cross Street, Burton-on-Trent, DE14 1EG, Staffordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-378/",
+      "coordinates": {
+        "lat": 52.8042961,
+        "lng": -1.6382053
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 379,
+      "title": "Listing 379",
+      "address": "The White Lion, Stratford Road, Tredington, CV36 4NS, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-379/",
+      "coordinates": {
+        "lat": 52.0905954,
+        "lng": -1.6267003
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 380,
+      "title": "Listing 380",
+      "address": "The Norman Knight, Whichford, near Shipston-on-Stour, CV36 5PE, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-380/",
+      "coordinates": {
+        "lat": 52.0099387,
+        "lng": -1.5409697
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 381,
+      "title": "Listing 381",
+      "address": "Boat Inn, Ashleworth Quay, Ashleworth, GL19 4HZ, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-381/",
+      "coordinates": {
+        "lat": 51.9237179,
+        "lng": -2.2647974
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 383,
+      "title": "Listing 383",
+      "address": "The Old Town Hall Vaults, St John's street, Whitchurch, SY13 1QU, Shropshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-383/",
+      "coordinates": {
+        "lat": 52.9694038,
+        "lng": -2.6832507
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 384,
+      "title": "Listing 384",
+      "address": "The Fountain, Westgate Street, Gloucester, GL1 2NW, Gloucestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-384/",
+      "coordinates": {
+        "lat": 51.8660704,
+        "lng": -2.2479012
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 385,
+      "title": "Listing 385",
+      "address": "Hillsborough Hotel, Langsett Road, Sheffield, S6 2UB, South Yorkshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-385/",
+      "coordinates": {
+        "lat": 53.3946076,
+        "lng": -1.4885783
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 386,
+      "title": "Listing 386",
+      "address": "The Castle, High Street, Castle Bytham, NG33 4RZ, Lincolnshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-386/",
+      "coordinates": {
+        "lat": 52.7542038,
+        "lng": -0.5363865
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 387,
+      "title": "Listing 387",
+      "address": "Lion Tavern, 67 Moorfields, Liverpool, L2 2BP, Merseyside, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-387/",
+      "coordinates": {
+        "lat": 53.4089725,
+        "lng": -2.9903313
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 388,
+      "title": "Listing 388",
+      "address": "Hare & Hounds, 2 West Road, Haconby, Bourne, PE10 0UZ, Lincolnshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-388/",
+      "coordinates": {
+        "lat": 52.814764,
+        "lng": -0.3645383
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 389,
+      "title": "Listing 389",
+      "address": "The Mason Arms, 99 Carr Mill Rd, Billinge, Wigan, WN5 7TY, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-389/",
+      "coordinates": {
+        "lat": 53.4873348,
+        "lng": -2.71118
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 390,
+      "title": "Listing 390",
+      "address": "The Packet, Grove Street, Retford, DN22 6LJ, Nottinghamshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-390/",
+      "coordinates": {
+        "lat": 53.3213234,
+        "lng": -0.9364339
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 391,
+      "title": "Listing 391",
+      "address": "The Albion, 36 Dunstable Road, Ampthill, MK45 2JT, Bedfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-391/",
+      "coordinates": {
+        "lat": 52.0279247,
+        "lng": -0.4953789
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 392,
+      "title": "Listing 392",
+      "address": "The Crown, Platt Lane, Standish, Wigan, WN1 2XF, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-392/",
+      "coordinates": {
+        "lat": 53.59707,
+        "lng": -2.6414
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 393,
+      "title": "Listing 393",
+      "address": "Eaves Green Community Centre, Lower Burgh Way, Chorley, PR7 3QG, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-393/",
+      "coordinates": {
+        "lat": 53.6393071,
+        "lng": -2.6373243
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 394,
+      "title": "Listing 394",
+      "address": "Red Lion, Village Road, Coleshill, near Amersham, HP7 0LH, Buckinghamshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-394/",
+      "coordinates": {
+        "lat": 51.6467158,
+        "lng": -0.6309026
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 395,
+      "title": "Listing 395",
+      "address": "The Dog and Bone, John St, Lincoln, LN2 5BH, Lincolnshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-395/",
+      "coordinates": {
+        "lat": 53.2298199,
+        "lng": -0.52941
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 396,
+      "title": "Listing 396",
+      "address": "Fox and Goose, 9 Heptonstall road, Hebden Bridge, HX7 6AZ, West Yorkshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-396/",
+      "coordinates": {
+        "lat": 53.7420588,
+        "lng": -2.0213915
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 397,
+      "title": "Listing 397",
+      "address": "Fox and Goose, 9 Heptonstall Road, Hebden Bridge, HX7 6AZ, West Yorkshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-397/",
+      "coordinates": {
+        "lat": 53.7420588,
+        "lng": -2.0213915
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 398,
+      "title": "Listing 398",
+      "address": "The Marquis of Granby, High St, Waddingham, DN21 4SW, Lincolnshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-398/",
+      "coordinates": {
+        "lat": 53.4529466,
+        "lng": -0.521992
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 399,
+      "title": "Listing 399",
+      "address": "The Guest House, 14 Union St, Southport, PR9 0QF, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-399/",
+      "coordinates": {
+        "lat": 53.6502662,
+        "lng": -2.9994575
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 400,
+      "title": "Listing 400",
+      "address": "Guest House, 16 Union Street, Southport, PR9 0QE, Merseyside, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-400/",
+      "coordinates": {
+        "lat": 53.6505021,
+        "lng": -2.9993435
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 401,
+      "title": "Listing 401",
+      "address": "Ty Tawe, Christina Street, Swansea, SA1 4EW, Swansea, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-401/",
+      "coordinates": {
+        "lat": 51.6204544,
+        "lng": -3.9497413
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 402,
+      "title": "Listing 402",
+      "address": "Royal Welsh Yacht Club, Porth-Yr-Aur, Caernarfon, LL55 1SN, Gwynedd, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-402/",
+      "coordinates": {
+        "lat": 53.14062,
+        "lng": -4.27818
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 403,
+      "title": "Listing 403",
+      "address": "Bridgwater Arts Centre, 11-13 Castle St, Bridgwater, TA6 3DD, Somerset, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-403/",
+      "coordinates": {
+        "lat": 51.1294509,
+        "lng": -3.0023124
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 404,
+      "title": "Listing 404",
+      "address": "Hop & Hog, High Street, Downham Market, PE38, Norfolk, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-404/",
+      "coordinates": {
+        "lat": 52.5841885,
+        "lng": 0.2969527
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 405,
+      "title": "Listing 405",
+      "address": "Strawberry Gardens, Poulton Road, Fleetwood, FY7 6TF, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-405/",
+      "coordinates": {
+        "lat": 53.9214309,
+        "lng": -3.0191897
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 406,
+      "title": "Listing 406",
+      "address": "The Nags Head, Orford Road, Walthamstow, E17 9LP, Greater London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-406/",
+      "coordinates": {
+        "lat": 51.584143,
+        "lng": -0.0112179
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 407,
+      "title": "Listing 407",
+      "address": "The George Inn, 77 Borough High Street, SE1 1NH, London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-407/",
+      "coordinates": {
+        "lat": 51.5041612,
+        "lng": -0.0899318
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 409,
+      "title": "Listing 409",
+      "address": "Four Horse Shoes, Nursling Street, Nursling, Southampton, SO16 0YA, Hampshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-409/",
+      "coordinates": {
+        "lat": 50.9446948,
+        "lng": -1.474467
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 410,
+      "title": "Listing 410",
+      "address": "Bent Brief, Lodge Rd, Southampton, SO14 6RP, Hampshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-410/",
+      "coordinates": {
+        "lat": 50.9196666,
+        "lng": -1.3965335
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 411,
+      "title": "Listing 411",
+      "address": "The Bugle, 10 High Street, Botley, Southampton, SO30 2EA, Hampshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-411/",
+      "coordinates": {
+        "lat": 50.9145067,
+        "lng": -1.2718941
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 412,
+      "title": "Listing 412",
+      "address": "Lord Hood, 300 Creek Road, Greenwich, SE10 9SW, Greater London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-412/",
+      "coordinates": {
+        "lat": 51.4813708,
+        "lng": -0.0110542
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 414,
+      "title": "Listing 414",
+      "address": "Chalk and Cheese, 53 Dorchester Road, Maiden Newton, DT2 0BD, Dorset, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-414/",
+      "coordinates": {
+        "lat": 50.7772876,
+        "lng": -2.5722473
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 415,
+      "title": "Listing 415",
+      "address": "Hawkshead Brewery, Mill Yard, Staveley, LA8 9LR, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-415/",
+      "coordinates": {
+        "lat": 54.3771205,
+        "lng": -2.8145996
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 416,
+      "title": "Listing 416",
+      "address": "Kings Head, 6 Old Market Street, Mendlesham, IP14 5SA, Suffolk, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-416/",
+      "coordinates": {
+        "lat": 52.2508728,
+        "lng": 1.0819493
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 417,
+      "title": "Listing 417",
+      "address": "Good Intent, John Street, Rochester, ME1 1YL, Kent, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-417/",
+      "coordinates": {
+        "lat": 51.3823,
+        "lng": 0.50412
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 418,
+      "title": "Listing 418",
+      "address": "Royal Exchange, 86 New Street, Great Torrington, EX38 8BT, Devon, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-418/",
+      "coordinates": {
+        "lat": 50.9525,
+        "lng": -4.14792
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 419,
+      "title": "Listing 419",
+      "address": "Gun & Spitroast, The Heath, Horsmonden, TN12 8HT, Kent, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-419/",
+      "coordinates": {
+        "lat": 51.138656,
+        "lng": 0.4289423
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 420,
+      "title": "Listing 420",
+      "address": "Bell & Jorrocks, Biddenden Road, Frittenden, TN17 2EJ, Kent, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-420/",
+      "coordinates": {
+        "lat": 51.1414608,
+        "lng": 0.5938032
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 421,
+      "title": "Listing 421",
+      "address": "North Star Inn, Clarence Road, St. Leonards-On-Sea, TN37 6SD, East Sussex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-421/",
+      "coordinates": {
+        "lat": 50.8633695,
+        "lng": 0.5600409
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 422,
+      "title": "Listing 422",
+      "address": "The Stag, 14 All Saints Street, Hastings, TN34 3BJ, East Sussex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-422/",
+      "coordinates": {
+        "lat": 50.8587911,
+        "lng": 0.595264
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 423,
+      "title": "Listing 423",
+      "address": "The Lord Ashley, 269 Stanhope Road, South Shields, NE33 4SS, Tyne and Wear, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-423/",
+      "coordinates": {
+        "lat": 54.97759,
+        "lng": -1.43438
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 424,
+      "title": "Listing 424",
+      "address": "Tap and Spile, Manchester Street, Morpeth, NE61 1BH, Northumberland, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-424/",
+      "coordinates": {
+        "lat": 55.1695289,
+        "lng": -1.690148
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 425,
+      "title": "Listing 425",
+      "address": "The House of McDonnell, Castle Street, Ballycastle, BT54 6AS, Antrim, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-425/",
+      "coordinates": {
+        "lat": 55.2003934,
+        "lng": -6.2522791
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 426,
+      "title": "Listing 426",
+      "address": "Bushmills Inn, Main Street, Bushmills, BT57 8QG, Antrim, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-426/",
+      "coordinates": {
+        "lat": 53.4626401,
+        "lng": -2.2372955
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 427,
+      "title": "Listing 427",
+      "address": "Springhill Bar, Causeway Street, Portrush, BT56 8AB, Antrim, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-427/",
+      "coordinates": {
+        "lat": 55.2048594,
+        "lng": -6.6506645
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 528,
+      "title": "Listing 528",
+      "address": "The George and Dragon, High Street, Berkhamsted, HP4 3QL, Hertfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-528/",
+      "coordinates": {
+        "lat": 51.7692912,
+        "lng": -0.5899675
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 53,
+      "title": "Listing 53",
+      "address": "Bull Hotel, Stony Stratford, Buckinghamshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-53/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 563,
+      "title": "Listing 563",
+      "address": "Old Farm Inn, Totternhoe, LU6 1RE, Bedfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-563/",
+      "coordinates": {
+        "lat": 51.8798454,
+        "lng": -0.5637419
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 573,
+      "title": "Listing 573",
+      "address": "New Inn, Shrawley, Worcestershire, WR6 6TE, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-573/",
+      "coordinates": {
+        "lat": 52.2943838,
+        "lng": -2.2955894
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 62,
+      "title": "Listing 62",
+      "address": "The White Lion, Sopwell Lane, St. Albans, AL1 1RN, Hertfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/listing-62/",
+      "coordinates": {
+        "lat": 51.7481029,
+        "lng": -0.3372811
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 640,
+      "title": "Live @ The Globe",
+      "address": "The Globe, Calthwaite nr Penrith, CA11 9QT, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/live-@-the-globe/",
+      "coordinates": {
+        "lat": 54.7536179,
+        "lng": -2.8278729
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 249,
+      "title": "Llangollen International Musical Eisteddfod",
+      "address": "Various, Llangollen, Denbighshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/llangollen-international-musical-eisteddfod/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 601,
+      "title": "Loughton Folk Club",
+      "address": "Loughton Club, 8 Station Road, Loughton, IG10 4NX, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/loughton-folk-club/",
+      "coordinates": {
+        "lat": 51.6449012,
+        "lng": 0.054345
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 308,
+      "title": "Lowender Peran Festival",
+      "address": "Ponsmere Hotel, Perranporth, Cornwall, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/lowender-peran-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 174,
+      "title": "Ludlow Irish Set Dance Weekend",
+      "address": "The Assembly Rooms, 1 Mill Street, Ludlow, SY8, Shropshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/ludlow-irish-set-dance-weekend/",
+      "coordinates": {
+        "lat": 52.3675756,
+        "lng": -2.7201218
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 106,
+      "title": "Lymington Folk Club",
+      "address": "The Thomas Tripp, Lymington, SO41 9GF, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/lymington-folk-club/",
+      "coordinates": {
+        "lat": 50.7572409,
+        "lng": -1.5498466
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 99,
+      "title": "Lymm Folk Club",
+      "address": "Spread Eagle, 47 Eagle Brow, Lymm, WA13 0AG, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/lymm-folk-club/",
+      "coordinates": {
+        "lat": 53.3807371,
+        "lng": -2.4799759
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 245,
+      "title": "Lymm Folk Festival",
+      "address": "Various, Lymm, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/lymm-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 494,
+      "title": "Ma-Kellys",
+      "address": "Ma-Kellys, Church Street, Ballymoney, BT53 6HS, Antrim, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/ma-kellys/",
+      "coordinates": {
+        "lat": 53.4626401,
+        "lng": -2.2372955
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 48,
+      "title": "Maidenhead Folk Club",
+      "address": "Seven Stars Pub, Knowl Hill, RG10 9UR, Berkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/maidenhead-folk-club/",
+      "coordinates": {
+        "lat": 51.5083298,
+        "lng": -0.815723
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 577,
+      "title": "Malthouse Ceilidhs",
+      "address": "Upton Memorial Hall, Old Street, Upton Upon Severn, WR8 0HA, Worcestershire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/malthouse-ceilidhs/",
+      "coordinates": {
+        "lat": 52.06289,
+        "lng": -2.21802
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 173,
+      "title": "Malton and Norton Folk Festival",
+      "address": "Various, Malton & Norton, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/malton-and-norton-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 93,
+      "title": "Manchester Ceilidh",
+      "address": "Jabez Clegg, 2 Portsmouth Street, Manchester, M13 9GB, Greater Manchester, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/manchester-ceilidh/",
+      "coordinates": {
+        "lat": 53.4650004,
+        "lng": -2.2309693
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 170,
+      "title": "Manchester Irish Festival",
+      "address": "Various, M14 7DW, Greater Manchester, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/manchester-irish-festival/",
+      "coordinates": {
+        "lat": 53.4436466,
+        "lng": -2.2281735
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 141,
+      "title": "Mansfield Folk Club",
+      "address": "The Black Bull, Woodhouse Road, Mansfield, NG18 2BQ, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/mansfield-folk-club/",
+      "coordinates": {
+        "lat": 53.1545223,
+        "lng": -1.1932206
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 73,
+      "title": "Mayflower Folk Club",
+      "address": "The Portland Arms, 129 Chesterton Road, Cambridge, CB4 3BA, Cambridgeshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/mayflower-folk-club/",
+      "coordinates": {
+        "lat": 52.2144515,
+        "lng": 0.124653
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 75,
+      "title": "Meet in the Hedge",
+      "address": "Feathes Inn, Town Green, Wymondham, NR18 0PN, Norfolk, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/meet-in-the-hedge/",
+      "coordinates": {
+        "lat": 52.572997,
+        "lng": 1.1093988
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 171,
+      "title": "Mellor Brook Fiddle Day",
+      "address": "Various, Lancashire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/mellor-brook-fiddle-day/",
+      "coordinates": {
+        "lat": 53.6276385,
+        "lng": -2.9640594
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 176,
+      "title": "Melodeons and More",
+      "address": "Museum of East Anglian Life, Crowe Street, IP14 1DL, Suffolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/melodeons-and-more/",
+      "coordinates": {
+        "lat": 52.1862717,
+        "lng": 0.9919841
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 294,
+      "title": "Mendip Autumn Folk Festival",
+      "address": "Various, Priddy, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/mendip-autumn-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 586,
+      "title": "Mid-Week Music @ The Mermaid",
+      "address": "The Mermaid Pub, 98 Hatfield Road, St Albans, AL1 3RL, Hertfordshire, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/mid-week-music-@-the-mermaid/",
+      "coordinates": {
+        "lat": 51.7536315,
+        "lng": -0.3323992
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 247,
+      "title": "Middlesbrough Folk Festival",
+      "address": "Various, Middlesbrough, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/middlesbrough-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 223,
+      "title": "Middlewich Folk & Boat Festival",
+      "address": "Various, Middlewich, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/middlewich-folk-&-boat-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 97,
+      "title": "Midway Folk Club",
+      "address": "263 Newbridge Lane, Stockport, Cheshire, SK1 2NX, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/midway-folk-club/",
+      "coordinates": {
+        "lat": 53.4128918,
+        "lng": -2.1476341
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 107,
+      "title": "Milford Folk Club",
+      "address": "Willage Community Centre, Sea Road, Milford on Sea, SO41 0PH, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/milford-folk-club/",
+      "coordinates": {
+        "lat": 50.7236865,
+        "lng": -1.5885455
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 40,
+      "title": "Milverton Music Club",
+      "address": "Victoria Rooms, Fore St, Milverton, TA4 1JU, Somerset, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/milverton-music-club/",
+      "coordinates": {
+        "lat": 51.0243317,
+        "lng": -3.2524783
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 284,
+      "title": "Moira Furnace Folk Festival",
+      "address": "Moira Furnace Museum (and others), Furnace Lane, Moira, Swadlincote, DE12 6AT, Derbyshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/moira-furnace-folk-festival/",
+      "coordinates": {
+        "lat": 52.7338153,
+        "lng": -1.5359258
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 443,
+      "title": "Mondegreen Folk",
+      "address": "Auld Shillelagh, Church Street, Stoke Newington, N16, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/mondegreen-folk/",
+      "coordinates": {
+        "lat": 50.7965763,
+        "lng": -0.9828569
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 639,
+      "title": "MooJam!",
+      "address": "Moo Bar, 52 King St, Penrith, CA11 7AY, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/moojam!/",
+      "coordinates": {
+        "lat": 54.6632553,
+        "lng": -2.751298
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 524,
+      "title": "Moonbeams Wold Top Folk Festival",
+      "address": "The Wold Top Brewery, Hunmanby Grange, Driffield, YO25 3HS, East Riding, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/moonbeams-wold-top-folk-festival-/",
+      "coordinates": {
+        "lat": 54.15875,
+        "lng": -0.3521599
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 525,
+      "title": "Moonbeams",
+      "address": "The Bell Hotel, Market Place, Driffield, East Yorkshire, Yo25 6AN, East Riding, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/moonbeams/",
+      "coordinates": {
+        "lat": 54.0058993,
+        "lng": -0.4398572
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 124,
+      "title": "Moore or Less Folk Club",
+      "address": "Oast House Community Centre, Granary Close, Rainham, ME8 7SG, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/moore-or-less-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 283,
+      "title": "Morland Folk Dance Week",
+      "address": "Newby End Farm, Newby, Penrith, CA10 3EX, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/morland-folk-dance-week/",
+      "coordinates": {
+        "lat": 54.5850407,
+        "lng": -2.6291102
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 210,
+      "title": "Morland Scottish Country Dancing Week",
+      "address": "Newby End Farm, Newby, Penrith, CA10 3EX, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/morland-scottish-country-dancing-week/",
+      "coordinates": {
+        "lat": 54.5850407,
+        "lng": -2.6291102
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 185,
+      "title": "Morpeth Northumbrian Gathering",
+      "address": "Westgate House, Morpeth, NE61 1RE, Northumberland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/morpeth-northumbrian-gathering/",
+      "coordinates": {
+        "lat": 55.1711457,
+        "lng": -1.6960733
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 293,
+      "title": "Moseley Folk Festival",
+      "address": "Various, Moseley, Birmingham, West Midlands, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/moseley-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 199,
+      "title": "Moulton Village Festival & Morris Ring Meeting",
+      "address": "Various, Manor Road, Moulton, NN3 7QU, Northamptonshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/moulton-village-festival-&-morris-ring-meeting/",
+      "coordinates": {
+        "lat": 52.28627,
+        "lng": -0.85556
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 495,
+      "title": "Mrs Yarringtons Music Club",
+      "address": "Crowhurst Park, Telham Lane, Battle, TN33 0SL, East Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/mrs-yarringtons-music-club/",
+      "coordinates": {
+        "lat": 50.894307,
+        "lng": 0.5213418
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 547,
+      "title": "Mull of Kintyre Music Festival",
+      "address": "Victoria Hall, Kinloch Road, Campbeltown, PA28 6AZ, Argyll and Bute, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/mull-of-kintyre-music-festival/",
+      "coordinates": {
+        "lat": 55.4250395,
+        "lng": -5.6044288
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 561,
+      "title": "Music on the Marr",
+      "address": "Various locations, Castle Carrock, Brampton, CA8 9LU, Cumbria, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/music-on-the-marr/",
+      "coordinates": {
+        "lat": 54.8916698,
+        "lng": -2.7138594
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 593,
+      "title": "Musical Traditions Club",
+      "address": "The King and Queen, 1 Foley Street, London, W1W 6DL, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/musical-traditions-club/",
+      "coordinates": {
+        "lat": 51.5202388,
+        "lng": -0.1386233
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 39,
+      "title": "Nailsea Folk Club",
+      "address": "Ring O' Bells Pub/Tithe Barn, Nailsea, North Somerset, Somerset, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/nailsea-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 248,
+      "title": "National Forest Folk Festival",
+      "address": "Various, Moira, Leicestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/national-forest-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 24,
+      "title": "Nelson Unplugged",
+      "address": "The Nelson Tavern, 75 Mudeford, Christchurch, Dorset, BH23 3NJ, Dorset, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/nelson-unplugged/",
+      "coordinates": {
+        "lat": 50.7279427,
+        "lng": -1.7482886
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 56,
+      "title": "Nettlebed Folk Song Club",
+      "address": "The Village Club, High Street, Nettlebed, near Henley on Thames, Oxfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/nettlebed-folk-song-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 512,
+      "title": "Newport Folk Club",
+      "address": "Newport Fugitives Athletic Club, High Cross Road, Newport, NP10 9AD, Newport, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/newport-folk-club/",
+      "coordinates": {
+        "lat": 51.5878409,
+        "lng": -3.03891
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 585,
+      "title": "Nights of folk music, drinking and shouting",
+      "address": "The Grosvenor, 17 Sidney Road, Stockwell, London, SW9 0TP, London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/nights-of-folk-music,-drinking-and-shouting/",
+      "coordinates": {
+        "lat": 51.4699105,
+        "lng": -0.1172631
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 497,
+      "title": "Northumbrian Session",
+      "address": "Tap & Spile, Manchester Street, Morpeth, NE61 1BH, Northumberland, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/northumbrian-session/",
+      "coordinates": {
+        "lat": 55.169633,
+        "lng": -1.6902329
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 76,
+      "title": "Norwich Folk Club",
+      "address": "Christ Church Centre, Magdalen Road, NR3 4LA, Norfolk, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/norwich-folk-club/",
+      "coordinates": {
+        "lat": 52.64329,
+        "lng": 1.29733
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 604,
+      "title": "Notting Hill Mayfest",
+      "address": "St John's Church, Lansdowne Crescent, Notting Hill, W11 2NN, London, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/notting-hill-mayfest/",
+      "coordinates": {
+        "lat": 51.51072,
+        "lng": -0.20665
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 595,
+      "title": "OBE Folk Club",
+      "address": "Bridge End Inn, West Road, Ovingham, Prudhoe, NE42 6BN, Northumberland, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/obe-folk-club/",
+      "coordinates": {
+        "lat": 54.96715,
+        "lng": -1.87052
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 540,
+      "title": "Old Oak 'Live!' Mini-concert series",
+      "address": "The Old Oak Inn, 176 Main Street, Horley Woodhouse, DE7 6AW, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/old-oak-'live!'-mini-concert-series/",
+      "coordinates": {
+        "lat": 53.0008707,
+        "lng": -1.4176408
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 37,
+      "title": "Open Door Acoustic Club",
+      "address": "Waldegrave Arms, East Harptree, Somerset, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/open-door-acoustic-club-/",
+      "coordinates": {
+        "lat": 51.3010196,
+        "lng": -2.6236622
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 122,
+      "title": "Orpington Folk Club",
+      "address": "The Change of Horses, Farborough Village, Orpington, BR6 7BB, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/orpington-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 123,
+      "title": "Orpington Friday Folk",
+      "address": "Orpington Liberal Hall, 7 Station Road, Orpington, BR6 ORZ, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/orpington-friday-folk/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 299,
+      "title": "Otley Black Sheep Folk Festival",
+      "address": "Various, Otley, LS21 1XP, West Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/otley-black-sheep-folk-festival/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 571,
+      "title": "Oxfolk Ceilidhs",
+      "address": "Kennington Village Hall, Kennington Road, Kennington, OX1 5PG, Oxfordshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/oxfolk-ceilidhs/",
+      "coordinates": {
+        "lat": 51.7183081,
+        "lng": -1.244466
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 54,
+      "title": "Oxford Folk Club",
+      "address": "Folly Bridge Inn, 38 Abingdon Road, Oxford, OX1 4PD, Oxfordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/oxford-folk-club/",
+      "coordinates": {
+        "lat": 51.743758,
+        "lng": -1.2561719
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 179,
+      "title": "Oxford Folk Festival",
+      "address": "Various, Oxford, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/oxford-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 596,
+      "title": "Panther Folk Club",
+      "address": "Wickham Arms, Cleckheaton, West Yorkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/panther-folk-club/",
+      "coordinates": {
+        "lat": 53.7233273,
+        "lng": -1.7110646
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 100,
+      "title": "Parkgate Folk Club",
+      "address": "The Boathouse, 1 The Parade, Parkgate, CH64 6RN, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/parkgate-folk-club/",
+      "coordinates": {
+        "lat": 53.3000766,
+        "lng": -3.0877294
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 493,
+      "title": "Phil's Session",
+      "address": "Holly Bush Inn, 37 Henley Street, Alcester, B49 5QX, Warwickshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/phil's-session/",
+      "coordinates": {
+        "lat": 52.2161263,
+        "lng": -1.8685137
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 598,
+      "title": "POOLE Folk On The Quay",
+      "address": "Poole Quay, Poole, BH15 1DH, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/poole-folk-on-the-quay/",
+      "coordinates": {
+        "lat": 50.71616,
+        "lng": -1.98389
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 502,
+      "title": "Porthcawl Interceltic Festival",
+      "address": "Grand Pavilion, The Esplanade, Porthcawl, CF36 3YW, Bridgend, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/porthcawl-interceltic-festival/",
+      "coordinates": {
+        "lat": 51.4765649,
+        "lng": -3.7068734
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 618,
+      "title": "Poynton Ceilidhs",
+      "address": "Poynton Community Centre, 107 Park Lane, Poynton, SK12 1RB, Cheshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/poynton-ceilidhs/",
+      "coordinates": {
+        "lat": 53.3489824,
+        "lng": -2.1161436
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 253,
+      "title": "Priddy Folk Festival",
+      "address": "Various, Priddy, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/priddy-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 570,
+      "title": "Priston Festival",
+      "address": "Village Green, Priston, Bath, BA2 9EE, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/priston-festival/",
+      "coordinates": {
+        "lat": 51.3428769,
+        "lng": -2.4405766
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 287,
+      "title": "Purbeck Folk Festival",
+      "address": "Wilkswood Farm, Langton Matravers, BH19 3DU, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/purbeck-folk-festival/",
+      "coordinates": {
+        "lat": 50.6155424,
+        "lng": -2.0075024
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 558,
+      "title": "Radical Liverpool",
+      "address": "Studio 2, Parr Street, Liverpool, L1 4JN, Merseyside, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/radical-liverpool/",
+      "coordinates": {
+        "lat": 53.4016517,
+        "lng": -2.9792891
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 36,
+      "title": "Rag Morris and Folk Club",
+      "address": "University of Bristol Union, Queen's Road, Clifton, Bristol, bs8 1ln, Bristol, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/rag-morris-and-folk-club/",
+      "coordinates": {
+        "lat": 51.4567782,
+        "lng": -2.6130968
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 191,
+      "title": "Raunds Music Festival",
+      "address": "May, Various, Raunds, 0, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/raunds-music-festival/",
+      "coordinates": {
+        "lat": 52.3467094,
+        "lng": -0.5265435
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 574,
+      "title": "Ravenstonedale Folk Dance Club",
+      "address": "Newbiggin on Lune V.H., Newbiggin on Lune, Kirkby Stephen, CA17 4NS, Cumbria, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/ravenstonedale-folk-dance-club/",
+      "coordinates": {
+        "lat": 54.4403626,
+        "lng": -2.4535964
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 51,
+      "title": "Readifolk",
+      "address": "Reading International Solidarity Centre, 35 London Street, Reading, RG1 4PS, Berkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/readifolk/",
+      "coordinates": {
+        "lat": 51.452501,
+        "lng": -0.9678949
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 522,
+      "title": "Rebetiko jam session",
+      "address": "The Horseshoe, 24 Clerkenwell Close, London, EC1I 0AG, London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/rebetiko-jam-session/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 544,
+      "title": "Rebetiko Odyssey Jam night",
+      "address": "The Horseshoe Pub, Clerkenwell Close, London, EC1R 0AG, London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/rebetiko-odyssey-jam-night/",
+      "coordinates": {
+        "lat": 51.5239,
+        "lng": -0.10672
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 20,
+      "title": "Red Lion Folk Club",
+      "address": "The Red Lion, Vicarage Road, Kings Heath, Birmingham, B14 7LY, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/red-lion-folk-club/",
+      "coordinates": {
+        "lat": 52.4289092,
+        "lng": -1.9018909
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 500,
+      "title": "Rifleman's Pub session",
+      "address": "The Rifleman's Arms, Greenside, Kendal, LA9 4LD, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/rifleman's-pub-session/",
+      "coordinates": {
+        "lat": 54.3252923,
+        "lng": -2.7535601
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 501,
+      "title": "Ring O'bells Pub songs/tunes",
+      "address": "Ring O'bells pub, Kirkland, 39 Kendal, LA9 5AF, Cumbria, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/ring-o'bells-pub-songs-tunes/",
+      "coordinates": {
+        "lat": 54.3225963,
+        "lng": -2.7456836
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 29,
+      "title": "Ringwood Folk Club",
+      "address": "Elm Tree Inn, Hightown, Ringwood, BH24 3DY, Hampshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/ringwood-folk-club/",
+      "coordinates": {
+        "lat": 50.8431799,
+        "lng": -1.76583
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 41,
+      "title": "Ritz Acoustic Club",
+      "address": "The Ritz Social Club, Victoria Street, Burnham-On-Sea, TA8 1AL, Somerset, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/ritz-acoustic-club/",
+      "coordinates": {
+        "lat": 51.2387092,
+        "lng": -2.9978896
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 134,
+      "title": "Robin Hood Folk Club",
+      "address": "The Stumble Inn, 37 Tamworth Road, Long Eaton, NG10 1JF, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/robin-hood-folk-club/",
+      "coordinates": {
+        "lat": 52.8963363,
+        "lng": -1.2719907
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 189,
+      "title": "Rochester Sweeps Festival",
+      "address": "Medway Visitor Centre, 95 High Street, Rochester, ME1 1LX, Kent, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/rochester-sweeps-festival/",
+      "coordinates": {
+        "lat": 51.3891424,
+        "lng": 0.5044936
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 482,
+      "title": "Rolling Hills Folk Club",
+      "address": "George and Abbotsford Hotel, High Street, Melrose, TD6 9PD, Scottish Borders, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/rolling-hills-folk-club/",
+      "coordinates": {
+        "lat": 55.5977914,
+        "lng": -2.7206187
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 115,
+      "title": "Romford Folk Club",
+      "address": "The Sun, 47 London Road, Romford, RM7 9QA, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/romford-folk-club/",
+      "coordinates": {
+        "lat": 51.5752368,
+        "lng": 0.1758793
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 301,
+      "title": "Roots North",
+      "address": "Various, Cropton, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/roots-north/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 81,
+      "title": "Roots of England Folk Heritage Club",
+      "address": "Lowick Community Hall, Lowick, L12 8EE, Cumbria, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/roots-of-england-folk-heritage-club/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 261,
+      "title": "Rothbury Traditional Music Festival",
+      "address": "Various, Rothbury, Northumberland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/rothbury-traditional-music-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 266,
+      "title": "Rutland Morris Ring Meeting",
+      "address": "Various, Uppingham, Rutland, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/rutland-morris-ring-meeting/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 91,
+      "title": "Sale Folk Club",
+      "address": "United Services Club, Southern Road, Sale, M33 6HQ, Greater Manchester, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/sale-folk-club/",
+      "coordinates": {
+        "lat": 53.4303779,
+        "lng": -2.3265094
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 282,
+      "title": "Saltburn International Festival of Folk Music",
+      "address": "Various, Saltburn by the Sea, TS12 1PN, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/saltburn-international-festival-of-folk-music/",
+      "coordinates": {
+        "lat": 54.5818032,
+        "lng": -0.9930622
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 312,
+      "title": "Sark Folk Festival",
+      "address": "Various, Sark, Channel Islands, Hampshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/sark-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 195,
+      "title": "Scandimoot Scandinavian Music & Dance",
+      "address": "Various, Heswall, Wirral, CH60 2SP, Merseyside, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/scandimoot-scandinavian-music-&-dance/",
+      "coordinates": {
+        "lat": 53.3293324,
+        "lng": -3.0822411
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 631,
+      "title": "Scots Fiddle Festival-Fiddle 2013",
+      "address": "Queen's Hall, 85-89 Clerk St, Edinburgh, EH8 9JG, Midlothian, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/scots-fiddle-festival-fiddle-2013/",
+      "coordinates": {
+        "lat": 55.9415111,
+        "lng": -3.1817523
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 575,
+      "title": "Scots Fiddle Festival",
+      "address": "Queen's Hall and King's Hall, 85 - 89 Clerk Street, Edinburgh, EH8 9JG, Edinburgh, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/scots-fiddle-festival/",
+      "coordinates": {
+        "lat": 55.9415111,
+        "lng": -3.1817523
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 264,
+      "title": "Seafest",
+      "address": "Various, Scarborough, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/seafest/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 58,
+      "title": "Seend Acoustic Club",
+      "address": "Seend Community Centre, Rusty Lane, Seend, near Melksham, SN12 6NS, Wiltshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/seend-acoustic-club/",
+      "coordinates": {
+        "lat": 51.34945,
+        "lng": -2.0829
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 31,
+      "title": "Shammick Acoustic",
+      "address": "The Pack O' Cards, High Street, Combe Martin, Devon, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/shammick-acoustic/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 537,
+      "title": "Shanty UK",
+      "address": "National Waterways Museum,, South Pier Road, Ellesmere Port, CH65 4FW, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/shanty-uk/",
+      "coordinates": {
+        "lat": 53.28921,
+        "lng": -2.89262
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 451,
+      "title": "Sharp's Folk CLub",
+      "address": "Cecil Sharp House, 2 Regents Park Road, London, NW1 7AY, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/sharp's-folk-club/",
+      "coordinates": {
+        "lat": 51.5381466,
+        "lng": -0.1493219
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 198,
+      "title": "Shepley Spring Festival",
+      "address": "Various, Shepley, HD8 8WR, West Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/shepley-spring-festival/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 289,
+      "title": "Shrewsbury Folk Festival",
+      "address": "West Midlands Showground, Berwick Road, Shrewsbury, SY1 2PF, Shropshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/shrewsbury-folk-festival/",
+      "coordinates": {
+        "lat": 52.7162929,
+        "lng": -2.7625735
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 276,
+      "title": "Sidmouth FolkWeek",
+      "address": "Various, Sidmouth, Devon, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/sidmouth-folkweek/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 602,
+      "title": "Southdowns Folk Festival",
+      "address": "Hotham Park / Regis Centre, Belmont Street, Bognor Regis, PO21 1LY, West Sussex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/southdowns-folk-festival/",
+      "coordinates": {
+        "lat": 50.78302,
+        "lng": -0.6731
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 131,
+      "title": "Spalding Folk Club",
+      "address": "The South Holland Centre, Market Place, Spalding, PE11 1SS, Lincolnshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/spalding-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 244,
+      "title": "St Albans Folk at the Festival",
+      "address": "Various, St Albans, Hertfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/st-albans-folk-at-the-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 182,
+      "title": "St George's Day",
+      "address": "The Old Post Office, Commondale, YO21 2HG, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/st-george's-day/",
+      "coordinates": {
+        "lat": 54.4856118,
+        "lng": -0.9781938
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 499,
+      "title": "St Mary's Arts Trust",
+      "address": "St Mary's, Church Yard, Ashford, TN23 1QG, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/st-mary's-arts-trust/",
+      "coordinates": {
+        "lat": 51.1486429,
+        "lng": 0.8728097
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 74,
+      "title": "St Neots Folk Club",
+      "address": "The Priory Centre, St Neots, PE19 2BH, Cambridgeshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/st-neots-folk-club/",
+      "coordinates": {
+        "lat": 52.2285853,
+        "lng": -0.2709935
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 217,
+      "title": "St Neots Folk Festival",
+      "address": "Various, St Neots, Cambridgeshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/st-neots-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 529,
+      "title": "Steamboat Folk Weekend",
+      "address": "Steamboat Tavern, New Cut West, Ipswich, IP2 8HW, Suffolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/steamboat-folk-weekend/",
+      "coordinates": {
+        "lat": 52.0490579,
+        "lng": 1.1589812
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 480,
+      "title": "Stirling Folk Club",
+      "address": "Stirling County RFC, Bridgehaugh Park, Stirling, FK9 5AP, Stirling, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/stirling-folk-club/",
+      "coordinates": {
+        "lat": 56.1289634,
+        "lng": -3.9341691
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 549,
+      "title": "Suckley Session",
+      "address": "Cross Keys, Suckley Knoll, Suckley, Worcester, WR6 5DJ, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/suckley-session/",
+      "coordinates": {
+        "lat": 52.176,
+        "lng": -2.41757
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 213,
+      "title": "Suffolk Folk Festival",
+      "address": "Currently looking for a new venue!, Suffolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/suffolk-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 262,
+      "title": "Summertyne Americana Festival",
+      "address": "Various, Gateshead, Durham, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/summertyne-americana-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 26,
+      "title": "Sunray Folk Club",
+      "address": "Broadmayne Village Hall, Broadmayne, DT2 8EW, Dorset, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/sunray-folk-club/",
+      "coordinates": {
+        "lat": 50.6768596,
+        "lng": -2.3832175
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 564,
+      "title": "Surrey Mini Bluegrass Festival",
+      "address": "Mickleham Village Hall, Dell Close, Mickleham Dorking, RH5 6EE, Surrey, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/surrey-mini-bluegrass-festival/",
+      "coordinates": {
+        "lat": 51.26885,
+        "lng": -0.3225199
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 45,
+      "title": "Sutton Acoustic Music Club",
+      "address": "Sutton Cricket Club, Gander Green Lane, Sutton, SM1 2EH, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/sutton-acoustic-music-club/",
+      "coordinates": {
+        "lat": 51.3613329,
+        "lng": -0.2056045
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 298,
+      "title": "Swanage Folk Festival",
+      "address": "Various, Swanage, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/swanage-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 297,
+      "title": "Sweet Sunny South",
+      "address": "Various, Hastings, East Sussex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/sweet-sunny-south/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 59,
+      "title": "Swindon Folksingers' Club",
+      "address": "Milton Road Club, Milton Road, SN1 5JA, Wiltshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/swindon-folksingers'-club/",
+      "coordinates": {
+        "lat": 51.5599633,
+        "lng": -1.7897568
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 94,
+      "title": "Swinton Folk Club",
+      "address": "The White Lion, 242 Manchester Road, Swinton, M27 4TS, Greater Manchester, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/swinton-folk-club/",
+      "coordinates": {
+        "lat": 53.50763,
+        "lng": -2.33089
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 344,
+      "title": "Syston Session",
+      "address": "The Queen Victoria, High Street, Syston, LE7 1GQ, Leicestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/syston-session/",
+      "coordinates": {
+        "lat": 52.7004135,
+        "lng": -1.0774377
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 557,
+      "title": "Tales and Ales",
+      "address": "Lamp Tavern, 157 Barford Street, Birmingham, B5 6AH, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/tales-and-ales/",
+      "coordinates": {
+        "lat": 52.471404,
+        "lng": -1.8916509
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 33,
+      "title": "Teignmouth Folk Club",
+      "address": "The Devon Arms Hotel, Northumberland Place, Teignmouth, Devon, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/teignmouth-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 498,
+      "title": "Tenterden Folk Club",
+      "address": "William Caxton, West Cross, Tenterden, TN30 6JR, Kent, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/tenterden-folk-club/",
+      "coordinates": {
+        "lat": 51.0664499,
+        "lng": 0.6814663
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 302,
+      "title": "Tenterden Folk Festival",
+      "address": "Various, Tenterden, Kent, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/tenterden-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 42,
+      "title": "The Acorn Folk Club",
+      "address": "The Old Ship Aground, Quay Street, Minehead, TA24 5UL, Somerset, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-acorn-folk-club/",
+      "coordinates": {
+        "lat": 51.2137484,
+        "lng": -3.4751479
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 80,
+      "title": "The Acoustic Tearoom",
+      "address": "The Masonic Hall, North Road, Kirkby Stephen, Cumbria, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-acoustic-tearoom/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 291,
+      "title": "The Big Green Cardigan",
+      "address": "Sussex Countryside, Hawkhurst Road, Cripps Corner, TN32 5SA, East Sussex, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/the-big-green-cardigan/",
+      "coordinates": {
+        "lat": 50.9553327,
+        "lng": 0.5268707
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 95,
+      "title": "The Bothy Folk Song Club",
+      "address": "The Park Golf Club, Park Road West, Southport, PR9 0JS, Merseyside, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-bothy-folk-song-club/",
+      "coordinates": {
+        "lat": 53.65674,
+        "lng": -2.9936
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 628,
+      "title": "The Bull Session",
+      "address": "The Bull Inn, 2 High St, Ditchling, BN6 8TA, East Sussex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/the-bull-session/",
+      "coordinates": {
+        "lat": 50.9216443,
+        "lng": -0.1145195
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 85,
+      "title": "The Clarence Folk Club",
+      "address": "The Clarence, Preston New Road, Blackpool, Lancashire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-clarence-folk-club/",
+      "coordinates": {
+        "lat": 53.8041299,
+        "lng": -3.0194327
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 519,
+      "title": "The English Session",
+      "address": "Lord Hood, 300 Creek Road, Greenwich, SE10 9SW, London, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/the-english-session/",
+      "coordinates": {
+        "lat": 51.4813708,
+        "lng": -0.0110542
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 71,
+      "title": "The Finedon Sessions",
+      "address": "Finedon Community Centre, Wellingborough Road, Finedon, NN9 5LG, Northamptonshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-finedon-sessions/",
+      "coordinates": {
+        "lat": 52.337523,
+        "lng": -0.6533934
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 216,
+      "title": "The Gate to Southwell Folk Festival",
+      "address": "Various, Southwell, Newark, NG24 9DZ, Nottinghamshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/the-gate-to-southwell-folk-festival/",
+      "coordinates": {
+        "lat": 51.5029954,
+        "lng": -0.0014602
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 72,
+      "title": "The Golden Hind",
+      "address": "Cambridge Folk Club, 355 Milton Road, Cambridge, CB4 1SP, Cambridgeshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-golden-hind/",
+      "coordinates": {
+        "lat": 52.2281227,
+        "lng": 0.14593
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 449,
+      "title": "The Goose Is Out",
+      "address": "Various, Goose Green, SE22, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-goose-is-out/",
+      "coordinates": {
+        "lat": 51.449774,
+        "lng": -0.0749748
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 69,
+      "title": "The Great kNight Folk Club",
+      "address": "The Old White Hart Inn, Far Cotton, Northampton, NN4 8BS, Northamptonshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-great-knight-folk-club/",
+      "coordinates": {
+        "lat": 52.23011,
+        "lng": -0.8967175
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 187,
+      "title": "The Hardraw Gathering",
+      "address": "Various, Hawes, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/the-hardraw-gathering/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 483,
+      "title": "The Hope Music Fest",
+      "address": "The Hope, 48 West Street, Carshalton, SM5 2PR, Surrey, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/the-hope-music-fest/",
+      "coordinates": {
+        "lat": 51.367689,
+        "lng": -0.1674672
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 112,
+      "title": "The Hoy at Anchor Folk Club",
+      "address": "The Ship Hotel, New Road, Leigh on Sea, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-hoy-at-anchor-folk-club-/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 484,
+      "title": "The Kalamazoo Klub",
+      "address": "Downstairs at The King's Head, 2 Crouch End Hill, London, N8 8AA, London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-kalamazoo-klub/",
+      "coordinates": {
+        "lat": 51.577944,
+        "lng": -0.1246012
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 432,
+      "title": "The Lift Global Music Club",
+      "address": "Various, Glossop, Derbyshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-lift-global-music-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 118,
+      "title": "The Mersea Session",
+      "address": "The Coast Inn, West Mersea, CO5 8NA, Essex, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/the-mersea-session/",
+      "coordinates": {
+        "lat": 51.7782465,
+        "lng": 0.8997773
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 79,
+      "title": "The Milkmaid Folk Club",
+      "address": "Constitutional Club, 2 Guildhall Street, Bury St Edmunds, IP33 1PR, Suffolk, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-milkmaid-folk-club/",
+      "coordinates": {
+        "lat": 52.2440022,
+        "lng": 0.7119961
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 569,
+      "title": "The New Cleveland folk club",
+      "address": "The Cleveland Hotel-upstairs, Crumpsall Lane Crumpsall, Manchester, M8 5SR, Greater Manchester, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-new-cleveland-folk-club/",
+      "coordinates": {
+        "lat": 53.5175989,
+        "lng": -2.2371488
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 136,
+      "title": "The Poppy Folk Club",
+      "address": "The Poppy and Pint, Pierrepont Road, Lady Bay, West Bridgford, NG2 5DX, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-poppy-folk-club/",
+      "coordinates": {
+        "lat": 52.9367801,
+        "lng": -1.1189953
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 44,
+      "title": "The Ram Folk Club",
+      "address": "Old Cranleighan Sports Club, Portsmouth Road, Thames Ditton, Surrey, KT7 0HB, Surrey, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-ram-folk-club/",
+      "coordinates": {
+        "lat": 51.3823084,
+        "lng": -0.3414322
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 104,
+      "title": "The Raven Folk Club",
+      "address": "The Bear & Billet, Lower Bridge Street, Chester, Cheshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-raven-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 474,
+      "title": "The Shoreham Sessions",
+      "address": "Various, Shoreham-by-Sea, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-shoreham-sessions/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 140,
+      "title": "The Spinning Jenny Folk Club",
+      "address": "The Tiger Inn, Long Eaton, Nottingham, Nottinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-spinning-jenny-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 629,
+      "title": "The Topic Folk Club",
+      "address": "The Bradford Irish Club, Rebecca Street, Bradford, BD1 2RXp, West Yorkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-topic-folk-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 61,
+      "title": "The Village Pump",
+      "address": "The Lamb Inn, Trowbridge, Wiltshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-village-pump/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 518,
+      "title": "The White Horse Inn Open Mic",
+      "address": "The White Horse Inn, The Square, Clun, SY7 8JA, Shropshire, United Kingdom",
+      "event_type": "open-mic",
+      "permalink": "/listings/the-white-horse-inn-open-mic/",
+      "coordinates": {
+        "lat": 52.4213911,
+        "lng": -3.0303838
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 478,
+      "title": "The Willows Folk Club",
+      "address": "Arundel Football Club, Mill Road, Arundel, BN18 9PA, West Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-willows-folk-club/",
+      "coordinates": {
+        "lat": 50.8547326,
+        "lng": -0.5502123
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 27,
+      "title": "The Wimborne Sessions",
+      "address": "Wimborne British Legion, Church Lane, Blandford Forum, DT11 7AD, Dorset, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/the-wimborne-sessions/",
+      "coordinates": {
+        "lat": 50.8561849,
+        "lng": -2.1638014
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 18,
+      "title": "The Woodman Folk Club",
+      "address": "Ashwood Marina, Ashwood Lower Lane, Kingswinford, DY6 0AQ, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/the-woodman-folk-club/",
+      "coordinates": {
+        "lat": 52.4933022,
+        "lng": -2.2005264
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 556,
+      "title": "Three horse shoes folk club",
+      "address": "Three Horseshoes pub, 68 High street, Chapmanslade, Westbury, BA13 4AN, Wiltshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/three-horse-shoes-folk-club/",
+      "coordinates": {
+        "lat": 51.2293573,
+        "lng": -2.2514267
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 35,
+      "title": "Topsham Folk Club",
+      "address": "Globe Hotel, Fore Street, Topsham, Devon, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/topsham-folk-club/",
+      "coordinates": {
+        "lat": 50.6821096,
+        "lng": -3.4650969
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 21,
+      "title": "Tower of Song",
+      "address": "Tower of Song, 107 Pershore Road South, Cotteridge, Birmingham, B30 3JX, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/tower-of-song/",
+      "coordinates": {
+        "lat": 52.4122646,
+        "lng": -1.9313732
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 286,
+      "title": "Towersey Village Festival",
+      "address": "Various, Towersey, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/towersey-village-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 508,
+      "title": "Trad Irish Session Grand Junction Arms",
+      "address": "Grand Junction Arms, Bulbourne Road, Bulbourne, Tring, HP23 5QE, Hertfordshire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/trad-irish-session-grand-junction-arms-/",
+      "coordinates": {
+        "lat": 51.8136455,
+        "lng": -0.6485691
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 295,
+      "title": "Traditional Music Day",
+      "address": "Museum of East Anglian Life, Crowe Street, Stowmarket, IP14 1DL, Suffolk, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/traditional-music-day/",
+      "coordinates": {
+        "lat": 52.1862717,
+        "lng": 0.9919841
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 319,
+      "title": "Traditional Song Session",
+      "address": "Kitchen Garden Cafe, York Road, Kings Heath, Birmingham, B14 7SA, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/traditional-song-session/",
+      "coordinates": {
+        "lat": 52.4341123,
+        "lng": -1.8937292
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 514,
+      "title": "Travelers Rest Folk Club",
+      "address": "The Crown, 10 High Street, Otford, TN14 5PQ, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/travelers-rest-folk-club/",
+      "coordinates": {
+        "lat": 51.3129954,
+        "lng": 0.1902785
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 541,
+      "title": "Tredegar House Folk Festival",
+      "address": "Tredegar House and Country Park, Newport, NP20 8YW, Newport, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/tredegar-house-folk-festival/",
+      "coordinates": {
+        "lat": 53.4626401,
+        "lng": -2.2372955
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 263,
+      "title": "Trowbridge Village Pump Festival",
+      "address": "Various, Trowbridge, Wiltshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/trowbridge-village-pump-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 52,
+      "title": "Tudor Folk",
+      "address": "The White Hill Centre, White Hill, Chesham, HP5 1AG, Buckinghamshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/tudor-folk/",
+      "coordinates": {
+        "lat": 51.70633,
+        "lng": -0.60969
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 300,
+      "title": "UK Sacred Harp Convention",
+      "address": "various, Stannington, Sheffield, ukshapenote.org.uk, South Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/uk-sacred-harp-convention/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 516,
+      "title": "Unicorn Ceilidhs",
+      "address": "Hitchin Town Hall, Brand Street, Hitchin, SG5 1HX, Hertfordshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/unicorn-ceilidhs/",
+      "coordinates": {
+        "lat": 51.949522,
+        "lng": -0.2794468
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 447,
+      "title": "Unity Folk Club",
+      "address": "Torriano Meeting Rooms, 99 Torriano Avenue, London, NW5 2RX, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/unity-folk-club/",
+      "coordinates": {
+        "lat": 51.5515303,
+        "lng": -0.1331984
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 184,
+      "title": "Upton Folk Festival",
+      "address": "Various, Severn Stoke, WR8 9JR, Worcestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/upton-folk-festival/",
+      "coordinates": {
+        "lat": 52.09153,
+        "lng": -2.19046
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 19,
+      "title": "Urban Fox",
+      "address": "The Yardbird, Near Town Hall, Birmingham, West Midlands, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/urban-fox/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 292,
+      "title": "Wallingford Bunkfest",
+      "address": "Wallingford, bunkfest.co.uk, Oxfordshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wallingford-bunkfest/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 113,
+      "title": "Waltham Abbey Folk Club",
+      "address": "Royal British Legion, Brooker Road, Waltham Abbey, EN9 1HY, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/waltham-abbey-folk-club/",
+      "coordinates": {
+        "lat": 51.68382,
+        "lng": -0.00232
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 442,
+      "title": "Walthamstow Folk Club",
+      "address": "Ye Olde Rose and Crown Theatre Pub, 53 Hoe Street, Walthamstow, E17 4SA, Greater London, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/walthamstow-folk-club/",
+      "coordinates": {
+        "lat": 51.5871319,
+        "lng": -0.0202753
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 63,
+      "title": "Wandering Windward St. Albans Folk Song Club",
+      "address": "The Rose & Crown, Fishpool Street, St Albans, Herefordshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wandering-windward-st.-albans-folk-song-club/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 270,
+      "title": "Warwick Folk Festival",
+      "address": "Various, Warwick, Warwickshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/warwick-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 472,
+      "title": "Wath Folk Club",
+      "address": "Red Lion, 10 High Street, Wath upon Dearne, S63 7QG, South Yorkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wath-folk-club/",
+      "coordinates": {
+        "lat": 53.5023877,
+        "lng": -1.3440568
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 77,
+      "title": "Waveney Folk Club",
+      "address": "Crown Street Hall, Crown Street, Lowestoft, NR32 1SG, Suffolk, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/waveney-folk-club/",
+      "coordinates": {
+        "lat": 52.48316,
+        "lng": 1.75293
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 28,
+      "title": "Wessex Acoustic Folk Club",
+      "address": "British Legion, Church Lane,, Blandford Forum, DT11 7AD, Dorset, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wessex-acoustic-folk-club/",
+      "coordinates": {
+        "lat": 50.8561849,
+        "lng": -2.1638014
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 215,
+      "title": "Wessex Folk Festival",
+      "address": "Various, Festival Office, 32 Greenways, Portland, Weymouth, DT5 2LE, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wessex-folk-festival/",
+      "coordinates": {
+        "lat": 50.54235,
+        "lng": -2.4416699
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 257,
+      "title": "West Somerset Folk Festival",
+      "address": "Carhampton Recreation Ground, Main Road, Carhampton, Somerset, Somerset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/west-somerset-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 285,
+      "title": "Whitby Folk Week",
+      "address": "Various, Whitby, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/whitby-folk-week/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 204,
+      "title": "Whitby Spring Session",
+      "address": "Whitby Rugby Football Club, White Leys Road, Whitby, YO21 3PB, North Yorkshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/whitby-spring-session/",
+      "coordinates": {
+        "lat": 54.4878257,
+        "lng": -0.6324249
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 57,
+      "title": "White Horse Ceilidh",
+      "address": "Grove Village Hall, Grove, near Wantage, OX12 7JY, Oxfordshire, United Kingdom",
+      "event_type": "dance",
+      "permalink": "/listings/white-horse-ceilidh/",
+      "coordinates": {
+        "lat": 51.6089976,
+        "lng": -1.4220808
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 471,
+      "title": "White Horse Folk Club",
+      "address": "The White Horse Inn, Bodle Street Green, Near Herstmonceux, BN27 4RE, East Sussex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/white-horse-folk-club/",
+      "coordinates": {
+        "lat": 50.90688,
+        "lng": 0.34604
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 314,
+      "title": "White Horse Folk Festival",
+      "address": "Various &#40;office at Rugby Club&#41;, Wantage, OX12 0AA, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/white-horse-folk-festival/",
+      "coordinates": {
+        "lat": 51.6034651,
+        "lng": -1.4239521
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 126,
+      "title": "Whitstable Folk Nights",
+      "address": "The Royal Native Oyster Stores, Horsebridge Road, Whitstable, CT5 1BU, Kent, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/whitstable-folk-nights/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 181,
+      "title": "Wickham Easter Folk Festival",
+      "address": "Various, Wickham, Hampshire, PO12 3JD, Hampshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wickham-easter-folk-festival/",
+      "coordinates": {
+        "lat": 50.80196,
+        "lng": -1.14607
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 277,
+      "title": "Wickham Folk Festival",
+      "address": "Various, Wickham, Hampshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wickham-folk-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 272,
+      "title": "Wickham Summer Festival",
+      "address": "Various, Wickham, Hampshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wickham-summer-festival/",
+      "coordinates": null,
+      "geocoded": false,
+      "status": "listed"
+    },
+    {
+      "id": 506,
+      "title": "Wigan Day of Folk'n'Verse",
+      "address": "Orwell, Wigan Pier, 4 Wallgate, Wigan, WN3 4EU, Lancashire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wigan-day-of-folk'n'verse/",
+      "coordinates": {
+        "lat": 53.54234,
+        "lng": -2.63864
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": "wigan-folk-club",
+      "title": "Wigan Folk Club",
+      "address": "Various, Wigan, WN1, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wigan-folk-club/",
+      "coordinates": {
+        "lat": 53.5566645,
+        "lng": -2.6341982
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 220,
+      "title": "Wimborne Folk Festival",
+      "address": "Various, Wimborne, BH21 1HR, Dorset, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wimborne-folk-festival/",
+      "coordinates": {
+        "lat": 50.7996454,
+        "lng": -1.9875736
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 535,
+      "title": "Wirral Folk on the Coast Festival",
+      "address": "Whitby Sports & Social Centre, Chester Road, Ellesmere Port, CH65 6QF, Cheshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wirral-folk-on-the-coast-festival/",
+      "coordinates": {
+        "lat": 53.2624722,
+        "lng": -2.9096293
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 120,
+      "title": "Wivenhoe Folk Club",
+      "address": "The Greyhound, High Street, Wivenhoe, Essex, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wivenhoe-folk-club/",
+      "coordinates": {
+        "lat": 51.8564804,
+        "lng": 0.9594966
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 50,
+      "title": "Wokingham Folk & Acoustic Blues Club",
+      "address": "The Hope and Anchor, Station Road, Wokingham, RG40 2AD, Berkshire, United Kingdom",
+      "event_type": "folk-club",
+      "permalink": "/listings/wokingham-folk-&-acoustic-blues-club/",
+      "coordinates": {
+        "lat": 51.4115851,
+        "lng": -0.8412915
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 268,
+      "title": "WOMAD",
+      "address": "Charlton Park, Malmesbury, Wiltshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/womad/",
+      "coordinates": {
+        "lat": 51.6014274,
+        "lng": -2.0699571
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 588,
+      "title": "Worcester City Session",
+      "address": "The Farriers Arms, Fish Street, Worcester, WR1 2HN, Worcestershire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/worcester-city-session/",
+      "coordinates": {
+        "lat": 52.1902185,
+        "lng": -2.220838
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "id": 212,
+      "title": "Wychwood Music Festival",
+      "address": "Cheltenham Racecourse, GL50 4SH, Gloucestershire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/wychwood-music-festival/",
+      "coordinates": {
+        "lat": 51.9207921,
+        "lng": -2.062871
+      },
+      "geocoded": true,
+      "status": "listed"
+    }
+  ]
+}

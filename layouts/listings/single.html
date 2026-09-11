@@ -1,0 +1,71 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{- .Title -}}</h1>
+    {{- if .Params.venue }}
+    <div class="post-description">
+        <strong>Venue:</strong> {{ .Params.venue }}
+        {{- if .Params.place }}, {{ .Params.place }}{{- end }}
+        {{- if .Params.post_code }}, {{ .Params.post_code }}{{- end }}
+    </div>
+    {{- end }}
+    {{- if .Params.when }}
+    <div class="post-meta">
+        <strong>When:</strong> {{ .Params.when }}
+    </div>
+    {{- end }}
+    {{- with index (.Params.event_types | default slice) 0 }}
+    <div class="post-meta">
+        <strong>Type:</strong> {{ . }}
+        {{- with $.Params.county }} · {{ . }}{{- end }}
+        {{- with $.Params.last_seen }} · last seen {{ substr (printf "%s" .) 0 4 }}{{- end }}
+    </div>
+    {{- end }}
+</header>
+
+<article class="post-single">
+    <div class="post-content">
+        {{- if .Params.venue }}
+        <div class="venue-info">
+            <h3>Venue Information</h3>
+            <p><strong>Venue:</strong> {{ .Params.venue }}</p>
+            {{- if .Params.address }}<p><strong>Address:</strong> {{ .Params.address }}</p>{{- end }}
+            {{- if .Params.place }}<p><strong>Place:</strong> {{ .Params.place }}</p>{{- end }}
+            {{- if .Params.post_code }}<p><strong>Post Code:</strong> {{ .Params.post_code }}</p>{{- end }}
+            {{- if .Params.county }}<p><strong>County:</strong> {{ .Params.county }}</p>{{- end }}
+        </div>
+        {{- end }}
+
+        {{- if .Params.when }}
+        <div class="when-info">
+            <h3>When</h3>
+            <p>{{ .Params.when }}</p>
+        </div>
+        {{- end }}
+
+        {{- if .Params.www }}
+        <div class="contact-info">
+            <h3>Website</h3>
+            {{- $www := .Params.www -}}
+            {{- if or (hasPrefix $www "http://") (hasPrefix $www "https://") -}}
+            <p><a href="{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            {{- else -}}
+            <p><a href="https://{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            {{- end -}}
+        </div>
+        {{- end }}
+
+        <div class="event-description">
+            {{ .Content }}
+        </div>
+
+        <footer class="listing-footer" style="margin-top:2rem;padding-top:1rem;border-top:1px solid var(--border, #ddd);">
+            {{- $id := .Params.id | default .File.BaseFileName -}}
+            <p>
+                <a href="mailto:glen.w.wright@gmail.com?subject=Folk%20Directory%20listing%20{{ $id }}">Suggest an update</a>
+            </p>
+        </footer>
+    </div>
+</article>
+
+{{- end }}{{/* end main */}}

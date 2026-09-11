@@ -1,0 +1,32 @@
+---
+title: Lincoln Folk Club
+id: 129
+name: Lincoln Folk Club
+event_types:
+- folk-club
+locations:
+- lincolnshire
+county: Lincolnshire
+venue: The Unison Club
+address: Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL
+place: ''
+post_code: ''
+when: Alternate Fridays
+www: angelfire.com/folk/lincolnfolkclub
+status: listed
+last_seen: '2018-01-29'
+sources:
+- name: folkdirectory-legacy
+  url: ''
+  first_seen: '2018-01-29'
+  last_seen: '2018-01-29'
+---
+
+Beaumont Manor is adjacent to City Hall Car Park and the Lounge Bar is on the ground floor with access via rear doorway,
+
+A selection of hot meals and snacks are available at the fully licensed bar.
+
+The Club is 'all acoustic'. A raffle is held at half-time!
+
+Performers pay £1-00
+Non-performers pay £2-00

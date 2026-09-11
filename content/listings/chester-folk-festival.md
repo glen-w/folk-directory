@@ -1,0 +1,26 @@
+---
+title: Chester Folk Festival
+id: 206
+name: Chester Folk Festival
+event_types:
+- festival
+locations:
+- cheshire
+county: Cheshire
+venue: Various
+address: Kelsall
+place: Cheshire
+post_code: CW6 0RS
+when: May / June
+www: chesterfolk.org.uk
+status: listed
+last_seen: '2018-01-29'
+sources:
+- name: folkdirectory-legacy
+  url: ''
+  first_seen: '2018-01-29'
+  last_seen: '2018-01-29'
+edited: 23/01/2012
+---
+
+A full bank holiday weekend of music, song and dance. Events for all the family.

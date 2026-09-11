@@ -1,0 +1,93 @@
+baseURL = 'https://folkdirectory.co.uk/'
+languageCode = 'en-gb'
+title = 'Folk Directory'
+theme = 'PaperMod'
+
+[params]
+  description = "A directory of folk music events across the UK — folk clubs, sessions, festivals and more."
+  keywords = ["folk music", "folk clubs", "folk festivals", "sessions", "UK folk", "traditional music"]
+  author = "Folk Directory"
+
+  defaultTheme = "auto"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:glen.w.wright@gmail.com"
+
+  [params.homeInfoParams]
+    Title = "Welcome to the Folk Directory"
+    Content = "A directory of folk music events across the UK: folk clubs, sessions, singarounds, dances and folk festivals."
+
+  [params.profileMode]
+    enabled = true
+    title = "Folk Directory"
+    subtitle = "Your guide to folk music events across the UK"
+    imageUrl = "/images/logo/folk-directory-logo.gif"
+    imageTitle = "Folk Directory Logo"
+    buttons = [
+      {name = "Browse Events", url = "/listings/"},
+      {name = "Map", url = "/map/"},
+      {name = "Search", url = "/search/"},
+      {name = "About", url = "/about/"},
+      {name = "Contact", url = "/contact/"}
+    ]
+
+  [params.fuseOpts]
+    iscasesensitive = false
+    includescore = false
+    includematches = false
+    minmatchcharlength = 2
+    shouldsort = true
+    findallmatches = false
+    keys = ["title", "permalink", "summary", "content", "tags", "categories", "locations", "event_types", "venue", "place", "address", "post_code", "when", "county"]
+    location = 0
+    threshold = 0.3
+    distance = 100
+    ignorelocation = true
+    limit = 20
+
+[menu]
+  [[menu.main]]
+    identifier = "listings"
+    name = "Events"
+    url = "/listings/"
+    weight = 10
+  [[menu.main]]
+    identifier = "map"
+    name = "Map"
+    url = "/map/"
+    weight = 12
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 15
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 30
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  location = "locations"
+  event_type = "event_types"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,8 @@
+---
+title: "Search"
+layout: "search"
+outputs:
+    - html
+    - json
+placeholder: "Search events, venues, locations..."
+--- 
