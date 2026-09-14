@@ -19,8 +19,8 @@ edited: 21/08/2012
 logo: /images/listings/blazin_in_beauly_logo_576.png
 ---
 
-Community Project of the Year 2011/Event of the Year 2005  (MG Alba Scots Trad Music Awards)
+Community Project of the Year 2011 / Event of the Year 2005 (MG Alba Scots Trad Music Awards)
 
-Come and join the Blazin' Fiddles (Bruce MacGregor, Allan Henderson, Iain MacFarlane, Jenna Reid, Anna Massie and Angus Lyon) and friends Adam Sutherland, Gillian Frame, Rick Taylor and Christe Hanson (tbc) amongst others.
+The event features the Blazin' Fiddles (Bruce MacGregor, Allan Henderson, Iain MacFarlane, Jenna Reid, Anna Massie and Angus Lyon) alongside Adam Sutherland, Gillian Frame, Rick Taylor and Christine Hanson (TBC), amongst others.
 
-Book your place online. Note: Core classes are Fiddle (4 levels) and Guitar (mixed ability). For those interested in Cello with Christine Hanson contact us directly for more information.
+Places can be booked online. Core classes are Fiddle (4 levels) and Guitar (mixed ability). For those interested in Cello with Christine Hanson, contact the organisers directly for more information.

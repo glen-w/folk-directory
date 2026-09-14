@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Cadgwith Folk Club Cadgwith Folk Club runs from the Cove Inn in Cadgwith, Cornwall, every Tuesday from 9pm.
+Cadgwith Folk Club runs from the Cove Inn in Cadgwith, Cornwall, every Tuesday from 9pm.

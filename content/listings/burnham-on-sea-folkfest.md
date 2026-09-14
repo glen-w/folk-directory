@@ -18,8 +18,4 @@ status: defunct
 edited: 23/01/2012
 ---
 
-Apart from evening concerts, this is a free Acoustic Festival, which operates in Seven venues and an Open Air Concert.
-
-Seven years and going strong - the chance to see over seventy live acoustic acts for free.
-
-Full details on the website.
+Free acoustic festival operating across seven venues and an open-air concert, with evening concerts held separately. Now in its seventh year, the festival features over seventy live acoustic acts. Full details are available on the website.

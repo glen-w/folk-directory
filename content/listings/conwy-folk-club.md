@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/conwy_folk_club_logo_789.png
 ---
 
-Conwy Folk Club at Conwy Comrades Social Club (8 Church Street) — Monday, Every Week
+Conwy Folk Club meets at the Conwy Comrades Social Club, 8 Church Street, every Monday.

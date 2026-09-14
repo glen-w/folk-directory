@@ -16,4 +16,4 @@ www: www.bluebellroots.co.uk
 status: listed
 ---
 
-Bluebell Roots - Music in the Kitchen at Bluebell Farmhouse Kitchen (East Sussex) — Sunday, Last in month
+Bluebell Roots – Music in the Kitchen, at Bluebell Farmhouse Kitchen, East Sussex. Last Sunday of the month.

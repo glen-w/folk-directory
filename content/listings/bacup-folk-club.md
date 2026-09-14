@@ -17,4 +17,4 @@ www: www.bacupfolkclub.co.uk
 status: listed
 ---
 
-Bacup Folk Club at Rosemount wmc (Bacup) — Monday, Every Week
+Bacup Folk Club meets at Rosemount WMC, Bacup, every Monday.

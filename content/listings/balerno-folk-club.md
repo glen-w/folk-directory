@@ -16,4 +16,4 @@ www: www.balernofolkclub.org.uk
 status: listed
 ---
 
-Balerno Folk Club at Balerno Bowling Club (Midlothian) — Tuesday, Last in Month
+Balerno Folk Club meets at Balerno Bowling Club, Midlothian, on the last Tuesday of the month.

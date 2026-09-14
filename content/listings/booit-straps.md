@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Booit Straps at Commercial Hotel (South Yorkshire) — Monday, Every Week
+Booit Straps takes place at the Commercial Hotel, South Yorkshire, every Monday.

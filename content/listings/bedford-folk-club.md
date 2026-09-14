@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Bedford Folk Club at Kempston Hammers sports club (Bedford) — Thursday, Every Week
+Bedford Folk Club meets at Kempston Hammers Sports Club, Bedford, every Thursday.

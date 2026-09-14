@@ -16,4 +16,4 @@ www: www.crailfolkclub.org.uk
 status: listed
 ---
 
-Crail Folk Club , Crail, Fife Meets alternate Thursdays at the Golf Hotel, Crail
+Crail Folk Club meets alternate Thursdays at the Golf Hotel, Crail, Fife.

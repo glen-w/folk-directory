@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/black_diamond_folk_club_logo_23.png
 ---
 
-September 2010 saw us start our 47th continuous season as a centre of folk music in Birmingham. During the 46 years that we have been running, we have been in 17 different venues and had numerous club names. We have booked in the region of 1121 guests, and had around 77,000 audience members attend the club (but not all on one night).
+September 2010 saw the club begin its 47th continuous season as a centre of folk music in Birmingham. Over the 46 years of its running, the club has been in 17 different venues and had numerous club names. It has booked in the region of 1121 guests, and around 77,000 audience members have attended the club (but not all on one night).

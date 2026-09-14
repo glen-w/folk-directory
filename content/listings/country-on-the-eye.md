@@ -16,4 +16,4 @@ www: countryontheeye.co.uk
 status: listed
 ---
 
-For the first time! A festival of country, folk, acoustic, bluegrass and roots music. The additional Songwriters Series is on Friday the 12th, the main music event is on Saturday the 13th.
+A festival of country, folk, acoustic, bluegrass and roots music, held for the first time. The additional Songwriters Series is on Friday the 12th, and the main music event is on Saturday the 13th.

@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/bridgwater_arts_centre_logo_2968.png
 ---
 
-Bridgwater Arts Centre , Bridgwater, Somerset
+Bridgwater Arts Centre, Bridgwater, Somerset

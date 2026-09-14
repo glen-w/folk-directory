@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Barnsley Celtic Sessions at The Old No7 (Market Hill. Barnsley) — Sunday, 2nd in Month
+Barnsley Celtic Sessions at The Old No. 7, Market Hill, Barnsley — Sunday, second in the month.

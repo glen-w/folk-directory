@@ -16,4 +16,4 @@ www: www.ents24.com/web/venue/4420/Aberdeen/Cafe+Drummond.html
 status: listed
 ---
 
-Cafe Drummond , Aberdeen Regular acoustic gigs at this Aberdeen venue
+Cafe Drummond is an Aberdeen venue that hosts regular acoustic gigs.

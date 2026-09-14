@@ -17,6 +17,8 @@ email: john.carson11@btinternet.com
 status: listed
 ---
 
-Traditional and contemporary folk and blues club. Presents well-known folk and blues performers on the 4th Thursday of each month. Additionally on the 2nd Thursday of each month the opportunity is given for local performers and visitors to perform. Occasionally up and coming performers are given a 45 minute showcase case spot on the singers night
-Members and non-members welcome
-Membership: £5 per year, Members £5 Non-members £7 on guest nights. Singers/Showcase nights £3 for all. Under 18's free.
+Traditional and contemporary folk and blues club. Well-known folk and blues performers are presented on the 4th Thursday of each month. On the 2nd Thursday of each month, local performers and visitors are given the opportunity to perform. Occasionally, up-and-coming performers are given a 45-minute showcase slot on the singers' night.
+
+Members and non-members welcome.
+
+Membership: £5 per year. Members £5, non-members £7 on guest nights. Singers'/showcase nights: £3 for all. Under-18s free.

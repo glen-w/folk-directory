@@ -16,4 +16,4 @@ www: www.laverocks.org.uk
 status: listed
 ---
 
-Brampton Folk Sessions at Howard Arms Hotel (Cumbria) — Tuesday, 3rd in Month
+Brampton Folk Sessions at Howard Arms Hotel, Cumbria — Tuesday, 3rd in month.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Brunny Folk at Cafe@ the Allendale (Wimborne) — Monday, 2nd in Month
+Brunny Folk at Cafe@ the Allendale (Wimborne) — Monday, 2nd in month

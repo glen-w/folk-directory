@@ -18,22 +18,20 @@ status: listed
 edited: 25/01/2012
 ---
 
-Welcome to Bradninch Acoustic Music Club which is held on the second\
+The Bradninch Acoustic Music Club meets on the second Wednesday of each month at St Disens Hall in Bradninch.
 
-Welcome to Bradninch Acoustic Music Club which is held on the second Wednesday of each month at St Disens Hall in Bradninch.
-
-The acoustic club first started in April 2009 by Colin Wilson and Jerry Cahill to provide a platform for young and new up and coming artists to hone their performance skills in a concert style atmosphere and to try out new songs and instrumentals, as well as having a fun musical night out.
+The club was founded in April 2009 by Colin Wilson and Jerry Cahill to provide a platform for young and up-and-coming artists to hone their performance skills in a concert-style atmosphere and to try out new songs and instrumentals, as well as to enjoy a musical night out.
 
 WHAT TYPE OF MUSIC
 
-The club welcomes all genres of music so long as it can be performed acoustically although we have made the odd exception for instruments with low sound projection. Both Colin and Jerry are guitar teachers and Colin also does guitar workshops, vocal and performance skills, so there is always plenty of help and support for those who have never got up in front of an audience before.
+The club welcomes all genres of music so long as it can be performed acoustically, although the odd exception has been made for instruments with low sound projection. Both Colin and Jerry are guitar teachers, and Colin also runs guitar workshops covering vocal and performance skills, so there is always plenty of help and support for those who have never performed in front of an audience before.
 
 GUEST ARTISTS
 
-The club will often have guest performers on alternative months from local , national and international artists in order to raise funds and provide ticket concessions to regular club goers, small bursaries and concert promotions.
+The club often features guest performers on alternative months, drawing from local, national, and international artists in order to raise funds and provide ticket concessions to regular club-goers, small bursaries, and concert promotions.
 
-Do have a look on the site for those who have performed at the club so far to see the diversity of music and high standards we have all enjoyed.This coming year we shall be raising funds for a project called “Young Voices in Music” providing a show case on a large stage to young musicians in Devon, so watch this space if you are a musician or club runner.
+The site lists past performers, showcasing the diversity of music and high standards the club has enjoyed. This coming year the club will be raising funds for a project called "Young Voices in Music," providing a showcase on a large stage for young musicians in Devon. Musicians and club runners are encouraged to watch this space.
 
 WHAT TIME
 
-Doors open at 7:45pm it will cost you £1:50 to get in (including musicians) and £2:50 concession tickets for guests appearance. There is no alcohol license so please bring your own favourite tipple although we do serve tea and coffee + biscuits in the break, local musician CD’s are actively promoted as well as other club news.
+Doors open at 7:45 pm. Admission is £1.50 (including musicians) and £2.50 concession tickets for guest appearances. There is no alcohol licence, so attendees are asked to bring their own drink, although the club serves tea, coffee, and biscuits during the break. Local musicians' CDs are actively promoted, along with other club news.

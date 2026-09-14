@@ -17,4 +17,4 @@ email: john.carson11@btinternet.com
 status: listed
 ---
 
-The Club features a wide variety of folk and blues artistes both traditional and modern.Generally Guests are featured on the 4th Thursday and an open singer's night on the second Thursday of each month.Occasionally on singer's night up and coming performers are showcased in a 40 minute spot.
+The club features a wide variety of folk and blues artists, both traditional and modern. Generally, guests are featured on the 4th Thursday, and an open singers' night takes place on the second Thursday of each month. Occasionally, on singers' night, up-and-coming performers are showcased in a 40-minute spot.

@@ -19,4 +19,4 @@ status: listed
 edited: 20/09/2013
 ---
 
-Most weeks both singers and musicians are welcome to partake in an organised singaround/music session.
+Most weeks both singers and musicians are welcome to take part in an organised singaround/music session.

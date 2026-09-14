@@ -17,4 +17,4 @@ www: www.bollyfolk.com
 status: listed
 ---
 
-Bollington Folk Club at The Dog and Partridge (Macclesfield) — Sunday, 1st & 3rd
+Bollington Folk Club meets at The Dog and Partridge, Macclesfield, on the first and third Sundays of the month.

@@ -19,6 +19,6 @@ edited: 28/01/2012
 logo: /images/listings/broadstairs_folk_week_logo_536.png
 ---
 
-Over 500 events in one week with venues all over Broadstairs, including Concert Tent, Pavilion on the Sands, Sailing Club, Bandstand, Jetty and many more.
+Over 500 events in one week, with venues all over Broadstairs, including the Concert Tent, Pavilion on the Sands, Sailing Club, Bandstand, Jetty and many more.
 
-Real ale tent next to concert marquee; free music in pubs as well as sessions. Festival Campsite for Season Ticket holders.
+Real ale tent next to the concert marquee; free music in pubs as well as sessions. Festival campsite for season ticket holders.

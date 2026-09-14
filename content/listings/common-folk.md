@@ -16,4 +16,4 @@ www: www.commonfolk.co.uk
 status: listed
 ---
 
-Common Folk Club , Pelsall, west Midlands Meets every Thursday evening
+Common Folk Club, Pelsall, West Midlands. Meets every Thursday evening.

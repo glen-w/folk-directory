@@ -17,4 +17,4 @@ www: www.cheltenhamfc.org.uk
 status: listed
 ---
 
-Cheltenham Folk Club at Sandford Park Alehouse (High St Cheltenham) — Monday, 2nd & 4th
+Cheltenham Folk Club meets at the Sandford Park Alehouse, High Street, Cheltenham, on the second and fourth Mondays of the month.

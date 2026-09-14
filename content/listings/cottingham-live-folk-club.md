@@ -17,4 +17,4 @@ www: www.cottingham-live.co.uk
 status: listed
 ---
 
-Cottingham Live Folk Club at The Back Room (173 Hallgate Cottingham) — Wednesday, Every Week
+Cottingham Live Folk Club meets at The Back Room, 173 Hallgate, Cottingham, on Wednesday every week.

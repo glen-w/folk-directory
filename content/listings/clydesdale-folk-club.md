@@ -16,4 +16,4 @@ www: www.clydesdalefolkclub.net
 status: listed
 ---
 
-Clydesdale Folk Club at The Elphinstone Hotel (South Lanarkshire) — Thursday, Last in month
+Clydesdale Folk Club meets at The Elphinstone Hotel, South Lanarkshire, on the last Thursday of the month.

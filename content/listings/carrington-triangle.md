@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/carrington_triangle_logo_804.png
 ---
 
-Carrington Triangle at The Gladstone Hotel (Nottingham) — Wednesday, Every Week
+Carrington Triangle takes place at The Gladstone Hotel, Nottingham, every Wednesday.

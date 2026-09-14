@@ -19,4 +19,4 @@ edited: 23/01/2012
 logo: /images/listings/chester_folk_festival_logo_206.png
 ---
 
-A full bank holiday weekend of music, song and dance. Events for all the family.
+A full bank holiday weekend of music, song and dance, with events for all the family.

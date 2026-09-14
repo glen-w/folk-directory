@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Cornmarket Acoustic at Cornmarket (Liverpool.) — Tuesday, 1st in Month
+Cornmarket Acoustic at Cornmarket, Liverpool — first Tuesday of the month.

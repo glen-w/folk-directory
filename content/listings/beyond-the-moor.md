@@ -17,4 +17,4 @@ email: info@gosforthcivictheatre.co.uk
 status: listed
 ---
 
-It's back again, for it's fourth year. Intends to showcase contemporary, alternative and traditional folk and roots music. Includes local and national artists. An afternoon and evening event.
+In its fourth year, the festival intends to showcase contemporary, alternative and traditional folk and roots music, featuring local and national artists. It is an afternoon and evening event.

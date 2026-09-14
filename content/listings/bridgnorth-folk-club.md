@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Bridgnorth Folk Club at The Bridgnorth Club (Bridgnorth) — Tuesday, 1st & 3rd
+Bridgnorth Folk Club meets at The Bridgnorth Club, Bridgnorth, on the first and third Tuesdays of the month.

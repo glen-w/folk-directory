@@ -19,6 +19,4 @@ edited: 23/01/2012
 logo: /images/listings/cambridge_folk_festival_logo_269.png
 ---
 
-Premier Folk Festival in the UK, including a diverse range of folk, blues, country, world, singer-songwriters and acoustic music.
-
-From Martin Carthy to Mumford & Sons and all in between. 4 stages. 4 days. 10,000 capacity. 8,000 campers. 2 campsites. National tv and radio broadcast coverage.
+A premier folk festival in the UK, featuring a diverse range of folk, blues, country, world, singer-songwriter and acoustic music. Acts have ranged from Martin Carthy to Mumford & Sons and all in between. The festival runs over four days across four stages, with a capacity of 10,000, 8,000 campers, and two campsites. It receives national TV and radio broadcast coverage.

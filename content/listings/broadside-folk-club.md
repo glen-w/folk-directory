@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-weekly acoustic play/sing around.
+A weekly acoustic session for playing and singing.

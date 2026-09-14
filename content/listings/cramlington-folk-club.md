@@ -16,4 +16,4 @@ www: cramfolk.co.uk
 status: listed
 ---
 
-Cramlington Folk Club at Benedictine Social Centre (Northumberland) — Wednesday, Every Week
+Cramlington Folk Club meets at the Benedictine Social Centre, Northumberland, every Wednesday.

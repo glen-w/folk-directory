@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/country_2_country_festival_logo_3618.png
 ---
 
-A major country and western event in the UK, taking place in London, Glasgow and Belfast. The first event was in London, in 2013. This is the Glasgow event. Loads of artists, and lots of ticket prices. The artists move from one country to the other as well.
+A major country and western event in the UK, taking place in London, Glasgow and Belfast. The first event was held in London in 2013. This listing is for the Glasgow event. A large number of artists perform, with a range of ticket prices available. Artists travel between the three cities as part of the festival.
