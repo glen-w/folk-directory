@@ -1,7 +1,7 @@
 ---
-title: Listing 332
+title: Session at Falcon Hotel
 id: 332
-name: Listing 332
+name: Session at Falcon Hotel
 event_types:
 - session
 locations:

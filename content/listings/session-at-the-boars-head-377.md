@@ -1,7 +1,7 @@
 ---
-title: Listing 377
+title: Session at The Boar's Head
 id: 377
-name: Listing 377
+name: Session at The Boar's Head
 event_types:
 - session
 locations:

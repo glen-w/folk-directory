@@ -9,7 +9,7 @@ locations:
 - england
 county: Cheshire
 venue: Harlequin Theatre
-address: Queen Street, Northwich,
+address: Queen Street, Northwich
 place: Northwich
 post_code: ''
 when: Friday, Every Week

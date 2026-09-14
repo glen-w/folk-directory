@@ -1,7 +1,7 @@
 ---
-title: Listing 317
+title: Session at The Beech Inn
 id: 317
-name: Listing 317
+name: Session at The Beech Inn
 event_types:
 - session
 locations:

@@ -1,7 +1,7 @@
 ---
-title: Listing 363
+title: Session at Fox Inn
 id: 363
-name: Listing 363
+name: Session at Fox Inn
 event_types:
 - session
 locations:

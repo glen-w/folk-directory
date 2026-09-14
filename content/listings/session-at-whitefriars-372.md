@@ -1,7 +1,7 @@
 ---
-title: Listing 372
+title: Session at Whitefriars
 id: 372
-name: Listing 372
+name: Session at Whitefriars
 event_types:
 - session
 locations:

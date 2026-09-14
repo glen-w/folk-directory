@@ -9,7 +9,7 @@ locations:
 - the-south
 county: Wiltshire
 venue: ST. MICHAEL'S CHURCH ROOM
-address: Lechlade Road, Highworth,
+address: Lechlade Road, Highworth
 place: Highworth
 post_code: ''
 when: Wednesday, 1st & 3rd

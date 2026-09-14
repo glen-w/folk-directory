@@ -1,7 +1,7 @@
 ---
-title: Listing 368
+title: Session at The Three Horseshoes
 id: 368
-name: Listing 368
+name: Session at The Three Horseshoes
 event_types:
 - session
 locations:

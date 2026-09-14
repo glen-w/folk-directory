@@ -16,4 +16,4 @@ www: www.acespace.org.uk
 status: listed
 ---
 
-Ace Space at Ace Space (Berkshire) — Varied, Variable
+Ace Space, Berkshire. Varied, variable.

@@ -3,7 +3,7 @@ title: Frome Acoustic Club
 id: 38
 name: Frome Acoustic Club
 event_types:
-- open-mic
+- folk-club
 locations:
 - devon
 county: Devon

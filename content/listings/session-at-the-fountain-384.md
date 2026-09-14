@@ -1,7 +1,7 @@
 ---
-title: Listing 384
+title: Session at The Fountain
 id: 384
-name: Listing 384
+name: Session at The Fountain
 event_types:
 - session
 locations:

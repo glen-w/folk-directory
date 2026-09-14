@@ -16,4 +16,4 @@ www: www.macksmusic.co.uk/acoustic-and-ale
 status: listed
 ---
 
-In it's eight year now. Five or six acts each day, so it is easy to see each act as the timings don't overlap.
+It is now in its eighth year. Five or six acts perform each day, and as the timings do not overlap, it is easy to see each act.

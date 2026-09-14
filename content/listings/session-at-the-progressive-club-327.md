@@ -1,7 +1,7 @@
 ---
-title: Listing 327
+title: Session at The Progressive Club
 id: 327
-name: Listing 327
+name: Session at The Progressive Club
 event_types:
 - session
 locations:

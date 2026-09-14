@@ -1,7 +1,7 @@
 ---
-title: Listing 375
+title: Session at The Somerville Arms
 id: 375
-name: Listing 375
+name: Session at The Somerville Arms
 event_types:
 - session
 locations:

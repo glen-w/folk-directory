@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Accrington Folk Club This new folk club is held at the Accrington Cricket Club (BB5 5BD) every alternate Wednesday from 8.30-11pm.
+This new folk club meets at the Accrington Cricket Club (BB5 5BD) every alternate Wednesday from 8.30 to 11pm.

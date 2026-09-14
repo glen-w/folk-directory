@@ -1,5 +1,23 @@
 {{- define "main" }}
 
+{{- $venue := "" -}}
+{{- with .Params.venue }}{{ $venue = strings.TrimRight ", " . }}{{ end -}}
+{{- $address := "" -}}
+{{- with .Params.address }}{{ $address = strings.TrimRight ", " . }}{{ end -}}
+{{- $mapsParts := slice -}}
+{{- if $venue }}{{ $mapsParts = $mapsParts | append $venue }}{{ end -}}
+{{- if $address }}{{ $mapsParts = $mapsParts | append $address }}{{ end -}}
+{{- with .Params.place }}{{ $mapsParts = $mapsParts | append . }}{{ end -}}
+{{- with .Params.post_code }}{{ $mapsParts = $mapsParts | append . }}{{ end -}}
+{{- with .Params.county }}{{ $mapsParts = $mapsParts | append . }}{{ end -}}
+{{- $mapsQuery := delimit $mapsParts ", " -}}
+{{- $mapsURL := "" -}}
+{{- if $mapsQuery }}{{ $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($mapsQuery | urlquery) }}{{ end -}}
+
+<p class="listing-back">
+    <a href="{{ "listings/" | relURL }}" class="listing-back-link">← Back to listings</a>
+</p>
+
 <header class="page-header">
     <div class="listing-title-row">
         {{- $logo := partial "listing-resolved-logo.html" . -}}
@@ -7,18 +25,6 @@
             src="{{ $logo.src | relURL }}" alt="" width="96" height="96">
         <h1>{{- .Title -}}</h1>
     </div>
-    {{- if .Params.venue }}
-    <div class="post-description">
-        <strong>Venue:</strong> {{ .Params.venue }}
-        {{- if .Params.place }}, {{ .Params.place }}{{- end }}
-        {{- if .Params.post_code }}, {{ .Params.post_code }}{{- end }}
-    </div>
-    {{- end }}
-    {{- if .Params.when }}
-    <div class="post-meta">
-        <strong>When:</strong> {{ .Params.when }}
-    </div>
-    {{- end }}
     {{- with index (.Params.event_types | default slice) 0 }}
     <div class="post-meta">
         <strong>Type:</strong> {{ . }}
@@ -28,47 +34,61 @@
 </header>
 
 <article class="post-single">
-    <div class="post-content">
-        {{- if .Params.venue }}
-        <div class="venue-info">
-            <h3>Venue Information</h3>
-            <p><strong>Venue:</strong> {{ .Params.venue }}</p>
-            {{- if .Params.address }}<p><strong>Address:</strong> {{ .Params.address }}</p>{{- end }}
-            {{- if .Params.place }}<p><strong>Place:</strong> {{ .Params.place }}</p>{{- end }}
-            {{- if .Params.post_code }}<p><strong>Post Code:</strong> {{ .Params.post_code }}</p>{{- end }}
-            {{- if .Params.county }}<p><strong>County:</strong> {{ .Params.county }}</p>{{- end }}
-        </div>
+    <div class="post-content listing-detail">
+        {{- if or $venue $address .Params.place .Params.post_code }}
+        <section class="listing-section venue-info">
+            <h3>Venue</h3>
+            {{- if $venue }}
+            <p>
+                {{- if $mapsURL -}}
+                <a href="{{ $mapsURL }}" target="_blank" rel="noopener">{{ $venue }}</a>
+                {{- else -}}
+                {{ $venue }}
+                {{- end -}}
+            </p>
+            {{- end }}
+            {{- if $address }}<p>{{ $address }}</p>{{- end }}
+            {{- if or .Params.place .Params.post_code }}
+            <p>
+                {{- with .Params.place }}{{ . }}{{- end -}}
+                {{- if and .Params.place .Params.post_code }}, {{ end -}}
+                {{- with .Params.post_code }}{{ . }}{{- end -}}
+            </p>
+            {{- end }}
+        </section>
         {{- end }}
 
         {{- if .Params.when }}
-        <div class="when-info">
+        <section class="listing-section when-info">
             <h3>When</h3>
             <p>{{ .Params.when }}</p>
-        </div>
+        </section>
         {{- end }}
 
         {{- if or (and .Params.www (not (findRE "\\s|@" .Params.www))) .Params.email }}
-        <div class="contact-info">
+        <section class="listing-section contact-info">
             <h3>Contact</h3>
             {{- if and .Params.www (not (findRE "\\s|@" .Params.www)) }}
             {{- $www := .Params.www -}}
             {{- if or (hasPrefix $www "http://") (hasPrefix $www "https://") -}}
-            <p><strong>Website:</strong> <a href="{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            <p><a href="{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
             {{- else -}}
-            <p><strong>Website:</strong> <a href="https://{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            <p><a href="https://{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
             {{- end -}}
             {{- end }}
             {{- with .Params.email }}
-            <p><strong>Email:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
+            <p><a href="mailto:{{ . }}">{{ . }}</a></p>
             {{- end }}
-        </div>
+        </section>
         {{- end }}
 
-        <div class="event-description">
-            {{ .Content }}
-        </div>
+        {{- with .Content }}
+        <section class="listing-section event-description">
+            {{ . }}
+        </section>
+        {{- end }}
 
-        <footer class="listing-footer" style="margin-top:2rem;padding-top:1rem;border-top:1px solid var(--border, #ddd);">
+        <footer class="listing-footer">
             {{- $id := .Params.id | default .File.BaseFileName -}}
             <p>
                 <a href="mailto:glen.w.wright@gmail.com?subject=Folk%20Directory%20listing%20{{ $id }}">Suggest an update</a>

@@ -1,7 +1,7 @@
 ---
-title: Listing 412
+title: Session at Lord Hood
 id: 412
-name: Listing 412
+name: Session at Lord Hood
 event_types:
 - session
 locations:

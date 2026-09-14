@@ -2,10 +2,82 @@
 :root {
   --brand-green: #274f30;
   --brand-cream: #f3edd8;
+  --theme: var(--brand-cream);
+  --code-bg: var(--brand-cream);
+}
+
+.listing-footer {
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border, #ddd);
 }
 
 .listing-footer a { font-weight: 600; }
 #folk-map { background: #e8efe9; }
+
+.listing-detail .listing-section {
+  margin: 0 0 1.75rem;
+}
+
+.listing-detail .listing-section h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+}
+
+.listing-detail .listing-section p {
+  margin: 0 0 0.35rem;
+}
+
+.listing-detail .listing-section p:last-child {
+  margin-bottom: 0;
+}
+
+.listing-detail .venue-info a {
+  font-weight: 600;
+}
+
+.listing-back {
+  margin: 0 0 0.75rem;
+}
+
+.listing-back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--secondary, #666);
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  line-height: 1.3;
+}
+
+.listing-back-link:hover {
+  border-color: var(--brand-green);
+  color: var(--brand-green);
+}
+
+:root[data-theme="dark"] .listing-back-link:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.page-header h1,
+.listing-title-row h1,
+.post-title,
+.first-entry .entry-header h1 {
+  color: var(--brand-green);
+}
+
+:root[data-theme="dark"] .page-header h1,
+:root[data-theme="dark"] .listing-title-row h1,
+:root[data-theme="dark"] .post-title,
+:root[data-theme="dark"] .first-entry .entry-header h1 {
+  color: var(--primary);
+}
 
 .listing-title-row {
   display: flex;
@@ -15,6 +87,14 @@
 
 .listing-title-row h1 {
   margin: 0;
+}
+
+/* Dark green accent on listing / search cards */
+.post-entry:hover,
+.post-entry:focus-within,
+.searchResults li:hover,
+.searchResults li:focus-within {
+  border-color: var(--brand-green);
 }
 
 .listing-logo {
@@ -102,6 +182,12 @@
   align-items: center;
 }
 
+.menu > li {
+  display: inline-flex;
+  align-items: center;
+  height: var(--header-height);
+}
+
 .menu .menu-theme-toggle {
   display: inline-flex;
   align-items: center;
@@ -110,18 +196,41 @@
 .menu .theme-toggle {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   line-height: 1;
+  height: 1.25rem;
+  padding: 0;
   cursor: pointer;
 }
 
-.menu a:has(.nav-icon) {
+.menu a {
   display: inline-flex;
   align-items: center;
   line-height: 1;
 }
 
-.menu .nav-icon {
+.menu a span {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  text-decoration: none;
+  text-underline-offset: 0.3rem;
+  text-decoration-thickness: 2px;
+}
+
+.menu a:hover span,
+.menu .active {
+  text-decoration: underline;
+  text-decoration-color: var(--brand-green);
+  color: inherit;
+}
+
+.menu .nav-icon,
+.menu .theme-toggle svg {
   display: block;
+  width: 17px;
+  height: 17px;
+  flex-shrink: 0;
 }
 
 .home-map {

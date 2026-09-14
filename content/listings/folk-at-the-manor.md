@@ -3,7 +3,7 @@ title: Folk at the Manor
 id: 559
 name: Folk at the Manor
 event_types:
-- open-mic
+- folk-club
 locations:
 - wallasey
 county: Merseyside

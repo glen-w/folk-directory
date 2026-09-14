@@ -7,7 +7,7 @@ event_types:
 locations:
 - ellesmere-port
 county: Cheshire
-venue: National Waterways Museum,
+venue: National Waterways Museum
 address: South Pier Road
 place: Ellesmere Port
 post_code: CH65 4FW

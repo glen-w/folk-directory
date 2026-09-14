@@ -1,7 +1,7 @@
 ---
-title: Listing 359
+title: Session at Bowling Green Inn
 id: 359
-name: Listing 359
+name: Session at Bowling Green Inn
 event_types:
 - session
 locations:

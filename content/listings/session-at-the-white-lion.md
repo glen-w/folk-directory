@@ -1,7 +1,7 @@
 ---
-title: Listing 379
+title: Session at The White Lion
 id: 379
-name: Listing 379
+name: Session at The White Lion
 event_types:
 - session
 locations:

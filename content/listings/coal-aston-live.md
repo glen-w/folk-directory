@@ -8,7 +8,7 @@ locations:
 - dronfield
 county: Derbyshire
 venue: Coal Aston Village Hall
-address: Eckington Rd, Dronfield,
+address: Eckington Rd, Dronfield
 place: Dronfield
 post_code: ''
 when: Saturday, Variable

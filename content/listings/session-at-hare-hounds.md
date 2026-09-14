@@ -1,7 +1,7 @@
 ---
-title: Listing 388
+title: Session at Hare & Hounds
 id: 388
-name: Listing 388
+name: Session at Hare & Hounds
 event_types:
 - session
 locations:

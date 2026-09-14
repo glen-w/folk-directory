@@ -1,7 +1,7 @@
 ---
-title: Listing 380
+title: Session at The Norman Knight
 id: 380
-name: Listing 380
+name: Session at The Norman Knight
 event_types:
 - session
 locations:

@@ -1,7 +1,7 @@
 ---
-title: Listing 369
+title: Session at Bredenbury Village Hall
 id: 369
-name: Listing 369
+name: Session at Bredenbury Village Hall
 event_types:
 - session
 locations:

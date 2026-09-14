@@ -8,7 +8,7 @@ locations:
 - ardersier
 - invernessshire
 county: Highland
-venue: Ardersier Church Hall,
+venue: Ardersier Church Hall
 address: Stuart Street, Ardersier
 place: Ardersier
 post_code: IV2 7QE
@@ -18,4 +18,4 @@ email: info@ardersierfolkclub.org.uk
 status: listed
 ---
 
-Ardersier Folk Festival at Ardersier Church Hall, (Ardersier.) — Tuesday, Every Week
+Ardersier Folk Festival at Ardersier Church Hall (Ardersier) — Tuesday, Every Week

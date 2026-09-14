@@ -3,7 +3,7 @@ title: Ritz Acoustic Club
 id: 41
 name: Ritz Acoustic Club
 event_types:
-- open-mic
+- folk-club
 locations:
 - burnham-on-sea
 county: Somerset

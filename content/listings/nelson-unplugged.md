@@ -3,7 +3,7 @@ title: Nelson Unplugged
 id: 24
 name: Nelson Unplugged
 event_types:
-- open-mic
+- folk-club
 locations:
 - christchurch-dorset
 county: Dorset

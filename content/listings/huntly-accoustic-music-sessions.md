@@ -7,7 +7,7 @@ event_types:
 locations:
 - aberdeenshire
 county: Aberdeenshire
-venue: Crown Bar,
+venue: Crown Bar
 address: 4 Gordon Street, Huntly, Aberdeenshire
 place: Aberdeenshire
 post_code: AB54 8AJ
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Huntly Acoustic Music Sessions at Crown Bar, (Aberdeenshire) — Wednesday, 3rd in Month
+Huntly Acoustic Music Sessions at Crown Bar (Aberdeenshire) — Wednesday, 3rd in Month

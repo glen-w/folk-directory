@@ -3,7 +3,7 @@ title: The White Horse Inn Open Mic
 id: 518
 name: The White Horse Inn Open Mic
 event_types:
-- open-mic
+- folk-club
 locations:
 - clun
 county: Shropshire

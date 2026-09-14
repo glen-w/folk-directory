@@ -3,7 +3,7 @@ title: Mid-Week Music @ The Mermaid
 id: 586
 name: Mid-Week Music @ The Mermaid
 event_types:
-- open-mic
+- folk-club
 locations:
 - st-albans
 county: Hertfordshire

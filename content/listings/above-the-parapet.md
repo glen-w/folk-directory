@@ -3,7 +3,7 @@ title: Above The Parapet
 id: 548
 name: Above The Parapet
 event_types:
-- open-mic
+- folk-club
 locations:
 - middlesbrough
 county: North Yorkshire

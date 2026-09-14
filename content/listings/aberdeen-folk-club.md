@@ -17,4 +17,4 @@ www: www.aberdeenfolkclub.co.uk
 status: listed
 ---
 
-Aberdeen Folk Club at Blue Lamp (Aberdeen) — Wednesday, Every Week
+The Aberdeen Folk Club meets at the Blue Lamp, Aberdeen, every Wednesday.

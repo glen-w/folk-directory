@@ -8,7 +8,7 @@ locations:
 - north-yorkshire
 county: North Yorkshire
 venue: The Sun Inn
-address: 136 Westgate, Pickering, North Yorkshire,
+address: 136 Westgate, Pickering, North Yorkshire
 place: North Yorkshire
 post_code: ''
 when: Monday, Every 2 weeks

@@ -8,7 +8,7 @@ locations:
 - bridgnorth
 county: Shropshire
 venue: The Bridgnorth Club
-address: Bridge Street, Low Town, Bridgnorth,
+address: Bridge Street, Low Town, Bridgnorth
 place: Bridgnorth
 post_code: ''
 when: Tuesday, 1st & 3rd

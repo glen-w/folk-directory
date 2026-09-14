@@ -3,7 +3,7 @@ title: Peppard Unplugged
 id: 3810
 name: Peppard Unplugged
 event_types:
-- open-mic
+- folk-club
 locations:
 - henley-on-thames
 county: Oxfordshire

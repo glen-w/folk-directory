@@ -8,7 +8,7 @@ locations:
 - croydon
 county: Greater London
 venue: Green Dragon
-address: 60 High Street, Croydon,
+address: 60 High Street, Croydon
 place: Croydon
 post_code: ''
 when: Sunday, 1st & 3rd

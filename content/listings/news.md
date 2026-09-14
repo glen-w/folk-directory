@@ -9,7 +9,7 @@ locations:
 - wales
 county: Rhondda Cynon Taf
 venue: Pontyclun Institute and Athletic Club
-address: Castan Rd/Palalwyf Ave,
+address: Castan Rd/Palalwyf Ave
 place: Castan Rd/Palalwyf Ave
 post_code: ''
 when: Wednesday, Every Week

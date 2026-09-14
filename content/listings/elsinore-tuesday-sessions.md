@@ -8,7 +8,7 @@ locations:
 - whitby
 county: North Yorkshire
 venue: The Elsinore
-address: Flowergate, Whitby,
+address: Flowergate, Whitby
 place: Whitby
 post_code: ''
 when: Tuesday, Every Week

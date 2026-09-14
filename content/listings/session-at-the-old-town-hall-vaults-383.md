@@ -1,7 +1,7 @@
 ---
-title: Listing 383
+title: Session at The Old Town Hall Vaults
 id: 383
-name: Listing 383
+name: Session at The Old Town Hall Vaults
 event_types:
 - session
 locations:

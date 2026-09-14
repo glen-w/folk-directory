@@ -1,7 +1,7 @@
 ---
-title: Listing 367
+title: Session at Cottage of Content
 id: 367
-name: Listing 367
+name: Session at Cottage of Content
 event_types:
 - session
 locations:

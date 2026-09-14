@@ -1,7 +1,7 @@
 ---
-title: Listing 378
+title: Session at Cooper's Tavern
 id: 378
-name: Listing 378
+name: Session at Cooper's Tavern
 event_types:
 - session
 locations:

@@ -3,7 +3,7 @@ title: Milverton Music Club
 id: 40
 name: Milverton Music Club
 event_types:
-- open-mic
+- folk-club
 locations:
 - milverton
 county: Somerset

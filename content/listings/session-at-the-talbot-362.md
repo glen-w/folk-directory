@@ -1,7 +1,7 @@
 ---
-title: Listing 362
+title: Session at The Talbot
 id: 362
-name: Listing 362
+name: Session at The Talbot
 event_types:
 - session
 locations:

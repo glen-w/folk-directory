@@ -1,7 +1,7 @@
 ---
-title: Listing 352
+title: Session at The Swan
 id: 352
-name: Listing 352
+name: Session at The Swan
 event_types:
 - session
 locations:
