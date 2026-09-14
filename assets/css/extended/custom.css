@@ -4,6 +4,20 @@
   --brand-cream: #f3edd8;
   --theme: var(--brand-cream);
   --code-bg: var(--brand-cream);
+  /* Matches tall logo mark so sticky header / map height stay aligned */
+  --header-height: 79px;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--theme);
+  border-bottom: 1px solid var(--border, #ddd);
+}
+
+.list .header {
+  background: var(--code-bg);
 }
 
 .listing-footer {
