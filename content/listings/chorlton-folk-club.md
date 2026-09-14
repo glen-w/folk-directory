@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - chorlton
-- greater-manchester
 county: Greater Manchester
 venue: Cricket Club
 address: Ellesmere Road
@@ -14,11 +13,6 @@ place: Chorlton
 post_code: ''
 when: Thursdays
 www: chorltonfolk.co.uk
+email: chorltonfolkclub@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

@@ -1,3 +1,179 @@
 /* Light Folk Directory tweaks */
+:root {
+  --brand-green: #274f30;
+  --brand-cream: #f3edd8;
+}
+
 .listing-footer a { font-weight: 600; }
 #folk-map { background: #e8efe9; }
+
+.logo a img {
+  border-radius: 0;
+  width: auto;
+}
+
+.profile img {
+  border-radius: 0;
+  width: min(27.5rem, 92%);
+  height: auto;
+}
+
+.profile h1 {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+:root[data-theme="dark"] .logo a img {
+  background: var(--brand-cream);
+  border-radius: 4px;
+  padding: 2px;
+}
+
+:root[data-theme="dark"] .profile img {
+  background: var(--brand-cream);
+  border-radius: 10px;
+  padding: 0.9rem 1.15rem;
+}
+
+/* Events browse: filters + pagination */
+.listings-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 0.75rem 1.25rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.listings-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem 1rem;
+}
+
+.listings-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.listings-filter-label {
+  color: var(--secondary, #666);
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+}
+
+.listings-filter select {
+  min-width: 10rem;
+  max-width: 18rem;
+  padding: 0.4rem 0.55rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: var(--entry, var(--theme, #fff));
+  color: var(--primary, inherit);
+  font: inherit;
+}
+
+.listings-clear {
+  align-self: flex-end;
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--primary, inherit);
+  font: inherit;
+  cursor: pointer;
+}
+
+.listings-clear:hover {
+  border-color: var(--primary, #000);
+}
+
+.listings-status {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.listings-card-meta {
+  color: var(--secondary, #666);
+  font-size: 0.85rem;
+}
+
+.listings-empty,
+.listings-noscript {
+  margin: 1rem 0;
+}
+
+.listings-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.listings-pagination button {
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--primary, inherit);
+  font: inherit;
+  cursor: pointer;
+}
+
+.listings-pagination button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.listings-page-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--secondary, #666);
+  font-size: 0.9rem;
+}
+
+.listings-page-select {
+  min-width: 3.25rem;
+  padding: 0.25rem 0.35rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: var(--entry, var(--theme, #fff));
+  color: var(--primary, inherit);
+  font: inherit;
+  cursor: pointer;
+}
+
+.listings-fallback-list {
+  columns: 2;
+  column-gap: 2rem;
+  margin: 1rem 0 2rem;
+  padding-left: 1.25rem;
+}
+
+@media (max-width: 640px) {
+  .listings-fallback-list {
+    columns: 1;
+  }
+
+  .listings-filter select {
+    min-width: 100%;
+    max-width: none;
+  }
+
+  .listings-toolbar {
+    align-items: stretch;
+  }
+}

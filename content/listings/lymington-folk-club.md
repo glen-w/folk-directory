@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - lymington
-- hampshire
 county: Hampshire
 venue: The Thomas Tripp
 address: ''
 place: Lymington
 post_code: SO41 9GF
 when: First and Third Wednesdays
-www: unique-photography.co.uk/folk/index.html
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: info@lymingtonfolkclub.co.uk
+status: defunct
 ---
 
 After many years it has risen from the ashes in memory of local poet and song writer Rod Legge.

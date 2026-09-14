@@ -6,7 +6,6 @@ event_types:
 - open-mic
 locations:
 - wallasey
-- merseyside
 county: Merseyside
 venue: The Old Manor
 address: Withens Lane
@@ -14,13 +13,8 @@ place: Wallasey
 post_code: CH45 7NF
 when: Sunday
 www: folkatthemanor.co.uk
+email: Kathryn.Runswick@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 07/03/2012
 ---
 

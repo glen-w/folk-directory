@@ -1,0 +1,19 @@
+---
+title: Ring of Iron Folk Club
+id: 3890
+name: Ring of Iron Folk Club
+event_types:
+- folk-club
+locations:
+- middlesbrough
+county: North Yorkshire
+venue: Chapel @ Whitehouse Street
+address: WhiteHouse Street, Middlesbrough
+place: Middlesbrough
+post_code: TS5 4BY
+when: Friday, Last in month
+www: ''
+status: listed
+---
+
+Ring of Iron Folk Club at Chapel @ Whitehouse Street (Middlesbrough) — Friday, Last in month

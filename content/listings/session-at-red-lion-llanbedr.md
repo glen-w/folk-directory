@@ -1,0 +1,17 @@
+---
+title: Session at Red Lion, Llanbedr
+id: 350
+name: Session at Red Lion, Llanbedr
+event_types:
+- session
+locations:
+- llanbedr-near-crickowel
+county: Powys
+venue: Red Lion
+address: ''
+place: Llanbedr, near Crickowel
+post_code: NP8 1SR
+when: Last Friday of the month, 8.30pm
+www: ''
+status: listed
+---

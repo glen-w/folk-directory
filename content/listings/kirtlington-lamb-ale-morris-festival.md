@@ -6,19 +6,13 @@ event_types:
 - festival
 locations:
 - ox5-3hj
-- oxfordshire
 county: Oxfordshire
 venue: ''
 address: Kirtlington
-place: OX5 3HJ
-post_code: kirtlington-morris.org.uk
+place: Kirtlington
+post_code: OX5 3HJ
 when: June
-www: 01993 770703
+www: kirtlington-morris.org.uk
+email: steve_hanley@lineone.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

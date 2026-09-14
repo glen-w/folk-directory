@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - campbeltown
-- argyll-and-bute
 county: Argyll and Bute
 venue: Victoria Hall
 address: Kinloch Road
@@ -15,12 +14,6 @@ post_code: PA28 6AZ
 when: August
 www: mokfest.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 03/02/2012
 ---
 

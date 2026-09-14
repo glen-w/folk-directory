@@ -7,20 +7,15 @@ event_types:
 locations:
 - wigan
 - lancashire
-county: Lancashire
+county: Greater Manchester
 venue: Orwell
 address: Wigan Pier, 4 Wallgate
 place: Wigan
 post_code: WN3 4EU
 when: Easter Monday
 www: wiganfolkclub.co.uk
+email: wiganfolkclub@hotmail.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

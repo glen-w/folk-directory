@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - topsham
-- devon
 county: Devon
 venue: Globe Hotel
 address: Fore Street
 place: Topsham
 post_code: ''
 when: Sundays
-www: topshamfolkclub.co.uk
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: webmaster@topshamfolkclub.co.uk
+status: defunct
 edited: 30/04/2013
 ---
 

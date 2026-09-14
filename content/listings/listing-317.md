@@ -14,11 +14,6 @@ place: Chorlton cum Hardy
 post_code: M21 9EG
 when: Every Wednesday, 8pm
 www: ''
+email: jonesthefolk@yahoo.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

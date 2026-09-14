@@ -13,11 +13,6 @@ place: ''
 post_code: YO21 2HG
 when: April
 www: festivalonthemoor.co.uk
+email: info@festivalonthemoor.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

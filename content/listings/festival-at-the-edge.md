@@ -12,12 +12,7 @@ address: Much Wenlock
 place: ''
 post_code: festivalattheedge.org
 when: July
-www: 01939 236626
+www: ''
+email: info@festivalattheedge.org
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

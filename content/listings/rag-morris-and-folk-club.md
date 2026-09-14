@@ -6,21 +6,15 @@ event_types:
 - dance
 locations:
 - clifton-bristol
-- bristol
 county: Bristol
 venue: University of Bristol Union
 address: Queen's Road
 place: Clifton, Bristol
-post_code: bs8 1ln
+post_code: BS8 1LN
 when: Monday (folk session), Thursdays (dancing)
 www: ragmorris.com
+email: bag@ragmorris.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/10/2011
 ---
 

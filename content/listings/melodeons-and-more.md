@@ -13,11 +13,6 @@ place: ''
 post_code: IP14 1DL
 when: March
 www: eatmt.org.uk
+email: info@eatmt.fsnet.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

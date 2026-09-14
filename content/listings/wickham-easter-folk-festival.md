@@ -6,21 +6,15 @@ event_types:
 - festival
 locations:
 - wickham-hampshire
-- hampshire
 county: Hampshire
 venue: Various
 address: ''
 place: Wickham, Hampshire
 post_code: PO12 3JD
 when: April
-www: eastfest.co.uk
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: eastfest@talk21.com
+status: defunct
 edited: 23/01/2012
 ---
 

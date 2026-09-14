@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - alcester
-- warwickshire
 county: Warwickshire
 venue: Holly Bush Inn
 address: 37 Henley Street
@@ -14,13 +13,8 @@ place: Alcester
 post_code: B49 5QX
 when: First Tuesday every month
 www: ''
+email: knowles641@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

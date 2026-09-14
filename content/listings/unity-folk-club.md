@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - london
-- greater-london
 county: Greater London
 venue: Torriano Meeting Rooms
 address: 99 Torriano Avenue
@@ -14,13 +13,8 @@ place: London
 post_code: NW5 2RX
 when: Last Monday of every month
 www: unityfolkclub.org
+email: glorialazenby@homechoice.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/02/2012
 ---
 

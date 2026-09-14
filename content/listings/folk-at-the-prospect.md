@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - runcorn
-- cheshire
 county: Cheshire
 venue: Prospect Inn
 address: Weston Village
@@ -14,13 +13,8 @@ place: Runcorn
 post_code: WA7 4LD
 when: Monday
 www: folkattheprospect.co.uk
+email: roger@folkattheprospect.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 We do not charge an entrance fee, but on guest nights we have a ''bucket

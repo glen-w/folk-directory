@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - bulbourne-tring
-- hertfordshire
 county: Hertfordshire
 venue: Grand Junction Arms
 address: Bulbourne Road
@@ -14,13 +13,8 @@ place: Bulbourne, Tring
 post_code: HP23 5QE
 when: First Tuesdsay of every month
 www: ''
+email: c_m_reid@yahoo.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

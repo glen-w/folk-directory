@@ -9,15 +9,10 @@ locations:
 county: South Yorkshire
 venue: Barnsley Civic Hall
 address: Hanson Street
-place: ''
+place: Milton Keynes
 post_code: S70 2HZ
 when: April
 www: myspace.com/barnsleyacoustic
+email: wombwell.folk@blueyonder.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

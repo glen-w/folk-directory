@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - belper
-- derbyshire
 county: Derbyshire
 venue: The Old Kings Head
 address: Days Lane
@@ -14,13 +13,8 @@ place: Belper
 post_code: DE56 1NP
 when: Tuesday evenings
 www: belperfolkclub.tripod.com
+email: pennybun15-belperfc@yahoo.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 15/11/2011
 ---
 

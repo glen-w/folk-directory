@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - ardley
-- oxfordshire
 county: Oxfordshire
 venue: Manor Farm
 address: ''
@@ -14,13 +13,8 @@ place: Ardley
 post_code: OX27 7NS
 when: July
 www: ''
+email: info@fiddlefest.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/07/2012
 ---
 

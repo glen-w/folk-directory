@@ -14,13 +14,6 @@ place: Haconby, Bourne
 post_code: PE10 0UZ
 when: Third Mondays, 8-11pm
 www: ''
+email: pete@peteshaw.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
-
-Mainly english tunes, no songs.

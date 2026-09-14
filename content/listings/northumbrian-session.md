@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - morpeth
-- northumberland
 county: Northumberland
 venue: Tap & Spile
 address: Manchester Street
@@ -14,13 +13,8 @@ place: Morpeth
 post_code: NE61 1BH
 when: Every Sunday 12-4pm
 www: ''
+email: smallpiper@googlemail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

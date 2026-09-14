@@ -7,18 +7,13 @@ event_types:
 locations:
 - wantage
 - dorset
-county: Dorset
+county: Oxfordshire
 venue: Various &#40;office at Rugby Club&#41;
 address: ''
 place: Wantage
 post_code: OX12 0AA
 when: August
 www: whitehorsefolkfestival.co.uk
+email: info@whitehorseceilidhs.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

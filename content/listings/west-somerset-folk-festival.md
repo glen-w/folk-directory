@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - carhampton-somerset
-- somerset
 county: Somerset
 venue: Carhampton Recreation Ground
 address: Main Road
@@ -14,13 +13,8 @@ place: Carhampton, Somerset
 post_code: ''
 when: July
 www: westsomersetfolkfestival.co.uk
+email: dibblemjd@talktalk.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

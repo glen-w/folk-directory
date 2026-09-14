@@ -13,11 +13,6 @@ place: ''
 post_code: ''
 when: June
 www: onesuffolk.co.uk/SuffolkFolkFestiva
+email: mike.r.everett@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

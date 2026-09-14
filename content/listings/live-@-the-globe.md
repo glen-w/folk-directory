@@ -6,21 +6,15 @@ event_types:
 - session
 locations:
 - calthwaite-nr-penrith
-- cumbria
 county: Cumbria
 venue: The Globe
 address: ''
 place: Calthwaite nr Penrith
 post_code: CA11 9QT
 when: Second Thursday
-www: theglobeinncalthwaite.com/
+www: theglobeinncalthwaite.com
+email: mail@rblmusic.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 27/12/2013
 ---
 

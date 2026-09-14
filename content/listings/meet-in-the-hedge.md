@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - wymondham
-- norfolk
 county: Norfolk
 venue: Feathes Inn
 address: Town Green
@@ -14,13 +13,8 @@ place: Wymondham
 post_code: NR18 0PN
 when: Last Sunday of the month
 www: meetinthehedge.co.uk
+email: meetinthehedge@yahoo.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 12/02/2012
 ---
 

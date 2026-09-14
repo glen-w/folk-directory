@@ -1,0 +1,19 @@
+---
+title: Nags Head Sessions
+id: 3834
+name: Nags Head Sessions
+event_types:
+- session
+locations:
+- scarborough
+county: North Yorkshire
+venue: The Nags Head
+address: High Street, Scalby, Scarborough
+place: Scarborough
+post_code: YO13 0PT
+when: Saturday, Every Week
+www: ''
+status: listed
+---
+
+Nags Head Sessions at The Nags Head (Scarborough) — Saturday, Every Week

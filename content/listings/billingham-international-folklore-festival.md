@@ -6,21 +6,15 @@ event_types:
 - festival
 locations:
 - billingham
-- durham
 county: Durham
 venue: Billingham, Middlesbrough, Newcastle
 address: Town centre & theatres
 place: Billingham
-post_code: TS232JZ
+post_code: TS23 2JZ
 when: August
 www: billinghamfestival.co.uk
+email: info@billinghamfestival.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 10/11/2013
 ---
 

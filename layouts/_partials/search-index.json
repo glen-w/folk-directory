@@ -1,0 +1,41 @@
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+    {{- $eventTypes := .Params.event_types | default slice -}}
+    {{- if not (reflect.IsSlice $eventTypes) -}}
+        {{- $eventTypes = slice $eventTypes -}}
+    {{- end -}}
+    {{- $locations := .Params.locations | default slice -}}
+    {{- if not (reflect.IsSlice $locations) -}}
+        {{- $locations = slice $locations -}}
+    {{- end -}}
+    {{- $tags := .Params.tags | default slice -}}
+    {{- if not (reflect.IsSlice $tags) -}}
+        {{- $tags = slice $tags -}}
+    {{- end -}}
+    {{- $categories := .Params.categories | default slice -}}
+    {{- if not (reflect.IsSlice $categories) -}}
+        {{- $categories = slice $categories -}}
+    {{- end -}}
+    {{- /* Avoid .Summary — Hugo can panic on some pages (slice bounds). */ -}}
+    {{- $summary := .Plain | plainify | htmlUnescape | chomp | truncate 240 -}}
+    {{- $searchData := dict
+        "title" .Title
+        "content" .Plain
+        "permalink" .Permalink
+        "summary" $summary
+        "venue" (.Params.venue | default "")
+        "place" (.Params.place | default "")
+        "address" (.Params.address | default "")
+        "post_code" (.Params.post_code | default "")
+        "when" (.Params.when | default "")
+        "county" (.Params.county | default "")
+        "event_types" $eventTypes
+        "locations" $locations
+        "tags" $tags
+        "categories" $categories
+    -}}
+    {{- $index = $index | append $searchData -}}
+    {{- end }}
+{{- end -}}
+{{- $index | jsonify -}}

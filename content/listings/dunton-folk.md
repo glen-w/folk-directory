@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - dunton-biggleswade
-- bedfordshire
 county: Bedfordshire
 venue: St Mary Magdalene Church
 address: Church Street
@@ -14,13 +13,8 @@ place: Dunton, Biggleswade
 post_code: SG18 8RR
 when: Saturdays
 www: duntonfolk.co.uk
+email: duntonfolk@hotmail.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 05/09/2012
 ---
 

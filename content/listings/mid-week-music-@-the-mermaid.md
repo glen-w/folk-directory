@@ -6,7 +6,6 @@ event_types:
 - open-mic
 locations:
 - st-albans
-- hertfordshire
 county: Hertfordshire
 venue: The Mermaid Pub
 address: 98 Hatfield Road
@@ -14,13 +13,8 @@ place: St Albans
 post_code: AL1 3RL
 when: Every Wednesday from 8.30pm
 www: nickstephensonmusic.com
+email: nickjukebox@yahoo.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 15/10/2012
 ---
 

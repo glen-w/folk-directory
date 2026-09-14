@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - finedon
-- northamptonshire
 county: Northamptonshire
 venue: Kennedy's Bar, The Tower Sports Ground
 address: Irthlingborough Road
@@ -14,13 +13,8 @@ place: Finedon
 post_code: NN9 5EJ
 when: 2nd & 4th Fridays
 www: kcbworld.co.uk/kcbworld.co.uk/Kontra_Roots_Club.html
+email: kev@kcbworld.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 26/10/2011
 ---
 

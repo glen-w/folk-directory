@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - hatfield
-- hertfordshire
 county: Hertfordshire
 venue: Hatfield House
 address: Great North Road
@@ -14,13 +13,8 @@ place: Hatfield
 post_code: AL9 5NQ
 when: July
 www: folkbytheoak.com
+email: info@folkbytheoak.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 03/02/2012
 ---
 

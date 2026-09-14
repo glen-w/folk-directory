@@ -6,7 +6,6 @@ event_types:
 - dance
 locations:
 - leigh-on-sea
-- essex
 county: Essex
 venue: DV8 studios
 address: Caedom Hall, Pall Mall
@@ -14,13 +13,8 @@ place: Leigh on Sea
 post_code: SS9 1RA
 when: Every other month
 www: dv8studios.co.uk
+email: info@dv8studios.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 11/02/2013
 ---
 

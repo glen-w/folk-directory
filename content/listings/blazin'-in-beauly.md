@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - beauly-inverness-shire
-- highland
 county: Highland
 venue: Various
 address: ''
@@ -14,13 +13,8 @@ place: Beauly, Inverness-shire
 post_code: ''
 when: October
 www: blazininbeauly.com
+email: info@blazininbeauly.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 21/08/2012
 ---
 

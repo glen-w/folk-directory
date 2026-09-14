@@ -8,18 +8,13 @@ locations:
 - essex
 county: Essex
 venue: The Coast Inn
-address: West Mersea, CO5 8NA
-place: ''
-post_code: ''
+address: West Mersea
+place: West Mersea
+post_code: CO5 8NA
 when: Thursdays
 www: merseasession.blogspot.com
+email: gdpdunn@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Hello and welcome

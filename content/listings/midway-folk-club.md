@@ -7,18 +7,13 @@ event_types:
 locations:
 - stockport-cheshire
 - cheshire
-county: Cheshire
+county: Greater Manchester
 venue: 263 Newbridge Lane
 address: ''
 place: Stockport, Cheshire
 post_code: SK1 2NX
 when: Mondays
 www: zen37219.zen.co.uk/redbullfolkclub.htm
+email: folky@thebrewshop.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

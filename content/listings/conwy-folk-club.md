@@ -1,0 +1,20 @@
+---
+title: Conwy Folk Club
+id: 789
+name: Conwy Folk Club
+event_types:
+- folk-club
+locations:
+- 8-church-street
+- wales
+county: Conwy
+venue: Conwy Comrades Social Club
+address: 8 Church Street
+place: 8 Church Street
+post_code: LL32 8AF
+when: Monday, Every Week
+www: www.conwyfolkclub.org.uk
+status: listed
+---
+
+Conwy Folk Club at Conwy Comrades Social Club (8 Church Street) — Monday, Every Week

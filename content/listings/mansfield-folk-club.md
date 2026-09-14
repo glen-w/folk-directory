@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - mansfield
-- nottinghamshire
 county: Nottinghamshire
 venue: The Black Bull
 address: Woodhouse Road
@@ -14,13 +13,8 @@ place: Mansfield
 post_code: NG18 2BQ
 when: Every Monday Doors 8pm, kick-off 8.30
 www: mansfieldfolkclub.org.uk
+email: folkclub@kochut.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

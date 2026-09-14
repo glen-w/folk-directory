@@ -9,15 +9,10 @@ locations:
 county: Oxfordshire
 venue: The Mill Arts Centre
 address: Spiceball Park, Banbury
-place: ''
+place: Banbury.
 post_code: ''
 when: Wednesdays
 www: banburyfolkclub.co.uk
+email: irhuckin@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

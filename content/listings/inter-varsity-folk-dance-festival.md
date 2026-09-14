@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - aberdeen
-- aberdeenshire
 county: Aberdeenshire
 venue: Aberdeen University
 address: University Road
@@ -14,13 +13,8 @@ place: Aberdeen
 post_code: AB24 3UT
 when: March
 www: ivfdf2012.org.uk
+email: info@ivfdf2012.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 25/01/2012
 ---
 

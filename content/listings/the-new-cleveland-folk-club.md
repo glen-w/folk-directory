@@ -6,22 +6,16 @@ event_types:
 - folk-club
 locations:
 - manchester
-- greater-manchester
 county: Greater Manchester
 venue: The Cleveland Hotel-upstairs
 address: Crumpsall Lane Crumpsall
 place: Manchester
 post_code: M8 5SR
 when: Friday nights- fortnightly
-www: ''
+www: newclevelandfolkclub.blogspot.com
+email: lorna.egan@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 09/06/2012
 ---
 
-A friendly forum for singers and musicians to use to entertain an audience. The club is run on a fortunately basis with alternate guest and singer/musicians nights. The club has a very laid back atmosphere, starts 8.30pm door charge Â£3 for more info about the club go to newclevelandfolkclub.blogspot.com we also have a facebook page for anyone to join that's New Cleveland folk club unplugged
+A friendly forum for singers and musicians to use to entertain an audience. The club is run on a fortunately basis with alternate guest and singer/musicians nights. The club has a very laid back atmosphere, starts 8.30pm door charge Â£3. We also have a facebook page for anyone to join that's New Cleveland folk club unplugged

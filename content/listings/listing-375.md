@@ -14,13 +14,6 @@ place: Leamington Spa
 post_code: CV32 4SX
 when: First and Third Wednesdays, 8.30pm
 www: somervillearms.co.uk
+email: info@somervillearms.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
-
-Bluegrass session

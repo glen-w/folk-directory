@@ -15,10 +15,4 @@ post_code: DE14 1EG
 when: Tuesdays, 9.00-11.00pm
 www: ''
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

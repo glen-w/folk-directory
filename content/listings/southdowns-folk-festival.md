@@ -6,21 +6,15 @@ event_types:
 - festival
 locations:
 - bognor-regis
-- west-sussex
 county: West Sussex
 venue: Hotham Park / Regis Centre
 address: Belmont Street
 place: Bognor Regis
 post_code: PO21 1LY
 when: September
-www: ''
+www: www.southdownsfolkfest.co.uk
+email: rnash10@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 05/05/2013
 ---
 

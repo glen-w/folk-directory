@@ -6,21 +6,15 @@ event_types:
 - festival
 locations:
 - brampton
-- cumbria
 county: Cumbria
 venue: Various locations
 address: Castle Carrock
 place: Brampton
 post_code: CA8 9LU
 when: July
-www: musiconthemarr.com
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: richard@johnstone2710.fsnet.co.uk
+status: defunct
 edited: 17/04/2012
 ---
 

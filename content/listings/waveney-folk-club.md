@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - lowestoft
-- suffolk
 county: Suffolk
 venue: Crown Street Hall
 address: Crown Street
@@ -15,12 +14,6 @@ post_code: NR32 1SG
 when: Alternate Fridays
 www: myspace.com/waveneyfolkclub
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/10/2011
 ---
 

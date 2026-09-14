@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - harwich-essex
-- essex
 county: Essex
 venue: Old Harwich Town
 address: ''
@@ -14,13 +13,8 @@ place: Harwich, Essex
 post_code: CO12
 when: October
 www: harwichshantyfestival.co.uk
+email: info@harwichshantyfestival.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

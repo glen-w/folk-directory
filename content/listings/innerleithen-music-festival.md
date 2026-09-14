@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - innerleithen
-- scottish-borders
 county: Scottish Borders
 venue: Memorial Hall
 address: Leithen Road
@@ -14,13 +13,8 @@ place: Innerleithen
 post_code: EH44 6HZ
 when: August
 www: innerleithenmusicfestival.org
+email: imfpublicity@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 01/06/2012
 ---
 

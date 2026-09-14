@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - london
-- greater-london
 county: Greater London
 venue: The British Oak
 address: 109 Old Dover Rd
@@ -14,13 +13,8 @@ place: London
 post_code: SE3 8SU
 when: Tuesdays
 www: blackheathoakfolk.blogspot.com
+email: blackheatholkfolk@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 We are an open mic club meeting every Tuesday at the British Oak pub in Old Dover Road, Blackheath. We are more of an acoustic than a pure folk club. Recent sessions have included virtually every musical genre.

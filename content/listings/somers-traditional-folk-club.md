@@ -1,0 +1,20 @@
+---
+title: Somers Traditional Folk Club
+id: 751
+name: Somers Traditional Folk Club
+event_types:
+- folk-club
+locations:
+- worcester
+- west-midlands
+county: Worcestershire
+venue: Bishop Allenby hall
+address: Bishop Allenby Hall, St. Stephen's Church, off St. Stephen's Street, Worcester
+place: Worcester
+post_code: WR3 7HS
+when: Friday, Other
+www: www.somers-folk-club.org.uk
+status: listed
+---
+
+Somers Traditional Folk Club at Bishop Allenby hall (Worcester) — Friday, Other

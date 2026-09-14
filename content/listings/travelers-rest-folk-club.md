@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - otford
-- kent
 county: Kent
 venue: The Crown
 address: 10 High Street
@@ -14,13 +13,8 @@ place: Otford
 post_code: TN14 5PQ
 when: 2nd Thursday monthly
 www: travellersrestfolk.co.uk
+email: info@uplandsguesthouse.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

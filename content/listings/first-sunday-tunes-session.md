@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - horsmonden
-- kent
 county: Kent
 venue: Gun and Spitroast
 address: The Heath
@@ -14,13 +13,8 @@ place: Horsmonden
 post_code: TN12 8HT
 when: The first Sunday of the month from October to spring
 www: frittendenfestival.com
+email: gmatkin@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 01/11/2012
 ---
 

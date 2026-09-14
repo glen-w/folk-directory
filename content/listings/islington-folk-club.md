@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - islington
-- greater-london
 county: Greater London
 venue: The Horseshoe
 address: 24 Clerkenwell Close
@@ -14,13 +13,8 @@ place: Islington
 post_code: EC1R 0AG
 when: Every Thursday (except July and August)
 www: islingtonfolkclub.co.uk
+email: info@islingtonfolkclub.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 12/11/2012
 ---
 

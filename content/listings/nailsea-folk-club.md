@@ -9,15 +9,9 @@ locations:
 county: Somerset
 venue: Ring O' Bells Pub/Tithe Barn
 address: Nailsea, North Somerset
-place: ''
+place: Nailsea
 post_code: ''
 when: Fridays and Sundays
 www: nailseafolkclub.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

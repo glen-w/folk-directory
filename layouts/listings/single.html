@@ -18,7 +18,6 @@
     <div class="post-meta">
         <strong>Type:</strong> {{ . }}
         {{- with $.Params.county }} · {{ . }}{{- end }}
-        {{- with $.Params.last_seen }} · last seen {{ substr (printf "%s" .) 0 4 }}{{- end }}
     </div>
     {{- end }}
 </header>
@@ -43,15 +42,20 @@
         </div>
         {{- end }}
 
-        {{- if .Params.www }}
+        {{- if or (and .Params.www (not (findRE "\\s|@" .Params.www))) .Params.email }}
         <div class="contact-info">
-            <h3>Website</h3>
+            <h3>Contact</h3>
+            {{- if and .Params.www (not (findRE "\\s|@" .Params.www)) }}
             {{- $www := .Params.www -}}
             {{- if or (hasPrefix $www "http://") (hasPrefix $www "https://") -}}
-            <p><a href="{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            <p><strong>Website:</strong> <a href="{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
             {{- else -}}
-            <p><a href="https://{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
+            <p><strong>Website:</strong> <a href="https://{{ $www }}" target="_blank" rel="noopener">{{ $www }}</a></p>
             {{- end -}}
+            {{- end }}
+            {{- with .Params.email }}
+            <p><strong>Email:</strong> <a href="mailto:{{ . }}">{{ . }}</a></p>
+            {{- end }}
         </div>
         {{- end }}
 

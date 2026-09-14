@@ -7,20 +7,15 @@ event_types:
 locations:
 - carshalton
 - surrey
-county: Surrey
+county: Greater London
 venue: The Hope
-address: West Street,
+address: West Street
 place: Carshalton
 post_code: SM5 2PR
 when: 8pm every 3rd Wednesday
 www: allezdansez.com
+email: allezdansez@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 16/09/2012
 ---
 

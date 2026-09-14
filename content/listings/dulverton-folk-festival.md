@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - dulverton
-- somerset
 county: Somerset
 venue: Various
 address: ''
@@ -14,13 +13,8 @@ place: Dulverton
 post_code: TA22
 when: May
 www: dulvertonfolkfestival.net
+email: info@dulvertonfolkfestival.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

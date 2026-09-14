@@ -8,18 +8,13 @@ locations:
 - essex
 county: Essex
 venue: The White Hart
-address: King's Walk, Argent Street, Grays, RM17 6HR
+address: King's Walk, Argent Street, Grays
 place: ''
-post_code: ''
+post_code: RM17 6HR
 when: Sunday afternoon (three per month)
 www: fabclubgrays.com
+email: fabclubgrays@googlemail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 FaB Club is a Get a Floor Spot Folk Club.

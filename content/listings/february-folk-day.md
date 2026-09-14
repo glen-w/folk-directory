@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - chester
-- cheshire
 county: Cheshire
 venue: Hoole Community Centre
 address: Westminster Road
@@ -14,13 +13,8 @@ place: Chester
 post_code: CH2 3AU
 when: February
 www: chesterfolk.org.uk
+email: info@chesterfolk.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

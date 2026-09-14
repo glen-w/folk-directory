@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - wath-upon-dearne
-- south-yorkshire
 county: South Yorkshire
 venue: Red Lion
 address: 10 High Street
 place: Wath upon Dearne
 post_code: S63 7QG
 when: Every Sunday from 8.00 pm
-www: sites.google.com/site/wathsundaysingaround/
+www: sites.google.com/site/wathsundaysingaround
+email: wathsingaround@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

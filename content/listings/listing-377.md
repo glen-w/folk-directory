@@ -14,11 +14,6 @@ place: Hampton Lucy
 post_code: CV35 8BE
 when: Second Fridays, After 9pm
 www: ''
+email: jan@bootfinder.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

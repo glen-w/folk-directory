@@ -6,20 +6,15 @@ event_types:
 - folk-club
 locations:
 - london
-county: London
+county: Greater London
 venue: The Queen's Head
 address: 66 Acton Street
 place: London
 post_code: WC1X 9NB
 when: Wednesdays, fortnightly
 www: ''
+email: stephen@folkroom.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 18/05/2012
 ---
 

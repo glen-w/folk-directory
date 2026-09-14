@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - barrow-upon-soar-near-loughborough
-- leicestershire
 county: Leicestershire
 venue: The Soar Bridge Inn
-address: ''
+address: 4 Barrow Road, Sileby, Loughborough, Leicestershire
 place: Barrow upon Soar, near Loughborough
 post_code: LE12 8PN
 when: Monday nights
 www: guf.org.uk
+email: bill.wilkes@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 18/11/2011
 ---
 

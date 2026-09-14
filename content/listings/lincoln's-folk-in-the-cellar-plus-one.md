@@ -8,18 +8,13 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: The Unison Club
-address: Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL
+address: Beaumont Manor, Beaumont Fee, Lincoln
 place: ''
-post_code: ''
+post_code: LN1 1UL
 when: Last Saturday of the month
 www: lincolnfolk.com
+email: marianne.watkins@virgin.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 The annual Lincoln Folk Festival, which has run for 25 years in the city of Lincoln UK, is no more. Instead we're running regular concerts throughout the year, with a 'Grand Concert' (this is the 'plus one'!).

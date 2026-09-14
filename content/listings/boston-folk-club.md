@@ -8,18 +8,13 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: The Eagle
-address: 144 West Street, Boston, PE21 8RE
-place: ''
-post_code: ''
+address: 144 West Street, Boston
+place: Lincs
+post_code: PE21 8RE
 when: Second Monday of the Month
 www: community.lincolnshire.gov.uk/bostonfolkclub/index.asp?catId=22345
+email: boston.folkclub@virgin.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Boston Folk Club has been meeting in the town for over 30 years, in a variety of venues including the Golden Lion, Blackfriars, the Pineapple Club and the Copper Kettle. For the past 10 years the club has been at its present home.

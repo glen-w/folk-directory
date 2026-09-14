@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - derby
-- derbyshire
 county: Derbyshire
 venue: The Old Derby Gaol
 address: Agard Street
 place: Derby
 post_code: DE1 1YS
 when: Third Thursday of the month
-www: ''
+www: www.dhtmc.co.uk
+email: baronhardup.stoneybrokecastle@ntlworld.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 28/01/2012
 ---
 

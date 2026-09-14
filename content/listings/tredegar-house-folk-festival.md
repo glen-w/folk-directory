@@ -13,13 +13,8 @@ place: Newport
 post_code: NP20 8YW
 when: May
 www: tredegarhousefestival.org.uk
+email: susieoates@bushell100.fsnet.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 28/01/2012
 ---
 

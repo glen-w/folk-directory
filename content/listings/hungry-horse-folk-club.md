@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - whitby
-- cheshire
 county: Cheshire
 venue: Whitby Sports & Social Club
 address: Chester Road
@@ -14,13 +13,8 @@ place: Whitby
 post_code: CH65 6QF
 when: Thursdays
 www: hungryhorseacoustic.com
+email: folksingerjohn@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/10/2011
 ---
 

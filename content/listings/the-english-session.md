@@ -7,20 +7,15 @@ event_types:
 locations:
 - greenwich
 - london
-county: London
+county: Greater London
 venue: Lord Hood
 address: 300 Creek Road
 place: Greenwich
 post_code: SE10 9SW
-when: Tuesdays at 9pm
+when: Every Tuesday, 9pm onwards
 www: greentrad.org.uk
+email: secretary@greentrad.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

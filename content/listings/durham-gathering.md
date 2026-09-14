@@ -7,18 +7,13 @@ event_types:
 locations:
 - gateshead
 - durham
-county: Durham
+county: Tyne and Wear
 venue: The Sage
 address: ''
 place: Gateshead
 post_code: NE8 2JR
 when: August
 www: thesagegateshead.org/folkworks
+email: folkworks@thesagegateshead.org
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

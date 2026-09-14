@@ -1,0 +1,18 @@
+---
+title: Session at Guest House
+id: 400
+name: Session at Guest House
+event_types:
+- session
+locations:
+- southport
+county: Merseyside
+venue: Guest House
+address: 16 Union Street
+place: Southport
+post_code: PR9 0QE
+when: First Mondays, 8.30pm to 11.00pm
+www: rednev-rearm.blogspot.com
+email: RedNevReARM@aol.com
+status: listed
+---

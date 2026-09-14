@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - west-bridgford
-- nottinghamshire
 county: Nottinghamshire
 venue: The Poppy and Pint
 address: Pierrepont Road, Lady Bay
@@ -14,13 +13,8 @@ place: West Bridgford
 post_code: NG2 5DX
 when: Either second or third Sunday each month
 www: poppyfolkclub.co.uk
+email: phil@poppyfolkclub.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

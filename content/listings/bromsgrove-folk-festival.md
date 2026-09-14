@@ -6,19 +6,13 @@ event_types:
 - festival
 locations:
 - bromsgrove
-- worcestershire
 county: Worcestershire
 venue: Various
-address: ''
+address: Meadow Road, Catshill, Bromsgrove
 place: Bromsgrove
 post_code: ''
 when: July
 www: bromsgrovefolkclub.co.uk
+email: bromsgroveman@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

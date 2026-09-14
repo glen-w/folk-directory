@@ -8,18 +8,12 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: The Unison Club
-address: Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL
+address: Beaumont Manor, Beaumont Fee, Lincoln
 place: ''
-post_code: ''
+post_code: LN1 1UL
 when: Alternate Fridays
 www: angelfire.com/folk/lincolnfolkclub
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Beaumont Manor is adjacent to City Hall Car Park and the Lounge Bar is on the ground floor with access via rear doorway,

@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - bury-st-edmunds
-- suffolk
 county: Suffolk
 venue: Constitutional Club
 address: 2 Guildhall Street
@@ -14,13 +13,8 @@ place: Bury St Edmunds
 post_code: IP33 1PR
 when: First and Third Fridays
 www: milkmaidmusic.co.uk/folkclub.html
+email: contact@milkmaidmusic.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 As well as hosting top name acts from the international folk world, local musicians and singers are encouraged to take part in Open Mic/Singers nights.

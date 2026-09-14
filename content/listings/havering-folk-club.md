@@ -7,7 +7,7 @@ event_types:
 locations:
 - romford
 - essex
-county: Essex
+county: Greater London
 venue: The White Horse
 address: Chadwell Heath
 place: Romford
@@ -15,12 +15,6 @@ post_code: RM6 6NU
 when: Wednesdays
 www: haveringfolkclub.bravehost.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 HaverFolk - The Feelgood Folk Club!

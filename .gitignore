@@ -10,12 +10,19 @@
 .vscode/
 .cursor/
 
+# Secrets
+.env
+.env.*
+!.env.example
+
 # Local tooling (not published; Pages only needs Hugo content + theme)
 prompts/
 ingest/
 scripts/
 docs/
 data/
+backups/
+holding/
 add_titles.py
 fix_front_matter.py
 migrate_descriptions.py
@@ -23,5 +30,6 @@ migrate_descriptions.py
 # Python
 __pycache__/
 *.pyc
+.pytest_cache/
 .venv/
 venv/

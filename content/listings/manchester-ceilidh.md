@@ -6,7 +6,6 @@ event_types:
 - dance
 locations:
 - manchester
-- greater-manchester
 county: Greater Manchester
 venue: Jabez Clegg
 address: 2 Portsmouth Street
@@ -14,13 +13,8 @@ place: Manchester
 post_code: M13 9GB
 when: Tuesdays
 www: manchesterceilidh.co.uk
+email: info@manchesterceilidh.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Manchester's only regular Ceilidh Night.

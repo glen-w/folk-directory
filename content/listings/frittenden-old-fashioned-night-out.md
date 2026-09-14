@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - frittenden
-- kent
 county: Kent
 venue: Bell & Jorrocks pub
 address: ''
@@ -14,13 +13,8 @@ place: Frittenden
 post_code: TN17 2EJ
 when: March
 www: frittendenfestival.com
+email: gmatkin@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

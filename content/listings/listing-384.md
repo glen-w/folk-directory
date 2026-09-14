@@ -14,11 +14,6 @@ place: Gloucester
 post_code: GL1 2NW
 when: First Tuesdays, 8.30pm
 www: ''
+email: b111t@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

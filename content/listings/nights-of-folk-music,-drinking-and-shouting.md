@@ -7,20 +7,15 @@ event_types:
 locations:
 - stockwell-london
 - london
-county: London
+county: Greater London
 venue: The Grosvenor
 address: 17 Sidney Road
 place: Stockwell, London
 post_code: SW9 0TP
 when: First Friday of the month.
 www: ''
+email: nofrillsband@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 15/10/2012
 ---
 

@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - montrose
-- angus
 county: Angus
 venue: Links Hotel
 address: Mid Links
@@ -15,12 +14,6 @@ post_code: DD10 8RL
 when: Every second Tuesday
 www: linkshotelmusic.com/folk-music.php
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 The club has been running since 1984 and is one of the oldest venues for folk music in Scotland.

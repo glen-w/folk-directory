@@ -7,20 +7,15 @@ event_types:
 locations:
 - romford
 - essex
-county: Essex
+county: Greater London
 venue: The Sun
 address: 47 London Road
 place: Romford
 post_code: RM7 9QA
 when: Tuesdays
 www: romfordfolkclub.com
+email: romfolk@live.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 For all types of acoustic music.

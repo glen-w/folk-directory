@@ -1,0 +1,20 @@
+---
+title: Royston Live
+id: 923
+name: Royston Live
+event_types:
+- folk-club
+locations:
+- cambridgeshire
+- hertfordshire
+county: Cambridgeshire
+venue: The Plough
+address: 12 High Street, Shepreth, Cambridgeshire
+place: Cambridgeshire
+post_code: SG8 6PP
+when: Thursday, Last in month
+www: www.roystonfolk.org
+status: listed
+---
+
+Royston Live at The Plough (Cambridgeshire) — Thursday, Last in month

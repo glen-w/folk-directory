@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - bath
-- somerset
 county: Somerset
 venue: Village Green
 address: Priston
@@ -14,13 +13,8 @@ place: Bath
 post_code: BA2 9EE
 when: September
 www: priston.org.uk/festival
+email: pristonfestival@googlemail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 09/06/2012
 ---
 

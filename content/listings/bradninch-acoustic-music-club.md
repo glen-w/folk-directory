@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - bradninch
-- devon
 county: Devon
 venue: St Disens Hall
 address: 1 Church Street
@@ -14,13 +13,8 @@ place: Bradninch
 post_code: EX5 4NS
 when: 2nd Wednesdays
 www: ''
+email: colin@willow1.freeserve.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 25/01/2012
 ---
 

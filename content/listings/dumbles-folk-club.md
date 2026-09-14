@@ -8,18 +8,13 @@ locations:
 - nottinghamshire
 county: Nottinghamshire
 venue: The Dumbles Pub
-address: Westhorpe, Southwell, NG25 0ND
+address: Westhorpe, Southwell
 place: ''
-post_code: ''
+post_code: NG25 0ND
 when: Thursdays
 www: dumblesfolk.webuda.com
+email: siddall394@tiscali.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 At the Dumbles Folk we welcome all musicians, singers, poets and listeners.

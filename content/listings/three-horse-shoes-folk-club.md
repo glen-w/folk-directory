@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - westbury
-- wiltshire
 county: Wiltshire
 venue: Three Horseshoes pub
 address: 68 High street, Chapmanslade
@@ -14,13 +13,8 @@ place: Westbury
 post_code: BA13 4AN
 when: One friday a month
 www: myspace.com/507142058
+email: nadiaevans@uwclub.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 03/03/2012
 ---
 

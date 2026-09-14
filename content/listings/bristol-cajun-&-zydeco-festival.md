@@ -6,20 +6,15 @@ event_types:
 - festival
 locations:
 - bristol
-county: Bristol
+county: Kent
 venue: The Folk House
 address: 40a Park Street
 place: Bristol
 post_code: CT5 4HS
 when: October
-www: bristolcajunfestival.com
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: bristol_cajun@yahoo.com
+status: defunct
 edited: 23/01/2012
 ---
 

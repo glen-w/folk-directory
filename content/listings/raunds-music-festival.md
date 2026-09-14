@@ -6,18 +6,13 @@ event_types:
 - festival
 locations:
 - '0'
-county: '0'
+county: Northamptonshire
 venue: May
 address: Various
 place: ''
 post_code: Raunds
 when: Northamptonshire
-www: NN9 6SX. raundsfestival.com
+www: raundsfestival.com
+email: info@raundsfestival.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

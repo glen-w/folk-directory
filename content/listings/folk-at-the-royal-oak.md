@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - lewes
-- east-sussex
 county: East Sussex
 venue: The Royal Oak
 address: 3 Station Street
 place: Lewes
 post_code: BN7 2DA
 when: Every Thursday
-www: ''
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: www.users.globalnet.co.uk/~tinvic
+email: tinvic@globalnet.co.uk
+status: defunct
 edited: 17/02/2012
 ---
 

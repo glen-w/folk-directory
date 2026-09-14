@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - isle-of-arran
-- north-ayrshire
 county: North Ayrshire
 venue: Various locations
 address: ''
@@ -14,13 +13,8 @@ place: Isle of Arran
 post_code: KA27
 when: June
 www: arranevents.com
+email: info@arranevents.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 25/01/2012
 ---
 

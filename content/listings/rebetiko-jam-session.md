@@ -13,13 +13,8 @@ place: London
 post_code: EC1I 0AG
 when: The first monday every month at 8.15 pm
 www: ''
+email: rebetikorecycled@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

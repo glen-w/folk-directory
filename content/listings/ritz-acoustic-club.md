@@ -6,21 +6,15 @@ event_types:
 - open-mic
 locations:
 - burnham-on-sea
-- somerset
 county: Somerset
 venue: The Ritz Social Club
 address: Victoria Street
 place: Burnham-On-Sea
 post_code: TA8 1AL
 when: Every Thursday
-www: ritzacoustic.com
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: info@ritzacoustic.com
+status: defunct
 edited: 23/01/2012
 ---
 

@@ -6,7 +6,6 @@ event_types:
 - festival
 locations:
 - ingleton
-- north-yorkshire
 county: North Yorkshire
 venue: Various
 address: ''
@@ -14,13 +13,8 @@ place: Ingleton
 post_code: ''
 when: October
 www: ingletonfolk.co.uk
+email: ingletonfolk@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 02/09/2012
 ---
 

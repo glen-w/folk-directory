@@ -6,19 +6,13 @@ event_types:
 - festival
 locations:
 - bradfield
-- south-yorkshire
 county: South Yorkshire
 venue: Various
 address: ''
 place: Bradfield
 post_code: ''
 when: July
-www: 0114 2851479
+www: ''
+email: edeophone@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

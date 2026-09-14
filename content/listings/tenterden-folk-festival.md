@@ -6,20 +6,14 @@ event_types:
 - festival
 locations:
 - tenterden
-- kent
 county: Kent
 venue: Various
-address: ''
+address: This Ancient Boro, 3 E Cross, Tenterden. Kent
 place: Tenterden
-post_code: ''
+post_code: TN30 6AD
 when: October
 www: tenterdenfolkfestival.org.uk
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+email: info@tenterdenfolkfestival.org.uk
+status: defunct
 edited: 23/01/2012
 ---

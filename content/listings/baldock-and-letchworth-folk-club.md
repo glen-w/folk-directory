@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - baldock
-- hertfordshire
 county: Hertfordshire
 venue: The Orange Tree
 address: Norton Road
@@ -14,13 +13,8 @@ place: Baldock
 post_code: SG7 5AW
 when: Wednesdays
 www: madnanny.co.uk
+email: alan@madnanny.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

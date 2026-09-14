@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - parkgate
-- cheshire
 county: Cheshire
 venue: The Boathouse
 address: 1 The Parade
@@ -14,13 +13,8 @@ place: Parkgate
 post_code: CH64 6RN
 when: Thursdays
 www: parkgatefolkclub.com
+email: info@parkgatefolkclub.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Parkgate Folk Club started in it’s present format in January 1994 in the Parkgate Hotel. In March 2000 the hotel closed for business and the club moved to The Boathouse.

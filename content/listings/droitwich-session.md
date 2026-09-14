@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - droitwich
-- worcestershire
 county: Worcestershire
 venue: Hop Pole
 address: Friar Street
@@ -14,13 +13,8 @@ place: Droitwich
 post_code: WR9 8ED
 when: First Sunday of month
 www: worcesterfolk.org.uk
+email: droitwichfolk@yahoo.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 08/02/2012
 ---
 

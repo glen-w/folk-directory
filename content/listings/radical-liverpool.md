@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - liverpool
-- merseyside
 county: Merseyside
 venue: Studio 2
 address: Parr Street
@@ -14,13 +13,8 @@ place: Liverpool
 post_code: L1 4JN
 when: 2nd Saturday monthly
 www: radicalliverpool.com/Home_Page.html
+email: radicalliverpool@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 20/03/2012
 ---
 

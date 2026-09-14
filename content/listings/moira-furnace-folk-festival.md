@@ -7,18 +7,13 @@ event_types:
 locations:
 - moira-swadlincote
 - derbyshire
-county: Derbyshire
+county: Leicestershire
 venue: Moira Furnace Museum (and others)
 address: Furnace Lane
 place: Moira, Swadlincote
 post_code: DE12 6AT
 when: August
 www: moirafurnacefolkfestival.co.uk
+email: info@moirafurnacefolkfestival.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

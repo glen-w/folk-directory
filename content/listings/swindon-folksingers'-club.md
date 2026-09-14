@@ -13,11 +13,6 @@ place: ''
 post_code: SN1 5JA
 when: Friday
 www: swindonfolk.org
+email: eric.stott2@ntworld.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

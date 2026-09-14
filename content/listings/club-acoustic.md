@@ -6,20 +6,13 @@ event_types:
 - folk-club
 locations:
 - buxton
-- derbyshire
 county: Derbyshire
 venue: The Eagle/The Prince of Wales
-address: ''
+address: 15 Lightwood Rd, Buxton
 place: Buxton
-post_code: ''
+post_code: SK17 7BJ
 when: Every Wednesday
 www: clubacoustic.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 18/11/2011
 ---

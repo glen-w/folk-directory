@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - ovingham-prudhoe
-- northumberland
 county: Northumberland
 venue: Bridge End Inn
 address: West Road
@@ -14,13 +13,8 @@ place: Ovingham, Prudhoe
 post_code: NE42 6BN
 when: 3rd Wednesday every month
 www: ''
+email: cannycrack@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 11/02/2013
 ---
 

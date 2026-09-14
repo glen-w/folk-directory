@@ -1,0 +1,20 @@
+---
+title: Common Folk Festival
+id: 932
+name: Common Folk Festival
+event_types:
+- folk-club
+locations:
+- leicester
+county: Leicestershire
+venue: The Regent Club
+address: 102 Regent Road, Leicester
+place: Leicester
+post_code: LE1 7DA
+when: Wednesday, 2nd in Month
+www: www.commonfolk.uk
+email: admin@commonfolk.uk
+status: listed
+---
+
+Common Folk Festival at The Regent Club (Leicester) — Wednesday, 2nd in Month

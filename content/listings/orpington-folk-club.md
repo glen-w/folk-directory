@@ -6,20 +6,16 @@ event_types:
 - folk-club
 locations:
 - kent
-county: Kent
+county: Greater London
 venue: The Change of Horses
-address: Farborough Village, Orpington, BR6 7BB
-place: ''
-post_code: ''
+address: Farborough Village, Orpington
+place: 6 Pleasant View Place Via Farrow Fields Farnborough Village Kent What3Words
+  - ///shout.speak.sticks
+post_code: BR6 7BB
 when: Thursdays
 www: orpingtonfolkclub.org.uk
+email: info@orpingtonfolkclub.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 A folk music & song club that welcomes participation through playing, singing or listening.

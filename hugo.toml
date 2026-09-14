@@ -7,6 +7,7 @@ theme = 'PaperMod'
   description = "A directory of folk music events across the UK — folk clubs, sessions, festivals and more."
   keywords = ["folk music", "folk clubs", "folk festivals", "sessions", "UK folk", "traditional music"]
   author = "Folk Directory"
+  images = ["/images/logo/folk-directory-og.png"]
 
   defaultTheme = "auto"
   ShowReadingTime = false
@@ -17,6 +18,20 @@ theme = 'PaperMod'
   ShowWordCount = false
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
+
+  [params.label]
+    text = "Folk Directory"
+    icon = "/images/logo/folk-directory-icon.png"
+    iconHeight = 36
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    safari_pinned_tab = "/safari-pinned-tab.svg"
+    theme_color = "#274F30"
+    msapplication_TileColor = "#274F30"
 
   [[params.socialIcons]]
     name = "email"
@@ -30,8 +45,10 @@ theme = 'PaperMod'
     enabled = true
     title = "Folk Directory"
     subtitle = "Your guide to folk music events across the UK"
-    imageUrl = "/images/logo/folk-directory-logo.gif"
-    imageTitle = "Folk Directory Logo"
+    imageUrl = "/images/logo/folk-directory-logo.png"
+    imageTitle = "Folk Directory"
+    imageWidth = 440
+    imageHeight = 181
     buttons = [
       {name = "Browse Events", url = "/listings/"},
       {name = "Map", url = "/map/"},
@@ -71,6 +88,11 @@ theme = 'PaperMod'
     url = "/search/"
     weight = 15
   [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 18
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
@@ -86,6 +108,10 @@ theme = 'PaperMod'
   tag = "tags"
   location = "locations"
   event_type = "event_types"
+
+# JSON on home is required for /search/ — PaperMod's Fuse.js fetches /index.json
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [markup]
   [markup.goldmark]

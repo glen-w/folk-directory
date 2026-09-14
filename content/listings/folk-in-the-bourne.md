@@ -13,11 +13,6 @@ place: ''
 post_code: SP4 0AB
 when: Fridays
 www: salisburyfolk.co.uk
+email: mail@salisburyfolk.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

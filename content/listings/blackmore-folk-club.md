@@ -13,11 +13,6 @@ place: ''
 post_code: CM1 3DT
 when: First Thursday every month
 www: folkmusic.org.uk/page2.html
+email: alan@folkmusic.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

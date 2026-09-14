@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - leyland
-- lancashire
 county: Lancashire
 venue: The Priory Club
 address: Broadfield Drive
@@ -14,13 +13,8 @@ place: Leyland
 post_code: PR25 1QN
 when: First, Third and Fifth Wednesdays of each month
 www: accordionclub.co.uk
+email: david@accordionclub.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 26/01/2012
 ---
 

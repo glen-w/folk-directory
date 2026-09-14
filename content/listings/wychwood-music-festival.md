@@ -9,15 +9,10 @@ locations:
 county: Gloucestershire
 venue: Cheltenham Racecourse
 address: ''
-place: ''
+place: Cheltenham Racecourse
 post_code: GL50 4SH
 when: June
 www: wychwoodfestival.com
+email: info@wychwoodfestival.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

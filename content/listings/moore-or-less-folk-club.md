@@ -8,16 +8,11 @@ locations:
 - kent
 county: Kent
 venue: Oast House Community Centre
-address: Granary Close, Rainham, ME8 7SG
+address: Granary Close, Rainham
 place: ''
-post_code: ''
+post_code: ME8 7SG
 when: Second Friday each month
 www: mooreorlessfolkclub.co.uk
+email: cwilkin@btconnect.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

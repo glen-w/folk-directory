@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - dorking
-- surrey
 county: Surrey
 venue: Friends Life Social Club
 address: Friends Life
@@ -14,13 +13,8 @@ place: Dorking
 post_code: RH4 1QA
 when: Wednesdays
 www: dorkingfolkclub.org.uk
+email: info@dorkingfolkclub.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 GUEST NIGHTS

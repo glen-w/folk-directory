@@ -1,0 +1,19 @@
+---
+title: The Burnaby Arms
+id: 850
+name: The Burnaby Arms
+event_types:
+- session
+locations:
+- bedford
+county: Bedfordshire
+venue: The Wellington Arms
+address: The Wellington Arms, 40-42 Wellington Street, Bedford
+place: Bedford
+post_code: MK40 2JX
+when: Tuesday, Last in month
+www: redcuthbert.uk/music-sessions
+status: listed
+---
+
+The Burnaby Arms at The Wellington Arms (Bedford) — Tuesday, Last in month

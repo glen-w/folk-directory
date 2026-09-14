@@ -9,15 +9,10 @@ locations:
 county: Norfolk
 venue: Christ Church Centre
 address: Magdalen Road
-place: ''
+place: Norfolk
 post_code: NR3 4LA
 when: Fridays
 www: norwichfolkclub.net
+email: contact[@]norwichfolkclub.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

@@ -13,11 +13,6 @@ place: Bristol
 post_code: BS1 5AR
 when: April / May
 www: bristolfolkfestival.com
+email: boxoffice@colstonhall.org
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

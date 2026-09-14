@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - glossop
-- derbyshire
 county: Derbyshire
 venue: Various
 address: ''
@@ -14,13 +13,8 @@ place: Glossop
 post_code: ''
 when: Various
 www: liftglobal.com
+email: liftrick@aol.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 18/11/2011
 ---
 

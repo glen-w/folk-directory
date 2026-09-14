@@ -13,13 +13,8 @@ place: Edinburgh
 post_code: EH8 9JG
 when: November
 www: scotsfiddlefestival.com
+email: info@scotsfiddlefestival.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 02/08/2012
 ---
 

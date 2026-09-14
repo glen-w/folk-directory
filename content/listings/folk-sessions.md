@@ -6,21 +6,15 @@ event_types:
 - session
 locations:
 - crowborough
-- east-sussex
 county: East Sussex
 venue: Coopers Arms
 address: Cooper Lane
 place: Crowborough
 post_code: TN6
 when: 1st Saturday of month
-www: ''
+www: folknstuffnnonsense.20m.com/folksessions.html
+email: folkatthefirestation@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 08/08/2013
 ---
 

@@ -1,0 +1,19 @@
+---
+title: Robin Hood's Bay Folk Club
+id: 849
+name: Robin Hood's Bay Folk Club
+event_types:
+- session
+locations:
+- robin-hood-s-bay
+county: North Yorkshire
+venue: The Bay Hotel - Wainwrights Bar
+address: The Bay Hotel, The Dock, Robin Hood's Bay
+place: Robin Hood's Bay
+post_code: YO22 4SJ
+when: Friday, Every Week
+www: BAYFOLK.rhbay.co.uk
+status: listed
+---
+
+Robin Hood's Bay Folk Club at The Bay Hotel - Wainwrights Bar (Robin Hood's Bay) — Friday, Every Week

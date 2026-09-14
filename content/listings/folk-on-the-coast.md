@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - bognor-regis
-- west-sussex
 county: West Sussex
 venue: Seasons, Bognor Town FC
 address: Nyewood Lane
 place: Bognor Regis
 post_code: PO21 2TY
 when: 2nd Friday of each month
-www: ''
+www: www.folkonthecoast.co.uk/htfu.html
+email: rnash10@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 05/05/2013
 ---
 

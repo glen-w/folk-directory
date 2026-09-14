@@ -1,0 +1,29 @@
+{{- $items := slice -}}
+{{- range .RegularPages -}}
+  {{- $eventTypes := .Params.event_types | default slice -}}
+  {{- if not (reflect.IsSlice $eventTypes) -}}
+    {{- $eventTypes = slice $eventTypes -}}
+  {{- end -}}
+  {{- $locations := .Params.locations | default slice -}}
+  {{- if not (reflect.IsSlice $locations) -}}
+    {{- $locations = slice $locations -}}
+  {{- end -}}
+  {{- /* Avoid .Summary — Hugo can panic on some pages (slice bounds). */ -}}
+  {{- $summary := .Plain | plainify | htmlUnescape | chomp | truncate 240 -}}
+  {{- $item := dict
+    "id" (.Params.id | default .File.ContentBaseName)
+    "title" .Title
+    "permalink" .RelPermalink
+    "summary" $summary
+    "event_types" $eventTypes
+    "county" (.Params.county | default "")
+    "status" (.Params.status | default "")
+    "when" (.Params.when | default "")
+    "venue" (.Params.venue | default "")
+    "place" (.Params.place | default "")
+    "post_code" (.Params.post_code | default "")
+    "locations" $locations
+  -}}
+  {{- $items = $items | append $item -}}
+{{- end -}}
+{{- dict "version" 1 "generated" (now.UTC.Format "2006-01-02T15:04:05Z07:00") "items" $items | jsonify -}}

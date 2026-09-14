@@ -6,21 +6,15 @@ event_types:
 - session
 locations:
 - ditchling
-- east-sussex
 county: East Sussex
 venue: The Bull Inn
 address: 2 High St
 place: Ditchling
 post_code: BN6 8TA
 when: Last Sunday of the month
-www: unreel.info/
+www: unreel.info
+email: michael@mjra.net
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 04/11/2013
 ---
 

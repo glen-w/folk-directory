@@ -13,11 +13,6 @@ place: ''
 post_code: GL50 1QA
 when: February
 www: cheltenhamtownhall.org.uk
+email: boxoffice@cheltenham.gov.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

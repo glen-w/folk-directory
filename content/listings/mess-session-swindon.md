@@ -1,0 +1,19 @@
+---
+title: MESS Session Swindon
+id: 3853
+name: MESS Session Swindon
+event_types:
+- session
+locations:
+- swindon
+county: Wiltshire
+venue: The Beehive
+address: 55 Prospect Hill, Swindon
+place: Swindon
+post_code: SN1 3JS
+when: Monday, Every 2 weeks
+www: ''
+status: listed
+---
+
+MESS Session Swindon at The Beehive (Swindon) — Monday, Every 2 weeks

@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - syston
-- leicestershire
 county: Leicestershire
 venue: The Queen Victoria
 address: High Street
@@ -14,13 +13,8 @@ place: Syston
 post_code: LE7 1GQ
 when: Every Monday, 9pm
 www: ''
+email: michael@sandersdesign.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 23/01/2012
 ---
 

@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - devoran
-- cornwall
 county: Cornwall
 venue: Devoran Village Hall
 address: Quay Road
@@ -14,13 +13,8 @@ place: Devoran
 post_code: TR3 6PW
 when: Monthly
 www: devoranvillagehall.org.uk
+email: devoranvh@live.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 21/02/2012
 ---
 

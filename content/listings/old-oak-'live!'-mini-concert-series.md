@@ -6,7 +6,6 @@ event_types:
 - folk-club
 locations:
 - horley-woodhouse
-- derbyshire
 county: Derbyshire
 venue: The Old Oak Inn
 address: 176 Main Street
@@ -14,13 +13,8 @@ place: Horley Woodhouse
 post_code: DE7 6AW
 when: Usually a Wed or a Thurs but irregular
 www: ''
+email: keith@keithkendrick.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 28/01/2012
 ---
 

@@ -6,7 +6,6 @@ event_types:
 - open-mic
 locations:
 - middlesbrough
-- north-yorkshire
 county: North Yorkshire
 venue: Westgarth Social Club
 address: Southfield Road
@@ -14,13 +13,8 @@ place: Middlesbrough
 post_code: TS1 3EZ
 when: 1st Thursday of every month
 www: shipyardrsongwriters.com/gigs
+email: info@shipyardsongwriters.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 09/02/2012
 ---
 

@@ -1,0 +1,20 @@
+---
+title: SongFest
+id: 3724
+name: SongFest
+event_types:
+- festival
+locations:
+- draycote-hotel
+county: Warwickshire
+venue: ''
+address: ''
+place: Draycote Hotel
+post_code: ''
+when: August
+www: songfest.live
+email: info@songfest.live
+status: listed
+---
+
+A micro music festival celebrating really good songs and the folks who write them. A weekend of powerful, poignant, and hilarious songs and stories by these acclaimed songsmiths.

@@ -7,20 +7,15 @@ event_types:
 locations:
 - driffield
 - east-riding
-county: East Riding
+county: North Yorkshire
 venue: The Wold Top Brewery
 address: Hunmanby Grange
 place: Driffield
 post_code: YO25 3HS
 when: July
 www: woldtopbrewery.co.uk/moonbeams
+email: moonbeamsacoustic@hotmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 24/01/2012
 ---
 

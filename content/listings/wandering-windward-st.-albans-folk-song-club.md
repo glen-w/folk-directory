@@ -13,13 +13,8 @@ place: ''
 post_code: ''
 when: Sunday
 www: folk4all.net/Windindex.htm
+email: j.breeze2@ntlworld.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 non-smoking-crisp-crunching-walking-talking-mobile-phone-ringing-in-yer-face-folk-club

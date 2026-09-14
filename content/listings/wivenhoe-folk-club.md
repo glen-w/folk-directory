@@ -9,17 +9,11 @@ locations:
 county: Essex
 venue: The Greyhound
 address: High Street, Wivenhoe
-place: ''
+place: Wivenhoe
 post_code: ''
 when: First Thursday every month
 www: wivenhoe.gov.uk/Orgs/folkclub/home.htm
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 The Wivenhoe Folk Club has been meeting at The Greyhound in Wivenhoe High Street since 5th March, 1992.

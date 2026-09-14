@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - aberystwyth
-- ceredigion
 county: Ceredigion
 venue: The Coopers Arms
 address: Northgate Street
@@ -14,13 +13,8 @@ place: Aberystwyth
 post_code: sy24
 when: every Tuesday evening
 www: ''
+email: brenigfolk@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 03/12/2013
 ---
 

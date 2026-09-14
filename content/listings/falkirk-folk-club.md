@@ -13,11 +13,6 @@ place: Falkirk
 post_code: FK1 1NL
 when: Thursdays
 www: falkirkfolkclub.co.uk
+email: info@falkirkfolkclub.co.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

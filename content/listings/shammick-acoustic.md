@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - combe-martin
-- devon
 county: Devon
 venue: The Pack O' Cards
 address: High Street
 place: Combe Martin
 post_code: ''
 when: 2nd & 4th Saturdays
-www: shammickacoustic.org.uk
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: contact@shammickacoustic.org.uk
+status: defunct
 ---
 
 SECOND SATURDAYS

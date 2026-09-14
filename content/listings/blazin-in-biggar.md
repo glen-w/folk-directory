@@ -1,0 +1,20 @@
+---
+title: Blazin' in Biggar
+id: 3673
+name: Blazin' in Biggar
+event_types:
+- festival
+locations:
+- biggar
+- lanarkshire
+county: South Lanarkshire
+venue: ''
+address: ''
+place: Biggar
+post_code: ''
+when: June
+www: blazininbiggar.com
+status: listed
+---
+
+Recently launched, Blazin' Fiddles are running an event in Biggar. A sister fiddle school to the well established Blazin' in Beauly. This summer the band will launch 'Blazin' in Biggar' - bringing together fiddlers, guitarists and piano players for a weekend of great workshops and music making.

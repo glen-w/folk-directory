@@ -1,0 +1,19 @@
+---
+title: The Willows Folk Club at Wrea Green
+id: 842
+name: The Willows Folk Club at Wrea Green
+event_types:
+- folk-club
+locations:
+- pr4-2ph2ph
+county: Lancashire
+venue: Wrea Green Institute
+address: Wrea Green Institute, Station Road, Wrea Green, Preston, PR4 2PH2PH
+place: PR4 2PH2PH
+post_code: ''
+when: Wednesday, Every 2 weeks
+www: www.thewillowsfolkclub.co.uk
+status: listed
+---
+
+The Willows Folk Club at Wrea Green at Wrea Green Institute (PR4 2PH2PH) — Wednesday, Every 2 weeks

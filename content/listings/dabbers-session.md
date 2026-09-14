@@ -6,7 +6,6 @@ event_types:
 - session
 locations:
 - nantwich
-- cheshire
 county: Cheshire
 venue: The Rifleman
 address: 68 James Hall Street
@@ -15,12 +14,6 @@ post_code: CW5 5QE
 when: First and third Thursdaya
 www: myspace.com/dabberssession
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---
 
 Musicians and singers please join us but contact me first to confirm future dates and venues and save yourselves a wasted journey.

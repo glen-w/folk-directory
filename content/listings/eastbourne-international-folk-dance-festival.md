@@ -7,18 +7,13 @@ event_types:
 locations:
 - wembdon-bridgwater
 - east-sussex
-county: East Sussex
+county: Somerset
 venue: Various
 address: Inwood Road
 place: Wembdon, Bridgwater
 post_code: TA6 7PP
 when: April / May
 www: eiff.org.uk
+email: director@eiff.org.uk
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 ---

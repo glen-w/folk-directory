@@ -6,21 +6,15 @@ event_types:
 - folk-club
 locations:
 - cowden-pound-near-edenbridge
-- kent
 county: Kent
 venue: The Queens Arms
 address: ''
 place: Cowden Pound, near Edenbridge
-post_code: TN8  5NP
+post_code: TN8 5NP
 when: One saturday each month
 www: elsiesband.com
+email: hills636@btinternet.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 30/12/2011
 ---
 

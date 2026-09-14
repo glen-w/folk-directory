@@ -6,7 +6,6 @@ event_types:
 - dance
 locations:
 - kennington
-- oxfordshire
 county: Oxfordshire
 venue: Kennington Village Hall
 address: Kennington Road
@@ -14,13 +13,8 @@ place: Kennington
 post_code: OX1 5PG
 when: 2nd Sat of each month, Oct - May (except April)
 www: ''
+email: oxfolk@gmail.com
 status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
 edited: 26/06/2012
 ---
 

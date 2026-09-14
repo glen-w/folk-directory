@@ -6,21 +6,15 @@ event_types:
 - festival
 locations:
 - burnham-on-sea
-- somerset
 county: Somerset
 venue: Town Centre and Manor Gardens
 address: ''
 place: Burnham-on-Sea
 post_code: TA8 1AR
 when: August / September
-www: folkfest.co.uk
-status: listed
-last_seen: '2018-01-29'
-sources:
-- name: folkdirectory-legacy
-  url: ''
-  first_seen: '2018-01-29'
-  last_seen: '2018-01-29'
+www: ''
+email: info@folkfest.co.uk
+status: defunct
 edited: 23/01/2012
 ---
 
