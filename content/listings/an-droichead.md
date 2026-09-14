@@ -20,4 +20,4 @@ email: eolas@androichead.com
 status: listed
 ---
 
-An Droichead, Belfast Over the past year and a half An Droichead has quickly and professionally established itself as one of the best traditional music venues in Belfast. Moreover, this is a reputation that has travelled throughout Belfast and beyond; one which has granted them access to the very finest of international and local traditional music talent. Concert nights are a beacon of musical cel
+Over the past year and a half, An Droichead has quickly and professionally established itself as one of the best traditional music venues in Belfast. Its reputation has travelled throughout Belfast and beyond, granting it access to the very finest international and local traditional music talent.

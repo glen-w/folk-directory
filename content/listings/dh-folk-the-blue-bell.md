@@ -1,7 +1,7 @@
 ---
-title: DH Folk The Blue Bell
+title: Folk The Blue Bell
 id: 3845
-name: DH Folk The Blue Bell
+name: Folk The Blue Bell
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-DH Folk The Blue Bell at The Blue Bell (Earlswood) — Tuesday, 4th in Month
+Folk The Blue Bell at The Blue Bell (Earlswood) — Tuesday, 4th in Month

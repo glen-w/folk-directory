@@ -1,7 +1,7 @@
 ---
-title: DH Folk Music and Song Session The Bull
+title: Folk Music and Song Session The Bull
 id: 3843
-name: DH Folk Music and Song Session The Bull
+name: Folk Music and Song Session The Bull
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-DH Folk Music and Song Session The Bull at The Bull (Birmingham) — Tuesday, 1st in Month
+Folk Music and Song Session The Bull at The Bull (Birmingham) — Tuesday, 1st in Month

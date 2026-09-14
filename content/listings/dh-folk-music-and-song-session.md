@@ -1,7 +1,7 @@
 ---
-title: DH Folk Music and Song Session
+title: Folk Music and Song Session
 id: 3842
-name: DH Folk Music and Song Session
+name: Folk Music and Song Session
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-DH Folk Music and Song Session at The Wellington (Birmingham) — Tuesday, 3rd in Month
+Folk Music and Song Session at The Wellington (Birmingham) — Tuesday, 3rd in Month

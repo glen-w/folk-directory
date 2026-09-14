@@ -1,7 +1,7 @@
 ---
-title: DH Folk The Good Intent
+title: Folk The Good Intent
 id: 3844
-name: DH Folk The Good Intent
+name: Folk The Good Intent
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-DH Folk The Good Intent at The Good Intent (Birmingham) — Tuesday, 2nd in Month
+Folk The Good Intent at The Good Intent (Birmingham) — Tuesday, 2nd in Month

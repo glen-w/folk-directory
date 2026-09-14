@@ -1,7 +1,7 @@
 ---
-title: DH Folk The Wellington (5th Week)
+title: Folk The Wellington (5th Week)
 id: 3846
-name: DH Folk The Wellington (5th Week)
+name: Folk The Wellington (5th Week)
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-DH Folk The Wellington (5th Week) at The Wellington (Bennetts Hill Birmingham) — Tuesday, Other
+Folk The Wellington (5th Week) at The Wellington (Bennetts Hill Birmingham) — Tuesday, Other
