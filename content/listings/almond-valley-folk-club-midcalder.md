@@ -17,4 +17,4 @@ www: magjam.webring.com/avfc.html
 status: listed
 ---
 
-Almond Valley Folk Club, Midcalder Almond Valley Folk Club - This club meets at The Railway Inn, 43 Main Street, West Calder, West Lothian, EH55 8DL on the THIRD Tuesday of each month from 8pm in the back room Valley Folk Club
+The club meets at The Railway Inn, 43 Main Street, West Calder, West Lothian, EH55 8DL, on the third Tuesday of each month from 8pm in the back room.

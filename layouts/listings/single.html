@@ -15,7 +15,7 @@
 {{- if $mapsQuery }}{{ $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($mapsQuery | urlquery) }}{{ end -}}
 
 <p class="listing-back">
-    <a href="{{ "listings/" | relURL }}" class="listing-back-link">← Back to listings</a>
+    <button type="button" class="listing-back-link" onclick="history.back()">← Back</button>
 </p>
 
 <header class="page-header">
@@ -39,9 +39,17 @@
         <section class="listing-section venue-info">
             <h3>Venue</h3>
             {{- if $venue }}
-            <p>
+            <p class="venue-name">
                 {{- if $mapsURL -}}
-                <a href="{{ $mapsURL }}" target="_blank" rel="noopener">{{ $venue }}</a>
+                <a href="{{ $mapsURL }}" class="venue-maps-link" target="_blank" rel="noopener">
+                    <svg class="venue-pin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" aria-hidden="true">
+                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                        <circle cx="12" cy="10" r="3"></circle>
+                    </svg>
+                    <span>{{ $venue }}</span>
+                </a>
                 {{- else -}}
                 {{ $venue }}
                 {{- end -}}

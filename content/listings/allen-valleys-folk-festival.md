@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/allen_valleys_folk_festival_logo_3739.png
 ---
 
-Ours is a small village based festival, booking about a dozen bands and artists for the festival weekend. We use our village hall and our local church as our main music venues (They have an audience capacity of about 200 each). We also organise a family ceilidh and free gigs in the local pubs and open mic sessions at the Forge Studios and Cafe. We also use the church hall, our library, the Medway
+The festival is a small village-based event, booking about a dozen bands and artists for the festival weekend. The village hall and local church serve as the main music venues, each with an audience capacity of about 200. A family ceilidh, free gigs in the local pubs, and open mic sessions at the Forge Studios and Cafe are also organised. The church hall, the library, and the Medway are also used.
