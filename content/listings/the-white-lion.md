@@ -15,7 +15,6 @@ when: '"Monday Singers Nights - singaround to which all are welcome - free Start
   8pm"'
 www: www.folknorthwest.co.uk/club-swinton.html
 status: listed
-logo: /images/listings/the_white_lion_logo_1032.png
 ---
 
 Salford | Greater Manchester | England | tel 0161 278 1738 | @53.50782,-2.33408

@@ -1,0 +1,20 @@
+{{/*
+  Resolve a listing logo path.
+  Uses Params.logo only when the file exists under static/.
+  Otherwise falls back to the Folk Directory icon.
+
+  Returns dict:
+    src           string  — URL path for <img src>
+    isPlaceholder bool    — true when using the site placeholder
+*/}}
+{{- $placeholder := "/images/logo/folk-directory-icon.png" -}}
+{{- $src := $placeholder -}}
+{{- $isPlaceholder := true -}}
+{{- with .Params.logo -}}
+  {{- $rel := strings.TrimPrefix "/" . -}}
+  {{- if fileExists (printf "static/%s" $rel) -}}
+    {{- $src = . -}}
+    {{- $isPlaceholder = false -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "src" $src "isPlaceholder" $isPlaceholder) -}}

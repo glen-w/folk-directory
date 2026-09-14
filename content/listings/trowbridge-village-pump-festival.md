@@ -15,5 +15,4 @@ when: July
 www: trowbridgefestival.co.uk
 email: enquiries@trowbridgefestival.co.uk
 status: listed
-logo: /images/listings/trowbridge_village_pump_festival_logo_263.png
 ---

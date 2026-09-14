@@ -14,7 +14,6 @@ post_code: ''
 when: June
 www: www.edenfestival.co.uk
 status: listed
-logo: /images/listings/the_eden_festival_logo_3658.png
 ---
 
 This is very much a mixture of everything you might find at a festival of some sort - circus, jazz, rockabilly, acoustic, dance, folk. brass, swing. Spread over four days, you might find something you like. Not your standard folk festival, but family friendly fun.

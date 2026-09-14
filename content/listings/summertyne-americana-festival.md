@@ -15,5 +15,4 @@ when: July
 www: thesagegateshead.org/folkworks
 email: ticketoffice@thesagegateshead.org
 status: listed
-logo: /images/listings/summertyne_americana_festival_logo_262.png
 ---

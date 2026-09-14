@@ -15,5 +15,4 @@ when: April / May
 www: bristolfolkfestival.com
 email: boxoffice@colstonhall.org
 status: listed
-logo: /images/listings/bristol_folk_festival_logo_186.png
 ---

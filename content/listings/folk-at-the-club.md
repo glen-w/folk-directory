@@ -14,7 +14,6 @@ post_code: GL3 2ER
 when: Monday, 1st & 3rd
 www: liamtho.com/FolkAtTheClub
 status: listed
-logo: /images/listings/folk_at_the_club_logo_847.png
 ---
 
 Folk At THe Club at Churchdown Club (Churchdown GL3 2ER.) — Monday, 1st & 3rd

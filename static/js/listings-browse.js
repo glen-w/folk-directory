@@ -272,9 +272,10 @@
         const logoClass = hasLogo
           ? "listings-card-logo"
           : "listings-card-logo listings-card-logo--placeholder";
+        const onError = `this.onerror=null;this.src='${escapeHtml(fallback)}';this.classList.add('listings-card-logo--placeholder')`;
         return `
           <article class="post-entry listings-card">
-            <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy">
+            <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy" onerror="${onError}">
             <div class="listings-card-body">
               <header class="entry-header">
                 <h2 class="entry-hint-parent">${escapeHtml(item.title)}</h2>

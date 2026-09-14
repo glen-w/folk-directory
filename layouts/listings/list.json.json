@@ -10,6 +10,12 @@
   {{- end -}}
   {{- /* Avoid .Summary — Hugo can panic on some pages (slice bounds). */ -}}
   {{- $summary := .Plain | plainify | htmlUnescape | chomp | truncate 240 -}}
+  {{- $logo := partial "listing-resolved-logo.html" . -}}
+  {{- /* Empty string when placeholder so browse JS applies placeholder styling. */ -}}
+  {{- $logoOut := "" -}}
+  {{- if not $logo.isPlaceholder -}}
+    {{- $logoOut = $logo.src -}}
+  {{- end -}}
   {{- $item := dict
     "id" (.Params.id | default .File.ContentBaseName)
     "title" .Title
@@ -23,7 +29,7 @@
     "place" (.Params.place | default "")
     "post_code" (.Params.post_code | default "")
     "locations" $locations
-    "logo" (.Params.logo | default "")
+    "logo" $logoOut
   -}}
   {{- $items = $items | append $item -}}
 {{- end -}}

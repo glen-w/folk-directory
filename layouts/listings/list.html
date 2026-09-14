@@ -58,10 +58,10 @@
     <div id="listings-fallback" class="listings-fallback">
       <ul class="listings-fallback-list">
         {{- range .RegularPages.ByTitle }}
-        {{- $logo := .Params.logo | default "/images/logo/folk-directory-icon.png" -}}
+        {{- $logo := partial "listing-resolved-logo.html" . -}}
         <li class="listings-fallback-item">
-          <img class="listings-fallback-logo{{- if not .Params.logo }} listings-fallback-logo--placeholder{{ end }}"
-            src="{{ $logo | relURL }}" alt="" width="28" height="28">
+          <img class="listings-fallback-logo{{- if $logo.isPlaceholder }} listings-fallback-logo--placeholder{{ end }}"
+            src="{{ $logo.src | relURL }}" alt="" width="28" height="28">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
         {{- end }}

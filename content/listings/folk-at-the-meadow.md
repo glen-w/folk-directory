@@ -14,7 +14,6 @@ post_code: DE56 1BA
 when: Varied, Variable
 www: black-dog-radio.com/black-dog-radio-presents
 status: listed
-logo: /images/listings/folk_at_the_meadow_logo_905.png
 ---
 
 Folk at the Meadow at Belper Meadows Cricket Club (Belper) — Varied, Variable

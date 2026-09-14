@@ -22,7 +22,7 @@ theme = 'PaperMod'
   [params.label]
     text = "Folk Directory"
     icon = "/images/logo/folk-directory-logo.png"
-    iconHeight = 52
+    iconHeight = 69
 
   [params.assets]
     favicon = "/favicon.ico"

@@ -15,5 +15,4 @@ when: April / May
 www: medway.gov.uk/sweepsfestival
 email: visitor.centre@medway.gov.uk
 status: defunct
-logo: /images/listings/rochester_sweeps_festival_logo_189.png
 ---

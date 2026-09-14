@@ -16,5 +16,4 @@ when: First Tuesday each month, 8.00pm
 www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
-logo: /images/listings/listing_376_logo_376.png
 ---

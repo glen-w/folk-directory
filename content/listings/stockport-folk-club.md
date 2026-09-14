@@ -14,7 +14,6 @@ post_code: SK4 1HJ
 when: Thursday, Every 2 weeks
 www: folkmusic.wixsite.com/stockport-acoustic
 status: listed
-logo: /images/listings/stockport_folk_club_logo_787.png
 ---
 
 Stockport Folk Club at The Midland (Stockport) — Thursday, Every 2 weeks

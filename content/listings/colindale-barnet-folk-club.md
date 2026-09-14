@@ -15,7 +15,6 @@ when: Friday, 3rd in Month
 www: www.mark3music.co.uk/cfc
 email: mark_mulrooney@hotmail.com
 status: listed
-logo: /images/listings/colindale_barnet_folk_club_logo_891.png
 ---
 
 Colindale Barnet Folk Club at The Bull Theatre (Barnet) — Friday, 3rd in Month

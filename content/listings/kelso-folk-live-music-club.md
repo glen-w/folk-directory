@@ -15,7 +15,6 @@ post_code: ''
 when: Friday, Every Week
 www: www.kelsofolk.co.uk
 status: listed
-logo: /images/listings/kelso_folk_and_live_music_club_logo_807.png
 ---
 
 Kelso Folk & Live Music Club at The Cobbles Inn (Kelso) — Friday, Every Week

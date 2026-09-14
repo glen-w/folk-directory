@@ -16,7 +16,6 @@ www: poyntonceilidh.co.uk
 email: info@poyntonceilidh.co.uk
 status: listed
 edited: 17/09/2013
-logo: /images/listings/poynton_ceilidhs_logo_618.png
 ---
 
 Folk dancing to the best bands and callers.

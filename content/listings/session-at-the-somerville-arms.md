@@ -15,7 +15,6 @@ when: First and Third Wednesday of the month, 8.30pm
 www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
-logo: /images/listings/session_at_the_somerville_arms_logo_334.png
 ---
 
 Leamington Spa | Warwickshire | England | tel 01926 426746 | info@somervillearms.co.uk | @52.29356,-1.52548

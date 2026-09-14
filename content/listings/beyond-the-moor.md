@@ -15,7 +15,6 @@ when: October
 www: www.gosforthcivictheatre.co.uk/whats-on/beyond-the-moor
 email: info@gosforthcivictheatre.co.uk
 status: listed
-logo: /images/listings/beyond_the_moor_logo_1309.png
 ---
 
 It's back again, for it's fourth year. Intends to showcase contemporary, alternative and traditional folk and roots music. Includes local and national artists. An afternoon and evening event.

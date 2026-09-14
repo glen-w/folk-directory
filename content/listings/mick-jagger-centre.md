@@ -17,7 +17,6 @@ when: This is a great session for everyone.  It has a great format, everyone sit
   all are encouraged to join in.    Originally started from a folk workshop, the sam
 www: www.themickjaggercentre.com
 status: listed
-logo: /images/listings/mick_jagger_centre_logo_3020.png
 ---
 
 The Mick Jagger Centre , Dartford Regular Folk and Roots concerts at this purpose built Dartford venue

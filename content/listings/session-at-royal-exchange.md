@@ -15,5 +15,4 @@ when: Fourth Wednesdays, 20.00 to 23.00
 www: englishfiddle.com
 email: englishfiddle@yahoo.co.uk
 status: listed
-logo: /images/listings/session_at_royal_exchange_logo_418.png
 ---

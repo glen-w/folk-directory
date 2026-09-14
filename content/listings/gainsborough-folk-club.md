@@ -15,7 +15,6 @@ when: Every other Friday
 www: gainsboroughfolkclub.com
 email: mike_dewsbury@yahoo.co.uk
 status: listed
-logo: /images/listings/gainsborough_folk_club_logo_133.png
 ---
 
 Gainsborough is a small market town in north west Lincolnshire (England).

@@ -94,8 +94,12 @@
 .logo a img {
   border-radius: 0;
   width: auto;
-  height: 52px;
-  max-height: 52px;
+  height: 69px;
+  max-height: 69px;
+}
+
+.menu {
+  align-items: center;
 }
 
 .menu .menu-theme-toggle {
@@ -110,9 +114,14 @@
   cursor: pointer;
 }
 
+.menu a:has(.nav-icon) {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+
 .menu .nav-icon {
   display: block;
-  vertical-align: middle;
 }
 
 .home-map {

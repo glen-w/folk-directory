@@ -14,7 +14,6 @@ post_code: S40 3AW
 when: Wednesday, 1st in Month
 www: bramptonsessions.co.uk
 status: listed
-logo: /images/listings/the_brampton_sessions_logo_876.png
 ---
 
 The Brampton Sessions at St Thomas Church Centre (Chesterfield) — Wednesday, 1st in Month

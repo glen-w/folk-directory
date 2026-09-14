@@ -17,7 +17,6 @@ www: landmarkartscentre.org
 email: info@landmarkartscentre.org
 status: listed
 edited: 05/09/2013
-logo: /images/listings/folk_at_the_landmark_logo_616.png
 ---
 
 Generally one or two folk or roots concerts per season Autumn 2013 - Prelude in Concert Saturday 21st September.

@@ -15,5 +15,4 @@ when: June
 www: wychwoodfestival.com
 email: info@wychwoodfestival.com
 status: listed
-logo: /images/listings/wychwood_music_festival_logo_212.png
 ---

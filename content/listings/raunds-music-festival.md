@@ -15,5 +15,4 @@ when: Northamptonshire
 www: raundsfestival.com
 email: info@raundsfestival.com
 status: listed
-logo: /images/listings/raunds_music_festival_logo_191.png
 ---

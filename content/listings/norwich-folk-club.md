@@ -15,5 +15,4 @@ when: Fridays
 www: norwichfolkclub.net
 email: contact[@]norwichfolkclub.net
 status: listed
-logo: /images/listings/norwich_folk_club_logo_76.png
 ---

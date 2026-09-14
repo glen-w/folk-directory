@@ -16,7 +16,6 @@ www: innerleithenmusicfestival.org
 email: imfpublicity@aol.com
 status: listed
 edited: 01/06/2012
-logo: /images/listings/innerleithen_music_festival_logo_562.png
 ---
 
 Annual festival in a beautifully situated small town with a mix of big name concerts from the world of Scottish/Celtic music, workshops and lots of informal music.  Check the web site for more info!

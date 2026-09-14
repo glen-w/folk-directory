@@ -15,7 +15,6 @@ when: June
 www: folkonthequay.co.uk
 email: paul@fawm.net
 status: listed
-logo: /images/listings/poole_folk_on_the_quay_logo_598.png
 ---
 
 A new free festival for Poole with music and dance on the streets overlooking Poole's lovely harbour. Headliners are Spiers & Boden and The Roving Crows with ceilidh dancing to Dyer:Cumming Band and the Dorset Ceilidh Band. Music will be playing in all the pubs on The Quay.

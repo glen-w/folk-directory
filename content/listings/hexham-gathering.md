@@ -16,5 +16,4 @@ when: May
 www: thesagegateshead.org/folkworks
 email: folkworks@thesagegateshead.org
 status: listed
-logo: /images/listings/hexham_gathering_logo_202.png
 ---

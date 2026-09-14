@@ -15,7 +15,6 @@ post_code: ''
 when: May
 www: www.tradmusic.com/springgrass-bluegrass-music-festival.php
 status: listed
-logo: /images/listings/autumn_trad_fest_logo_1360.png
 ---
 
 Autumn Trad Fest in Newton Stewart — May

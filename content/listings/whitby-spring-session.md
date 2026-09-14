@@ -15,5 +15,4 @@ when: May
 www: moorandcoast.co.uk
 email: moorcoast@yahoo.com
 status: listed
-logo: /images/listings/whitby_spring_session_logo_204.png
 ---

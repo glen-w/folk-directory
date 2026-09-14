@@ -16,7 +16,6 @@ www: scotsfiddlefestival.com
 email: info@scotsfiddlefestival.com
 status: listed
 edited: 06/11/2013
-logo: /images/listings/scots_fiddle_festival_fiddle_2013_logo_631.png
 ---
 
 The Scots Fiddle Festival is three days of unforgettable concerts, daytime recitals, workshops, talks, festival clubs, ceilidhs and the Fiddle Walk. There is a programme of free events including ‘Come and try fiddle’ workshops, a ‘Come and try Gaelic’ workshop, the Open Stage, all day music sessions and stalls as well a folk church service on the Sunday morning.

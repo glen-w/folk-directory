@@ -14,7 +14,6 @@ post_code: NG9 1EL
 when: Friday, Every Week
 www: folkbeeston.club
 status: listed
-logo: /images/listings/second_time_around_logo_800.png
 ---
 
 Second Time Around at Royal British Legion (Nottingham) — Friday, Every Week

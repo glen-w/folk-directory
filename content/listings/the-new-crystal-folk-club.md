@@ -14,7 +14,6 @@ post_code: B62 9JG
 when: Friday, Every Week
 www: newcrystalfolkclub.weebly.com
 status: listed
-logo: /images/listings/the_new_crystal_folk_club_logo_920.png
 ---
 
 The New Crystal Folk Club at Hill & Cakemore Liberal Club (Halesowen) — Friday, Every Week

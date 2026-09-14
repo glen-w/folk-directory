@@ -16,7 +16,6 @@ www: folkonmonday.co.uk
 email: folkandroots@gmail.com
 status: listed
 edited: 24/01/2012
-logo: /images/listings/folkonmonday_logo_507.png
 ---
 
 Presenting the best of the folk scene at Camden's highly regarded Green Note

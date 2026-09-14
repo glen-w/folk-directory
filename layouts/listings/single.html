@@ -2,9 +2,9 @@
 
 <header class="page-header">
     <div class="listing-title-row">
-        {{- $logo := .Params.logo | default "/images/logo/folk-directory-icon.png" -}}
-        <img class="listing-logo{{- if not .Params.logo }} listing-logo--placeholder{{ end }}"
-            src="{{ $logo | relURL }}" alt="" width="96" height="96">
+        {{- $logo := partial "listing-resolved-logo.html" . -}}
+        <img class="listing-logo{{- if $logo.isPlaceholder }} listing-logo--placeholder{{ end }}"
+            src="{{ $logo.src | relURL }}" alt="" width="96" height="96">
         <h1>{{- .Title -}}</h1>
     </div>
     {{- if .Params.venue }}

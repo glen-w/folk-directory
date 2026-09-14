@@ -15,5 +15,4 @@ when: Sunday night
 www: readifolk.org.uk
 email: una@readifolk.org.uk
 status: listed
-logo: /images/listings/readifolk_logo_51.png
 ---

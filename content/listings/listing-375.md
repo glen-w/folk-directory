@@ -16,5 +16,4 @@ when: First and Third Wednesdays, 8.30pm
 www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
-logo: /images/listings/listing_375_logo_375.png
 ---

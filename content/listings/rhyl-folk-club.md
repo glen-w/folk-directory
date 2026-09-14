@@ -15,7 +15,6 @@ post_code: ''
 when: Friday, Every Week
 www: rhylfolkclub.com
 status: listed
-logo: /images/listings/rhyl_folk_club_logo_887.png
 ---
 
 Rhyl Folk Club at Ffordd Las Community Centre (Rhyl) — Friday, Every Week

@@ -16,7 +16,6 @@ www: tredegarhousefestival.org.uk
 email: susieoates@bushell100.fsnet.co.uk
 status: listed
 edited: 28/01/2012
-logo: /images/listings/tredegar_house_folk_festival_logo_541.png
 ---
 
 A weekend of dance and music from across the world. Concerts, ceilidhs, music sessions and FREE dance displays.
