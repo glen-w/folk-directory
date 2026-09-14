@@ -61,7 +61,13 @@
     const status = document.getElementById("folk-map-status");
     if (!el || !window.L) return;
 
-    const map = L.map(el).setView([54.5, -3.5], 6);
+    // Rough UK envelope (incl. Shetland / Scilly); blocks panning abroad.
+    const ukBounds = L.latLngBounds([49.5, -8.8], [61.2, 2.1]);
+    const map = L.map(el, {
+      maxBounds: ukBounds.pad(0.08),
+      maxBoundsViscosity: 1.0,
+      minZoom: 5,
+    }).setView([54.5, -3.5], 6);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution:
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -94,7 +100,10 @@
         cluster.addLayer(marker);
       });
       if (locations.length) {
-        map.fitBounds(cluster.getBounds().pad(0.08));
+        const fitted = cluster.getBounds().pad(0.08);
+        map.fitBounds(ukBounds.intersects(fitted) ? fitted.intersect(ukBounds) : ukBounds);
+      } else {
+        map.fitBounds(ukBounds);
       }
       if (status) {
         status.textContent = "";
