@@ -15,6 +15,7 @@ when: Wednesdays
 www: dorkingfolkclub.org.uk
 email: info@dorkingfolkclub.org.uk
 status: listed
+logo: /images/listings/dorking_folk_club_logo_47.png
 ---
 
 GUEST NIGHTS

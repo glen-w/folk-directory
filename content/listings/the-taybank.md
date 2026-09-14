@@ -15,6 +15,7 @@ when: Weekly Thursday session from 8pm onward, mostly Scottish and Irish trad
 www: www.thetaybank.co.uk
 email: info@thetaybank.co.uk
 status: listed
+logo: /images/listings/the_taybank_logo_1493.png
 ---
 
 Dunkeld & Birnham | Perth And Kinross | Scotland | tel 01350 677123 | info@thetaybank.co.uk | @56.56502,-3.58459

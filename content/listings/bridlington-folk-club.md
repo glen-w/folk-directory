@@ -14,6 +14,7 @@ post_code: ''
 when: Tuesday, Every 2 weeks
 www: bridlingtonfolkclub.weebly.com
 status: listed
+logo: /images/listings/bridlington_folk_club_logo_1102.png
 ---
 
 Bridlington Folk Club at The Telegraph (East Yorkshire) — Tuesday, Every 2 weeks

@@ -16,6 +16,7 @@ www: tenterdenfolkfestival.org.uk
 email: info@tenterdenfolkfestival.org.uk
 status: defunct
 edited: 23/01/2012
+logo: /images/listings/tenterden_folk_club_logo_498.png
 ---
 
 Free monthly song and music session in the bar.  All welcome.

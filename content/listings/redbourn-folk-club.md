@@ -15,6 +15,7 @@ post_code: ''
 when: Wednesday, Every Week
 www: www.redbournfolkclub.org.uk
 status: listed
+logo: /images/listings/redbourn_folk_club_logo_655.png
 ---
 
 Redbourn Folk Club at The Holly-Bush PH, Redbourne (Redbourn (near St Albans) Herts .) — Wednesday, Every Week

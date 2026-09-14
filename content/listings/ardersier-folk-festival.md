@@ -16,6 +16,7 @@ when: Tuesday, Every Week
 www: www.ardersierfolkclub.org.uk
 email: info@ardersierfolkclub.org.uk
 status: listed
+logo: /images/listings/ardersier_folk_festival_logo_925.png
 ---
 
 Ardersier Folk Festival at Ardersier Church Hall, (Ardersier.) — Tuesday, Every Week

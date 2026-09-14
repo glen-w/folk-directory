@@ -14,6 +14,7 @@ post_code: B79 7LR
 when: Friday, 1st & 3rd
 www: www.tamworthfolk.co.uk
 status: listed
+logo: /images/listings/tamworth_folk_club_logo_863.png
 ---
 
 Tamworth Folk Club at The Tamworth Tap & Brewery (Tamworth) — Friday, 1st & 3rd

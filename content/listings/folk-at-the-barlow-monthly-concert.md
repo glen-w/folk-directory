@@ -15,6 +15,7 @@ when: Friday, 3rd in Month
 www: www.folkatthebarlow.com
 email: folkatthebarlow@gmail.com
 status: listed
+logo: /images/listings/folk_at_the_barlow_monthly_concert_logo_852.png
 ---
 
 Folk at the Barlow monthly Concert at The Barlow, Edgworth (Bolton) — Friday, 3rd in Month

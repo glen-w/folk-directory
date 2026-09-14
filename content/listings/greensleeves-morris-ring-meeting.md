@@ -15,4 +15,5 @@ when: July
 www: themorrisring.org
 email: bagman@themorrisring.org
 status: listed
+logo: /images/listings/greensleeves_morris_ring_meeting_logo_255.png
 ---

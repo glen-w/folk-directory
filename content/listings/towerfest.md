@@ -16,6 +16,7 @@ when: June
 www: www.towerfest.co.uk
 email: sales@towerfest.co.uk
 status: listed
+logo: /images/listings/towerfest_logo_3665.png
 ---
 
 Country music in Yorkshire. We often include something that isn't your traditional folk festival, and country music is sort of folky. So here it is.

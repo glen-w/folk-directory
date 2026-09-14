@@ -15,6 +15,7 @@ post_code: ''
 when: Friday, Every Week
 www: www.baccapipes.org.uk
 status: listed
+logo: /images/listings/baccapipes_folk_club_logo_755.png
 ---
 
 BACCApipes Folk club at Riddlesden Memorial Institute (Keighley.) — Friday, Every Week

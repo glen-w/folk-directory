@@ -15,6 +15,7 @@ when: Saturday
 www: whitehorseceilidhs.org.uk
 email: info@whitehorseceilidhs.org.uk
 status: listed
+logo: /images/listings/white_horse_ceilidh_logo_57.png
 ---
 
 The emphasis is more on having fun than getting it right or 'historically correct', so it doesn't matter if you've never done it before. The caller walks through every dance before it starts then prompts during the dance, you can't go wrong!

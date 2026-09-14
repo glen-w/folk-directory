@@ -15,6 +15,7 @@ post_code: ''
 when: Friday, Every Week
 www: www.stonehavenfolkclub.co.uk
 status: listed
+logo: /images/listings/stonehaven_folk_club_logo_805.png
 ---
 
 Stonehaven Folk Club at Community Centre (Stonehaven) — Friday, Every Week

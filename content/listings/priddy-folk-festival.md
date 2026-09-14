@@ -15,4 +15,5 @@ when: July
 www: priddyfolk.org
 email: tickets@priddyfolk.org
 status: listed
+logo: /images/listings/priddy_folk_festival_logo_253.png
 ---

@@ -15,4 +15,5 @@ when: Regular
 www: kitchengardencafe.co.uk
 email: info@kitchengardencafe.co.uk
 status: listed
+logo: /images/listings/folk_club_at_the_kitchen_garden_cafe_logo_22.png
 ---

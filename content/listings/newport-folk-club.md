@@ -16,6 +16,7 @@ www: www.newportfolkclub.co.uk
 email: topdog@newportfolkclub.co.uk
 status: listed
 edited: 24/01/2012
+logo: /images/listings/newport_folk_club_logo_512.png
 ---
 
 Newport Folk is one of, if not the oldest Folk Clubs in South Wales.

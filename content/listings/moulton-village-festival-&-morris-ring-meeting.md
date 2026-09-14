@@ -15,4 +15,5 @@ when: May
 www: themorrisring.org
 email: melodeonplayer@hotmail.com
 status: listed
+logo: /images/listings/moulton_village_festival_and_morris_ring_meeting_logo_199.png
 ---

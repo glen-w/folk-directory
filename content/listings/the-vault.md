@@ -14,6 +14,7 @@ post_code: DG8 6BT
 when: Friday, Variable
 www: www.thevaultartscentre.co.uk/index.php
 status: listed
+logo: /images/listings/the_vault_logo_909.png
 ---
 
 The Vault at The Vault Art Centre (Newton Stewart) — Friday, Variable

@@ -15,5 +15,7 @@ when: October
 www: gawiefest.co.uk
 email: mike@gawiefest.co.uk
 status: listed
+logo: /images/listings/get_a_word_in_edgeways_logo_3742.png
 ---
+
 We occasionally feature festivals with a difference. And this time it is a veritable feast of interweaving words: stories, poems, rap and songs, from across the Welsh Marches, West Midlands and the whole wide world!

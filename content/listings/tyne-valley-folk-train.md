@@ -14,6 +14,7 @@ post_code: NE47 7HU
 when: Sunday, Variable
 www: www.tynevalleyfolktrain.co.uk
 status: listed
+logo: /images/listings/tyne_valley_folk_train_logo_828.png
 ---
 
 Tyne Valley Folk Train at Train from Newcasle Central to Bardon Mill (Bardon Mill Hexham Norhumberland) — Sunday, Variable

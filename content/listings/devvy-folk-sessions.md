@@ -14,6 +14,7 @@ post_code: ''
 when: Sunday, 1st in Month
 www: www.sticklepath.org/groups-committees/devvy-folk-sessions
 status: listed
+logo: /images/listings/devvy_folk_sessions_logo_824.png
 ---
 
 Devvy Folk Sessions at Devonshire Inn (Devon) — Sunday, 1st in Month

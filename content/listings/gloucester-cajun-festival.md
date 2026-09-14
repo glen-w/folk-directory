@@ -15,4 +15,5 @@ when: January
 www: gloucestercajunfestival.co.uk
 email: booking@gloucester.gov.uk
 status: listed
+logo: /images/listings/gloucester_cajun_festival_logo_161.png
 ---

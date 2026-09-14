@@ -14,6 +14,7 @@ post_code: ''
 when: July
 www: www.stonehavenfolkfestival.co.uk
 status: listed
+logo: /images/listings/stonehaven_folk_festival_logo_1409.png
 ---
 
 The small NE Coastal Town of Stonehaven comes alive with a Weekend of Music and song - Concerts in the Town Hall plus workshops, Ceilidh, sessions, late-night concerts, free afternoon concerts, Family show, Aqua ceilidh, World Paper and Comb Championships, Tradition Bearers Concert and more all around the Town.

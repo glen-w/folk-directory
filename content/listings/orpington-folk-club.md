@@ -16,6 +16,7 @@ when: Thursdays
 www: orpingtonfolkclub.org.uk
 email: info@orpingtonfolkclub.org.uk
 status: listed
+logo: /images/listings/orpington_folk_club_logo_122.png
 ---
 
 A folk music & song club that welcomes participation through playing, singing or listening.

@@ -16,6 +16,7 @@ www: thecrownatworthington.co.uk
 email: brianr@bjsystems.co.uk
 status: listed
 edited: 23/01/2012
+logo: /images/listings/session_at_the_crown_logo_392.png
 ---
 
 Wigan | Greater Manchester | England | tel 01257 263678 | @53.59725,-2.64184

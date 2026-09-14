@@ -14,4 +14,5 @@ post_code: PE9 3ET
 when: First Tuesday of the month
 www: www.acousticsessions.co.uk
 status: listed
+logo: /images/listings/acoustic_sessions_logo_67.png
 ---

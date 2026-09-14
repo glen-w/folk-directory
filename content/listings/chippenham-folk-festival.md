@@ -15,4 +15,5 @@ when: May
 www: chippfolk.co.uk
 email: info@chippfolk.co.uk
 status: listed
+logo: /images/listings/chippenham_folk_festival_logo_205.png
 ---

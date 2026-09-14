@@ -16,6 +16,7 @@ www: blackswanfolkclub.org.uk
 email: blackswanfolkclub@yahoo.co.uk
 status: listed
 edited: 12/02/2012
+logo: /images/listings/black_swan_folk_club_logo_552.png
 ---
 
 York's premier folk music venue, presenting local, national and international

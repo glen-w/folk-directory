@@ -14,6 +14,7 @@ post_code: ''
 when: Wednesday, Every 2 weeks
 www: www.kittygreenwoodmusic.com
 status: listed
+logo: /images/listings/play_it_by_ear_logo_864.png
 ---
 
 Play it By Ear at The Pilgrim Centre (Shropshire) — Wednesday, Every 2 weeks

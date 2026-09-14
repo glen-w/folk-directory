@@ -14,6 +14,7 @@ post_code: NE2 2TF
 when: Thursday, 1st & 3rd
 www: tynesidefiddlealliance.org.uk
 status: listed
+logo: /images/listings/tyneside_fiddle_alliance_logo_911.png
 ---
 
 Tyneside Fiddle Alliance at St George's Church Hall, Jesmond (Newcastle upon Tyne) — Thursday, 1st & 3rd

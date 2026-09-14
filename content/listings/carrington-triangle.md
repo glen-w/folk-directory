@@ -15,6 +15,7 @@ post_code: ''
 when: Wednesday, Every Week
 www: www.carringtontriangle.org.uk
 status: listed
+logo: /images/listings/carrington_triangle_logo_804.png
 ---
 
 Carrington Triangle at The Gladstone Hotel (Nottingham) — Wednesday, Every Week

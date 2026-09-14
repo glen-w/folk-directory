@@ -15,4 +15,5 @@ when: September
 www: moseleyfolk.co.uk
 email: info@moseleyfolk.co.uk
 status: listed
+logo: /images/listings/moseley_folk_festival_logo_293.png
 ---

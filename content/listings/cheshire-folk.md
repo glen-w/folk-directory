@@ -14,6 +14,7 @@ post_code: ''
 when: Sunday, 1st in Month
 www: www.cheshirefolk.com
 status: listed
+logo: /images/listings/cheshire_folk_logo_820.png
 ---
 
 Cheshire Folk at Boars Head Hotel (Cheshire) — Sunday, 1st in Month

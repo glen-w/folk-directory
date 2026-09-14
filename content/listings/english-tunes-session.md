@@ -14,6 +14,7 @@ post_code: SO17 2JZ
 when: Tuesday, 2nd in Month
 www: englishtunes.wordpress.com
 status: listed
+logo: /images/listings/english_tunes_session_logo_890.png
 ---
 
 English tunes session at Woodie's at the Junction (Southampton) — Tuesday, 2nd in Month

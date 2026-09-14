@@ -16,6 +16,7 @@ www: broadstairsfolkweek.org.uk
 email: info@broadstairsfolkweek.org.uk
 status: listed
 edited: 28/01/2012
+logo: /images/listings/broadstairs_folk_week_logo_536.png
 ---
 
 Over 500 events in one week with venues all over Broadstairs, including Concert Tent, Pavilion on the Sands, Sailing Club, Bandstand, Jetty and many more.

@@ -16,6 +16,7 @@ www: unreel.info
 email: michael@mjra.net
 status: listed
 edited: 04/11/2013
+logo: /images/listings/the_bull_session_logo_628.png
 ---
 
 8.00pm start - 10.30pm finish. An eclectic acoustic music session - rags, reels and airs; tunes from all over; songs from all over; folk, blues and beyond. Hosted by Ian Chisholm and Stephen Sibbald and other members of the Unreel Ceilidh Band.

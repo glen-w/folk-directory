@@ -16,4 +16,5 @@ when: August
 www: thesagegateshead.org/folkworks
 email: folkworks@thesagegateshead.org
 status: listed
+logo: /images/listings/durham_gathering_logo_281.png
 ---

@@ -15,6 +15,7 @@ post_code: ''
 when: March
 www: www.nielgowfestival.co.uk
 status: listed
+logo: /images/listings/niel_gow_festival_logo_3620.png
 ---
 
 In collaboration with Tunes in the House Annual Scottish fiddle festival. A fun-filled weekend of fiddle music and good craic, this very informal festival kicks off on Friday night and celebrates the life of Perthshire's fiddle legend. The link is to their new website.

@@ -16,4 +16,5 @@ when: August
 www: moirafurnacefolkfestival.co.uk
 email: info@moirafurnacefolkfestival.co.uk
 status: listed
+logo: /images/listings/moira_furnace_folk_festival_logo_284.png
 ---

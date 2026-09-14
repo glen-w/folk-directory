@@ -14,6 +14,7 @@ post_code: ''
 when: the sessions are every thursday at 19:00
 www: irishculturalcentre.co.uk
 status: listed
+logo: /images/listings/irish_cultural_centre_logo_2539.png
 ---
 
 Hammersmith | London | England | tel 020 8563 8232 | @51.49235,-0.22533

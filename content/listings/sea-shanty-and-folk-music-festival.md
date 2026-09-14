@@ -15,6 +15,7 @@ when: July
 www: wsmshantyfest.com
 email: robinwhitlock1966@gmail.com
 status: listed
+logo: /images/listings/sea_shanty_and_folk_music_festival_logo_3705.png
 ---
 
 Folk music. Shanty singing. Pirates. Food and drink. That should keep a lot of people happy!

@@ -15,4 +15,5 @@ when: July
 www: womad.org
 email: info@womad.org
 status: listed
+logo: /images/listings/womad_logo_268.png
 ---

@@ -3,6 +3,7 @@
 
   const DEFAULTS = {
     indexUrl: "/listings/index.json",
+    placeholderLogo: "/images/logo/folk-directory-icon.png",
     enabledFilterIds: ["type", "county"],
     showOptions: [10, 25, 50, 100, "all"],
     defaultShow: 25,
@@ -250,12 +251,13 @@
     return bits.join(" · ");
   }
 
-  function renderResults(root, items) {
+  function renderResults(root, items, placeholderLogo) {
     if (!items.length) {
       root.innerHTML =
         '<p class="listings-empty">No events match these filters.</p>';
       return;
     }
+    const fallback = placeholderLogo || DEFAULTS.placeholderLogo;
     root.innerHTML = items
       .map((item) => {
         const meta = metaLine(item);
@@ -265,13 +267,21 @@
         const footer = meta
           ? `<footer class="entry-footer"><span class="listings-card-meta">${escapeHtml(meta)}</span></footer>`
           : "";
+        const hasLogo = Boolean(item.logo);
+        const logoSrc = hasLogo ? item.logo : fallback;
+        const logoClass = hasLogo
+          ? "listings-card-logo"
+          : "listings-card-logo listings-card-logo--placeholder";
         return `
           <article class="post-entry listings-card">
-            <header class="entry-header">
-              <h2 class="entry-hint-parent">${escapeHtml(item.title)}</h2>
-            </header>
-            ${summary}
-            ${footer}
+            <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy">
+            <div class="listings-card-body">
+              <header class="entry-header">
+                <h2 class="entry-hint-parent">${escapeHtml(item.title)}</h2>
+              </header>
+              ${summary}
+              ${footer}
+            </div>
             <a class="entry-link" aria-label="post link to ${escapeHtml(item.title)}" href="${escapeHtml(item.permalink)}"></a>
           </article>`;
       })
@@ -366,7 +376,7 @@
         config
       );
       renderStatus(statusEl, items.length, filtered.length);
-      renderResults(resultsEl, pageInfo.items);
+      renderResults(resultsEl, pageInfo.items, config.placeholderLogo);
       renderPagination(paginationEl, pageInfo, state.show);
       syncUrl(state, config, enabledFilters);
     }

@@ -14,6 +14,7 @@ post_code: M8 8PY
 when: Tuesday, 3rd in Month
 www: www.all-things-considered.org
 status: listed
+logo: /images/listings/the_virtual_folk_club_logo_856.png
 ---
 
 The Virtual Folk Club at Derby Brewery Arms Cheetham Hill Road Manchester (Manchester) — Tuesday, 3rd in Month

@@ -14,6 +14,7 @@ post_code: CH62 4UQ
 when: Wednesday
 www: www.bromfolkclub.com
 status: listed
+logo: /images/listings/bromborough_folk_club_logo_88.png
 ---
 
 Our policy of encouraging all to get up and have a go continues unchanged. Though we use PA and microphones our aim is only to lift the sound and not for any fancy effects. Don’t be put off if you are new to singing remember we were all beginners once. So if you fancy singing a song or perhaps reciting some poetry you can be sure of a warm and friendly welcome. If you would rather just sit and listen then you will be just as warmly received.

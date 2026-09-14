@@ -14,6 +14,7 @@ post_code: OX7 6AG
 when: Saturday, Variable
 www: www.wychwoodfolkclub.com
 status: listed
+logo: /images/listings/wychwood_folk_club_logo_840.png
 ---
 
 Wychwood Folk Club at Tiddy Hall (Oxfordshire) — Saturday, Variable

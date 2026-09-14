@@ -15,6 +15,7 @@ post_code: CB4 3DL
 when: Sunday, Every Week
 www: blackfenfolkclub.com
 status: listed
+logo: /images/listings/black_fen_folk_club_logo_846.png
 ---
 
 Black Fen Folk Club at NCI Club (Cambridge) — Sunday, Every Week

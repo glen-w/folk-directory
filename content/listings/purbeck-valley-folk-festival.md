@@ -14,6 +14,7 @@ post_code: ''
 when: August
 www: www.purbeckvalleyfolkfestival.co.uk
 status: listed
+logo: /images/listings/purbeck_valley_folk_festival_logo_1083.png
 ---
 
 Purbeck Folk Festival in the rolling hills of Dorset. Located on a little sheep farm and in its fifth year, it's "how festivals used to be" - friendly, great for kids and adults alike, and small enough to be able to wander around and not lose your friends. Purbeck Folk Festival covers the broader definition of folk music and you can hear music from all around the world; some deep and meaningful, s

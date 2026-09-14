@@ -15,6 +15,7 @@ when: January
 www: www.strawbear.org.uk
 email: info@strawbear.org.uk
 status: listed
+logo: /images/listings/straw_bear_festival_logo_3607.png
 ---
 
 Folk tradition and folk music. Folk dancing. Straw Bear Parade. Often the first festival of the year. The Straw Bear Festival celebrates the old Fenland plough custom of parading straw bears around the town every January.

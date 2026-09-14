@@ -15,4 +15,5 @@ when: September
 www: eatmt.org.uk
 email: info@eatmt.fsnet.co.uk
 status: listed
+logo: /images/listings/traditional_music_day_logo_295.png
 ---

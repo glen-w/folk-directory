@@ -17,6 +17,7 @@ www: woldtopbrewery.co.uk/moonbeams
 email: moonbeamsacoustic@hotmail.com
 status: listed
 edited: 24/01/2012
+logo: /images/listings/moonbeams_wold_top_folk_festival_logo_524.png
 ---
 
 Moonbeams Summer Festival at The Wold Top Brewery.. 

@@ -15,6 +15,7 @@ post_code: EH22 4NA
 when: Thursday, Every Week
 www: Nittenfolk.com
 status: listed
+logo: /images/listings/nittenfolk_logo_880.png
 ---
 
 Nittenfolk at The Dean Tavern (Dalkeith) — Thursday, Every Week

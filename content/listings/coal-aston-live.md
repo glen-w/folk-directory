@@ -14,6 +14,7 @@ post_code: ''
 when: Saturday, Variable
 www: www.scuppered.org/coal-aston-live-events
 status: listed
+logo: /images/listings/coal_aston_live_logo_813.png
 ---
 
 Coal Aston Live at Coal Aston Village Hall (Dronfield) — Saturday, Variable

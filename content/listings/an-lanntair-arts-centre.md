@@ -14,6 +14,7 @@ post_code: HS1 2DS
 when: Varied, Variable
 www: www.lanntair.com
 status: listed
+logo: /images/listings/an_lanntair_arts_centre_logo_894.png
 ---
 
 An Lanntair Arts Centre at An Lanntair Arts Centre (Isle of Lewis) — Varied, Variable

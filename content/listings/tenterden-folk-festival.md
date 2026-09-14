@@ -16,4 +16,5 @@ www: tenterdenfolkfestival.org.uk
 email: info@tenterdenfolkfestival.org.uk
 status: defunct
 edited: 23/01/2012
+logo: /images/listings/tenterden_folk_festival_logo_302.png
 ---

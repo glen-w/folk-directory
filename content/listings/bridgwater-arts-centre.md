@@ -18,6 +18,7 @@ when: This is a new open session, meeting on the last Tuesday of the month for f
 www: www.bridgwaterartscentre.co.uk
 email: info@bridgwaterartscentre.co.uk
 status: listed
+logo: /images/listings/bridgwater_arts_centre_logo_2968.png
 ---
 
 Bridgwater Arts Centre , Bridgwater, Somerset

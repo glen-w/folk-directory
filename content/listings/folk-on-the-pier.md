@@ -15,4 +15,5 @@ when: May
 www: folkonthepier.co.uk
 email: info@deckchairproductions.co.uk
 status: listed
+logo: /images/listings/folk_on_the_pier_logo_193.png
 ---

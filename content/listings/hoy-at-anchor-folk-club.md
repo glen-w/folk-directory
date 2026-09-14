@@ -14,6 +14,7 @@ post_code: SS9 2UJ
 when: Tuesday, Every Week
 www: www.hoyatanchor.org
 status: listed
+logo: /images/listings/hoy_at_anchor_folk_club_logo_860.png
 ---
 
 Hoy at Anchor Folk Club at The Estuary Club (1386 London Road Leigh-on-Sea Essex) — Tuesday, Every Week

@@ -23,6 +23,7 @@
     "place" (.Params.place | default "")
     "post_code" (.Params.post_code | default "")
     "locations" $locations
+    "logo" (.Params.logo | default "")
   -}}
   {{- $items = $items | append $item -}}
 {{- end -}}

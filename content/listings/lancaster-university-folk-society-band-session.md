@@ -14,6 +14,7 @@ post_code: LA1 4YT
 when: Friday, Every Week
 www: wp.lancs.ac.uk/folksoc
 status: listed
+logo: /images/listings/lancaster_university_folk_society_band_session_logo_879.png
 ---
 
 Lancaster University Folk Society - Band session at Bowland Bar (Lancaster) — Friday, Every Week

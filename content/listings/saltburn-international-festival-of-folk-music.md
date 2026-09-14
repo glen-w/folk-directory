@@ -15,4 +15,5 @@ when: August
 www: saltburnfolkfestival.com
 email: saltburnfolkfestival@talktalk.net
 status: listed
+logo: /images/listings/saltburn_international_festival_of_folk_music_logo_282.png
 ---

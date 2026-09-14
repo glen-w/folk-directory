@@ -15,6 +15,7 @@ when: July
 www: folkale.co.uk
 email: info@folkale.co.uk
 status: listed
+logo: /images/listings/pig_s_ear_folk_ale_logo_3693.png
 ---
 
 On a new site, check website. It's about people coming together to eat, drink and make music. It is not a traditional music festival. Lots of ales and concerts, open mike and sessions in the bar. Even some morris dancing. Small craft fair.

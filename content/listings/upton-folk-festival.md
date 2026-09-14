@@ -15,4 +15,5 @@ when: April
 www: uptonfolk.org
 email: boxoffice@uptonfolk.org
 status: listed
+logo: /images/listings/upton_folk_festival_logo_184.png
 ---

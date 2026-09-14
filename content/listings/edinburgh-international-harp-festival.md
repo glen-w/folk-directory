@@ -15,6 +15,7 @@ when: April
 www: www.harpfestival.co.uk
 email: office@harpfestival.co.uk
 status: listed
+logo: /images/listings/edinburgh_international_harp_festival_logo_3627.png
 ---
 
 Courses, Concerts, workshops, harp exhibition, sessions, ceilidh. One for the harp enthusiasts.

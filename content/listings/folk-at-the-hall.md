@@ -15,6 +15,7 @@ post_code: ''
 when: Sunday, 1st in Month
 www: www.greatnorthfolk.com
 status: listed
+logo: /images/listings/folk_at_the_hall_logo_900.png
 ---
 
 Folk at the Hall at Sleights Village Hall (WHITBY) — Sunday, 1st in Month

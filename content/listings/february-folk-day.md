@@ -16,6 +16,7 @@ www: chesterfolk.org.uk
 email: info@chesterfolk.org.uk
 status: listed
 edited: 23/01/2012
+logo: /images/listings/february_folk_day_logo_168.png
 ---
 
 A small friendly one-day event with afternoon concert, evening ceilidh and folk club. Sessions, singarounds etc from 12 noon.

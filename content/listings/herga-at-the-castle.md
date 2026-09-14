@@ -15,6 +15,7 @@ when: Monday, Every Week
 www: herga.club
 email: oldtimetim@gmail.com
 status: listed
+logo: /images/listings/herga_at_the_castle_logo_812.png
 ---
 
 Herga at The Castle at The Castle (Harrow) — Monday, Every Week

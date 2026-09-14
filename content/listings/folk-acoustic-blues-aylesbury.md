@@ -14,6 +14,7 @@ post_code: HP19 7HT
 when: Friday, 1st & 3rd
 www: fabaylesbury.co.uk
 status: listed
+logo: /images/listings/folk_acoustic_and_blues_aylesbury_logo_861.png
 ---
 
 Folk Acoustic & Blues Aylesbury at Fairford Leys Centre (Aylesbury) — Friday, 1st & 3rd

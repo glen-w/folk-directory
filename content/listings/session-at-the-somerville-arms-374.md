@@ -15,4 +15,5 @@ when: First Friday, 8.30pm
 www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
+logo: /images/listings/session_at_the_somerville_arms_logo_374.png
 ---

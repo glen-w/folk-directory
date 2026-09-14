@@ -15,6 +15,7 @@ post_code: ''
 when: Varied, Variable
 www: www.folkinthebarn.co.uk
 status: listed
+logo: /images/listings/folk_in_the_barn_logo_788.png
 ---
 
 Folk in the Barn at Various venues in Canterbury (Canterbury) — Varied, Variable

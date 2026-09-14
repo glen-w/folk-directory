@@ -14,6 +14,7 @@ post_code: ''
 when: ''
 www: www.dreamersfolk.co.uk
 status: listed
+logo: /images/listings/dreamers_folk_logo_728.png
 ---
 
 Dreamers Folk , Four Lanes, Cornwall

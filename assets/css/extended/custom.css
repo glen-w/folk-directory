@@ -7,6 +7,85 @@
 .listing-footer a { font-weight: 600; }
 #folk-map { background: #e8efe9; }
 
+.listing-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+}
+
+.listing-title-row h1 {
+  margin: 0;
+}
+
+.listing-logo {
+  flex: 0 0 auto;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  background: transparent;
+}
+
+.listing-logo--placeholder {
+  opacity: 0.9;
+  padding: 0.35rem;
+  box-sizing: border-box;
+  background: var(--brand-cream);
+  border-radius: 4px;
+}
+
+.listings-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.85rem;
+}
+
+.listings-card-logo {
+  flex: 0 0 auto;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  margin-top: 0.15rem;
+}
+
+.listings-card-logo--placeholder {
+  opacity: 0.9;
+  padding: 0.25rem;
+  box-sizing: border-box;
+  background: var(--brand-cream);
+  border-radius: 4px;
+}
+
+.listings-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.listings-card-body .entry-header h2 {
+  margin-top: 0;
+}
+
+.listings-fallback-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  break-inside: avoid;
+  margin: 0.35rem 0;
+}
+
+.listings-fallback-logo {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.listings-fallback-logo--placeholder {
+  padding: 0.15rem;
+  box-sizing: border-box;
+  background: var(--brand-cream);
+  border-radius: 3px;
+}
+
 .logo a.logo-link {
   font-size: 0;
   line-height: 1;
@@ -15,8 +94,25 @@
 .logo a img {
   border-radius: 0;
   width: auto;
-  height: 40px;
-  max-height: 40px;
+  height: 52px;
+  max-height: 52px;
+}
+
+.menu .menu-theme-toggle {
+  display: inline-flex;
+  align-items: center;
+}
+
+.menu .theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.menu .nav-icon {
+  display: block;
+  vertical-align: middle;
 }
 
 .home-map {
@@ -24,11 +120,19 @@
   padding: 0;
 }
 
+.home-map-intro {
+  margin: 0.75rem 0 0;
+  max-width: 42rem;
+  font-size: 1.05rem;
+  line-height: 1.45;
+  color: var(--secondary, #555);
+}
+
 .home-map-canvas {
-  height: calc(100vh - var(--header-height, 3.5rem) - 5rem);
+  height: calc(100vh - var(--header-height, 3.5rem) - 8rem);
   min-height: 420px;
   width: 100%;
-  margin: 0.5rem 0 0;
+  margin: 0.75rem 0 0;
   border-radius: 4px;
 }
 

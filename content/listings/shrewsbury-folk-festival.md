@@ -15,4 +15,5 @@ when: August
 www: shrewsburyfolkfestival.co.uk
 email: sandra@shrewsburyfolkfestival.co.uk
 status: listed
+logo: /images/listings/shrewsbury_folk_festival_logo_289.png
 ---

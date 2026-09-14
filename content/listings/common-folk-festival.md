@@ -15,6 +15,7 @@ when: Wednesday, 2nd in Month
 www: www.commonfolk.uk
 email: admin@commonfolk.uk
 status: listed
+logo: /images/listings/common_folk_festival_logo_932.png
 ---
 
 Common Folk Festival at The Regent Club (Leicester) — Wednesday, 2nd in Month

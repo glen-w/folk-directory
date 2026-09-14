@@ -14,6 +14,7 @@ post_code: DE73 8GF
 when: Saturday, Variable
 www: www.villagefolk.org
 status: listed
+logo: /images/listings/village_folk_logo_844.png
 ---
 
 Village Folk at Melbourne Assembly Rooms (Derbyshire) — Saturday, Variable

@@ -17,6 +17,7 @@ when: Mixed tunes/singers session.    Led by Phil.  Participants get a drink tic
 www: www.dramglasgow.co.uk/events
 email: dram@threethistles.co.uk
 status: listed
+logo: /images/listings/dram_logo_1452.png
 ---
 
 Glasgow | Scotland | tel 0141 332 1622 | dram@threethistles.co.uk | @55.87124,-4.27701

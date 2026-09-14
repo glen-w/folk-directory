@@ -16,6 +16,7 @@ www: cambridgefolkfestival.co.uk
 email: eddie.barcan@cambridge.gov.uk
 status: listed
 edited: 23/01/2012
+logo: /images/listings/cambridge_folk_festival_logo_269.png
 ---
 
 Premier Folk Festival in the UK, including a diverse range of folk, blues, country, world, singer-songwriters and acoustic music.

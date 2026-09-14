@@ -14,6 +14,7 @@ post_code: ''
 when: Tuesday, Last in Month
 www: www.balernofolkclub.org.uk
 status: listed
+logo: /images/listings/balerno_folk_club_logo_815.png
 ---
 
 Balerno Folk Club at Balerno Bowling Club (Midlothian) — Tuesday, Last in Month

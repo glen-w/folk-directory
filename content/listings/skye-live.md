@@ -15,6 +15,7 @@ post_code: ''
 when: May
 www: www.skyelive.co.uk
 status: listed
+logo: /images/listings/skye_live_logo_3639.png
 ---
 
 A nice Scottish Festival, which can sell out quickly due to its popularity. The first release of tickets last year had sold out by 7th December!

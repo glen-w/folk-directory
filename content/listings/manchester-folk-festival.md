@@ -15,6 +15,7 @@ post_code: ''
 when: March
 www: manchesterfolk.com
 status: listed
+logo: /images/listings/manchester_folk_festival_logo_1134.png
 ---
 
 Manchester Folk Festival is a major new festival of English folk and acoustic roots music. From songs of struggle to joyful reels, from traditional to experimental, the festival will celebrate contemporary folk as it straddles genres, embraces cultures and absorbs new influences. An urban festival. A gathering of all kinds of folk. With craft workshops, pub sing-arounds and in-conversations with a

@@ -27,6 +27,13 @@ add_titles.py
 fix_front_matter.py
 migrate_descriptions.py
 
+# Private / scrape / mail-merge exports (contacts, dumps, local CSV)
+*-mail-merge.csv
+listing-contacts*.csv
+*.sqlite
+*.sqlite3
+*.jsonl
+
 # Python
 __pycache__/
 *.pyc

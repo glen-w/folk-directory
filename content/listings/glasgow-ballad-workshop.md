@@ -14,6 +14,7 @@ post_code: ''
 when: Sunday, Last in Month
 www: glasgowballadworkshop.wordpress.com
 status: listed
+logo: /images/listings/glasgow_ballad_workshop_logo_801.png
 ---
 
 Glasgow Ballad Workshop at Avant Garde Bar (34 King Street Glasgow) — Sunday, Last in Month

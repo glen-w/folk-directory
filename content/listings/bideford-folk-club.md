@@ -15,6 +15,7 @@ when: Thursday, Every Week
 www: bidefordfolkclub.com
 email: bidefolk@gmail.com
 status: listed
+logo: /images/listings/bideford_folk_club_logo_822.png
 ---
 
 Bideford Folk Club at Joiner's Arms (N. Devon) — Thursday, Every Week

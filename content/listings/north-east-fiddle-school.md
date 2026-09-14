@@ -14,6 +14,7 @@ post_code: NE41 8AA
 when: Classes and Workshops, Every Week
 www: www.northeastfiddleschool.org.uk
 status: listed
+logo: /images/listings/north_east_fiddle_school_logo_912.png
 ---
 
 North East Fiddle School at Wylam Methodist Church (Wylam) — Classes and Workshops, Every Week

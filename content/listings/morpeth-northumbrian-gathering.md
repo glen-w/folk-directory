@@ -15,4 +15,5 @@ when: April / May
 www: northumbriana.org.uk/gathering
 email: enquiries@northumbriana.org.uk
 status: listed
+logo: /images/listings/morpeth_northumbrian_gathering_logo_185.png
 ---

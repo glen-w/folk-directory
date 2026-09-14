@@ -40,6 +40,7 @@
 
 <div class="listings-browse" id="listings-browse"
   data-index-url="{{ $indexUrl }}"
+  data-placeholder-logo="{{ "/images/logo/folk-directory-icon.png" | relURL }}"
   data-enabled-filters="type,county"
   data-default-show="25">
   <div class="listings-toolbar">
@@ -57,7 +58,12 @@
     <div id="listings-fallback" class="listings-fallback">
       <ul class="listings-fallback-list">
         {{- range .RegularPages.ByTitle }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- $logo := .Params.logo | default "/images/logo/folk-directory-icon.png" -}}
+        <li class="listings-fallback-item">
+          <img class="listings-fallback-logo{{- if not .Params.logo }} listings-fallback-logo--placeholder{{ end }}"
+            src="{{ $logo | relURL }}" alt="" width="28" height="28">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
         {{- end }}
       </ul>
     </div>
@@ -75,6 +81,7 @@
       .filter(Boolean);
     window.ListingsBrowse.init({
       indexUrl: root.getAttribute("data-index-url") || "/listings/index.json",
+      placeholderLogo: root.getAttribute("data-placeholder-logo") || "/images/logo/folk-directory-icon.png",
       enabledFilterIds: enabled,
       showOptions: [10, 25, 50, 100, "all"],
       defaultShow: Number(root.getAttribute("data-default-show") || 25)

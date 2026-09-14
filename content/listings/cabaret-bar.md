@@ -15,6 +15,7 @@ when: Weekly (during term time) session with the Edinburgh University Folk Soc f
   9pm onwards on a Tuesday
 www: www.eusa.ed.ac.uk/eatdrinkshop/findaspace/cabaretbar
 status: listed
+logo: /images/listings/cabaret_bar_logo_1355.png
 ---
 
 Edinburgh | Lothian | Scotland | @55.94783,-3.18133

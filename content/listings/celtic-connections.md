@@ -14,4 +14,5 @@ post_code: G2 3NY
 when: January
 www: celticconnections.com
 status: listed
+logo: /images/listings/celtic_connections_logo_164.png
 ---

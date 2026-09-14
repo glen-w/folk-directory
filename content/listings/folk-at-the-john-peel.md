@@ -14,6 +14,7 @@ post_code: CA7 9AE
 when: Varied, Variable
 www: www.wigtontheatre.org
 status: listed
+logo: /images/listings/folk_at_the_john_peel_logo_898.png
 ---
 
 Folk at the John Peel at The John Peel Theatre (Wigton Cumbria) — Varied, Variable

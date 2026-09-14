@@ -14,6 +14,7 @@ post_code: CV9 1BB
 when: Wednesday, 1st & 3rd in Month
 www: www.atherstonefolkclub.org.uk
 status: listed
+logo: /images/listings/atherstone_folk_club_logo_865.png
 ---
 
 Atherstone Folk Club at Atherstone Red Lion Hotel (Atherstone) — Wednesday, 1st & 3rd in Month

@@ -16,6 +16,7 @@ www: poppyfolkclub.co.uk
 email: phil@poppyfolkclub.co.uk
 status: listed
 edited: 23/01/2012
+logo: /images/listings/the_poppy_folk_club_logo_136.png
 ---
 
 The club meets monthly on either the second or third Sunday in the month.

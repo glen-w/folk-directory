@@ -14,6 +14,7 @@ post_code: TW20 9EW
 when: Thursday, 1st in Month
 www: www.runnymedefolkclub.co.uk
 status: listed
+logo: /images/listings/runnymede_folk_club_logo_928.png
 ---
 
 Runnymede Folk Club at The Red Lion, Egham (Surrey) — Thursday, 1st in Month

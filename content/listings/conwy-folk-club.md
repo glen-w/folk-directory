@@ -15,6 +15,7 @@ post_code: LL32 8AF
 when: Monday, Every Week
 www: www.conwyfolkclub.org.uk
 status: listed
+logo: /images/listings/conwy_folk_club_logo_789.png
 ---
 
 Conwy Folk Club at Conwy Comrades Social Club (8 Church Street) — Monday, Every Week

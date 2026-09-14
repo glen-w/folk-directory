@@ -14,6 +14,7 @@ post_code: PL15 7AE
 when: Varied, Other
 www: launcestonfolkclub.uk
 status: listed
+logo: /images/listings/launceston_folk_club_logo_927.png
 ---
 
 Launceston Folk Club at Various venues in Launceston (Cornwall) — Varied, Other

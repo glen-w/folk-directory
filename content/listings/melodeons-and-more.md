@@ -15,4 +15,5 @@ when: March
 www: eatmt.org.uk
 email: info@eatmt.fsnet.co.uk
 status: listed
+logo: /images/listings/melodeons_and_more_logo_176.png
 ---

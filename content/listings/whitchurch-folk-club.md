@@ -14,6 +14,7 @@ post_code: RG28 7LQ
 when: Varied, Variable
 www: www.whitchurchfolk.club
 status: listed
+logo: /images/listings/whitchurch_folk_club_logo_892.png
 ---
 
 Whitchurch Folk Club at Whitchurch Parish Hall, Hampshire (Hampshire) — Varied, Variable

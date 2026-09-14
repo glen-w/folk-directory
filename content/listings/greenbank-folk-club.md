@@ -14,4 +14,5 @@ post_code: ''
 when: September
 www: www.greenbankfolkclub.co.uk
 status: listed
+logo: /images/listings/greenbank_folk_club_logo_1012.png
 ---

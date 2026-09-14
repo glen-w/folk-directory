@@ -16,6 +16,7 @@ www: bodminfolk.co.uk
 email: BFCSecretary@hotmail.co.uk
 status: listed
 edited: 18/11/2011
+logo: /images/listings/bodmin_folk_club_logo_43.png
 ---
 
 The Club that loves to sing!

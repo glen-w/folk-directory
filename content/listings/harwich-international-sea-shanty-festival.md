@@ -16,6 +16,7 @@ www: harwichshantyfestival.co.uk
 email: info@harwichshantyfestival.co.uk
 status: listed
 edited: 24/01/2012
+logo: /images/listings/harwich_international_sea_shanty_festival_logo_511.png
 ---
 
 A full weekend of Shanties, sea songs and other events at various venues throughout Harwich. Ticketed concerts and free street entertainment. Thames barge cruises, workshops, Maritime crafts, Napoleonic displays, pub sessions and more.

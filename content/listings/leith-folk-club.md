@@ -14,6 +14,7 @@ post_code: ''
 when: 'Meets every Tuesday - venue to be confirmed See the website: www'
 www: www.leithfolkclub.com
 status: listed
+logo: /images/listings/leith_folk_club_logo_973.png
 ---
 
 Leith Folk Club Meets every Tuesday - venue to be confirmed

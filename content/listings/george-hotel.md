@@ -16,6 +16,7 @@ when: Escapees from Ashford Folk have started playing here on most Thursday even
   from about 9:30 pm
 www: www.georgehotelsouthmolton.co.uk
 status: listed
+logo: /images/listings/george_hotel_logo_3588.png
 ---
 
 The George Hotel , south Molton, Devon Regular concerts.

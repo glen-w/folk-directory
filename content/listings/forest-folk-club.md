@@ -16,6 +16,7 @@ when: Sunday, 1st & 3rd
 www: forestfolkclub.com
 email: orepool.inn@hotmail.com
 status: listed
+logo: /images/listings/forest_folk_club_logo_731.png
 ---
 
 Forest Folk Club at Ore Pool Inn (Coleford) — Sunday, 1st & 3rd

@@ -14,6 +14,7 @@ post_code: MK40 2JX
 when: Tuesday, Last in month
 www: redcuthbert.uk/music-sessions
 status: listed
+logo: /images/listings/the_burnaby_arms_logo_850.png
 ---
 
 The Burnaby Arms at The Wellington Arms (Bedford) — Tuesday, Last in month

@@ -15,6 +15,7 @@ when: May
 www: fireinthemountain.co.uk
 email: camp@fireinthemountain.co.uk
 status: listed
+logo: /images/listings/fire_in_the_mountain_logo_3652.png
 ---
 
 Spurred on by their love of folk music and outdoor activity, and seeing potential in a farm not used to it's full potential, 20 - 30 vounteers came together on the farm to begin the journey of a big tidy up and clear out. Through the efforts of countless volunteers and 5 festivals, we can safely say that our aims to renovate and maintain the farm have been a success. There is still work to be done

@@ -15,4 +15,5 @@ when: Second Tuesdays, 20.00 to 23.00
 www: lakelandfiddlers.co.uk
 email: carolyn@striding-edge.demon.co.uk
 status: listed
+logo: /images/listings/session_at_hawkshead_brewery_logo_415.png
 ---

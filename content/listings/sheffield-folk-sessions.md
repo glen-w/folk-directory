@@ -15,5 +15,7 @@ post_code: ''
 when: April
 www: www.sheffieldfolksessionsfestival.co.uk
 status: listed
+logo: /images/listings/sheffield_folk_sessions_logo_3626.png
 ---
+
 Hopefully more details will be available soon.

@@ -16,6 +16,7 @@ when: Open session weekly on Sundays from 4pm until 6pm with Danny McGreevy and 
 www: www.therostrevorinn.com
 email: therostrevorinn@gmail.com
 status: listed
+logo: /images/listings/crawford_s_bar_logo_1376.png
 ---
 
 Rostrevor | Down | Northern Ireland | tel 028 417 39911 | therostrevorinn@gmail.com | @54.11678,-6.07322

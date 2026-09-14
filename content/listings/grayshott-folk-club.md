@@ -15,6 +15,7 @@ when: Varied, Variable
 www: www.grayshottfolkclub.co.uk
 email: grayshottfolkclub@btinternet.com
 status: listed
+logo: /images/listings/grayshott_folk_club_logo_707.png
 ---
 
 Grayshott Folk Club at Grashott Village Hall (and other venues) (Surrey) — Varied, Variable

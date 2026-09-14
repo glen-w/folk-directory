@@ -14,6 +14,7 @@ post_code: KA18 2PE
 when: Wednesday, Last in month
 www: www.ochiltreehub.com
 status: listed
+logo: /images/listings/ochiltree_hub_acoustic_music_sessions_logo_893.png
 ---
 
 Ochiltree Hub Acoustic Music Sessions at Ochiltree Community Hub (CUMNOCK) — Wednesday, Last in month

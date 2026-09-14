@@ -15,4 +15,5 @@ when: February
 www: cheltenhamtownhall.org.uk
 email: boxoffice@cheltenham.gov.uk
 status: listed
+logo: /images/listings/cheltenham_folk_festival_logo_162.png
 ---

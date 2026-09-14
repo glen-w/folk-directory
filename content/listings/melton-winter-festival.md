@@ -14,6 +14,7 @@ post_code: ''
 when: December
 www: meltonfolk.com/festival/winter-festival
 status: listed
+logo: /images/listings/melton_winter_festival_logo_3746.png
 ---
 
 Also known as The Melton Mowbray Christmas Folk Trail, consists of many acts hosted across many venues in the town of Melton Mowbray, Leicestershire, UK. With an additional welcoming singaround on the evening of Friday 9th December. Usually taking place in different local venues.

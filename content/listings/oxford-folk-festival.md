@@ -15,4 +15,5 @@ when: April
 www: oxfordfolkfest.org.uk
 email: oxfordfolkfestival@gmail.com
 status: listed
+logo: /images/listings/oxford_folk_festival_logo_179.png
 ---

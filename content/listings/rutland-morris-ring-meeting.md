@@ -15,4 +15,5 @@ when: July
 www: themorrisring.org
 email: bagman@themorrisring.org
 status: listed
+logo: /images/listings/rutland_morris_ring_meeting_logo_266.png
 ---

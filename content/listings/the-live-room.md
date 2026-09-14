@@ -14,6 +14,7 @@ post_code: BD18 3JZ
 when: Varied, Variable
 www: www.theliveroom.info
 status: listed
+logo: /images/listings/the_live_room_logo_915.png
 ---
 
 The Live Room at Caroline Street Social Club (Shipley) — Varied, Variable

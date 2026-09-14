@@ -14,6 +14,7 @@ post_code: PH15 2DA
 when: Thursday, Every Week
 www: birkscinema.co.uk/activities/acoustic-music-sessions
 status: listed
+logo: /images/listings/acoustic_music_sessions_logo_896.png
 ---
 
 Acoustic Music Sessions at The Birks Cinema (1 Dunkeld St Aberfeldy) — Thursday, Every Week

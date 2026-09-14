@@ -16,6 +16,7 @@ when: Friday, 1st in Month
 www: www.beehivefolkclub.com
 email: petergarratt1@gmail.com
 status: listed
+logo: /images/listings/the_beehive_logo_757.png
 ---
 
 The Beehive at Harthill Village Hall (Winney Hill Harthill) — Friday, 1st in Month

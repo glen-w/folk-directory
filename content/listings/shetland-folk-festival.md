@@ -3,18 +3,22 @@ title: Shetland Folk Festival
 id: 1496
 name: Shetland Folk Festival
 event_types:
-- folk-club
+- festival
 locations:
 - lerwick
 - shetlands
 county: Shetland
 venue: ''
-address: ''
+address: 5 Burns Lane
 place: Lerwick
-post_code: ''
-when: April
+post_code: ZE1 0EL
+when: April / May
 www: www.shetlandfolkfestival.com
+email: info@shetlandfolkfestival.com
 status: listed
+logo: /images/listings/shetland_folk_festival_logo_1496.png
 ---
 
-For the 44th time! The UK's most northerly folk festival. The Festival prides itself in reaching out to even the most far flung areas of Shetland. Concerts are organised throughout the isles, consisting of some of the best International, British and Shetland music that the world has to offer. In fact, visiting artistes are regularly dumbfounded by the quantity and quality of local musicians that o
+The UK's most northerly folk festival is run by a voluntary committee, with concerts throughout Shetland. Visiting and local artists share programmes in community halls, Mareel's music auditorium, and Clickimin Leisure Centre in Lerwick.
+
+Festival members have a Festival Club at Islesburgh Community Centre in Lerwick, with daytime concerts, sessions and workshops. The weekend ends with Foy concerts across three venues, where visiting acts play a short set in each hall.

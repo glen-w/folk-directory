@@ -16,4 +16,5 @@ www: banburyfolkfestival.co.uk
 email: bfest@btinternet.com
 status: listed
 edited: 23/01/2012
+logo: /images/listings/banbury_folk_festival_logo_305.png
 ---
