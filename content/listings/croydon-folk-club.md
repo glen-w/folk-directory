@@ -9,7 +9,7 @@ locations:
 county: Greater London
 venue: ''
 address: ''
-place: ''
+place: Croydon
 post_code: ''
 when: Mondays at Ruskin House, 23 Coombe Road, Croydon
 www: www.croydonfolkclub.org.uk

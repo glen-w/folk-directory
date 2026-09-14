@@ -19,8 +19,8 @@ edited: 03/02/2012
 
 The Mull of Kintyre Music Festival or MOK Fest as it is affectionately\
 
-The Mull of Kintyre Music Festival or MOK Fest as it is affectionately known is a celebration of traditional and contemporary Scottish and Irish music. Based in Campbeltown, Kintyre on the West coast of Scotland the Festival has a great mix of free outdoor events, concerts, ceilidhâ€™s, music sessions, workshops, childrenâ€™s entertainment, parades, cultural and heritage tours in large venues and intimate halls.  
+The Mull of Kintyre Music Festival or MOK Fest as it is affectionately known is a celebration of traditional and contemporary Scottish and Irish music. Based in Campbeltown, Kintyre on the West coast of Scotland the Festival has a great mix of free outdoor events, concerts, ceilidh’s, music sessions, workshops, children’s entertainment, parades, cultural and heritage tours in large venues and intimate halls.  
 
 Celebrating its 20th anniversary in 2012, the Festival has now become one of the main cultural and community events in Argyll and Bute and has featured bands including Deacon Blue, Capercaillie, The Stranglers, Red Hot Chilli Pipers, Idlewild, Altan, Eddi Reader, the Bootleg Beatles, Peatbog Faeries and Aly Bain & Phil Cunningham.
 
-If you fancy an adventure come to the â€œCradle of the Nationâ€ Festival as this is the event for you.
+If you fancy an adventure come to the “Cradle of the Nation” Festival as this is the event for you.

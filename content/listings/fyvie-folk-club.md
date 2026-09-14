@@ -9,7 +9,7 @@ locations:
 county: Aberdeenshire
 venue: ''
 address: ''
-place: ''
+place: Fyvie
 post_code: ''
 when: Wednesdays of each month in the Vale Hotel, Fyvie in the Nor
 www: www.fyviefolk.org.uk

@@ -18,4 +18,4 @@ status: listed
 edited: 09/06/2012
 ---
 
-Enjoy a friendly and relaxed celebration of live music and culture around a free outdoor stage in the beautiful village of Priston, 6 miles from Bath.  The festival boasts an impressive line-up of live music (traditional, jazz, world, blues, rock, classical, choral) on a free open-air stage, as well as kidsâ€™ events, morris dancing, singing and dance workshops, children's art project, performance poetry, book talk, market stalls, food/drink etc.  Ticketed events are also staged in local venues over the weekend.
+Enjoy a friendly and relaxed celebration of live music and culture around a free outdoor stage in the beautiful village of Priston, 6 miles from Bath.  The festival boasts an impressive line-up of live music (traditional, jazz, world, blues, rock, classical, choral) on a free open-air stage, as well as kids’ events, morris dancing, singing and dance workshops, children's art project, performance poetry, book talk, market stalls, food/drink etc.  Ticketed events are also staged in local venues over the weekend.

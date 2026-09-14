@@ -9,7 +9,7 @@ locations:
 county: North Yorkshire
 venue: ''
 address: ''
-place: ''
+place: Robin Hood's Bay
 post_code: ''
 when: meets every Friday Evening in the big room of the Dolphin Inn, on Ki
 www: folkclub.rhbay.co.uk

@@ -9,7 +9,7 @@ locations:
 county: North Ayrshire
 venue: ''
 address: ''
-place: ''
+place: Dalry
 post_code: ''
 when: Friday of the month
 www: www.dalryfolkclub.weebly.com

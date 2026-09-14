@@ -1,7 +1,7 @@
 ---
-title: Guise of Tough by Iona Fyfe
+title: Isle of South Uist Folk Club
 id: 972
-name: Guise of Tough by Iona Fyfe
+name: Isle of South Uist Folk Club
 event_types:
 - session
 locations:
@@ -9,7 +9,7 @@ locations:
 county: Outer Hebrides
 venue: ''
 address: ''
-place: ''
+place: Daliburgh
 post_code: ''
 when: Friday of every month
 www: projects.handsupfortrad.scot/southuistfolk

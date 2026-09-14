@@ -20,6 +20,6 @@ edited: 23/01/2012
 
 Festival including Friday Singaround, Saturday Workshops, Folk Club, and Concert, and Sunday Holy Joe, and Singaround.
 
-Festival raises money for Charity, and remains good value for money, costing W/e Â£10 plus camping at Â£5.00 a night.
+Festival raises money for Charity, and remains good value for money, costing W/e £10 plus camping at £5.00 a night.
 
 For full details se the website.

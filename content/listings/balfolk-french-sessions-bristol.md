@@ -1,7 +1,7 @@
 ---
-title: BALFOLK & French SESSIONS Bristol
+title: Balfolk & French Sessions Bristol
 id: 917
-name: BALFOLK & French SESSIONS Bristol
+name: Balfolk & French Sessions Bristol
 event_types:
 - session
 locations:
@@ -16,4 +16,4 @@ www: bathfrenchsession.wordpress.com
 status: listed
 ---
 
-BALFOLK & French SESSIONS Bristol at Bristol Brewhouse and Kitchen (Bristol) — Sunday, 3rd in Month
+Balfolk & French Sessions Bristol at Bristol Brewhouse and Kitchen (Bristol) — Sunday, 3rd in Month

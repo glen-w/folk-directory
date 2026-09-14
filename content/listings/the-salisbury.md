@@ -15,5 +15,3 @@ when: January
 www: ''
 status: listed
 ---
-
-[via jim-causley] Wed 13 Jan SALISBURY Folk Club - Harnham Social Club

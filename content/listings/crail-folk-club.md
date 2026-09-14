@@ -9,7 +9,7 @@ locations:
 county: Fife
 venue: ''
 address: ''
-place: ''
+place: Crail
 post_code: ''
 when: Thursdays at the Golf Hotel, Crail
 www: www.crailfolkclub.org.uk

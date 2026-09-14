@@ -9,7 +9,7 @@ locations:
 county: Blaenau Gwent
 venue: ''
 address: ''
-place: ''
+place: Ebbw Vale
 post_code: ''
 when: Friday of the month at Ebbw Vale Welfare Club, Eugene Cr
 www: ''

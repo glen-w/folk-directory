@@ -2,13 +2,14 @@
   "metadata": {
     "generated_at": "2026-09-11T06:08:23.265334+00:00",
     "source": "folkdirectory-corpus",
-    "total": 1039,
-    "geocoded": 894,
+    "total": 1037,
+    "geocoded": 892,
     "api_calls": 332,
     "pending_ok": 160,
     "pending_fail": 172,
     "partial": false,
-    "non_uk_removed": 29
+    "non_uk_removed": 29,
+    "note": "patched coarse scotland/england centroids 2026-09-14"
   },
   "locations": [
     {
@@ -1110,12 +1111,12 @@
     {
       "id": 934,
       "title": "Brackley Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Brackley, Northamptonshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/brackley-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 52.0278975,
+        "lng": -1.1484657
       },
       "geocoded": true,
       "status": "listed"
@@ -1530,12 +1531,12 @@
     {
       "id": 1627,
       "title": "Cadgwith Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Cadgwith, Cornwall, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cadgwith-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 49.9879391,
+        "lng": -5.1803766
       },
       "geocoded": true,
       "status": "listed"
@@ -2042,12 +2043,12 @@
     {
       "id": 959,
       "title": "Crail Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Crail, Fife, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/crail-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 56.2606771,
+        "lng": -2.6267118
       },
       "geocoded": true,
       "status": "listed"
@@ -2081,12 +2082,12 @@
     {
       "id": 960,
       "title": "Crieff Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Crieff, Perth and Kinross, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/crieff-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 56.372717,
+        "lng": -3.8397453
       },
       "geocoded": true,
       "status": "listed"
@@ -2133,12 +2134,12 @@
     {
       "id": 937,
       "title": "Croydon Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Croydon, Greater London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/croydon-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 51.3736962,
+        "lng": -0.1003062
       },
       "geocoded": true,
       "status": "listed"
@@ -2146,12 +2147,12 @@
     {
       "id": 961,
       "title": "Cruden Bay Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Kilmarnock Arms Hotel, Cruden Bay, Aberdeenshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cruden-bay-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 57.4172863,
+        "lng": -1.8511494
       },
       "geocoded": true,
       "status": "listed"
@@ -2244,12 +2245,12 @@
     {
       "id": 962,
       "title": "Dalbeattie Acoustic Sessions",
-      "address": "Scotland, United Kingdom",
+      "address": "Dalbeattie, Dumfries and Galloway, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/dalbeattie-acoustic-sessions/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 54.9307016,
+        "lng": -3.8200724
       },
       "geocoded": true,
       "status": "listed"
@@ -2270,12 +2271,12 @@
     {
       "id": 963,
       "title": "Dalry Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Dalry, North Ayrshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/dalry-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 55.70599,
+        "lng": -4.7111352
       },
       "geocoded": true,
       "status": "listed"
@@ -2453,12 +2454,12 @@
     {
       "id": 938,
       "title": "Devizes Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Devizes, Wiltshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/devizes-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 51.3525027,
+        "lng": -1.9958302
       },
       "geocoded": true,
       "status": "listed"
@@ -2609,12 +2610,12 @@
     {
       "id": 983,
       "title": "Downpatrick Folk Club",
-      "address": "Ireland, United Kingdom",
+      "address": "Downpatrick, Down, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/downpatrick-folk-club/",
       "coordinates": {
-        "lat": 52.0600343,
-        "lng": -0.347478
+        "lat": 54.3279335,
+        "lng": -5.71649
       },
       "geocoded": true,
       "status": "listed"
@@ -2713,12 +2714,12 @@
     {
       "id": 965,
       "title": "Dunblane Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Dunblane, Stirling, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/dunblane-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 56.1883108,
+        "lng": -3.9640877
       },
       "geocoded": true,
       "status": "listed"
@@ -2827,12 +2828,12 @@
     {
       "id": 1635,
       "title": "Ebbw Vale Folk Club",
-      "address": "Wales, United Kingdom",
+      "address": "Ebbw Vale, Blaenau Gwent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/ebbw-vale-folk-club/",
       "coordinates": {
-        "lat": 52.2928116,
-        "lng": -3.73893
+        "lat": 51.7812925,
+        "lng": -3.2084383
       },
       "geocoded": true,
       "status": "listed"
@@ -4070,12 +4071,12 @@
     {
       "id": 967,
       "title": "Fyvie Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Fyvie, Aberdeenshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/fyvie-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 57.4307456,
+        "lng": -2.3924105
       },
       "geocoded": true,
       "status": "listed"
@@ -4589,20 +4590,7 @@
     {
       "id": 942,
       "title": "Hambledon Folk Club",
-      "address": "England, United Kingdom",
-      "event_type": "folk-club",
-      "permalink": "/listings/hambledon-folk-club-942/",
-      "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 109,
-      "title": "Hambledon Folk Club",
-      "address": "Youth Club, West Street, PO7 4RW, Hampshire, United Kingdom",
+      "address": "Youth Club, West Street, Hambledon, PO7 4RW, Hampshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/hambledon-folk-club/",
       "coordinates": {
@@ -4953,12 +4941,12 @@
     {
       "id": 1630,
       "title": "Huntly Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Huntly, Aberdeenshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/huntly-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 57.4474806,
+        "lng": -2.7864246
       },
       "geocoded": true,
       "status": "listed"
@@ -5175,12 +5163,12 @@
     {
       "id": 971,
       "title": "Isle of South Uist Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Daliburgh, Outer Hebrides, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/isle-of-south-uist-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 57.1678082,
+        "lng": -7.3713341
       },
       "geocoded": true,
       "status": "listed"
@@ -5576,12 +5564,12 @@
     {
       "id": 972,
       "title": "Leith Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Leith, Edinburgh, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/leith-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 55.9725499,
+        "lng": -3.1709492
       },
       "geocoded": true,
       "status": "listed"
@@ -7092,12 +7080,12 @@
     {
       "id": 944,
       "title": "Liverpool Sea Shanty Session",
-      "address": "England, United Kingdom",
+      "address": "Liverpool, Merseyside, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/liverpool-sea-shanty-session/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 53.387364,
+        "lng": -3.1849588
       },
       "geocoded": true,
       "status": "listed"
@@ -7180,12 +7168,12 @@
     {
       "id": 1632,
       "title": "Lossie Folk Club",
-      "address": "Scotland, United Kingdom",
+      "address": "Lossiemouth, Moray, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lossie-folk-club/",
       "coordinates": {
-        "lat": 56.7861112,
-        "lng": -4.1140518
+        "lat": 57.7220766,
+        "lng": -3.2814625
       },
       "geocoded": true,
       "status": "listed"
@@ -7356,38 +7344,12 @@
     {
       "id": 945,
       "title": "Maidenhead Folk Club",
-      "address": "England, United Kingdom",
-      "event_type": "folk-club",
-      "permalink": "/listings/maidenhead-folk-club-945/",
-      "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 48,
-      "title": "Maidenhead Folk Club",
-      "address": "Seven Stars Pub, Knowl Hill, RG10 9UR, Berkshire, United Kingdom",
+      "address": "Seven Stars Pub, Knowl Hill, Maidenhead, RG10 9UR, Berkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/maidenhead-folk-club/",
       "coordinates": {
         "lat": 51.5083298,
         "lng": -0.815723
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 1490,
-      "title": "Malmesbury Folk & Roots",
-      "address": "Malmesbury Abbey, Wiltshire, United Kingdom",
-      "event_type": "festival",
-      "permalink": "/listings/malmesbury-folk-roots/",
-      "coordinates": {
-        "lat": 51.5846399,
-        "lng": -2.0984691
       },
       "geocoded": true,
       "status": "listed"
@@ -8213,12 +8175,12 @@
     {
       "id": 713,
       "title": "Nettlebed Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Nettlebed Village Club, Nettlebed, Oxfordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/nettlebed-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 51.5758972,
+        "lng": -0.9915922
       },
       "geocoded": true,
       "status": "listed"
@@ -8231,19 +8193,6 @@
       "permalink": "/listings/nettlebed-folk-song-club/",
       "coordinates": null,
       "geocoded": false,
-      "status": "listed"
-    },
-    {
-      "id": 949,
-      "title": "Nettleham Live",
-      "address": "England, United Kingdom",
-      "event_type": "folk-club",
-      "permalink": "/listings/nettleham-live/",
-      "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
-      },
-      "geocoded": true,
       "status": "listed"
     },
     {
@@ -8646,12 +8595,12 @@
     {
       "id": 767,
       "title": "Otley Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Otley, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/otley-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 53.9055083,
+        "lng": -1.6938874
       },
       "geocoded": true,
       "status": "listed"
@@ -8913,12 +8862,12 @@
     {
       "id": 952,
       "title": "Pinner Folk & Blues Club",
-      "address": "England, United Kingdom",
+      "address": "Pinner, Greater London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/pinner-folk-blues-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 51.5968712,
+        "lng": -0.3770142
       },
       "geocoded": true,
       "status": "listed"
@@ -9453,12 +9402,12 @@
     {
       "id": 953,
       "title": "Robin Hoods Bay Folk Club",
-      "address": "England, United Kingdom",
+      "address": "Robin Hood's Bay, North Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/robin-hoods-bay-folk-club/",
       "coordinates": {
-        "lat": 52.5310214,
-        "lng": -1.2649062
+        "lat": 54.433222,
+        "lng": -0.5344748
       },
       "geocoded": true,
       "status": "listed"
@@ -13079,6 +13028,33 @@
       "coordinates": {
         "lat": 53.404411,
         "lng": -2.1653041
+      },
+      "geocoded": true,
+      "status": "listed"
+    },
+    {
+      "slug": "nettlehamlive",
+      "title": "Nettleham Live",
+      "address": "Nettleham, Lincolnshire, United Kingdom",
+      "coordinates": {
+        "lat": 53.266171,
+        "lng": -0.4862085
+      },
+      "permalink": "/listings/nettlehamlive/",
+      "id": 949,
+      "event_type": "folk-club",
+      "status": "listed",
+      "geocoded": true
+    },
+    {
+      "id": 1490,
+      "title": "Malmesbury Folk & Roots",
+      "address": "Malmesbury Abbey, Wiltshire, United Kingdom",
+      "event_type": "festival",
+      "permalink": "/listings/malmesbury-folk-roots/",
+      "coordinates": {
+        "lat": 51.5846399,
+        "lng": -2.0984691
       },
       "geocoded": true,
       "status": "listed"

@@ -32,8 +32,8 @@ GUEST ARTISTS
 
 The club will often have guest performers on alternative months from local , national and international artists in order to raise funds and provide ticket concessions to regular club goers, small bursaries and concert promotions.
 
-Do have a look on the site for those who have performed at the club so far to see the diversity of music and high standards we have all enjoyed.This coming year we shall be raising funds for a project called â€œYoung Voices in Musicâ€ providing a show case on a large stage to young musicians in Devon, so watch this space if you are a musician or club runner.
+Do have a look on the site for those who have performed at the club so far to see the diversity of music and high standards we have all enjoyed.This coming year we shall be raising funds for a project called “Young Voices in Music” providing a show case on a large stage to young musicians in Devon, so watch this space if you are a musician or club runner.
 
 WHAT TIME
 
-Doors open at 7:45pm it will cost you Â£1:50 to get in (including musicians) and Â£2:50 concession tickets for guests appearance. There is no alcohol license so please bring your own favourite tipple although we do serve tea and coffee + biscuits in the break, local musician CDâ€™s are actively promoted as well as other club news.
+Doors open at 7:45pm it will cost you £1:50 to get in (including musicians) and £2:50 concession tickets for guests appearance. There is no alcohol license so please bring your own favourite tipple although we do serve tea and coffee + biscuits in the break, local musician CD’s are actively promoted as well as other club news.

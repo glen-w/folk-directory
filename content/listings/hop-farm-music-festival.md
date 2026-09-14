@@ -18,4 +18,4 @@ status: listed
 edited: 27/01/2012
 ---
 
-The Hop Farm Music Festival is truly a unique experience, exclusively themed as an event free of ticket registration, with no VIPâ€™s, no Sponsorship or Branding and with the main concentration being on the music and the avid festival go-ers.
+The Hop Farm Music Festival is truly a unique experience, exclusively themed as an event free of ticket registration, with no VIP’s, no Sponsorship or Branding and with the main concentration being on the music and the avid festival go-ers.

@@ -3,10 +3,6 @@ title: "Links"
 date: 2024-06-10
 ---
 
-# Folk Directory Links
-
-Guides, calendars and folk hubs that are **not** individual clubs or festivals.
-
 If we have missed you or you would like to exchange links, please [contact us](/contact).
 
 - [English Folk Info](https://www.englishfolkinfo.org.uk/regional.html) — directory of English folk clubs, sessions, dances and festivals

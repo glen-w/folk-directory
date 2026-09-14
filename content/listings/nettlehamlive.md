@@ -9,7 +9,7 @@ locations:
 county: Lincolnshire
 venue: ''
 address: ''
-place: ''
+place: Nettleham
 post_code: ''
 when: ''
 www: www.nettlehamlive.org

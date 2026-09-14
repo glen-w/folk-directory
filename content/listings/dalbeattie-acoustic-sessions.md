@@ -9,7 +9,7 @@ locations:
 county: Dumfries and Galloway
 venue: ''
 address: ''
-place: ''
+place: Dalbeattie
 post_code: ''
 when: Thursday of the month (except January) in the Masonic Lodg
 www: www.dalbeattie-acoustic.club

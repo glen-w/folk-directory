@@ -9,7 +9,7 @@ locations:
 county: Northamptonshire
 venue: ''
 address: ''
-place: ''
+place: Brackley
 post_code: ''
 when: meets every Sunday in the Greyhound, has regular guest nights, welco
 www: www.brackleyfolkclub.org

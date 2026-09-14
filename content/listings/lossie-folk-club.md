@@ -9,7 +9,7 @@ locations:
 county: Moray
 venue: ''
 address: ''
-place: ''
+place: Lossiemouth
 post_code: ''
 when: Tuesday evening from 8
 www: ''

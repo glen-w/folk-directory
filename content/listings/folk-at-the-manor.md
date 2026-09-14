@@ -26,16 +26,16 @@ We warmly welcome any performers on singer's nights.
 Performers have free entry on these evenings.
 We have a small stage, lights and built-in sound system to cope with most situations. If you are a group or are travelling from a distance you may like to ring up to request an extended slot, depending on numbers on the evening. We also have guests each month (3rd Sunday)
 18th March
-Ken and Ruth Powell Â£5
+Ken and Ruth Powell £5
 
 15th April
-Harbour Moon Â£5
+Harbour Moon £5
 
 29th April
-Resident's Night Â£1
+Resident's Night £1
 
 20th May
-Sarah McQuaid Â£5
+Sarah McQuaid £5
 
 17th June
-Phil Drane Â£5
+Phil Drane £5

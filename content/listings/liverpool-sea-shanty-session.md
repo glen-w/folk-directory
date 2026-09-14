@@ -9,7 +9,7 @@ locations:
 county: Merseyside
 venue: ''
 address: ''
-place: ''
+place: Liverpool
 post_code: ''
 when: Saturday of every month - 8
 www: www.liverpoolseashanty.co.uk

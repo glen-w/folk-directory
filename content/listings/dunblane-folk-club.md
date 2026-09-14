@@ -9,7 +9,7 @@ locations:
 county: Stirling
 venue: ''
 address: ''
-place: ''
+place: Dunblane
 post_code: ''
 when: meets every Sunday at Lesser Hall of the Victoria Halls from 7
 www: www.dunblanefolkclub.co.uk

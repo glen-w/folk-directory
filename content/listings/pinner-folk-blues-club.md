@@ -9,7 +9,7 @@ locations:
 county: Greater London
 venue: ''
 address: ''
-place: ''
+place: Pinner
 post_code: ''
 when: Wednesdays of each month ( check our website to be sure, dat
 www: www.pinfab.wordpress.com

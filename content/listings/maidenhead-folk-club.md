@@ -9,7 +9,7 @@ locations:
 county: Berkshire
 venue: Seven Stars Pub
 address: Knowl Hill
-place: ''
+place: Maidenhead
 post_code: RG10 9UR
 when: Every Thursday
 www: redadmiral.freeserve.co.uk

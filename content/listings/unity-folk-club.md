@@ -20,4 +20,4 @@ edited: 24/02/2012
 
 Everybody welcome, especially singers and poets who sing or read against war, capitalism, exploitation, privatisation, imperialism and globalisation.
 
-Admission fee: Â£3.00
+Admission fee: £3.00

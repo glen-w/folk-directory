@@ -9,7 +9,7 @@ locations:
 county: Perth and Kinross
 venue: ''
 address: ''
-place: ''
+place: Crieff
 post_code: ''
 when: ''
 www: www.strathearnartspace.co.uk

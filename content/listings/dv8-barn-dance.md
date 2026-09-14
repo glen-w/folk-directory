@@ -22,4 +22,4 @@ Although there are specialist events for experienced dancers of particular dance
 
 Don't worry about getting it wrong, we won't tell you off! The main thing is to enjoy the barn dance. The bar will be open from 7.30 till 11.30 serving alcholic and non-alcoholic drinks. 
 
-Tickets are only Â£5.
+Tickets are only £5.

@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "Listings"
 outputs:
   - html
   - json

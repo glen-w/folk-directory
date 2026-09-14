@@ -9,7 +9,7 @@ locations:
 county: Wiltshire
 venue: ''
 address: ''
-place: ''
+place: Devizes
 post_code: ''
 when: Monday evenings at 8pm (except August and bank holidays)
 www: www.devizesfolkclub.co.uk

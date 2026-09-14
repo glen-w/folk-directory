@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="post-single home-map">
+  <div id="folk-map" class="home-map-canvas" aria-label="Map of Folk Directory listings"></div>
+  <p id="folk-map-status" class="post-meta">Loading map…</p>
+</article>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" crossorigin=""/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" crossorigin=""/>
+<style>
+  .marker-cluster {
+    background-color: rgba(46, 125, 90, 0.7);
+    border: 2px solid rgba(255, 255, 255, 0.85);
+    border-radius: 50%;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  .custom-marker { background: transparent; border: none; }
+  .folk-map-popup { font-size: 0.95rem; line-height: 1.35; }
+</style>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js" crossorigin=""></script>
+<script src="/js/folk-map.js"></script>
+{{ end }}

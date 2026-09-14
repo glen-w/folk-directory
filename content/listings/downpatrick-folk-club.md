@@ -9,7 +9,7 @@ locations:
 county: Down
 venue: ''
 address: ''
-place: ''
+place: Downpatrick
 post_code: ''
 when: ''
 www: www.downfolk.com

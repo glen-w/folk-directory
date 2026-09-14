@@ -18,4 +18,4 @@ status: listed
 edited: 06/11/2013
 ---
 
-The Scots Fiddle Festival is three days of unforgettable concerts, daytime recitals, workshops, talks, festival clubs, ceilidhs and the Fiddle Walk. There is a programme of free events including â€˜Come and try fiddleâ€™ workshops, a â€˜Come and try Gaelicâ€™ workshop, the Open Stage, all day music sessions and stalls as well a folk church service on the Sunday morning.
+The Scots Fiddle Festival is three days of unforgettable concerts, daytime recitals, workshops, talks, festival clubs, ceilidhs and the Fiddle Walk. There is a programme of free events including ‘Come and try fiddle’ workshops, a ‘Come and try Gaelic’ workshop, the Open Stage, all day music sessions and stalls as well a folk church service on the Sunday morning.

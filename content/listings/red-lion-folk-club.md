@@ -16,5 +16,3 @@ www: redlionfolkclub.com
 email: acef@redlionfolkclub.co.uk
 status: listed
 ---
-
-[via jim-causley] Wed 16 Dec BIRMINGHAM Red Lion Folk Club MIDWINTER with Miranda Sykes

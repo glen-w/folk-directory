@@ -9,7 +9,7 @@ locations:
 county: Aberdeenshire
 venue: ''
 address: ''
-place: ''
+place: Huntly
 post_code: ''
 when: Wednesday of every month at Harry's Bar (behind The Crown p
 www: ''

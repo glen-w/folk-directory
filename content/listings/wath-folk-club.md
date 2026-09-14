@@ -30,4 +30,4 @@ The Club normally takes the form of a sing around, however we do present artists
 The singaround is held in the upstairs room at the Red Lion in Wath. Although the room can be a little chilly in the winter all are assured a warm welcome and an appreciative audience.  (We do ask that chatting is kept to a minimum during performances.)
 
 We have regulars who arrive almost every week and some members who appear every few months. All are welcome.
-An entrance charge of Â£1.00 (including raffle ticket) is made
+An entrance charge of £1.00 (including raffle ticket) is made

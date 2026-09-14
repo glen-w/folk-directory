@@ -16,5 +16,3 @@ www: www.bristolfolkhouse.co.uk/live-music
 email: admin@bristolfolkhouse.co.uk
 status: listed
 ---
-
-[via hannah-james-toby-kuhn] 15. Bristol, Folk House

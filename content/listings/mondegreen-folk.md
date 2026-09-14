@@ -17,4 +17,4 @@ email: mulreadyn@gmail.com
 status: listed
 ---
 
-Our folk nights are very much of the â€˜anything goesâ€™ variety so if you like to play, sing, hum, foot-tap, dance, giggle or listen to folk music, you are very very welcome to come along to the folk club.
+Our folk nights are very much of the ‘anything goes’ variety so if you like to play, sing, hum, foot-tap, dance, giggle or listen to folk music, you are very very welcome to come along to the folk club.

@@ -18,6 +18,6 @@ status: listed
 edited: 12/11/2012
 ---
 
-A day of Irish Set Dancing. Starting at 10.30am - 16.30pm workshops. Then a cÃ©ilÃ­ in the evening 8.00 - 11.30pm.
+A day of Irish Set Dancing. Starting at 10.30am - 16.30pm workshops. Then a céilí in the evening 8.00 - 11.30pm.
 
-Workshops will be to CDs and cÃ©ilÃ­ with live music by Pendragon.
+Workshops will be to CDs and céilí with live music by Pendragon.

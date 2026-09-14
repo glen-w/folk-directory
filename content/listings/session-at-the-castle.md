@@ -11,7 +11,7 @@ venue: The Castle
 address: High Street
 place: Castle Bytham
 post_code: NG33 4RZ
-when: Fourth Sundays, 7.30 â€“ 10.30/11pm
+when: Fourth Sundays, 7.30 – 10.30/11pm
 www: ''
 email: sigarb@aol.com
 status: listed

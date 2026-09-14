@@ -20,20 +20,20 @@ edited: 23/01/2012
 
 Mad Nanny Music Is a not for profit venture to promote the traditional\
 
-Mad Nanny Music Is a not for profit venture to promote the traditional Acoustic, blues, bluegrass, folk & roots music and dance of these islands and related musical activities.  Established in April 1999, we feature guest artists of considerable renown and those newcomers on the way up in the music scene. The guest is supported by a resident band or singers, and we proudly encourage amateur singers and musicians to perform as â€˜floor spotsâ€™ on guest nights and to join us on our songs & session and open floor evenings. 
+Mad Nanny Music Is a not for profit venture to promote the traditional Acoustic, blues, bluegrass, folk & roots music and dance of these islands and related musical activities.  Established in April 1999, we feature guest artists of considerable renown and those newcomers on the way up in the music scene. The guest is supported by a resident band or singers, and we proudly encourage amateur singers and musicians to perform as ‘floor spots’ on guest nights and to join us on our songs & session and open floor evenings. 
 
-We are friendly and welcoming, donâ€™t be shy, come and join us. Children are very welcome to all of these evenings; the tradition is in their hands after all. 
+We are friendly and welcoming, don’t be shy, come and join us. Children are very welcome to all of these evenings; the tradition is in their hands after all. 
 
 We hope you can join us for some splendid entertainment. 
 
-     Prices: member concession Â£6 / member Â£7/ non member Â£8
+     Prices: member concession £6 / member £7/ non member £8
      Unless shown differently against artist.
-	Songs & Sessions:   Â£2 all
+	Songs & Sessions:   £2 all
 	Up to two accompanied children under 16 may enter free per adult.
 	 
 	Membership card MUST be produced upon request
 	
-	Membership Â£5 per year, January â€“ December, details upon request
+	Membership £5 per year, January – December, details upon request
      	
 Events marked ** indicate underwritten for financial assistance from the Arts Council for North Hertfordshire.
 

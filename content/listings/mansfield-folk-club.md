@@ -32,4 +32,4 @@ Guest Nights - still same club atmosphere but full concert performance from the 
 
 There is a break halfway through the evening for a sandwich buffet (included in admission fee) and a raffle.
 
-Entry is just Â£1 apart from Guest nights which are usually Â£3-Â£5.
+Entry is just £1 apart from Guest nights which are usually £3-£5.

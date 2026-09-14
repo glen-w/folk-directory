@@ -9,7 +9,7 @@ locations:
 county: Hampshire
 venue: Youth Club
 address: West Street
-place: ''
+place: Hambledon
 post_code: PO7 4RW
 when: Second Wednesday each month
 www: hambledonfolk.co.uk

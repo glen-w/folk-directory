@@ -26,4 +26,4 @@ Full
 Music on the Marr
 Great music, festival of Local Real Ales  Camping
 
-Full Festival tickets just Â£45, day/evening tickets from Â£14, under 12s free !
+Full Festival tickets just £45, day/evening tickets from £14, under 12s free !

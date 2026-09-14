@@ -9,7 +9,7 @@ locations:
 county: Edinburgh
 venue: ''
 address: ''
-place: ''
+place: Leith
 post_code: ''
 when: 'Meets every Tuesday - venue to be confirmed See the website: www'
 www: www.leithfolkclub.com

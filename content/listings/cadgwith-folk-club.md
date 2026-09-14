@@ -9,7 +9,7 @@ locations:
 county: Cornwall
 venue: ''
 address: ''
-place: ''
+place: Cadgwith
 post_code: ''
 when: every Tuesday from 9pm
 www: ''

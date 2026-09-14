@@ -19,4 +19,4 @@ status: listed
 
 Traditional and contemporary folk and blues club. Presents well-known folk and blues performers on the 4th Thursday of each month. Additionally on the 2nd Thursday of each month the opportunity is given for local performers and visitors to perform. Occasionally up and coming performers are given a 45 minute showcase case spot on the singers night
 Members and non-members welcome
-Membership: Â£5 per year, Members Â£5 Non-members Â£7 on guest nights. Singers/Showcase nights Â£3 for all. Under 18's free.
+Membership: £5 per year, Members £5 Non-members £7 on guest nights. Singers/Showcase nights £3 for all. Under 18's free.

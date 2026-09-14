@@ -16,5 +16,4 @@ when: April
 www: www.sheffieldfolksessionsfestival.co.uk
 status: listed
 ---
-
-Site not fully updated on our last visit. Hopefully more details will be available soon.
+Hopefully more details will be available soon.

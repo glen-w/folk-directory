@@ -21,8 +21,8 @@ theme = 'PaperMod'
 
   [params.label]
     text = "Folk Directory"
-    icon = "/images/logo/folk-directory-icon.png"
-    iconHeight = 36
+    icon = "/images/logo/folk-directory-logo.png"
+    iconHeight = 40
 
   [params.assets]
     favicon = "/favicon.ico"
@@ -37,25 +37,8 @@ theme = 'PaperMod'
     name = "email"
     url = "mailto:glen.w.wright@gmail.com"
 
-  [params.homeInfoParams]
-    Title = "Welcome to the Folk Directory"
-    Content = "A directory of folk music events across the UK: folk clubs, sessions, singarounds, dances and folk festivals."
-
   [params.profileMode]
-    enabled = true
-    title = "Folk Directory"
-    subtitle = "Your guide to folk music events across the UK"
-    imageUrl = "/images/logo/folk-directory-logo.png"
-    imageTitle = "Folk Directory"
-    imageWidth = 440
-    imageHeight = 181
-    buttons = [
-      {name = "Browse Events", url = "/listings/"},
-      {name = "Map", url = "/map/"},
-      {name = "Search", url = "/search/"},
-      {name = "About", url = "/about/"},
-      {name = "Contact", url = "/contact/"}
-    ]
+    enabled = false
 
   [params.fuseOpts]
     iscasesensitive = false
@@ -74,14 +57,9 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
     identifier = "listings"
-    name = "Events"
+    name = "Listings"
     url = "/listings/"
     weight = 10
-  [[menu.main]]
-    identifier = "map"
-    name = "Map"
-    url = "/map/"
-    weight = 12
   [[menu.main]]
     identifier = "search"
     name = "Search"
