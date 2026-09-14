@@ -20,4 +20,4 @@ email: proinsias@culturlann.ie
 status: listed
 ---
 
-An Culturlann, Belfast An Chultúrlann on its three floors, contains space for artistic and theatrical expression, a café, a tourist information office, community radio and the north’s largest dedicated Irish Language and media book and gift shop. An Chultúrlann is the jewel in the crown of Belfast’s emerging Gaeltacht Quarter. Live traditional and contemporary music sessions, poetry readings, céil
+An Chultúrlann, across its three floors, contains space for artistic and theatrical expression, a café, a tourist information office, community radio, and the North's largest dedicated Irish language and media book and gift shop. An Chultúrlann is the jewel in the crown of Belfast's emerging Gaeltacht Quarter, hosting live traditional and contemporary music sessions and poetry readings.
