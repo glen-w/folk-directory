@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/the_american_bar_logo_3245.png
 ---
 
-Belfast | Antrim | Northern Ireland | tel 02890743964 | Americanbarbelfast@gmail.com | @54.60848,-5.92005
+Belfast, Antrim, Northern Ireland. Tel: 02890743964. Email: Americanbarbelfast@gmail.com. Coordinates: 54.60848, -5.92005.

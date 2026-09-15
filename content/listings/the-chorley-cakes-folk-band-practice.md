@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/the_chorley_cakes_folk_band_practice_logo_869.png
 ---
 
-The Chorley Cakes Folk band practice at Eaves Green Community Centre (Chorley) — Saturday, 2nd in Month
+The Chorley Cakes Folk band practice at Eaves Green Community Centre (Chorley) — Saturday, 2nd in month.

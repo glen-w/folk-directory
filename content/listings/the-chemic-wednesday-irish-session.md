@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-The Chemic Wednesday Irish Session at The Chemic Tavern (Leeds) — Wednesday, Every Week
+The Chemic Wednesday Irish Session at The Chemic Tavern, Leeds — every Wednesday.

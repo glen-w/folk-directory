@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-The Ancestor Sessions at The Cornish Ancestor Micro Pub, Callington (Callington) — Friday, 3rd in Month
+The Ancestor Sessions takes place at The Cornish Ancestor Micro Pub, Callington, on the third Friday of each month.

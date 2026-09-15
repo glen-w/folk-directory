@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/the_bells_inn_logo_1153.png
 ---
 
-Almeley | Herefordshire | England | tel 01544 327216 | @52.15900,-2.97592
+Almeley, Herefordshire, England. Tel: 01544 327216. 52.15900, -2.97592

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-The Bedcote Music and Song Session at The Duke William (Stourbridge) — Tuesday, Every 2 weeks
+The Bedcote Music and Song Session at The Duke William (Stourbridge) — Tuesday, every two weeks

@@ -19,4 +19,4 @@ status: listed
 logo: /images/listings/the_beehive_logo_757.png
 ---
 
-The Beehive at Harthill Village Hall (Winney Hill Harthill) — Friday, 1st in Month
+The Beehive is held at Harthill Village Hall, Winney Hill, Harthill, on the first Friday of each month.

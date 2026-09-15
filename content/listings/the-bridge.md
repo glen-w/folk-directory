@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/the_bridge_logo_671.png
 ---
 
-The Bridge at Monkseaton Arms (Tyne & Wear) — Sunday, Every Week
+The Bridge, held at the Monkseaton Arms in Tyne & Wear, takes place every Sunday.
