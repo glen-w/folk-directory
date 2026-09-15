@@ -18,6 +18,6 @@ status: listed
 edited: 01/11/2012
 ---
 
-A mainly English tunes session from October through to the spring, to be held at the Gun & Spitroast pub, Horsmonden (TN12 8HT), starting at 8pm or so on the first Sunday of the month.
+A mainly English tunes session running from October through to the spring, held at the Gun & Spitroast pub, Horsmonden (TN12 8HT), starting at 8pm or so on the first Sunday of the month.
 
-The idea is to play a good mix of mainly English tunes, including whatever people bring along, as well as our own favourites and a good helping of the tunes folks have been been looking at during the Wednesday night classes.
+The session features a good mix of mainly English tunes, including whatever players bring along, as well as the group's favourites and a selection of the tunes the group has been looking at during the Wednesday night classes.

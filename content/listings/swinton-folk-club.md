@@ -17,4 +17,4 @@ email: gbwright@btinternet.com
 status: listed
 ---
 
-Mix of guests and singers nights
+A mix of guest and singers' nights.

@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/lancaster_university_folk_society_band_session_logo_879.png
 ---
 
-Lancaster University Folk Society - Band session at Bowland Bar (Lancaster) — Friday, Every Week
+Lancaster University Folk Society – band session at Bowland Bar, Lancaster, every Friday.

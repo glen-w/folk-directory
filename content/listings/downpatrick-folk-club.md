@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/downpatrick_folk_club_logo_984.png
 ---
 
-Downpatrick Folk Club This club, which began in the 1960s, and ran as a cultural hub to the county Down folk scene until the turn of the millenium has been revived, and has re-established itself within the broader community in relation to traditional and modern folk music, language and culture in general
+This club, which began in the 1960s and ran as a cultural hub for the County Down folk scene until the turn of the millennium, has been revived and re-established itself within the broader community in relation to traditional and modern folk music, language, and culture in general.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Lancaster Folk Club at Tite and Locke (Public House) (Lancaster) — Wednesday, 1st in Month
+Lancaster Folk Club meets at Tite and Locke, a public house in Lancaster, on the first Wednesday of each month.

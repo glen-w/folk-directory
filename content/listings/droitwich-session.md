@@ -18,4 +18,4 @@ status: listed
 edited: 08/02/2012
 ---
 
-Easy going session.  Music and song, all types of folk acceptable.  Also some country music.
+Easy-going session. Music and song, all types of folk acceptable. Also some country music.

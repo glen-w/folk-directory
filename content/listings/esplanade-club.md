@@ -19,4 +19,4 @@ email: esplanadeclubwatchet@gmail.com
 status: listed
 ---
 
-Watchet | Somerset | England | @51.18208,-3.32955
+Watchet, Somerset, England. @51.18208,-3.32955

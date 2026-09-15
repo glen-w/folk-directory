@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/folk_at_the_barlow_monthly_concert_logo_852.png
 ---
 
-Folk at the Barlow monthly Concert at The Barlow, Edgworth (Bolton) — Friday, 3rd in Month
+Folk at the Barlow is a monthly concert held at The Barlow, Edgworth, Bolton, on the third Friday of each month.

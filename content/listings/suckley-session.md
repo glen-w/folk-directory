@@ -17,4 +17,4 @@ status: listed
 edited: 08/02/2012
 ---
 
-Easy going session - music and song, all types of folk music accepted.
+An easy-going session featuring music and song. All types of folk music are welcome.

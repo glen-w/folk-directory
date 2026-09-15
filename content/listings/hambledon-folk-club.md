@@ -17,4 +17,4 @@ email: folkclubhambledon@hotmail.co.uk
 status: listed
 ---
 
-Hambledon Folk Club meets on the second Wednesday of each month at 8:30pm in the Youth Club building in the Village Hall car park next to The Vine in west Street. There are guest performers most months, usually acoustic, covering a wide range of styles
+Hambledon Folk Club meets on the second Wednesday of each month at 8:30pm in the Youth Club building in the Village Hall car park next to The Vine in West Street. There are guest performers most months, usually acoustic, covering a wide range of styles.

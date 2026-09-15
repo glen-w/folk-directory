@@ -18,4 +18,4 @@ status: listed
 edited: 28/01/2012
 ---
 
-This a mini concert series that runs between four and six times a year usually on a Wednesday or a Thursday on the any of the two middle weeks of a month.
+This is a mini-concert series that runs between four and six times a year, usually on a Wednesday or Thursday in any of the two middle weeks of a month.

@@ -18,4 +18,4 @@ status: listed
 edited: 01/06/2012
 ---
 
-A Weekend of Sea Shanty's, Maritime Songs & Music.
+A weekend of sea shanties, maritime songs and music.

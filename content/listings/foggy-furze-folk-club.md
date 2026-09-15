@@ -16,4 +16,4 @@ www: www.foggyfurzefolk.com
 status: listed
 ---
 
-Foggy Furze Folk Club , Hartlepool Meets every Tuesday evening with monthly guests.
+Foggy Furze Folk Club, Hartlepool. Meets every Tuesday evening with monthly guests.

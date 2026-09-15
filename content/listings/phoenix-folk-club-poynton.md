@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Phoenix Folk Club, Poynton at Poynton British Legion (Poynnton SK12 IJY) — Friday, 1st in Month
+Phoenix Folk Club, Poynton, at Poynton British Legion (Poynton SK12 IJY) — Friday, 1st in month

@@ -17,16 +17,4 @@ email: fabclubgrays@googlemail.com
 status: listed
 ---
 
-FaB Club is a Get a Floor Spot Folk Club.
-
-
-Anyone can turn
-
-
-FaB Club is a Get a Floor Spot Folk Club.
-
-
-Anyone can turn up and perform a couple of numbers or just come to watch the show.
-
-The Club is called F a B because anything remotely
-connected to Folk, acoustic or Blues music goes… And of course, it is a FaBulous club, where musician and non-musician friends meet up, have a chat and a laugh with other performers or non-performers.
+FAB Club is a Get a Floor Spot Folk Club. Anyone can turn up and perform a couple of numbers or just come to watch the show. The club is called FAB because anything remotely connected to folk, acoustic or blues music goes. It is also a FABulous club, where musician and non-musician friends meet up, have a chat and a laugh with other performers or non-performers.

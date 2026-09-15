@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Partridge Folk at The Partridge (Horsham) — Monday, 4th in Month
+Partridge Folk is a monthly folk session held on the fourth Monday of each month at The Partridge, Horsham.

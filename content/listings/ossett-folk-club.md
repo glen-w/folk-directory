@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Ossett Folk Club at Ossett Cricket Club (Dimple Wells Ln Ossett England) — Thursday, Every Week
+Ossett Folk Club meets at Ossett Cricket Club, Dimple Wells Lane, Ossett, England, every Thursday.

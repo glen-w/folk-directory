@@ -16,4 +16,4 @@ www: ruthinallstyles.co.uk
 status: listed
 ---
 
-Ruthin AllStyles Music Club at The Feathers Inn, Ruthin (Ruthin) — Thursday, Every Week
+Ruthin AllStyles Music Club at The Feathers Inn, Ruthin, every Thursday.

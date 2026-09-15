@@ -19,14 +19,11 @@ logo: /images/listings/dorking_folk_club_logo_47.png
 ---
 
 GUEST NIGHTS
-The club aims to provide as broad a cross-section of
+The club aims to provide as broad a cross-section of music as possible, to highlight the range of styles that constitute traditional music. Over the past few years the club has hosted a whole host of well-known artists: John Renbourn, Last Night's Fun, Bob Fox & Stu Luckley, Dave Burland, Eddie Walker, The Ex-Patriot Game, Jez Lowe, The Devil's Interval, Martin Simpson, Nancy Kerr and James Fagan, Richard Durrant, Martin Carthy, Chris Moreton, Steve Tilston, Spiers and Boden (Bellowhead), Les Barker, Simon Mayor and Hilary James, Vin Garbutt, Ken Perlman, Karen Tweed & Roger Wilson and many more.
+The club also showcases rising new talent, so attendees often have the opportunity to see the stars of tomorrow here today.
 
-GUEST NIGHTS
-The club aims to provide as broad a cross-section of music as possible, to highlight the range of styles that constitute traditional music. Over the past few years we have enjoyed a whole host of well known artists: John Renbourn, Last Night’s Fun, Bob Fox & Stu Luckley, Dave Burland, Eddie Walker, The Ex-Patriot Game, Jez Lowe, The Devil’s Interval, Martin Simpson, Nancy Kerr and James Fagan, Richard Durrant, Martin Carthy, Chris Moreton, Steve Tilston, Spiers and Boden (Bellowhead), Les Barker, Simon Mayor and Hilary James, Vin Garbutt, Ken Perlman, Karen Tweed & Roger Wilson and many more.
-The Club also showcases rising new talent, so you often get the opportunity to see the stars of tomorrow here today.
-
-SINGERS’ NIGHTS
+SINGERS' NIGHTS
 The club also has a role in encouraging local musicians and singers to get together and perform traditional music in a more informal way.
 
-Not just for singers, these are open to all – for musicians, singers, any acoustic performer who would like to take a floor spot and perform a couple of items for the enjoyment of all. And there is no pressure to perform (you put your name down if you want to) as we actively welcome non-performers who just want to come along and listen.
-A relaxed, friendly and supportive atmosphere hosted by our resident MCs.
+Not limited to singers, these nights are open to all – musicians, singers, and any acoustic performer who would like to take a floor spot and perform a couple of items for the enjoyment of all. There is no pressure to perform (performers put their name down if they wish to), and the club actively welcomes non-performers who simply want to come along and listen.
+A relaxed, friendly and supportive atmosphere is hosted by the club's resident MCs.

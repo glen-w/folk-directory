@@ -19,4 +19,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-Mainly traditional English but we welcome all singers and musicians.
+Mainly traditional English, but all singers and musicians are welcome.

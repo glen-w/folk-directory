@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Lake District Folk and Acoustic Club at Staveley Pavilion - recreation ground (Kendal Cumbria) — Friday, 2nd in Month
+The Lake District Folk and Acoustic Club meets at Staveley Pavilion, Recreation Ground, Kendal, Cumbria, on the second Friday of each month.

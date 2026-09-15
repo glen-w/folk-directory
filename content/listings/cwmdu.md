@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/cwmdu_logo_825.png
 ---
 
-Cwmdu at The Cwmdu Inn (Carmarthenshire) — Friday, 1st in Month
+Cwmdu at The Cwmdu Inn, Carmarthenshire — Friday, 1st in month.

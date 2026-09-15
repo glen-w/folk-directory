@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Quay Folk Club at Quay Arts Centre (Isle of Wight) — Sunday, 3rd in Month
+Quay Folk Club, Quay Arts Centre, Isle of Wight. Meets on the third Sunday of each month.

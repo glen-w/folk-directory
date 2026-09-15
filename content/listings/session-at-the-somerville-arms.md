@@ -17,4 +17,4 @@ email: info@somervillearms.co.uk
 status: listed
 ---
 
-Leamington Spa | Warwickshire | England | tel 01926 426746 | info@somervillearms.co.uk | @52.29356,-1.52548
+Leamington Spa, Warwickshire, England. Tel: 01926 426746. Email: info@somervillearms.co.uk. Coordinates: 52.29356, -1.52548.

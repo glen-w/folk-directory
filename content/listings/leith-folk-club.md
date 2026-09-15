@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/leith_folk_club_logo_973.png
 ---
 
-Leith Folk Club Meets every Tuesday - venue to be confirmed
+Leith Folk Club meets every Tuesday. Venue to be confirmed.

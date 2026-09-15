@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Hebden Bridge Traditional Folks Singing at The Nightjar, Hebden Bridge (Hebden Bridge West Yorkshire) — Thursday, 4th in Month
+Hebden Bridge Traditional Folks Singing takes place at The Nightjar, Hebden Bridge, West Yorkshire, on the fourth Thursday of the month.

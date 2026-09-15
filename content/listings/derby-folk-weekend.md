@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/derby_folk_weekend_logo_1062.png
 ---
 
-Concerts, workshops, sessions. Mainly indoors, so no need to worry about the weather. There are individual concerts in Derby Cathedral on Friday evening, and Saturday, and concerts in The Old Bell Hotel on Friday evening, and through Saturday and Sunday.
+Concerts, workshops, and sessions. Mainly indoors, so weather is not a concern. Individual concerts take place in Derby Cathedral on Friday evening and Saturday, and at The Old Bell Hotel on Friday evening, Saturday, and Sunday.

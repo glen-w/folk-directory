@@ -16,4 +16,4 @@ www: www.nationalforestfolk.com
 status: listed
 ---
 
-National Forest Folk Club, Leicestershire The National Forest Folk Club is in The Moira Miners’ Welfare, in North West Leicestershire
+The National Forest Folk Club is at The Moira Miners' Welfare in North West Leicestershire.

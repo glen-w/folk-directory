@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Folk Music and Song Session The Bull at The Bull (Birmingham) — Tuesday, 1st in Month
+A folk music and song session held at The Bull, Birmingham, on the first Tuesday of each month.

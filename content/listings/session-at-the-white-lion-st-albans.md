@@ -17,4 +17,4 @@ email: Alison.Macfarlane@lineone.net
 status: listed
 ---
 
-The main events are on the Saturday. These will consist of a day of dance in the City Centre, a day of music with free showcase performances in local pubs and other venues, sessions and singarounds and a festival concert in the Maltings Arts Theatre. Full details not yet available.
+The main events are on the Saturday. These will consist of a day of dance in the City Centre, a day of music with free showcase performances in local pubs and other venues, sessions and singarounds, and a festival concert in the Maltings Arts Theatre. Full details not yet available.

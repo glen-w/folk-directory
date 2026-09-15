@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Magazine Folk Club at The Magazine Hotel (New Brighton) — Tuesday, Every Week
+Magazine Folk Club at The Magazine Hotel, New Brighton — Tuesday, every week

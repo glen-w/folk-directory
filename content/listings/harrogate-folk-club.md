@@ -16,4 +16,4 @@ www: harrogatefolk.com
 status: listed
 ---
 
-Harrogate Folk Club at Roosters Brewery (North Yorkshire) — Wednesday, 1st in Month
+Harrogate Folk Club meets at Roosters Brewery, North Yorkshire, on the first Wednesday of the month.

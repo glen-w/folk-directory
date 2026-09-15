@@ -18,4 +18,4 @@ status: listed
 edited: 15/05/2012
 ---
 
-Bands Playing Chris Moreton Ivor Ottley Howard Burton Joe Tozer Wood Wire & Words The Bow-Legged Skeeters Ghost Town Showdown. Sunday Workshops 12.30 - 1.30 Guitar Chris Morton Fiddle Ivor Ottley Banjo & Mandolin. Concerts 7pm Saturday 3pm Sunday.
+Performers include Chris Moreton, Ivor Ottley, Howard Burton, Joe Tozer, Wood Wire & Words, The Bow-Legged Skeeters, and Ghost Town Showdown. Sunday workshops run from 12.30 to 1.30, covering guitar (Chris Morton), fiddle (Ivor Ottley), and banjo and mandolin. Concerts take place at 7pm on Saturday and 3pm on Sunday.

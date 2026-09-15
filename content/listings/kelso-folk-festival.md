@@ -17,4 +17,4 @@ email: kelsoflmc@gmail.com
 status: listed
 ---
 
-Multiple venues within a small area of the town. With a few free events. Features evening and daytime concerts, sessions, open mics, singarounds and workshops. Good value for money.
+Multiple venues within a small area of the town, with a few free events. Features evening and daytime concerts, sessions, open mics, singarounds and workshops. Good value for money.

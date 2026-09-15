@@ -17,4 +17,4 @@ www: www.davylampfolkclub.co.uk
 status: listed
 ---
 
-Davy Lamp Folk Club at The Arts Centre (Washington) — Saturday, 1st in Month
+Davy Lamp Folk Club meets at The Arts Centre, Washington, on the first Saturday of the month.

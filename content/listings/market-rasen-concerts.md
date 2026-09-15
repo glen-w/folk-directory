@@ -16,4 +16,4 @@ www: marketrasenconcerts.co.uk/concerts
 status: listed
 ---
 
-Market Rasen Concerts at The Festival Hall, Market Rasen LN8 3HT (Market Rasen LN8 3HT Lincolnshire) — Friday, Variable
+Market Rasen Concerts are held at The Festival Hall, Market Rasen, Lincolnshire LN8 3HT, on Fridays (dates variable).

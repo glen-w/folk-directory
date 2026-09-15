@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Folk The Good Intent at The Good Intent (Birmingham) — Tuesday, 2nd in Month
+Folk The Good Intent is held at The Good Intent, Birmingham, on the second Tuesday of the month.

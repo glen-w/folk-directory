@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/grayshott_folk_club_logo_707.png
 ---
 
-Grayshott Folk Club at Grashott Village Hall (and other venues) (Surrey) — Varied, Variable
+Grayshott Folk Club meets at Grashott Village Hall and other venues in Surrey. The programme is varied and variable.

@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/dreamers_folk_logo_728.png
 ---
 
-Dreamers Folk , Four Lanes, Cornwall
+Dreamers Folk, Four Lanes, Cornwall

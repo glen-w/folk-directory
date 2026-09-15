@@ -16,4 +16,4 @@ www: www.lighthouse-folk.org.uk
 status: listed
 ---
 
-The Lighthouse Folk Club , Halesowen, west Midlands Meets every Thursday evening.
+The Lighthouse Folk Club, Halesowen, West Midlands, meets every Thursday evening.

@@ -16,4 +16,5 @@ www: ''
 status: defunct
 edited: 06/03/2012
 ---
-A friendly space for storytellers to perform in front of a small audience. Beginner, experienced or there to listen - all are welcome!
+
+A friendly space for storytellers to perform in front of a small audience. Beginner, experienced, or there to listen — all are welcome.

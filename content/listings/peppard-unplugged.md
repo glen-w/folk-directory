@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Peppard Unplugged at Peppard War Memorial Hall (Henley-on-Thames) — Saturday, 2nd in Month
+Peppard Unplugged takes place at the Peppard War Memorial Hall, Henley-on-Thames, on the second Saturday of each month.

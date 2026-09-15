@@ -17,4 +17,4 @@ email: Sutton-Acoustic@Blueyonder.co.uk
 status: defunct
 ---
 
-Sutton Acoustic Music Club promotes all types of acoustic music in the South East of England. Each week musicians are encouraged to play at our Wednesday open-mic night club, we also book monthly guests.
+Sutton Acoustic Music Club promotes all types of acoustic music in the South East of England. Each week, musicians are encouraged to play at the Wednesday open-mic night, and the club also books monthly guests.

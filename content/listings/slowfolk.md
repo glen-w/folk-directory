@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Slowfolk at Stoke Baptist Centre (Stoke-on-Trent) — Sunday, 3rd in Month
+Slowfolk takes place at Stoke Baptist Centre, Stoke-on-Trent, on the third Sunday of each month.

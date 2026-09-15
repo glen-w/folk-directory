@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Ferrybridge Folk at Golden Lion (Knottingley) — Wednesday, Last in month
+Ferrybridge Folk takes place at the Golden Lion, Knottingley, on the last Wednesday of the month.

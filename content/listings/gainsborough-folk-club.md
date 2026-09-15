@@ -17,10 +17,4 @@ email: mike_dewsbury@yahoo.co.uk
 status: listed
 ---
 
-Gainsborough is a small market town in north west Lincolnshire (England).
-
-The
-
-Gainsborough is a small market town in north west Lincolnshire (England).
-
-The folk club is small but extremely enthusiastic and friendly.
+Gainsborough is a small market town in north west Lincolnshire, England. The folk club is small but extremely enthusiastic and friendly.

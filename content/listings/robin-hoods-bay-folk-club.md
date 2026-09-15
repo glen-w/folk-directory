@@ -16,4 +16,4 @@ www: folkclub.rhbay.co.uk
 status: listed
 ---
 
-Robin Hoods Bay Folk Club The Robin Hood's Bay Folk Club meets every Friday Evening in the big room of the Dolphin Inn, on King Street in the old village of Robin Hood's Bay, and keeps alive the local tradition of music and singing. It usually starts between 8.30 and 9.00 p.m
+The Robin Hood's Bay Folk Club meets every Friday evening in the big room of the Dolphin Inn, on King Street in the old village of Robin Hood's Bay, and keeps alive the local tradition of music and singing. It usually starts between 8.30 and 9.00 p.m.

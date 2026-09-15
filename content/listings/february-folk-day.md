@@ -19,4 +19,4 @@ edited: 23/01/2012
 logo: /images/listings/february_folk_day_logo_168.png
 ---
 
-A small friendly one-day event with afternoon concert, evening ceilidh and folk club. Sessions, singarounds etc from 12 noon.
+A small, friendly one-day event with an afternoon concert, an evening ceilidh and a folk club. Sessions, singarounds, etc. from 12 noon.

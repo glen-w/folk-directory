@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-No 7 Tuesday Session at Various pubs on the bus route between Bolton and Wigan (7 bus route) — Tuesday, Every Week
+No 7 Tuesday Session takes place at various pubs along the 7 bus route between Bolton and Wigan, every Tuesday.

@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/irish_cultural_centre_logo_2539.png
 ---
 
-Hammersmith | London | England | tel 020 8563 8232 | @51.49235,-0.22533
+Hammersmith, London, England. Tel: 020 8563 8232. 51.49235, -0.22533.

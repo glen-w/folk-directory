@@ -18,8 +18,6 @@ status: listed
 edited: 24/01/2012
 ---
 
-The Tuesday session at the Royal Oak is informal and features folk and traditional performers, shanties, Welsh songs, Irish jigs and reels, singer/songwriters, and more. 
-Everyone is welcome to come along and join in or just listen. 
+The Tuesday session at the Royal Oak is informal and features folk and traditional performers, shanties, Welsh songs, Irish jigs and reels, singer/songwriters, and more. Everyone is welcome to come along and join in or just listen.
 
-
-DUE TO UNFORESEEN CIRCUMSTANCES THE OAK IS CLOSED AT PRESENT. SESSIONS ARE TO BE HELD IN THE GLOBE, WHICH IS 100 YARDS FURTHER DOWN TOWARD LOWER TOWN, ON THE OTHER SIDE OF THE ROAD.
+The Royal Oak is currently closed due to unforeseen circumstances. Sessions are being held at The Globe, which is 100 yards further down toward Lower Town, on the other side of the road.

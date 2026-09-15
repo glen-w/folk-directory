@@ -17,4 +17,4 @@ www: ''
 status: listed
 ---
 
-Telstar Folk Club, Old Kilpatrick A new folk club /music session has started in the Telstar Bar in the village of Old Kilpatrick on Thursday nights at 8pm. All levels of musicians or singers are welcome with a variety of music. If you just like to listen, come along too. Contact Gordon McKay: 07960066120 or 01389383421.
+A new folk club and music session has started in the Telstar Bar in the village of Old Kilpatrick on Thursday nights at 8pm. Musicians and singers of all levels are welcome, with a variety of music. Those who prefer to listen are welcome too. Contact Gordon McKay: 07960066120 or 01389383421.

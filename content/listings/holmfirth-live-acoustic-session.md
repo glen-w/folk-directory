@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Holmfirth Live Acoustic Session at Royal Oak, Upperthing (Holmfirth) — Tuesday, 2nd in Month
+Holmfirth Live Acoustic Session is held at the Royal Oak, Upperthing, Holmfirth, on the second Tuesday of each month.

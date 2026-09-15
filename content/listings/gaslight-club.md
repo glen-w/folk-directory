@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Gaslight Club at Oporto (Leeds) — Monday, Every Week
+Gaslight Club takes place at Oporto, Leeds, every Monday.

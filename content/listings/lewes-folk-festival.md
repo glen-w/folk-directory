@@ -18,4 +18,4 @@ status: listed
 edited: 30/12/2011
 ---
 
-Organised by the two Lewes folk clubs, The Royal Oak and The Lewes Saturday Folk Club in conjuction with The Union Music Store.
+Organised by the two Lewes folk clubs, The Royal Oak and The Lewes Saturday Folk Club, in conjunction with The Union Music Store.

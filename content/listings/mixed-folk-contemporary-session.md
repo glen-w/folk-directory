@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Mixed folk/contemporary session at Farmers Arms (GB) — Wednesday, 3rd in Month
+Mixed folk/contemporary session at Farmers Arms (GB) — Wednesday, 3rd in month

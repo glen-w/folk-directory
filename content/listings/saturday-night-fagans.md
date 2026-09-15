@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Saturday Night Fagans at Fagans (Sheffield) — Saturday, Every Week
+Saturday Night Fagans at Fagans, Sheffield — every Saturday.

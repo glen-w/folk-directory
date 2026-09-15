@@ -17,4 +17,4 @@ www: www.midwayfolkclub.co.uk
 status: listed
 ---
 
-Midway Folk Club, Stockport This club meets on Mondays at 8.30pm at the Midway, Newbridge Lane in Stockport (except bank holidays). They have singaround sessions and regular guest nights
+The club meets on Mondays at 8.30 pm at the Midway, Newbridge Lane, Stockport (except bank holidays). The club holds singaround sessions and regular guest nights.

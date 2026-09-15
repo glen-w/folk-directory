@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/eilean_dorcha_festival_logo_3698.png
 ---
 
-EDF is working in conjunction with charitable and educational bodies to identify emerging talent on the island and to give them a platform to perform. There will also be opportunities to learn about digital media, the Gaelic language and to listen to local and visiting musicians. EDF is about a lot more than just the music. We will also be showcasing "Made in the Hebrides" products. Location: Lini
+EDF works in conjunction with charitable and educational bodies to identify emerging talent on the island and give them a platform to perform. There are also opportunities to learn about digital media and the Gaelic language, and to listen to local and visiting musicians. EDF encompasses more than music; the festival also showcases "Made in the Hebrides" products. The festival is held in Lini.

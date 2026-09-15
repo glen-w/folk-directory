@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Pickering Acoustic Music at The Sun Inn (North Yorkshire) — Monday, Every 2 weeks
+Pickering Acoustic Music at The Sun Inn (North Yorkshire) — Monday, every two weeks

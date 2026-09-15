@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Harrogate Instrumental Pub Session at The Tap on Tower Street (Harrogate) — Tuesday, Every Week
+The Harrogate Instrumental Pub Session takes place at The Tap on Tower Street, Harrogate, every Tuesday.

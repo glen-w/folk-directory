@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Huntly Folk Club The Huntly Folk Club takes place on the third Wednesday of every month at Harry's Bar (behind The Crown pub), starts at 8pm.
+The Huntly Folk Club takes place on the third Wednesday of every month at Harry's Bar (behind The Crown pub) and starts at 8pm.

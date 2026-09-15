@@ -17,4 +17,4 @@ www: www.irvinefolkclub.org.uk
 status: listed
 ---
 
-Irvine Folk Club at Vineburgh Community Centre (Irvine) — Wednesday, Every 2 weeks
+Irvine Folk Club meets at Vineburgh Community Centre, Irvine, every two weeks on Wednesday.

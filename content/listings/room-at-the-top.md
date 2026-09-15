@@ -16,4 +16,4 @@ www: www.markdowding.co.uk/room_at_the_top.htm
 status: listed
 ---
 
-Room at the Top at The Red Lion (Newburgh) — Monday, Every Week
+Room at the Top at The Red Lion (Newburgh) — Monday, every week

@@ -16,4 +16,4 @@ www: regaltenbury.co.uk/regal-folk-festival-2026
 status: listed
 ---
 
-Now in its 3rd year. The events take place inside the Regal Cinema.
+Now in its third year, the festival takes place at the Regal Cinema.

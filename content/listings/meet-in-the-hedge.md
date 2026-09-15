@@ -18,4 +18,4 @@ status: listed
 edited: 12/02/2012
 ---
 
-A monthly Acoustic music club held in Wymondham's best real ale pub. Outdoors in the summer.
+A monthly acoustic music club held in Wymondham's best real ale pub. Outdoors in the summer.

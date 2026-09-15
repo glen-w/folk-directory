@@ -16,4 +16,4 @@ www: folk.wales/updates/about-llantrisant-folk-club/
 status: listed
 ---
 
-Llantrisant Folk Club at Pontyclun Institute Athletic Club (Pontyclun) — Wednesday, Every Week
+Llantrisant Folk Club at Pontyclun Institute Athletic Club, Pontyclun — every Wednesday.

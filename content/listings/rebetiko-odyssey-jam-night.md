@@ -18,7 +18,4 @@ status: listed
 edited: 31/01/2012
 ---
 
-The Rebetiko Odyssey Jam Session is free and everyone's invited. Musicians and non-musicians. Rebetiko is the Greek Blues (WorldMusic)
-For more info, email or visit our website.
-
-The nearest tube station is Farringdon.
+The Rebetiko Odyssey Jam Session is free and all are welcome, whether musicians or non-musicians. Rebetiko is the Greek blues (world music). For more information, email or visit the website. The nearest tube station is Farringdon.

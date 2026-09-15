@@ -17,4 +17,4 @@ email: StimpsonM@aol.com
 status: listed
 ---
 
-Rickmansworth Folk Club at Rickmansworth Conservative Club (Hertfordshire) — Tuesday, 2nd in Month
+Rickmansworth Folk Club meets at the Rickmansworth Conservative Club in Hertfordshire on the second Tuesday of the month.

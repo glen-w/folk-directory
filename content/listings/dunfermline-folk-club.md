@@ -17,4 +17,4 @@ www: www.dunfermlinefolkclub.co.uk
 status: listed
 ---
 
-Dunfermline Folk Club at The Glen Tavern (Dunfermline) — Wednesday, Every Week
+Dunfermline Folk Club meets at The Glen Tavern, Dunfermline, every Wednesday.

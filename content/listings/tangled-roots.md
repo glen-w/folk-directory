@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/tangled_roots_logo_3657.png
 ---
 
-Acoustic, Roots, Folk, Contemporary and Traditional music from around the world. More Acts and details to come including singing, dancing and yoga workshops and a Sunday Lunch Acoustic Cafe
+Acoustic, roots, folk, contemporary and traditional music from around the world. Further acts and details to be announced, including singing, dancing and yoga workshops, and a Sunday lunch acoustic café.

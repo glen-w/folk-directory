@@ -18,10 +18,10 @@ status: listed
 edited: 23/01/2012
 ---
 
-The evening will see the multi-talented Rosie Davis calling to music provided by the Horsmonden Traditional Music Class and friends, with songs from a variety of invited guests and the odd party game. 
+The evening will see the multi-talented Rosie Davis calling to music provided by the Horsmonden Traditional Music Class and friends, with songs from a variety of invited guests and the odd party game.
 
-We'll be in the Bell & Jorrocks function room, and formal attire is encouraged (but optional).
+The event takes place in the Bell & Jorrocks function room, and formal attire is encouraged (but optional).
 
-Earlier in the day we’ll have the usual Frittenden-style traditional, old fashioned and entertaining session in the bar, followed by a mixed session and concert on the theme of Sea, Ships and Sailors with weekend guests, who include Frittenden regulars Andy Turner, Annie Dearman and Steve Harrison, and sea-song specialist Chris Roche. Rosie has kindly promised to chip in with a Sailor’s Hornpipe!
+Earlier in the day, the usual Frittenden-style traditional, old-fashioned and entertaining session takes place in the bar, followed by a mixed session and concert on the theme of Sea, Ships and Sailors with weekend guests, who include Frittenden regulars Andy Turner, Annie Dearman and Steve Harrison, and sea-song specialist Chris Roche. Rosie will also contribute a Sailor's Hornpipe.
 
-In the late morning and early evening we’ll also have a workshop in which Rosie will teach some of the old fashioned dances she’ll be calling in the evening.
+In the late morning and early evening, a workshop is held in which Rosie teaches some of the old-fashioned dances she will be calling in the evening.

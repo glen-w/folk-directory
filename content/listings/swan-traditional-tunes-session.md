@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Swan Traditional Tunes Session at Swan Inn, Kirkgate, Cockermouth (Cumbria) — Wednesday, 2nd in Month
+Swan Traditional Tunes Session at the Swan Inn, Kirkgate, Cockermouth, Cumbria — second Wednesday of the month.

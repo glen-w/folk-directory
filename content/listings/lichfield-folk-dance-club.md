@@ -17,4 +17,4 @@ email: lynnpenny.lp@gmail.com
 status: listed
 ---
 
-Lichfield Folk Dance Club Meeting most Monday evenings, club nights are normally at the Bader Hall of King Edward School, Kings Hill Road, Lichfield WS14 9DE, except in school holidays, when the club normally use St Chad’s Church Hall, The Leasowe WS13 7HD. New members are always welcome, including beginners
+The club meets most Monday evenings. Club nights are normally at the Bader Hall of King Edward School, Kings Hill Road, Lichfield WS14 9DE, except during school holidays, when the club normally uses St Chad's Church Hall, The Leasowe WS13 7HD. New members are always welcome, including beginners.

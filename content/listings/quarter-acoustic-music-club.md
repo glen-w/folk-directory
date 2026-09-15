@@ -16,4 +16,4 @@ www: quarteraccoustic.wixsite.com/qamc01
 status: listed
 ---
 
-Quarter Acoustic Music Club at Quarter Boolin' Club (South Lanarkshire) — Tuesday, Every Week
+Quarter Acoustic Music Club is held at Quarter Boolin' Club in South Lanarkshire, every Tuesday.

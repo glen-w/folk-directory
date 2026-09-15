@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/sheffield_folk_sessions_logo_3626.png
 ---
 
-Hopefully more details will be available soon.
+Further details are expected to be available soon.

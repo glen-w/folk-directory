@@ -16,4 +16,4 @@ www: www.scotborders-folk.org.uk/denholm_folk_club.htm
 status: listed
 ---
 
-Denholm Folk Club Held at the Auld Cross Keys Hotel, Denholm, Roxburghshire, this club meets every second Thursday. Start time 8.30pm Folk Club
+Held at the Auld Cross Keys Hotel, Denholm, Roxburghshire, the club meets every second Thursday, starting at 8.30pm.

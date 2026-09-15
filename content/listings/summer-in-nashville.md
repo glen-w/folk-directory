@@ -16,4 +16,4 @@ www: summerinnashville.com/aberdeen
 status: listed
 ---
 
-This is a roadshow, that occurs in several locations. We've included a few of them, but if you want to see the whole list, remove the location in the url, and you go to the roadshow's own website.
+This is a roadshow that takes place in several locations. A few are listed here; to see the full list, remove the location from the URL to reach the roadshow's own website.

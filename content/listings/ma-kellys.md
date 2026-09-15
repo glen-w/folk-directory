@@ -18,4 +18,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-Open session of instrumental Scottish trad. All visitors are welcome, musicians are encouraged to join in.
+Open session of instrumental Scottish traditional music. All visitors are welcome, and musicians are encouraged to join in.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Stonehouse Folk Club at Church Hall (South Lanarkshire.) — Friday, 2nd & 4th
+Stonehouse Folk Club at Church Hall, South Lanarkshire — Friday, 2nd & 4th

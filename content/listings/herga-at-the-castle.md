@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/herga_at_the_castle_logo_812.png
 ---
 
-Herga at The Castle at The Castle (Harrow) — Monday, Every Week
+Herga at The Castle, The Castle, Harrow — Monday, every week.

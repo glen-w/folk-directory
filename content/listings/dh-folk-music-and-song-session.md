@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Folk Music and Song Session at The Wellington (Birmingham) — Tuesday, 3rd in Month
+Folk music and song session at The Wellington, Birmingham, on the third Tuesday of each month.

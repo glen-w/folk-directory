@@ -18,15 +18,6 @@ status: listed
 edited: 21/02/2012
 ---
 
-Yearly membership -  £7.00  (starts from September)
+Yearly membership is £7.00 (starts from September).
 
-Admission
-
-Yearly membership -  £7.00  (starts from September)
-
-Admission price for for the forthcoming year unless otherwise stated :
-
-Members -  £6.00
-Guests -  £7.00
-
-Singers & Musicians nights £1.50 for all
+Admission for the forthcoming year, unless otherwise stated: members £6.00, guests £7.00. Singers & Musicians nights are £1.50 for all.

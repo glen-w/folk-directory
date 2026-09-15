@@ -18,6 +18,4 @@ status: listed
 edited: 10/09/2012
 ---
 
-Folk and Acoustic music at it's best. Resident hosts Alan Morley and Huge Stewart (Morley/Stewart).
-
-Traditional and contemporary folk music / country music and celtic.
+Folk and acoustic music at its best. Resident hosts Alan Morley and Hugh Stewart (Morley/Stewart). Traditional and contemporary folk, country, and Celtic music.

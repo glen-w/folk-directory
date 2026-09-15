@@ -17,4 +17,4 @@ www: www.sandpiperfolkclub.com
 status: listed
 ---
 
-Sandpiper Folk Club at Pigot Arms (Wolverhampton) — Wednesday, Every 2 weeks
+Sandpiper Folk Club at the Pigot Arms, Wolverhampton — Wednesday, every two weeks.

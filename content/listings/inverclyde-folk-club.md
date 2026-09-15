@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Inverclyde Folk Club Inverclyde Folk Club meets every Tuesday night from around 8pm onwards at The Loreto Club, Houston Street, Greenock, Inverclyde, Scotland PA16 8DA Monthly events from Open Stages, Visiting Clubs, Guest Performers, Charity Events, Community Visits and lots more. Old and New Members always welcome. Originally meeting at Baxters then at The Liberal Club, Inverclyde Folk Club has
+Inverclyde Folk Club meets every Tuesday night from around 8pm onwards at The Loreto Club, Houston Street, Greenock, Inverclyde, Scotland PA16 8DA. Monthly events include Open Stages, Visiting Clubs, Guest Performers, Charity Events, Community Visits and more. Old and new members are always welcome. The club originally met at Baxters, then at The Liberal Club.

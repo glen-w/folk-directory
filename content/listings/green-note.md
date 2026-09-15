@@ -17,4 +17,4 @@ email: mail@greennote.co.uk
 status: listed
 ---
 
-Green Note at Green Note (London) — Varied, Every Week
+Green Note, London. Varied, every week.

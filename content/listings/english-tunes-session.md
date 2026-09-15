@@ -16,4 +16,4 @@ www: englishtunes.wordpress.com
 status: listed
 ---
 
-English tunes session at Woodie's at the Junction (Southampton) — Tuesday, 2nd in Month
+English tunes session at Woodie's at the Junction (Southampton) — Tuesday, 2nd in month

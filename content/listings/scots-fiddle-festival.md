@@ -18,4 +18,4 @@ status: listed
 edited: 02/08/2012
 ---
 
-An exciting weekend of fiddle concerts, recitals, workshops, sessions, talks and ceilidhs.  Run by the Scots Fiddle Festival Ltd, the charity that promotes and sustains traditional fiddle music in Scotland.
+An exciting weekend of fiddle concerts, recitals, workshops, sessions, talks and ceilidhs. Run by the Scots Fiddle Festival Ltd, the charity that promotes and sustains traditional fiddle music in Scotland.

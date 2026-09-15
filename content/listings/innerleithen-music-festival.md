@@ -18,4 +18,4 @@ status: listed
 edited: 01/06/2012
 ---
 
-Annual festival in a beautifully situated small town with a mix of big name concerts from the world of Scottish/Celtic music, workshops and lots of informal music.  Check the web site for more info!
+Annual festival in a beautifully situated small town, featuring high-profile concerts from the world of Scottish/Celtic music, workshops, and informal music-making. Further details are available on the website.

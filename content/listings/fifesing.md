@@ -17,4 +17,4 @@ email: progress@springthyme.co.uk
 status: listed
 ---
 
-Traditional singing showcased. Several venues. CDs of previous events available too.
+Traditional singing is showcased at several venues. CDs of previous events are also available.

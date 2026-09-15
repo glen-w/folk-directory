@@ -16,4 +16,4 @@ www: www.rootsmusicclub.co.uk
 status: listed
 ---
 
-Roots Music Club at Various, Including the Ukranian Club (Doncaster) — Friday, Every Week
+Roots Music Club meets every Friday at various venues, including the Ukrainian Club in Doncaster.

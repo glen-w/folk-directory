@@ -18,18 +18,14 @@ status: listed
 edited: 23/01/2012
 ---
 
-Generally this alternates between  open singers' /feature or guest nights.
+Generally, the club alternates between open singers' nights, feature nights, and guest nights.
 
-On
+On singers' nights, a warm welcome is offered whether or not one wishes to perform. Performers take a short spot (one or two songs, tunes, or poems; a maximum of ten minutes, please).
 
-Generally this alternates between  open singers' /feature or guest nights.
+Feature nights follow a similar format to singers' nights, but the named act takes two 20-minute spots, leaving plenty of time for about eight floor spots.
 
-On Singers nights we offer a warm welcome whether or not you want to perform. Performers get to do a short spot(1 or 2 songs / tunes /poems.. max 10 mins please!)
+Guest nights maintain the same club atmosphere but feature a full concert performance from the billed act. Each half begins with a short support spot — sometimes this is given to a billed act, or, if not, the MC will ask for volunteers from the audience.
 
-Feature Nights are run on similar lines to singers, but the named act gets 2 x 20min spots leaving plenty of time for about 8 floor spots.
+There is a break halfway through the evening for a sandwich buffet (included in the admission fee) and a raffle.
 
-Guest Nights - still same club atmosphere but full concert performance from the billed act. Each half starts with a short support spot - sometimes this is given over to a billed act or, if  not, then the MC will ask for volunteers from audience.
-
-There is a break halfway through the evening for a sandwich buffet (included in admission fee) and a raffle.
-
-Entry is just £1 apart from Guest nights which are usually £3-£5.
+Entry is £1, apart from guest nights, which are usually £3–£5.

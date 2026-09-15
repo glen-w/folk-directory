@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Duke of Wellington Tunes Session at Kennedy's (London) — Thursday, 2nd in Month
+Duke of Wellington Tunes Session at Kennedy's, London — Thursday, second in month.

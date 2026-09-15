@@ -18,8 +18,4 @@ status: listed
 edited: 17/09/2013
 ---
 
-Folk dancing to the best bands and callers.
-Usually 4th Saturday each
-
-Folk dancing to the best bands and callers.
-Usually 4th Saturday each month
+Folk dancing to the best bands and callers. Usually held on the 4th Saturday of each month.

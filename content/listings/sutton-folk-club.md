@@ -16,4 +16,4 @@ www: myweb.tiscali.co.uk/markii/suttonfolk.htm
 status: listed
 ---
 
-Sutton Folk Club Meets monthly on Saturdays with guests at Sutton Village Hall, Sutton, Bedfordshire
+Sutton Folk Club meets monthly on Saturdays with guests at Sutton Village Hall, Sutton, Bedfordshire.

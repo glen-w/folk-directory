@@ -18,6 +18,6 @@ status: listed
 edited: 30/12/2011
 ---
 
-At \"Elsie`s\" (The Queens Arms), we have held our \"Sing & Play Nights\" for more years than I care to remember. One Saturday each month, (except December when we also hold our Cowden Mummers and Christmas Frolics Night), we, \"ELSIE`S BAND\" run the evening and book a guest performer or band to entertain. We present a wide variety of guests and all visitors and floor singers are welcome.
+At 'Elsie's' (The Queens Arms), 'Sing & Play Nights' have been held for many years. One Saturday each month (except December, when the Cowden Mummers and Christmas Frolics Night are also held), Elsie's Band runs the evening and books a guest performer or band. A wide variety of guests are presented, and all visitors and floor singers are welcome.
 
-For full details of dates and programme for the year visit our web site.
+For full details of dates and programme for the year, visit the website.

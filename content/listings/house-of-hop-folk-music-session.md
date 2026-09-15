@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-House of Hop Folk Music Session at The House of Hop, Houndgate Darlington DL1 5RLn (Darlington) — Sunday, 3rd in Month
+House of Hop Folk Music Session at The House of Hop, Houndgate, Darlington DL1 5RL, held on the third Sunday of each month.

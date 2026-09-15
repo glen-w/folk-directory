@@ -17,10 +17,4 @@ email: roger@folkattheprospect.co.uk
 status: listed
 ---
 
-We do not charge an entrance fee, but on guest nights we have a ''bucket
-
-We do not charge an entrance fee, but on guest nights we have a 'bucket collection' instead.
-
-Entrance is free on singers nights , and we run a raffle to raise funds towards booking the very best guest singers and musicians that we can .
-
-During guest nights we fit in as many floor singers as possible, therefore we start at 8.30pm sharp.
+No entrance fee is charged, but on guest nights a bucket collection is held instead. Entrance is free on singers' nights, and a raffle is run to raise funds towards booking the best guest singers and musicians available. During guest nights, as many floor singers as possible are fitted in, so the event starts at 8.30pm sharp.

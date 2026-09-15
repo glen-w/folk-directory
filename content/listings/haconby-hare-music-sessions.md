@@ -16,6 +16,6 @@ www: peterboroughfolkdiary.org.uk/hhare.aspx
 status: listed
 ---
 
-These are cracking evenings of traditional music - mainly english polkas, jigs, reels, hornpipes and waltzes, played on acoustic-only instruments, typically fiddles, melodeons, guitars, flutes, bodhrans and even the odd hammered dulcimer and double bass.
+These are lively evenings of traditional music, mainly English polkas, jigs, reels, hornpipes and waltzes, played on acoustic-only instruments, typically fiddles, melodeons, guitars, flutes, bodhrans and the odd hammered dulcimer and double bass.
 
-Besides english tunes, you might hear a few irish, american, scots, french-canadian, french and cajun creep in from time to time. There's not usually any singing - that happens in the pub on a different night.
+Besides English tunes, a few Irish, American, Scots, French-Canadian, French and Cajun tunes may also feature from time to time. There is usually no singing; that happens in the pub on a different night.

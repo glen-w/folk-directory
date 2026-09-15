@@ -18,4 +18,4 @@ status: listed
 edited: 11/02/2013
 ---
 
-Music and singing club - any style / any ability welcome. Free admission. Every 3rd Wednesday in the back room
+A music and singing club welcoming all styles and abilities. Free admission. Meets every third Wednesday in the back room.

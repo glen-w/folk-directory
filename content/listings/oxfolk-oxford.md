@@ -17,4 +17,4 @@ www: www.oxfolk.org.uk
 status: listed
 ---
 
-Oxfolk, Oxford Taking place at Kennington Village Hall, Kennington Road, Kennington, Oxford, OX1 5PG, Oxfolk hold regular ceilidh dances on the second Saturday of the month from October to May
+Oxfolk holds regular ceilidh dances at Kennington Village Hall, Kennington Road, Kennington, Oxford, OX1 5PG, on the second Saturday of the month from October to May.

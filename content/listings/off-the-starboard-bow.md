@@ -16,4 +16,4 @@ www: www.trimrigdoxy.com/offthestarboardbow/index.html
 status: listed
 ---
 
-Off The Starboard Bow - Liverpools regular Sea Shanty Session. Hosted By Trim Rig and A Doxy, Mick & Mary McGarry and Andy Kenna. The session is in the Baltic Fleet Public House and is callled Off The Starboard Bow (The Back room we use is to the right of the rounded front of the pub they call the bow.) Dates: Last Saturday of every month -this will include Saturday 31st December, New Years Eve. 8
+Off the Starboard Bow is Liverpool's regular sea shanty session, hosted by Trim Rig and A Doxy, Mick & Mary McGarry, and Andy Kenna. The session takes place in the Baltic Fleet Public House; the back room used is to the right of the rounded front of the pub, which the hosts call the bow. The session runs on the last Saturday of every month (this includes Saturday 31st December, New Year's Eve). 8

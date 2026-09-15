@@ -16,4 +16,4 @@ www: keevilvillage.com/whats-on/folk-night
 status: listed
 ---
 
-Folk Night at The Shoulder of Mutton (Strumpshaw) — Thursday, 4th in Month
+Folk Night is held at The Shoulder of Mutton, Strumpshaw, on the fourth Thursday of the month.

@@ -16,4 +16,4 @@ www: girvanfolkclub.shutterfly.com
 status: listed
 ---
 
-Girvan Folk Club Girvan folk club was formed in October 1964 with the aim of promoting traditional folk music and song. The club first met in the local scout hall where the lack of a licence meant refreshments were limited to tea and orange juice. A move to the British Legion Hall followed before the club found a welcome at the Jolly Shepherd Pub in Barr. Despite having many memorable nights in Ba
+Girvan Folk Club was formed in October 1964 with the aim of promoting traditional folk music and song. The club first met in the local scout hall, where the lack of a licence meant refreshments were limited to tea and orange juice. A move to the British Legion Hall followed before the club found a welcome at the Jolly Shepherd Pub in Barr.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Mitcheldean Folk Club at The White Horse (Glos) — Thursday, 2nd in Month
+Mitcheldean Folk Club at The White Horse, Gloucestershire — Thursday, second of the month

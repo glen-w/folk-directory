@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/llangollen_fringe_festival_logo_3683.png
 ---
 
-Mixture of various media, incliding folk music, celebrating its 21st anniversary. With individual event tickets, you can choose your favourite artists to suit your taste in music and entertainment. The Fringe is a not-for-profit organisation run entirely by volunteers. As well as attracting visitors from all over the UK, the Fringe continues to grow its local following and is achieving its aim to
+A mixture of various media, including folk music, celebrating its 21st anniversary. Individual event tickets allow attendees to choose their favourite artists to suit their taste in music and entertainment. The Fringe is a not-for-profit organisation run entirely by volunteers. As well as attracting visitors from all over the UK, the Fringe continues to grow its local following.

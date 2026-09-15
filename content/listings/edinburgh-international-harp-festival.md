@@ -18,4 +18,4 @@ status: listed
 logo: /images/listings/edinburgh_international_harp_festival_logo_3627.png
 ---
 
-Courses, Concerts, workshops, harp exhibition, sessions, ceilidh. One for the harp enthusiasts.
+A festival for harp enthusiasts, featuring courses, concerts, workshops, a harp exhibition, sessions, and a ceilidh.

@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/lyme_folk_weekend_logo_3721.png
 ---
 
-The line up, for a newish event, has been very start-studded as well, and this year will probably be just as great. Singing, sessions, morris parade, shanty festival, story telling, and much more. There will be free daily concerts on the Seafront Stage from noon to 5pm plus the usual Morris dancing and parade throughout the town.
+The line-up for this relatively new event has been star-studded, and this year's is expected to be similarly strong. Activities include singing, sessions, a Morris parade, a shanty festival, storytelling, and more. Free daily concerts take place on the Seafront Stage from noon to 5pm, with Morris dancing and a parade throughout the town.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Raise the Roof at The Red Deer (Sheffield) — Thursday, 2nd in Month
+Raise the Roof at The Red Deer, Sheffield — the second Thursday of each month.

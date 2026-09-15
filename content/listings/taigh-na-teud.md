@@ -16,4 +16,4 @@ www: www.scotlandsmusic.com
 status: listed
 ---
 
-Taigh Na Teud 'Taigh Na Teud' is a traditional Scottish music business based on the Isle of Skye. We sell a large variety of music books, with cd's for fiddle, accordion, tin whistle and more.
+Taigh Na Teud is a traditional Scottish music business based on the Isle of Skye. It sells a large variety of music books, with CDs for fiddle, accordion, tin whistle and more.

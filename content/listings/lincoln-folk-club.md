@@ -16,11 +16,4 @@ www: angelfire.com/folk/lincolnfolkclub
 status: listed
 ---
 
-Beaumont Manor is adjacent to City Hall Car Park and the Lounge Bar is on the ground floor with access via rear doorway,
-
-A selection of hot meals and snacks are available at the fully licensed bar.
-
-The Club is 'all acoustic'. A raffle is held at half-time!
-
-Performers pay £1-00
-Non-performers pay £2-00
+Beaumont Manor is adjacent to City Hall Car Park. The Lounge Bar is on the ground floor, with access via the rear doorway. A selection of hot meals and snacks is available at the fully licensed bar. The club is 'all acoustic'. A raffle is held at half-time. Performers pay £1.00; non-performers pay £2.00.

@@ -19,4 +19,4 @@ status: listed
 
 Due to unforeseen circumstances (temporary closure of the Railway), Lymm Folk Club is without a permanent venue.
 
-One of the venues we are now using is the Spread Eagle in Lymm centre, by the Lower Dam.
+One of the venues the club is now using is the Spread Eagle in Lymm centre, by the Lower Dam.

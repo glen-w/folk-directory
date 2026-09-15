@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/music_at_mottram_logo_921.png
 ---
 
-Music at Mottram at Mottram Village Hall (Mottram St Andrew) — Saturday, Variable
+Music at Mottram takes place at Mottram Village Hall, Mottram St Andrew, on Saturdays (time variable).

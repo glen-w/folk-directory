@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Harrogate Sunday Session at Major Tom's Social (Harrogate) — Sunday, 1st in Month
+Harrogate Sunday Session is held at Major Tom's Social, Harrogate, on the first Sunday of each month.

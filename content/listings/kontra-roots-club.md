@@ -18,4 +18,4 @@ status: listed
 edited: 26/10/2011
 ---
 
-The aim of the club is to provide a platform where the finest roots musicians in the UK can showcase their talent to an appreciative audience. Each month features three established or up and coming acts drawn from many musical genres, including folk, blues, country, contemporary and world music. Slots last on average about 40 minutes.
+The aim of the club is to provide a platform where the finest roots musicians in the UK can showcase their talent to an appreciative audience. Each month, the club features three established or up-and-coming acts drawn from many musical genres, including folk, blues, country, contemporary and world music. Slots last on average about 40 minutes.

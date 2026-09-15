@@ -16,4 +16,4 @@ www: www.orkneyfolkfestival.com
 status: listed
 ---
 
-Concerts, ceilidhs, dances, clubs and sessions. The Orkney Folk Festival is widely regarded as one of the most prolific and special throughout Scotland, the UK and further afield. The three venues that are used the most are the Stromness Town Hall, the Stromness Academy Lecture Theatre and the Stromness Hotel's function room. Other events take place in local community centres/village halls. Site n
+Concerts, ceilidhs, dances, clubs and sessions. The Orkney Folk Festival is widely regarded as one of the most prolific and special throughout Scotland, the UK and further afield. The three venues that are used the most are the Stromness Town Hall, the Stromness Academy Lecture Theatre and the Stromness Hotel's function room. Other events take place in local community centres and village halls.

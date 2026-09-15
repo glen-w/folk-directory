@@ -19,4 +19,4 @@ edited: 05/05/2013
 logo: /images/listings/southdowns_folk_festival_logo_602.png
 ---
 
-The revived SOUTHDOWNS FOLK FESTIVAL in and around the Town Centre of Bognor Regis brings the very best on folk and acoustic music and dance.
+The revived Southdowns Folk Festival, in and around the town centre of Bognor Regis, brings the very best in folk and acoustic music and dance.

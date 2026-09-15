@@ -19,4 +19,4 @@ www: www.themickjaggercentre.com
 status: listed
 ---
 
-The Mick Jagger Centre , Dartford Regular Folk and Roots concerts at this purpose built Dartford venue
+The Mick Jagger Centre, Dartford, hosts regular folk and roots concerts at this purpose-built venue.

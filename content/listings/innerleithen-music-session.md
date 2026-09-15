@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Innerleithen Music Session at St Ronan's Hotel (Scottish Borders) — Thursday, Every Week
+Innerleithen Music Session at St Ronan's Hotel, Scottish Borders — Thursday, every week.

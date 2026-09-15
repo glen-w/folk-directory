@@ -19,12 +19,4 @@ edited: 24/01/2012
 logo: /images/listings/newport_folk_club_logo_512.png
 ---
 
-Newport Folk is one of, if not the oldest Folk Clubs in South Wales.
-
-We
-
-Newport Folk is one of, if not the oldest Folk Clubs in South Wales.
-
-We welcome players and singers old and new, and particularly seek to encourage newcomers, in a welcoming and friendly environment.
-
-The Club is just off the M4, J27, heading north
+Newport Folk is one of, if not the oldest, folk clubs in South Wales. The club welcomes players and singers, old and new, and particularly seeks to encourage newcomers in a welcoming and friendly environment. The club is just off the M4, J27, heading north.

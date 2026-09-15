@@ -16,6 +16,4 @@ www: myspace.com/rootsofenglandfolkclub
 status: listed
 ---
 
-Where are the English Tradition singers and musicians in Cumbria? Come and perform in the only English Heritage club in the South Lakes.
-
-Roots Of England is an open door English-folk-heritage club. Come long and find out for yourself.
+Roots of England is an open-door English folk heritage club in the South Lakes, Cumbria. It is the only English heritage club in the South Lakes, and singers and musicians of the English tradition are welcome to perform.

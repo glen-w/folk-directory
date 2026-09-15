@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/devauden_festival_logo_3645.png
 ---
 
-A mixed festival, at previous events there was a strong bias for folk music on the Friday. so take a look closer to the date to see if this happens this year. Workshops, Battle of the Bands, local brews, family entertainment. Three stages, with one dedicated to acoustic music.
+A mixed festival. At previous events there was a strong bias for folk music on the Friday; check closer to the date to see if this continues. The programme includes workshops, a Battle of the Bands, local brews, and family entertainment. Three stages, with one dedicated to acoustic music.

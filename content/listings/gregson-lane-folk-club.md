@@ -17,4 +17,4 @@ www: www.gregsonlane.co.uk
 status: listed
 ---
 
-Gregson Lane Folk Club at Nets Bar (Formerly Gregson Lane S & C Club) (Gregson Lane - The Village of Gregson Lane - Preston) — Thursday, Every 2 weeks
+Gregson Lane Folk Club meets at Nets Bar (formerly Gregson Lane S & C Club) in the village of Gregson Lane, Preston, on Thursdays every two weeks.

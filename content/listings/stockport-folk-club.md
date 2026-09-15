@@ -16,4 +16,4 @@ www: folkmusic.wixsite.com/stockport-acoustic
 status: listed
 ---
 
-Stockport Folk Club at The Midland (Stockport) — Thursday, Every 2 weeks
+Stockport Folk Club at The Midland (Stockport) — Thursday, every two weeks

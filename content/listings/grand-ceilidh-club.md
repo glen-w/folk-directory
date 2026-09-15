@@ -18,4 +18,4 @@ status: listed
 edited: 13/12/2013
 ---
 
-Weekly barn dance with live bands and a caller to tell you what to do
+A weekly barn dance with live bands and a caller to instruct the dancers.

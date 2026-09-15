@@ -17,4 +17,4 @@ www: www.newinnpontblyddyn.webs.com
 status: listed
 ---
 
-New Inn Folk Club, Pontblyddyn This club is held on Tuesdays's in Pontblyddyn, Mold, Clwyd
+New Inn Folk Club, Pontblyddyn. The club meets on Tuesdays in Pontblyddyn, Mold, Clwyd.

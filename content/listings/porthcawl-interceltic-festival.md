@@ -18,4 +18,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-A weekend festival of music, song & dance of the Celtic countries.
+A weekend festival of music, song and dance of the Celtic countries.

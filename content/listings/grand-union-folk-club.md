@@ -18,4 +18,4 @@ status: listed
 edited: 18/11/2011
 ---
 
-The clubs activities can be split into 3 categories: Guest Nights, Singarounds and Musician Workshops / Sessions. Singarounds and guest nights start at 8.30pm. Singarounds are the very essence of what the club is about and are on the 2nd Monday of each month throughout the year (check the website for the January date if the 2nd Monday is Plough Monday). There is no formal entry charge, but a voluntary contribution of just £1 to help us offset our running costs would be most welcome. Guest night charges vary.
+The club's activities can be split into three categories: Guest Nights, Singarounds and Musician Workshops/Sessions. Singarounds and guest nights start at 8.30pm. Singarounds are the very essence of what the club is about and are on the 2nd Monday of each month throughout the year (check the website for the January date if the 2nd Monday is Plough Monday). There is no formal entry charge, but a voluntary contribution of just £1 to help offset running costs would be most welcome. Guest night charges vary.

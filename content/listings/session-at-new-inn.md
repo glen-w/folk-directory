@@ -18,4 +18,4 @@ status: listed
 edited: 02/07/2012
 ---
 
-Mainly Irish/Scottish/English folk tunes with some songs. Landlord provides mid-session refreshments.
+The session features mainly Irish, Scottish and English folk tunes with some songs. The landlord provides mid-session refreshments.

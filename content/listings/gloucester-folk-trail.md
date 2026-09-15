@@ -16,4 +16,4 @@ www: www.gloucesterfolktrail.com
 status: listed
 ---
 
-We have many performances from many acts in 16 venues, as well as storytelling, arts & crafts, talks, morris dancing, open mics and folk music sessions! Except it will mainly be streaming, apart from workshops. More info to follow, they say.
+The festival features performances from many acts across 16 venues, along with storytelling, arts and crafts, talks, morris dancing, open mics and folk music sessions. The event will mainly be streamed, with workshops held in person. Further details are expected to follow.

@@ -16,4 +16,4 @@ www: www.northshropshirefolk.com
 status: listed
 ---
 
-north Shropshire Folk Organise concerts around four times a year in north east Shropshire
+north Shropshire Folk organises concerts around four times a year in north east Shropshire.

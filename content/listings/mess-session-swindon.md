@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-MESS Session Swindon at The Beehive (Swindon) — Monday, Every 2 weeks
+MESS Session Swindon at The Beehive (Swindon) — Mondays, every two weeks.

@@ -19,4 +19,4 @@ status: listed
 logo: /images/listings/saltburn_folk_club_logo_678.png
 ---
 
-Saltburn Folk Club at The Marine Hotel (Saltburn By The Sea) — Monday, Every Week
+Saltburn Folk Club at The Marine Hotel, Saltburn-by-the-Sea — every Monday

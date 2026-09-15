@@ -16,4 +16,4 @@ www: www.cvfolk.com
 status: listed
 ---
 
-CVFolk '2nd Sunday' at Albany Theatre (Coventry) — Sunday, 2nd in Month
+CVFolk '2nd Sunday' takes place at the Albany Theatre, Coventry, on the second Sunday of each month.

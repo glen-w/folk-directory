@@ -16,4 +16,4 @@ www: www.yeoldecrossryton.com
 status: listed
 ---
 
-Sunday Session at Ye Olde Cross Inn (Ryton) — Sunday, 1st in Month
+Sunday Session at Ye Olde Cross Inn, Ryton — first Sunday of the month.

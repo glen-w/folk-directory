@@ -17,4 +17,4 @@ www: www.roystonfolk.org
 status: listed
 ---
 
-Royston Live at The Plough (Cambridgeshire) — Thursday, Last in month
+Royston Live takes place at The Plough, Cambridgeshire, on the last Thursday of each month.

@@ -18,8 +18,8 @@ status: listed
 edited: 24/01/2012
 ---
 
-A monthly rebetiko (Greek blues) jam session is held at The Horseshoe pub (Farringdon Station) on the first monday of every month, bringing the sounds of Athens to London.
+A monthly rebetiko (Greek blues) jam session is held at The Horseshoe pub (Farringdon Station) on the first Monday of every month, bringing the sounds of Athens to London.
 
-Come and join the Rebetiko Recycled band and friends to play,sing,dance or just listen to the music.  Admission is free, all are welcome, and all musicians are invited to jam with the band. 
+The Rebetiko Recycled band and friends welcome participants to play, sing, dance, or simply listen to the music. Admission is free, all are welcome, and all musicians are invited to jam with the band.
 
-The Horseshoe (also home to the Islington Folk Club) is a friendly traditional pub with real ale.  To be added to our circulation list send your e-mail to the address below.
+The Horseshoe (also home to the Islington Folk Club) is a friendly traditional pub with real ale. To be added to the circulation list, send an e-mail to the address below.

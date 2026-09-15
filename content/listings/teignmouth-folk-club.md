@@ -17,4 +17,4 @@ status: listed
 edited: 24/10/2011
 ---
 
-Now in its 7th year, the club presents folk music and songs in an informal and friendly setting mainly on a sing-around basis but featuring guests every three months.
+Now in its 7th year, the club presents folk music and songs in an informal and friendly setting, mainly on a sing-around basis, featuring guests every three months.

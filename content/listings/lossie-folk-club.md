@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Lossie Folk Club Held in Lossiemouth in Moray, this is a long established club that currently meets in the Coulard Inn every week on a Tuesday evening from 8.30pm til midnight.
+Lossie Folk Club is a long-established club based in Lossiemouth, Moray. It meets every Tuesday evening from 8.30 pm to midnight in the Coulard Inn.

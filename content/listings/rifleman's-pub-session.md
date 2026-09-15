@@ -17,4 +17,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-Music / song session, mainly Irish but anything goes. Noisy at first, quieter later, continues often 'til the small hours.
+A music and song session, mainly Irish though any style is welcome. Noisy at first, quieter later, often continuing until the small hours.

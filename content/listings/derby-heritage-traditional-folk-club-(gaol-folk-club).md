@@ -18,4 +18,4 @@ status: listed
 edited: 28/01/2012
 ---
 
-Mainly a Singers' club with a strong a strong leaning toward the tradition which books four guests a year.
+Mainly a singers' club with a strong leaning toward the tradition, which books four guests a year.

@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Ripon Wilfrid's Folk Club at St Wilfrid's Community Centre (Ripon) — Varied, 2nd & Last
+Ripon Wilfrid's Folk Club meets at St Wilfrid's Community Centre, Ripon. The programme is varied, on the 2nd and last.
