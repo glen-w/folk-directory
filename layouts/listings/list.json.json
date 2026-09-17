@@ -16,6 +16,10 @@
   {{- if not $logo.isPlaceholder -}}
     {{- $logoOut = $logo.src -}}
   {{- end -}}
+  {{- $www := .Params.www | default "" -}}
+  {{- if reflect.IsSlice $www -}}{{- $www = index $www 0 | default "" -}}{{- end -}}
+  {{- $www = strings.TrimSpace (printf "%v" $www) -}}
+  {{- if or (eq $www "''") (eq $www "\"\"") -}}{{- $www = "" -}}{{- end -}}
   {{- $item := dict
     "id" (.Params.id | default .File.ContentBaseName)
     "title" .Title
@@ -28,6 +32,7 @@
     "venue" (.Params.venue | default "")
     "place" (.Params.place | default "")
     "post_code" (.Params.post_code | default "")
+    "www" $www
     "locations" $locations
     "logo" $logoOut
   -}}

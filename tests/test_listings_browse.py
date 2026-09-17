@@ -27,6 +27,7 @@ REQUIRED_ITEM_KEYS = {
     "venue",
     "place",
     "post_code",
+    "www",
     "locations",
 }
 
@@ -141,7 +142,13 @@ def test_index_schema(index_data):
     assert isinstance(item["event_types"], list)
     assert isinstance(item["locations"], list)
     assert isinstance(item["county"], str)
+    assert isinstance(item["www"], str)
     assert item["permalink"].startswith("/listings/")
+
+
+def test_index_has_many_www_values(index_data):
+    with_www = [i for i in index_data["items"] if (i.get("www") or "").strip()]
+    assert len(with_www) >= 700
 
 
 def test_filter_type_and_county_and(index_data):

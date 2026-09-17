@@ -240,50 +240,74 @@
     root.innerHTML = parts.join("");
   }
 
-  function metaLine(item) {
-    const type = Array.isArray(item.event_types) && item.event_types.length
-      ? slugToLabel(item.event_types[0])
-      : "";
-    const bits = [type, item.county, item.when].filter(Boolean);
-    if (item.status && String(item.status).toLowerCase() === "defunct") {
-      bits.push("Defunct");
+  function normalizeWww(raw) {
+    const s = String(raw || "").trim();
+    if (!s || s.includes("@") || /\s/.test(s)) return "";
+    if (/^https?:\/\//i.test(s)) return s;
+    return `https://${s.replace(/^\/\//, "")}`;
+  }
+
+  function placeLine(item) {
+    const place = String(item.place || "").trim();
+    const county = String(item.county || "").trim();
+    if (place && county && place.toLowerCase() !== county.toLowerCase()) {
+      return `${place}, ${county}`;
     }
-    return bits.join(" · ");
+    return place || county || "";
   }
 
   function renderResults(root, items, placeholderLogo) {
     if (!items.length) {
       root.innerHTML =
-        '<p class="listings-empty">No events match these filters.</p>';
+        '<p class="listings-empty">No matches — try another county or <a href="/contact/">Submit a listing</a>.</p>';
       return;
     }
     const fallback = placeholderLogo || DEFAULTS.placeholderLogo;
     root.innerHTML = items
       .map((item) => {
-        const meta = metaLine(item);
-        const summary = item.summary
-          ? `<div class="entry-content"><p>${escapeHtml(item.summary)}</p></div>`
-          : "";
-        const footer = meta
-          ? `<footer class="entry-footer"><span class="listings-card-meta">${escapeHtml(meta)}</span></footer>`
-          : "";
+        const typeSlug =
+          Array.isArray(item.event_types) && item.event_types.length
+            ? String(item.event_types[0])
+            : "";
+        const typeLabel = typeSlug ? slugToLabel(typeSlug) : "";
+        const where = placeLine(item);
+        const when = String(item.when || "").trim();
+        const metaBits = [where, when].filter(Boolean);
+        const isDefunct =
+          item.status && String(item.status).toLowerCase() === "defunct";
+        const websiteUrl = normalizeWww(item.www);
         const hasLogo = Boolean(item.logo);
         const logoSrc = hasLogo ? item.logo : fallback;
         const logoClass = hasLogo
           ? "listings-card-logo"
           : "listings-card-logo listings-card-logo--placeholder";
         const onError = `this.onerror=null;this.src='${escapeHtml(fallback)}';this.classList.add('listings-card-logo--placeholder')`;
+        const badge = typeLabel
+          ? `<span class="listings-type-badge${typeSlug ? ` listings-type-badge--${escapeHtml(typeSlug)}` : ""}">${escapeHtml(typeLabel)}</span>`
+          : "";
+        const defunctBadge = isDefunct
+          ? '<span class="listings-type-badge listings-type-badge--defunct">Defunct</span>'
+          : "";
+        const websiteAction = websiteUrl
+          ? `<a class="listings-card-website" href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener">Website</a>`
+          : `<span class="listings-card-no-website">No website listed · <a href="/contact/">Submit / update</a></span>`;
         return `
-          <article class="post-entry listings-card">
+          <article class="post-entry listings-card${isDefunct ? " listings-card--defunct" : ""}">
             <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy" onerror="${onError}">
             <div class="listings-card-body">
-              <header class="entry-header">
-                <h2 class="entry-hint-parent">${escapeHtml(item.title)}</h2>
+              <header class="entry-header listings-card-header">
+                <h2 class="entry-hint-parent">
+                  <a class="listings-card-title" href="${escapeHtml(item.permalink)}">${escapeHtml(item.title)}</a>
+                </h2>
+                <div class="listings-card-badges">${badge}${defunctBadge}</div>
               </header>
-              ${summary}
-              ${footer}
+              ${
+                metaBits.length
+                  ? `<p class="listings-card-meta">${escapeHtml(metaBits.join(" · "))}</p>`
+                  : ""
+              }
+              <p class="listings-card-actions">${websiteAction}</p>
             </div>
-            <a class="entry-link" aria-label="post link to ${escapeHtml(item.title)}" href="${escapeHtml(item.permalink)}"></a>
           </article>`;
       })
       .join("");

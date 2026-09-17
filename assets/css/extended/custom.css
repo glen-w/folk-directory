@@ -156,9 +156,14 @@
 }
 
 .listings-card {
+  position: relative;
   display: flex;
   align-items: flex-start;
   gap: 0.85rem;
+}
+
+.listings-card .entry-link {
+  display: none;
 }
 
 .listings-card-logo {
@@ -183,7 +188,106 @@
 }
 
 .listings-card-body .entry-header h2 {
-  margin-top: 0;
+  margin: 0;
+  font-size: 1.15rem;
+  line-height: 1.3;
+}
+
+.listings-card-title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.listings-card-title:hover {
+  color: var(--brand-green);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+:root[data-theme="dark"] .listings-card-title:hover {
+  color: var(--primary);
+}
+
+.listings-card-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.65rem;
+}
+
+.listings-card-badges {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.listings-type-badge {
+  display: inline-block;
+  padding: 0.12rem 0.45rem;
+  border: 1px solid var(--border, #ccc);
+  border-radius: 3px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 1.3;
+  color: var(--secondary, #555);
+  background: transparent;
+}
+
+.listings-card-actions {
+  margin: 0.55rem 0 0;
+}
+
+.listings-card-website {
+  display: inline-block;
+  padding: 0.28rem 0.7rem;
+  border-radius: 4px;
+  background: var(--brand-green);
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.listings-card-website:hover {
+  filter: brightness(1.08);
+  color: #fff;
+}
+
+:root[data-theme="dark"] .listings-card-website {
+  background: var(--primary);
+  color: var(--theme);
+}
+
+.listings-card-no-website {
+  color: var(--secondary, #777);
+  font-size: 0.88rem;
+}
+
+.listings-card-no-website a {
+  font-weight: 600;
+}
+
+.listings-card--defunct {
+  opacity: 0.72;
+}
+
+.listings-type-badge--defunct {
+  color: #666;
+  border-color: #bbb;
+}
+
+.listings-fallback-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+}
+
+.listings-fallback-meta {
+  color: var(--secondary, #666);
+  font-size: 0.8rem;
 }
 
 .listings-fallback-item {
@@ -381,12 +485,22 @@
 
 /* Events browse: filters + pagination */
 .listings-toolbar {
+  position: sticky;
+  top: var(--header-height, 3.5rem);
+  z-index: 90;
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
   justify-content: space-between;
   gap: 0.75rem 1.25rem;
-  margin: 1rem 0 1.25rem;
+  margin: 0 0 1rem;
+  padding: 0.65rem 0;
+  background: var(--theme);
+  border-bottom: 1px solid var(--border, #ddd);
+}
+
+:root[data-theme="dark"] .listings-toolbar {
+  background: var(--theme);
 }
 
 .listings-filters {
@@ -441,13 +555,19 @@
 }
 
 .listings-card-meta {
+  margin: 0.35rem 0 0;
   color: var(--secondary, #666);
   font-size: 0.85rem;
+  line-height: 1.4;
 }
 
 .listings-empty,
 .listings-noscript {
   margin: 1rem 0;
+}
+
+.listings-empty a {
+  font-weight: 600;
 }
 
 .listings-pagination {
