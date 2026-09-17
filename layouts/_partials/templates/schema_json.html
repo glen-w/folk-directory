@@ -1,0 +1,105 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": {{ (site.Params.schema.publisherType | default "Organization") | title | jsonify }},
+  "name": {{ site.Title | jsonify }},
+  "url": {{ site.Home.Permalink | jsonify }},
+  "description": {{ site.Params.description | plainify | truncate 180 | jsonify }},
+  "logo": {{ (site.Params.assets.favicon | default "favicon.ico" | absURL) | jsonify }},
+  "sameAs": [
+    {{- with site.Params.schema.sameAs -}}
+      {{- range $i, $e := . -}}{{- if $i }}, {{ end -}}{{ trim $e " " | jsonify -}}{{- end -}}
+    {{- else -}}
+      {{ "/contact/" | absURL | jsonify }}
+    {{- end -}}
+  ]
+}
+</script>
+{{- else if (or .IsPage .IsSection) }}
+{{- $url := replace .Parent.Permalink (printf "%s" site.Home.Permalink) "" }}
+{{- $lang_url := strings.TrimPrefix (printf "%s/" .Lang) $url }}
+{{- $bc_list := split $lang_url "/" }}
+{{- $scratch := newScratch }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+  {{- $first := true -}}
+  {{- range $index, $element := $bc_list }}
+    {{- $scratch.Add "path" (printf "%s/" $element) | safeJS }}
+    {{- $bc_pg := site.GetPage ($scratch.Get "path") -}}
+    {{- if and $bc_pg (gt (len .) 0) }}
+    {{- if not $first }},{{ end }}{{ $first = false }}
+    {
+      "@type": "ListItem",
+      "position": {{ add 1 $index }},
+      "name": {{ $bc_pg.Name | jsonify }},
+      "item": {{ $bc_pg.Permalink | jsonify }}
+    }
+    {{- end }}
+  {{- end }}
+  {{- if not $first }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ len $bc_list }},
+      "name": {{ .Name | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }
+  ]
+}
+</script>
+{{- if and .IsPage (eq .Section "listings") }}
+{{- $types := .Params.event_types | default slice -}}
+{{- if not (reflect.IsSlice $types) -}}{{- $types = slice $types -}}{{- end -}}
+{{- $www := strings.TrimSpace (.Params.www | default "") -}}
+{{- if and $www (not (findRE "\\s|@" $www)) -}}
+  {{- if not (or (hasPrefix $www "http://") (hasPrefix $www "https://")) -}}
+    {{- $www = printf "https://%s" $www -}}
+  {{- else -}}
+    {{- /* keep */ -}}
+  {{- end -}}
+{{- else -}}
+  {{- $www = "" -}}
+{{- end -}}
+{{- $desc := "" -}}
+{{- with .Description }}{{ $desc = . | plainify }}{{ else }}{{ $desc = .Plain | plainify | truncate 180 }}{{ end -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": {{ .Title | plainify | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "description": {{ $desc | jsonify }}
+  {{- with index $types 0 -}}
+  , "additionalType": {{ . | jsonify }}
+  {{- end -}}
+  {{- if or .Params.place .Params.address .Params.post_code .Params.county .Params.venue -}}
+  , "address": {
+    "@type": "PostalAddress"
+    {{- with .Params.venue }}, "name": {{ . | jsonify }}{{ end }}
+    {{- with .Params.address }}, "streetAddress": {{ . | jsonify }}{{ end }}
+    {{- with .Params.place }}, "addressLocality": {{ . | jsonify }}{{ end }}
+    {{- with .Params.county }}, "addressRegion": {{ . | jsonify }}{{ end }}
+    {{- with .Params.post_code }}, "postalCode": {{ . | jsonify }}{{ end }}
+    , "addressCountry": "GB"
+  }
+  {{- end -}}
+  {{- if $www -}}
+  , "sameAs": [{{ $www | jsonify }}]
+  {{- end }}
+}
+</script>
+{{- else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ .Title | plainify | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "description": {{ with .Description | plainify }}{{ . | jsonify }}{{ else }}{{ .Plain | plainify | truncate 180 | jsonify }}{{ end }}
+}
+</script>
+{{- end }}
+{{- end -}}

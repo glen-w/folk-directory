@@ -128,6 +128,7 @@ def test_browse_js_registry_and_show_options():
     assert 'param: "type"' in text
     assert 'param: "county"' in text
     assert 'param: "status"' in text
+    assert 'param: "q"' in text
     assert 'match: "includes"' in text
     assert 'match: "eq"' in text
     assert 'match: "statusMode"' in text

@@ -4,7 +4,7 @@
   const DEFAULTS = {
     indexUrl: "/listings/index.json",
     placeholderLogo: "/images/logo/folk-directory-icon.png",
-    enabledFilterIds: ["type", "county", "status"],
+    enabledFilterIds: ["type", "county", "status", "q"],
     showOptions: [10, 25, 50, 100, "all"],
     defaultShow: 25,
     defaultSort: "title",
@@ -61,6 +61,15 @@
         { value: "defunct", label: "Defunct" },
       ],
     },
+    {
+      id: "q",
+      param: "q",
+      match: "contains",
+      fields: ["title", "place", "county", "venue", "event_types", "when"],
+      control: "text",
+      label: "Search",
+      placeholder: "Town, venue, type…",
+    },
   ];
 
   function matchItem(item, filter, value) {
@@ -77,9 +86,11 @@
         return list.map(String).includes(String(value));
       }
       case "contains": {
-        const haystacks = (filter.fields || [filter.field]).map((key) =>
-          String(item[key] || "").toLowerCase()
-        );
+        const haystacks = (filter.fields || [filter.field]).map((key) => {
+          const raw = item[key];
+          if (Array.isArray(raw)) return raw.join(" ").toLowerCase();
+          return String(raw || "").toLowerCase();
+        });
         const needle = String(value).toLowerCase();
         return haystacks.some((h) => h.includes(needle));
       }
@@ -222,6 +233,17 @@
 
   function renderFilterControls(root, enabledFilters, facets, state, config) {
     const parts = enabledFilters.map((filter) => {
+      if (filter.control === "text") {
+        const value = state.filters[filter.id] || "";
+        return `
+        <label class="listings-filter listings-filter-search">
+          <span class="listings-filter-label">${escapeHtml(filter.label)}</span>
+          <input type="search" data-filter="${escapeHtml(filter.id)}"
+            value="${escapeHtml(value)}"
+            placeholder="${escapeHtml(filter.placeholder || "")}"
+            aria-label="${escapeHtml(filter.label)}">
+        </label>`;
+      }
       let options = "";
       if (filter.fixedOptions) {
         options = filter.fixedOptions
@@ -426,6 +448,7 @@
     function facetsFrom(candidateItems) {
       const facets = {};
       for (const filter of enabledFilters) {
+        if (filter.control === "text" || filter.fixedOptions) continue;
         facets[filter.id] = uniqueFieldValues(candidateItems, filter);
       }
       return facets;
@@ -470,6 +493,18 @@
       state.filters[filterId] = target.value || "";
       state.page = 1;
       render();
+    });
+
+    let searchTimer = null;
+    filtersEl.addEventListener("input", (event) => {
+      const target = event.target;
+      if (!(target instanceof HTMLInputElement)) return;
+      const filterId = target.getAttribute("data-filter");
+      if (!filterId) return;
+      state.filters[filterId] = target.value || "";
+      state.page = 1;
+      window.clearTimeout(searchTimer);
+      searchTimer = window.setTimeout(render, 180);
     });
 
     filtersEl.addEventListener("click", (event) => {

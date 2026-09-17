@@ -35,7 +35,10 @@ theme = 'PaperMod'
 
   [[params.socialIcons]]
     name = "email"
-    url = "mailto:glen.w.wright@gmail.com"
+    url = "/contact/"
+
+  [params.schema]
+    sameAs = ["https://folkdirectory.co.uk/contact/"]
 
   [params.submit]
     email = "glen.w.wright@gmail.com"

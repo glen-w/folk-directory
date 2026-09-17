@@ -549,7 +549,8 @@
   letter-spacing: 0.02em;
 }
 
-.listings-filter select {
+.listings-filter select,
+.listings-filter input[type="search"] {
   min-width: 10rem;
   max-width: 18rem;
   padding: 0.4rem 0.55rem;
@@ -558,6 +559,10 @@
   background: var(--entry, var(--theme, #fff));
   color: var(--primary, inherit);
   font: inherit;
+}
+
+.listings-filter-search input[type="search"] {
+  min-width: 12rem;
 }
 
 .listings-clear {
