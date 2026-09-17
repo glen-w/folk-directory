@@ -18,4 +18,4 @@ status: listed
 edited: 04/11/2013
 ---
 
-Topic Folk Club The homepages of the Topic Folk Club ( The oldest folk club in the world ), Bradford, west Yorks
+The homepage of the Topic Folk Club, the oldest folk club in the world, in Bradford, West Yorks.

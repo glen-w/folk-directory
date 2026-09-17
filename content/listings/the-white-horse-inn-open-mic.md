@@ -18,4 +18,4 @@ status: defunct
 edited: 24/01/2012
 ---
 
-All types of music played, usually there is amplification if required and a host who should try and get people in the mood.
+All types of music are welcome. Amplification is usually available if required, and a host is present to help set the mood.

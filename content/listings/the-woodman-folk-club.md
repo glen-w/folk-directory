@@ -18,4 +18,4 @@ email: woodmanfolk@fsmail.net
 status: listed
 ---
 
-Long-runnning folk club putting on a wide range of artists. Regular singers nights.
+Long-running folk club presenting a wide range of artists. Regular singers' nights.

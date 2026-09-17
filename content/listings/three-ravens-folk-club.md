@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Three Ravens Folk Club at The Bowerhouse (Kent) — Tuesday, 4th in Month
+Three Ravens Folk Club meets at The Bowerhouse, Kent, on the fourth Tuesday of the month.

@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/the_willows_folk_club_at_wrea_green_logo_842.png
 ---
 
-The Willows Folk Club at Wrea Green at Wrea Green Institute (PR4 2PH2PH) — Wednesday, Every 2 weeks
+The Willows Folk Club at Wrea Green, Wrea Green Institute (PR4 2PH) — Wednesday, every two weeks

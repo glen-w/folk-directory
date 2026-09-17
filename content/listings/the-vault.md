@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/the_vault_logo_909.png
 ---
 
-The Vault at The Vault Art Centre (Newton Stewart) — Friday, Variable
+The Vault takes place at The Vault Art Centre, Newton Stewart, on Fridays. Times are variable.

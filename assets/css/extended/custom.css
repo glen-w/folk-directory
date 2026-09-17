@@ -270,25 +270,40 @@
 }
 
 .listings-card-website {
-  display: inline-block;
-  padding: 0.28rem 0.7rem;
-  border-radius: 4px;
-  background: var(--brand-green);
-  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: var(--primary, var(--brand-green));
   font-size: 0.88rem;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.3;
   text-decoration: none;
 }
 
+.listings-card-website-icon {
+  flex: 0 0 auto;
+  display: block;
+}
+
+.listings-card-website-label {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
 .listings-card-website:hover {
-  filter: brightness(1.08);
-  color: #fff;
+  color: var(--brand-green);
+}
+
+.listings-card-website:hover .listings-card-website-label {
+  text-decoration-thickness: 2px;
 }
 
 :root[data-theme="dark"] .listings-card-website {
-  background: var(--primary);
-  color: var(--theme);
+  color: var(--primary);
+}
+
+:root[data-theme="dark"] .listings-card-website:hover {
+  color: color-mix(in srgb, var(--primary) 85%, #fff);
 }
 
 .listings-card-no-website {
@@ -432,13 +447,6 @@
   color: var(--primary);
 }
 
-.home-hero-counts {
-  margin: 0.45rem 0 0;
-  font-size: 0.98rem;
-  line-height: 1.4;
-  color: var(--secondary, #555);
-}
-
 .home-hero-chips {
   display: flex;
   flex-wrap: wrap;
@@ -453,46 +461,51 @@
   border-radius: 4px;
   background: transparent;
   color: inherit;
+  font: inherit;
   font-size: 0.9rem;
   font-weight: 550;
   line-height: 1.3;
   text-decoration: none;
+  cursor: pointer;
+}
+
+.home-hero-chip--all {
+  color: var(--secondary, #555);
+}
+
+.home-hero-chip--folk-club {
+  color: var(--type-folk-club);
+  border-color: color-mix(in srgb, var(--type-folk-club) 45%, var(--border, #ccc));
+}
+
+.home-hero-chip--session {
+  color: var(--type-session);
+  border-color: color-mix(in srgb, var(--type-session) 45%, var(--border, #ccc));
+}
+
+.home-hero-chip--festival {
+  color: var(--type-festival);
+  border-color: color-mix(in srgb, var(--type-festival) 45%, var(--border, #ccc));
+}
+
+.home-hero-chip--dance {
+  color: var(--type-dance);
+  border-color: color-mix(in srgb, var(--type-dance) 45%, var(--border, #ccc));
 }
 
 .home-hero-chip:hover {
-  border-color: var(--brand-green);
-  color: var(--brand-green);
+  filter: brightness(0.88);
 }
 
-:root[data-theme="dark"] .home-hero-chip:hover {
-  border-color: var(--primary);
-  color: var(--primary);
+.home-hero-chip.is-active {
+  font-weight: 650;
+  box-shadow: inset 0 0 0 1px currentColor;
+  background: color-mix(in srgb, currentColor 12%, transparent);
 }
 
-.home-hero-cta {
-  margin: 0.85rem 0 0;
-}
-
-.home-hero-submit {
-  display: inline-block;
-  padding: 0.45rem 0.95rem;
-  border-radius: 4px;
-  background: var(--brand-green);
-  color: #fff;
-  font-size: 0.95rem;
-  font-weight: 600;
-  line-height: 1.3;
-  text-decoration: none;
-}
-
-.home-hero-submit:hover {
-  filter: brightness(1.08);
-  color: #fff;
-}
-
-:root[data-theme="dark"] .home-hero-submit {
-  background: var(--primary);
-  color: var(--theme);
+.home-hero-chip--all.is-active {
+  color: var(--brand-green, #2e7d5a);
+  border-color: color-mix(in srgb, var(--brand-green, #2e7d5a) 45%, var(--border, #ccc));
 }
 
 .home-map-canvas {

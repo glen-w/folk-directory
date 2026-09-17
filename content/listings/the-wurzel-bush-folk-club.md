@@ -17,4 +17,4 @@ www: www.wurzelbush.co.uk
 status: listed
 ---
 
-The Wurzel Bush Folk Club at Rugby West Indian Association (Railway Terrace) — Tuesday, Every Week
+The Wurzel Bush Folk Club meets at the Rugby West Indian Association, Railway Terrace, every Tuesday.

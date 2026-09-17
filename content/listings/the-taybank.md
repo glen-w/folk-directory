@@ -17,4 +17,4 @@ email: info@thetaybank.co.uk
 status: listed
 ---
 
-Dunkeld & Birnham | Perth And Kinross | Scotland | tel 01350 677123 | info@thetaybank.co.uk | @56.56502,-3.58459
+Dunkeld & Birnham | Perth and Kinross | Scotland | tel 01350 677123 | info@thetaybank.co.uk | @56.56502,-3.58459

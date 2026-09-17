@@ -17,4 +17,4 @@ www: tonbridgefolkclub.org
 status: listed
 ---
 
-Tonbridge Folk Club at Ye Olde Chequers Inn (Tonbridge) — Monday, 1st & 3rd
+Tonbridge Folk Club at Ye Olde Chequers Inn, Tonbridge — Monday, 1st & 3rd

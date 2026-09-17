@@ -317,6 +317,20 @@
     return `https://${s.replace(/^\/\//, "")}`;
   }
 
+  function displayDomain(url) {
+    try {
+      const host = new URL(url).hostname.replace(/^www\./i, "");
+      return host || "";
+    } catch (_) {
+      return String(url || "")
+        .replace(/^https?:\/\//i, "")
+        .replace(/^www\./i, "")
+        .split("/")[0];
+    }
+  }
+
+  const WEBSITE_ICON = `<svg class="listings-card-website-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`;
+
   function placeLine(item) {
     const place = String(item.place || "").trim();
     const county = String(item.county || "").trim();
@@ -358,8 +372,9 @@
         const defunctBadge = isDefunct
           ? '<span class="listings-type-badge listings-type-badge--defunct">Defunct</span>'
           : "";
-        const websiteAction = websiteUrl
-          ? `<a class="listings-card-website" href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener">Website</a>`
+        const websiteLabel = displayDomain(websiteUrl);
+        const websiteAction = websiteUrl && websiteLabel
+          ? `<a class="listings-card-website" href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener">${WEBSITE_ICON}<span class="listings-card-website-label">${escapeHtml(websiteLabel)}</span></a>`
           : `<span class="listings-card-no-website">No website listed · <a href="/submit/">Submit / update</a></span>`;
         return `
           <article class="post-entry listings-card${isDefunct ? " listings-card--defunct" : ""}">

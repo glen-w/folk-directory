@@ -75,6 +75,23 @@
     return `<div class="folk-map-popup">${parts.join("<br>")}</div>`;
   }
 
+  function wireTypeFilters(applyFilter) {
+    const chips = document.querySelectorAll("[data-map-type]");
+    if (!chips.length) return;
+
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        const type = chip.getAttribute("data-map-type") || "";
+        chips.forEach((other) => {
+          const active = other === chip;
+          other.classList.toggle("is-active", active);
+          other.setAttribute("aria-pressed", active ? "true" : "false");
+        });
+        applyFilter(type);
+      });
+    });
+  }
+
   async function init() {
     const el = document.getElementById("folk-map");
     const status = document.getElementById("folk-map-status");
@@ -116,7 +133,7 @@
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       const locations = (data.locations || []).filter((loc) => loc.geocoded && loc.coordinates);
-      locations.forEach((loc) => {
+      const entries = locations.map((loc) => {
         const muted = loc.status === "defunct";
         const typeKey = String(loc.event_type || "").toLowerCase();
         const icon = muted
@@ -126,14 +143,30 @@
           icon,
         });
         marker.bindPopup(buildPopup(loc));
-        cluster.addLayer(marker);
+        return { marker, typeKey };
       });
-      if (locations.length) {
-        const fitted = cluster.getBounds().pad(0.08);
-        map.fitBounds(clampBounds(fitted, ukBounds));
-      } else {
-        map.fitBounds(ukBounds);
+
+      function fitToVisible() {
+        if (cluster.getLayers().length) {
+          const fitted = cluster.getBounds().pad(0.08);
+          map.fitBounds(clampBounds(fitted, ukBounds));
+        } else {
+          map.fitBounds(ukBounds);
+        }
       }
+
+      function applyFilter(type) {
+        cluster.clearLayers();
+        const visible = type
+          ? entries.filter((entry) => entry.typeKey === type)
+          : entries;
+        visible.forEach((entry) => cluster.addLayer(entry.marker));
+        fitToVisible();
+      }
+
+      applyFilter("");
+      wireTypeFilters(applyFilter);
+
       if (status) {
         status.textContent = "";
         status.hidden = true;

@@ -17,4 +17,4 @@ www: www.folknorthwest.co.uk/club-swinton.html
 status: listed
 ---
 
-Salford | Greater Manchester | England | tel 0161 278 1738 | @53.50782,-2.33408
+The White Lion is in Salford, Greater Manchester, England. Tel: 0161 278 1738. Coordinates: 53.50782, -2.33408.

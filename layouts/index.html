@@ -21,27 +21,15 @@
 <article class="post-single home-map">
   <header class="home-hero">
     <p class="home-hero-lead">Find UK folk clubs, sessions &amp; festivals</p>
-    <p class="home-hero-counts" aria-label="Listing counts by type">
-      {{- $parts := slice -}}
+    <nav class="home-hero-chips" aria-label="Filter map by type">
+      <button type="button" class="home-hero-chip home-hero-chip--all is-active" data-map-type="" aria-pressed="true">All events ({{ len $listings }})</button>
       {{- range $typeMeta -}}
         {{- $n := index $counts .slug | default 0 -}}
         {{- if gt $n 0 -}}
-          {{- $parts = $parts | append (printf "%d %s" $n .noun) -}}
-        {{- end -}}
-      {{- end -}}
-      {{- delimit $parts " · " -}}
-    </p>
-    <nav class="home-hero-chips" aria-label="Browse by type">
-      {{- range $typeMeta -}}
-        {{- $n := index $counts .slug | default 0 -}}
-        {{- if gt $n 0 -}}
-        <a class="home-hero-chip" href="{{ "/listings/" | relURL }}?type={{ .slug }}">{{ .noun | title }}</a>
+        <button type="button" class="home-hero-chip home-hero-chip--{{ .slug }}" data-map-type="{{ .slug }}" aria-pressed="false">{{ .noun | title }} ({{ $n }})</button>
         {{- end -}}
       {{- end -}}
     </nav>
-    <p class="home-hero-cta">
-      <a class="home-hero-submit" href="{{ "/submit/" | relURL }}">Submit / update a listing</a>
-    </p>
   </header>
 
   <div id="folk-map" class="home-map-canvas" aria-label="Map of Folk Directory listings"></div>

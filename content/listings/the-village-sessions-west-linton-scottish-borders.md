@@ -17,4 +17,4 @@ www: ''
 status: listed
 ---
 
-The Village Sessions, West Linton, Scottish Borders A small group of enthusiastic locals are kicking off sessions at the Village Centre, Raemartin Square, Main Street, West Linton as of Wednesday 3 November 2021 - 7.30pm - 10pm. They plan to meet on a fortnightly basis. It is a small venue, with capacity audience of around 35. They intend to have regular guest nights too. Tickets £10 in person fro
+A small group of enthusiastic locals run sessions at the Village Centre, Raemartin Square, Main Street, West Linton, from Wednesday 3 November 2021, 7.30pm to 10pm. They plan to meet on a fortnightly basis. The venue is small, with a capacity of around 35. Regular guest nights are also planned. Tickets are £10 in person.

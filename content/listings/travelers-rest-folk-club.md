@@ -18,4 +18,4 @@ status: listed
 edited: 24/01/2012
 ---
 
-A popular, friendly club with floor singers and a monthly guest. Held in front bar of hospitable pub with welcoming landlord and landlady. Now in it's 20th year.
+A popular, friendly club with floor singers and a monthly guest. Held in the front bar of a hospitable pub with a welcoming landlord and landlady. Now in its 20th year.

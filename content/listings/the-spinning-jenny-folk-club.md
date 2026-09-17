@@ -16,6 +16,6 @@ status: defunct
 locations: null
 ---
 
-We have a very friendly club with an excellent PA system, mics, monitors & sound desk give the best sound for the performer and audience.Entrance is one pound.  For this you get a enjoyable nights entertainment along with the the chance to show off your talent if you feel like and want to perform.
+The club is very friendly and has an excellent PA system, mics, monitors and sound desk, giving the best sound for both performer and audience. Entrance is one pound, which includes an enjoyable night's entertainment along with the chance to perform if you wish.
 
-Even though the name says \"folk club\" there are more or less no restrictions on the type of music you play. Traditional Folk, Modern Folk, Blues, Pop, Country and classical are all welcome.
+Even though the name says "folk club", there are few restrictions on the type of music played. Traditional Folk, Modern Folk, Blues, Pop, Country and classical are all welcome.

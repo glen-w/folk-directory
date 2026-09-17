@@ -18,10 +18,10 @@ status: listed
 edited: 24/10/2011
 ---
 
-Comfortable and friendly setting and a huge variety of music. No distracting bar noise or booming speakers.
+Comfortable and friendly setting with a huge variety of music. No distracting bar noise or booming speakers.
 
-Warm welcome awaits, good beer and coffee on tap, 5 minutes from Chesham town centre. Full disabled access to our meeting room.
+A warm welcome awaits, with good beer and coffee on tap. The venue is 5 minutes from Chesham town centre, with full disabled access to the meeting room.
 
-Once or twice a month we have singers' nights that are open to all who wish to sing or play. Other than \"acoustic\" there is no restriction on material. The floor is open to performers of all levels and ages. From shaky beginnings some of our performers have gone on to enjoy careers as professional musicians. All we ask is that you do the best you can and that you enjoy yourself. We also run Feature Nights where local guests or young musicians combine 2 x 20 minute sets with a singers' night.
+Once or twice a month the club hosts singers' nights open to all who wish to sing or play. Other than "acoustic" there is no restriction on material. The floor is open to performers of all levels and ages. From shaky beginnings, some of the club's performers have gone on to enjoy careers as professional musicians. The club asks only that performers do their best and enjoy themselves. Feature Nights are also held, where local guests or young musicians combine two 20-minute sets with a singers' night.
 
-Twice a year we book major artistes.
+Twice a year the club books major artistes.

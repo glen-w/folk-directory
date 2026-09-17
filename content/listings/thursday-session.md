@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Thursday session at The Gregson Arts and Community Centre (Lancaster.) — Thursday, Every Week
+Thursday session at The Gregson Arts and Community Centre, Lancaster, every week.

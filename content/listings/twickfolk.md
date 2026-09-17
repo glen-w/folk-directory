@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/twickfolk_logo_669.png
 ---
 
-Twickfolk at The Cabbage Patch pub (67 London Road Twickenham Middlesex) — Sunday, Every Week
+Twickfolk at The Cabbage Patch pub, 67 London Road, Twickenham, Middlesex — every Sunday.

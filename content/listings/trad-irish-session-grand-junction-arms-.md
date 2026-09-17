@@ -18,4 +18,4 @@ status: listed
 edited: 24/01/2012
 ---
 
-Traditional Irish Music session. Good mix of tunes and songs.  All welcome. First Tuesday of the month from 830pm. Very good welcome from the landlord and locals.  Check out www.thesession.org chantal reid's tunebook for tunes played regularly.
+A traditional Irish music session with a good mix of tunes and songs. All welcome. Held on the first Tuesday of the month from 8:30 pm. The landlord and locals offer a very good welcome. For tunes played regularly, see Chantal Reid's tunebook at www.thesession.org.

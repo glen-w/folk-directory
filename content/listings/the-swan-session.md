@@ -16,4 +16,5 @@ when: First Thursday of the month, 8.00pm
 www: ''
 status: listed
 ---
-The Swan Session at The Swan (Faringdon) — Thursday, 1st in Month
+
+The Swan Session takes place at The Swan, Faringdon, on the first Thursday of the month.

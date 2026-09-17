@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Totnes Traditional Singing Session at Bay Horse Inn (Totnes) — Tuesday, Every Week
+Totnes Traditional Singing Session at Bay Horse Inn (Totnes) — Tuesday, every week

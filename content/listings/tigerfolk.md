@@ -17,4 +17,4 @@ www: www.tigerfolk.com
 status: listed
 ---
 
-Tigerfolk, Long Whatton, Derbyshire This traditional folk club meets on the second Tuesday of every month at The Falcon Inn, 64 Main Street, Long Whatton, Loughborough. It usually starts at 7.30pm. The club was started in February 1991 by singer (and veteran of the UK Folk Scene) Roy Harris. When Roy moved to Cardiff, he left the club in the capable hands of a group of the residents. Most active o
+Tigerfolk is a traditional folk club in Long Whatton, Derbyshire. It meets on the second Tuesday of every month at The Falcon Inn, 64 Main Street, Long Whatton, Loughborough, usually starting at 7.30pm. The club was started in February 1991 by singer (and veteran of the UK folk scene) Roy Harris. When Roy moved to Cardiff, he left the club in the capable hands of a group of residents.

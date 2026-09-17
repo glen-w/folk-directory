@@ -18,4 +18,4 @@ status: listed
 edited: 03/03/2012
 ---
 
-This ia a local pub in Chapmanslade that does folk and blues music every month.
+This is a local pub in Chapmanslade that hosts folk and blues music every month.

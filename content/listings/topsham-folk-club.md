@@ -18,4 +18,4 @@ status: defunct
 edited: 30/04/2013
 ---
 
-Regular singers nights, guests once a month.
+Regular singers' nights, with guests once a month.

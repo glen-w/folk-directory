@@ -17,4 +17,4 @@ status: listed
 logo: /images/listings/the_virtual_folk_club_logo_856.png
 ---
 
-The Virtual Folk Club at Derby Brewery Arms Cheetham Hill Road Manchester (Manchester) — Tuesday, 3rd in Month
+The Virtual Folk Club meets at the Derby Brewery Arms, Cheetham Hill Road, Manchester, on the third Tuesday of each month.

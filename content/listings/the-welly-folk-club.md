@@ -16,4 +16,4 @@ www: thewilsonfamilyalbum.co.uk
 status: listed
 ---
 
-The Welly Folk Club at The Wellington Inn, High Street, Wolviston Village, TS22 5JY (Wolviston Village) — Thursday, Every Week
+The Welly Folk Club at The Wellington Inn, High Street, Wolviston Village, TS22 5JY — every Thursday.

@@ -64,7 +64,7 @@ theme = 'PaperMod'
 [menu]
   [[menu.main]]
     identifier = "listings"
-    name = "Listings"
+    name = "Events"
     url = "/listings/"
     weight = 10
   [[menu.main]]
@@ -89,7 +89,7 @@ theme = 'PaperMod'
     weight = 20
   [[menu.main]]
     identifier = "submit"
-    name = "Submit"
+    name = "Submit / update"
     url = "/submit/"
     weight = 28
   [[menu.main]]
