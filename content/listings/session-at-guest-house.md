@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - southport
+- merseyside
 county: Merseyside
 venue: Guest House
 address: 16 Union Street

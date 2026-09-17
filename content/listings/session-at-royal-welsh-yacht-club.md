@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - caernarfon
+- gwynedd
 county: Gwynedd
 venue: Royal Welsh Yacht Club
 address: Porth-Yr-Aur

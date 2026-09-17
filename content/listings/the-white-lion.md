@@ -11,10 +11,9 @@ venue: The White Lion
 address: ''
 place: Salford
 post_code: ''
-when: '"Monday Singers Nights - singaround to which all are welcome - free Starts
-  8pm"'
+lat: 53.50782
+lng: -2.33408
+when: Monday singers night — singaround, all welcome, free. Starts 8pm.
 www: www.folknorthwest.co.uk/club-swinton.html
 status: listed
 ---
-
-The White Lion is in Salford, Greater Manchester, England. Tel: 0161 278 1738. Coordinates: 53.50782, -2.33408.

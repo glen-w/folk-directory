@@ -13,8 +13,8 @@ place: Carmarthenshire
 post_code: ''
 when: Friday, 1st in Month
 www: www.cwmdu.org/clubs-groups
-status: listed
 logo: /images/listings/cwmdu_logo_825.png
+status: listed
 ---
 
 Cwmdu at The Cwmdu Inn, Carmarthenshire — Friday, 1st in month.

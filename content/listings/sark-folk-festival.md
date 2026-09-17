@@ -14,6 +14,6 @@ post_code: ''
 when: July
 www: sarkfolkfestival.com
 email: info@sarkfolkfestival.com
-status: listed
 logo: /images/listings/sark_folk_festival_logo_312.png
+status: listed
 ---

@@ -12,7 +12,7 @@ address: 77 Main Street, Staveley, Kendal Cumbria
 place: Kendal Cumbria
 post_code: LA8 9LN
 when: Friday, 2nd in Month
-www: ''
+www: www.facebook.com/groups/239547332815313
 status: listed
 ---
 

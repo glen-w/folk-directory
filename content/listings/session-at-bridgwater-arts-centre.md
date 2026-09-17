@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - bridgwater
+- somerset
 county: Somerset
 venue: Bridgwater Arts Centre
 address: 11-13 Castle St

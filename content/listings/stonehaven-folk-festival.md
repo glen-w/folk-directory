@@ -6,6 +6,7 @@ event_types:
 - folk-club
 locations:
 - stonehaven
+- aberdeenshire
 county: Aberdeenshire
 venue: ''
 address: ''

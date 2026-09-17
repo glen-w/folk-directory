@@ -14,8 +14,8 @@ post_code: PR9 0US
 when: Sunday, Every Week
 www: www.bothyfolkclub.org.uk
 email: enquiries@bothyfolkclub.org.uk
-status: listed
 logo: /images/listings/bothy_folk_club_logo_878.png
+status: listed
 ---
 
 Bothy Folk Club at Southport Bijou Cinema (8 Post Office Avenue) — Sunday, Every Week

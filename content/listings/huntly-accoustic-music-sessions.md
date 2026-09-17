@@ -12,7 +12,7 @@ address: 4 Gordon Street, Huntly, Aberdeenshire
 place: Aberdeenshire
 post_code: AB54 8AJ
 when: Wednesday, 3rd in Month
-www: ''
+www: Www.folklincs.com
 status: listed
 ---
 

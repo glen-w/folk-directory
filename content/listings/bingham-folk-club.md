@@ -1,5 +1,5 @@
 ---
-title: Bingham Folk Club
+title: Bingham Folk Club · Fridays
 id: 135
 name: Bingham Folk Club
 event_types:

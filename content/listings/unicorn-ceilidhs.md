@@ -14,9 +14,9 @@ post_code: SG5 1HX
 when: Last Friday of the month
 www: unicornceilidhs.org.uk
 email: alan.creamer@btconnect.com
+logo: /images/listings/unicorn_ceilidhs_logo_516.png
 status: listed
 edited: 24/01/2012
-logo: /images/listings/unicorn_ceilidhs_logo_516.png
 ---
 
 Unicorn Ceilidhs are public dances with a good live band and caller. Couples, singles and groups are all welcome. There's a proper sprung dance floor, a well-stocked Real Ale bar, tables to sit at - and a great atmosphere! Or ring Alan on the number below (work hours) for a chat.

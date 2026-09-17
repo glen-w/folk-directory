@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - hastings
+- east-sussex
 county: East Sussex
 venue: ''
 address: ''

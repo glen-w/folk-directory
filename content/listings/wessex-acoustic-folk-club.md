@@ -16,3 +16,5 @@ www: wimborne-acoustic.co.uk
 email: kathy.dunn@btopenworld.com
 status: defunct
 ---
+
+Wessex Acoustic Folk Club at Royal British Legion (Blandford) — Friday, Variable

@@ -14,6 +14,6 @@ post_code: HD9 3JP
 when: May
 www: holmfirthfestivaloffolk.co.uk
 email: holmfirthfolk@btinternet.com
-status: listed
 logo: /images/listings/holmfirth_festival_of_folk_logo_192.png
+status: listed
 ---

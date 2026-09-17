@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - st-albans
+- hertfordshire
 county: Hertfordshire
 venue: The White Lion
 address: Sopwell Lane

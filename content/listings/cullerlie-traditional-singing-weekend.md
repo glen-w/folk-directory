@@ -14,6 +14,6 @@ post_code: ''
 when: July
 www: abdn.ac.uk/elphinstone
 email: elphinstone@abdn.ac.uk
-status: listed
 logo: /images/listings/cullerlie_traditional_singing_weekend_logo_265.png
+status: listed
 ---

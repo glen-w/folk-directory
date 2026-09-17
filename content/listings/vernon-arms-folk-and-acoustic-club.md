@@ -12,9 +12,9 @@ address: 21 Locko Road, Spondon
 place: Spondon
 post_code: DE21 7AL
 when: Tuesday, Every Week
-www: ''
+www: www.thevaultartscentre.co.uk/index.php
 email: Vernonarmsfolkandacoustic@gmail.com
 status: listed
 ---
 
-Vernon Arms Folk and Acoustic Club at The Vernon Arms (Spondon) — Tuesday, Every Week
+Vernon Arms Folk and Acoustic Club at The Vernon Arms, Spondon — Tuesday, every week.

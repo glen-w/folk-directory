@@ -6,6 +6,7 @@ event_types:
 - folk-club
 locations:
 - scotland
+- aberdeenshire
 county: Aberdeenshire
 venue: Longside Football Social Club
 address: Davidson Park, Longside, Aberdeenshire

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - st-leonards-on-sea
+- east-sussex
 county: East Sussex
 venue: North Star Inn
 address: Clarence Road

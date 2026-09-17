@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - south-shields
+- tyne-and-wear
 county: Tyne and Wear
 venue: The Lord Ashley
 address: 269 Stanhope Road
@@ -17,3 +18,5 @@ email: tradition@blueyonder.co.uk
 status: listed
 edited: 20/01/2012
 ---
+
+Not running

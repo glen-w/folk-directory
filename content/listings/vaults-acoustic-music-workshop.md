@@ -12,8 +12,8 @@ address: The Vaults Bar, The High Street, Stony Stratford
 place: Stony Stratford
 post_code: MK11 1AQ
 when: Sunday, Every Week
-www: ''
+www: www.facebook.com/miceforlent
 status: listed
 ---
 
-Vaults Acoustic Music Workshop at The Vaults Bar (Stony Stratford) — Sunday, Every Week
+Vaults Acoustic Music Workshop at The Vaults Bar, Stony Stratford — every Sunday.

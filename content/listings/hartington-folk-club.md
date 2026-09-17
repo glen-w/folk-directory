@@ -12,7 +12,7 @@ address: Market Place, Hartington, Buxton
 place: Buxton
 post_code: SK17 0AL
 when: Thursday, 1st & 3rd
-www: ''
+www: newcrystalfolkclub.weebly.com
 email: lindawoodroffe@live.co.uk
 status: listed
 ---

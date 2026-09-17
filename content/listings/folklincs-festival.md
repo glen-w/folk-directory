@@ -14,8 +14,8 @@ place: The Ropewalk Barton upon Humber
 post_code: DN18 5JR
 when: Monday, 1st in Month
 www: Www.folklincs.com
-status: listed
 logo: /images/listings/folklincs_festival_logo_930.png
+status: listed
 ---
 
 Folklincs Festival at The Ropewalk (The Ropewalk Barton upon Humber) — Monday, 1st in Month

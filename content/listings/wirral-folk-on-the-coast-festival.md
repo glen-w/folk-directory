@@ -18,10 +18,4 @@ status: defunct
 edited: 28/01/2012
 ---
 
-Festival has been running 8 years.
-
-Discounted weekend tickets
-
-Festival has been running 8 years.
-
-Discounted weekend tickets (and camping)are available via We Got Tickets or by calling.
+The festival has been running for 8 years. Discounted weekend tickets (and camping) are available via We Got Tickets or by calling.

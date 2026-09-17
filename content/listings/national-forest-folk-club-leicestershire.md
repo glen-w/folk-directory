@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: Leicestershire
 post_code: ''
-when: ''
 www: www.nationalforestfolk.com
 status: listed
 ---

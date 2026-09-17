@@ -13,8 +13,8 @@ place: Bristol
 post_code: BS16 5SG
 when: Friday, 3rd in Month
 www: downendfolkandroots.com
-status: listed
 logo: /images/listings/downend_folk_and_roots_logo_886.png
+status: listed
 ---
 
 Downend Folk & Roots at Christ Church Downend (Bristol) — Friday, 3rd in Month

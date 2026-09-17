@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - mendlesham
+- suffolk
 county: Suffolk
 venue: Kings Head
 address: 6 Old Market Street

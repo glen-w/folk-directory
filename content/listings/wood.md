@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - braziers-park
+- oxfordshire
 county: Oxfordshire
 venue: ''
 address: ''

@@ -14,9 +14,9 @@ post_code: PL31 1JS
 when: Friday
 www: bodminfolk.co.uk
 email: BFCSecretary@hotmail.co.uk
+logo: /images/listings/bodmin_folk_club_logo_43.png
 status: listed
 edited: 18/11/2011
-logo: /images/listings/bodmin_folk_club_logo_43.png
 ---
 
 The Club that loves to sing!

@@ -8,9 +8,9 @@ locations:
 - liverpool
 county: Merseyside
 venue: Cornmarket
-address: Old Ropery, Fenwick Street, Liverpool.
-place: Liverpool.
-post_code: ''
+address: Old Ropery, Fenwick Street, Liverpool
+place: Liverpool
+post_code: BB4 6JU
 when: Tuesday, 1st in Month
 www: ''
 status: listed

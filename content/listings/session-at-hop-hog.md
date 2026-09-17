@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - downham-market
+- norfolk
 county: Norfolk
 venue: Hop & Hog
 address: High Street

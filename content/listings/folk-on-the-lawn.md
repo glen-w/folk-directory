@@ -13,8 +13,8 @@ place: Abbey Mil
 post_code: ''
 when: July
 www: folkonthelawn.com
-status: listed
 logo: /images/listings/folk_on_the_lawn_logo_3685.png
+status: listed
 ---
 
 Coming from near and - very - far. Some with countless 'hits' or 'views' or 'followers' on various media platforms; some with few. Some with record company deals; others producing self-released albums. All did wonderfully.

@@ -14,8 +14,8 @@ post_code: RH4 1QA
 when: Wednesdays
 www: dorkingfolkclub.org.uk
 email: info@dorkingfolkclub.org.uk
-status: listed
 logo: /images/listings/dorking_folk_club_logo_47.png
+status: listed
 ---
 
 GUEST NIGHTS

@@ -7,6 +7,7 @@ event_types:
 locations:
 - dummer-down-farm
 - hampshire
+- ireland
 county: Down
 venue: ''
 address: ''

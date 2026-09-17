@@ -7,10 +7,10 @@ event_types:
 locations:
 - east-midlands
 county: Leicestershire
-venue: ''
-address: ''
-place: ''
-post_code: ''
+venue: Mushroom Hall Pub
+address: Main Street, Albert Village, Swadlincote
+place: Swadlincote
+post_code: DE11 8EN
 when: Sundays of the month in the restaurant
 www: www.scragfolk.co.uk
 status: listed

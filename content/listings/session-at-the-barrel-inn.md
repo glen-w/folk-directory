@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - thornbury
+- gloucestershire
 county: Gloucestershire
 venue: The Barrel Inn
 address: St Mary's Street

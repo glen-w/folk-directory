@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - ashleworth
+- gloucestershire
 county: Gloucestershire
 venue: Boat Inn
 address: Ashleworth Quay

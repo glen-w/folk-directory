@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - swindon
+- wiltshire
 county: Wiltshire
 venue: The Bell
 address: High Street

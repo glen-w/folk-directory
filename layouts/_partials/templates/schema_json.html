@@ -71,13 +71,25 @@
   {{- $ld = merge $ld (dict "additionalType" .) -}}
 {{- end -}}
 {{- if or .Params.place .Params.address .Params.post_code .Params.county .Params.venue -}}
-  {{- $addr := dict "@type" "PostalAddress" "addressCountry" "GB" -}}
+{{- $roiCounties := slice "Carlow" "Cavan" "Clare" "Cork" "Donegal" "Dublin" "Galway" "Kerry" "Kildare" "Kilkenny" "Laois" "Leitrim" "Limerick" "Longford" "Louth" "Mayo" "Meath" "Monaghan" "Offaly" "Roscommon" "Sligo" "Tipperary" "Waterford" "Westmeath" "Wexford" "Wicklow" -}}
+{{- $addrCountry := "GB" -}}
+{{- with .Params.county -}}
+  {{- if in $roiCounties . -}}{{- $addrCountry = "IE" -}}{{- end -}}
+{{- end -}}
+{{- $addr := dict "@type" "PostalAddress" "addressCountry" $addrCountry -}}
   {{- with .Params.venue }}{{ $addr = merge $addr (dict "name" .) }}{{ end -}}
-  {{- with .Params.address }}{{ $addr = merge $addr (dict "streetAddress" .) }}{{ end -}}
+  {{- with .Params.address -}}
+  {{- if not (findRE `^@\s*[+-]?\d{1,2}\.\d{3,}\s*,\s*[+-]?\d{1,3}\.\d{3,}\s*$` .) -}}
+    {{- $addr = merge $addr (dict "streetAddress" .) -}}
+  {{- end -}}
+{{- end -}}
   {{- with .Params.place }}{{ $addr = merge $addr (dict "addressLocality" .) }}{{ end -}}
   {{- with .Params.county }}{{ $addr = merge $addr (dict "addressRegion" .) }}{{ end -}}
   {{- with .Params.post_code }}{{ $addr = merge $addr (dict "postalCode" .) }}{{ end -}}
   {{- $ld = merge $ld (dict "address" $addr) -}}
+{{- end -}}
+{{- if and .Params.lat .Params.lng -}}
+  {{- $ld = merge $ld (dict "geo" (dict "@type" "GeoCoordinates" "latitude" .Params.lat "longitude" .Params.lng)) -}}
 {{- end -}}
 {{- if $www -}}
   {{- $ld = merge $ld (dict "sameAs" (slice $www)) -}}

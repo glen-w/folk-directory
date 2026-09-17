@@ -1,11 +1,12 @@
 ---
-title: Session at The House of McDonnell
+title: The House of McDonnell
 id: 425
-name: Session at The House of McDonnell
+name: The House of McDonnell
 event_types:
 - session
 locations:
 - ballycastle
+- ireland
 county: Antrim
 venue: The House of McDonnell
 address: Castle Street

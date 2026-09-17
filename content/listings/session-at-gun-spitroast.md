@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - horsmonden
+- kent
 county: Kent
 venue: Gun & Spitroast
 address: The Heath

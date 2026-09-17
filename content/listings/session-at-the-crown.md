@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - standish-wigan
+- lancashire
 county: Lancashire
 venue: The Crown
 address: Platt Lane
@@ -17,5 +18,3 @@ email: brianr@bjsystems.co.uk
 status: listed
 edited: 23/01/2012
 ---
-
-Wigan | Greater Manchester | England | tel 01257 263678 | @53.59725,-2.64184

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - swindon
+- wiltshire
 county: Wiltshire
 venue: The Beehive
 address: Prospect Hill

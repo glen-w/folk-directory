@@ -1,5 +1,5 @@
 ---
-title: The Topic Folk Club
+title: The Topic Folk Club · Bradford
 id: 629
 name: The Topic Folk Club
 event_types:

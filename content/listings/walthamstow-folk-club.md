@@ -17,16 +17,8 @@ email: info@walthamstowfolk.co.uk
 status: listed
 ---
 
-\"London's friendliest folk club\" ~ Folk and Roots
-
-\"A bloody
-
-\"London's friendliest folk club\" ~ Folk and Roots
-
-\"A bloody fine club\" ~ Robb Johnson
-
-\"Awesome Gig\" ~ Jim Page
-
-\"During the soundcheck, the cat ate my dinner!\" ~ Nancy Kerr
-
-\"We love this place\" - Mawkin:Causley
+"London's friendliest folk club" ~ Folk and Roots
+"A bloody fine club" ~ Robb Johnson
+"Awesome Gig" ~ Jim Page
+"During the soundcheck, the cat ate my dinner!" ~ Nancy Kerr
+"We love this place" ~ Mawkin:Causley

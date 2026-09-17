@@ -33,7 +33,151 @@
 }
 
 .listing-footer a { font-weight: 600; }
+
+.listing-claim-cta {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.listing-claim-intro,
+.listing-claim-benefits,
+.listing-claim-next {
+  margin-bottom: 1.5rem;
+}
+
+.listing-claim-alt {
+  margin: 0 0 1.25rem;
+}
+
+.listing-submit-field input[readonly] {
+  background: color-mix(in srgb, var(--border, #ddd) 35%, transparent);
+  color: var(--secondary, #555);
+}
 #folk-map { background: #e8efe9; }
+
+/* Marker clusters: per-type palettes, denser = darker */
+.leaflet-marker-icon.marker-cluster {
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+  background-clip: padding-box;
+  box-shadow: none;
+}
+.marker-cluster div {
+  width: 70%;
+  height: 70%;
+  margin: 0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: inherit;
+  color: inherit;
+}
+.marker-cluster-small { width: 40px; height: 40px; font-size: 13px; }
+.marker-cluster-medium { width: 44px; height: 44px; font-size: 14px; }
+.marker-cluster-large { width: 50px; height: 50px; font-size: 15px; }
+
+.marker-cluster--folk-club.marker-cluster-small {
+  background-color: color-mix(in srgb, var(--type-folk-club) 40%, transparent);
+}
+.marker-cluster--folk-club.marker-cluster-small div {
+  background-color: color-mix(in srgb, var(--type-folk-club) 72%, white);
+}
+.marker-cluster--folk-club.marker-cluster-medium {
+  background-color: color-mix(in srgb, var(--type-folk-club) 55%, transparent);
+}
+.marker-cluster--folk-club.marker-cluster-medium div {
+  background-color: var(--type-folk-club);
+}
+.marker-cluster--folk-club.marker-cluster-large {
+  background-color: color-mix(in srgb, var(--type-folk-club) 70%, transparent);
+}
+.marker-cluster--folk-club.marker-cluster-large div {
+  background-color: color-mix(in srgb, var(--type-folk-club) 75%, black);
+}
+
+.marker-cluster--session.marker-cluster-small {
+  background-color: color-mix(in srgb, var(--type-session) 40%, transparent);
+}
+.marker-cluster--session.marker-cluster-small div {
+  background-color: color-mix(in srgb, var(--type-session) 72%, white);
+}
+.marker-cluster--session.marker-cluster-medium {
+  background-color: color-mix(in srgb, var(--type-session) 55%, transparent);
+}
+.marker-cluster--session.marker-cluster-medium div {
+  background-color: var(--type-session);
+}
+.marker-cluster--session.marker-cluster-large {
+  background-color: color-mix(in srgb, var(--type-session) 70%, transparent);
+}
+.marker-cluster--session.marker-cluster-large div {
+  background-color: color-mix(in srgb, var(--type-session) 75%, black);
+}
+
+.marker-cluster--festival.marker-cluster-small {
+  background-color: color-mix(in srgb, var(--type-festival) 40%, transparent);
+}
+.marker-cluster--festival.marker-cluster-small div {
+  background-color: color-mix(in srgb, var(--type-festival) 72%, white);
+}
+.marker-cluster--festival.marker-cluster-medium {
+  background-color: color-mix(in srgb, var(--type-festival) 55%, transparent);
+}
+.marker-cluster--festival.marker-cluster-medium div {
+  background-color: var(--type-festival);
+}
+.marker-cluster--festival.marker-cluster-large {
+  background-color: color-mix(in srgb, var(--type-festival) 70%, transparent);
+}
+.marker-cluster--festival.marker-cluster-large div {
+  background-color: color-mix(in srgb, var(--type-festival) 75%, black);
+}
+
+.marker-cluster--dance.marker-cluster-small {
+  background-color: color-mix(in srgb, var(--type-dance) 40%, transparent);
+}
+.marker-cluster--dance.marker-cluster-small div {
+  background-color: color-mix(in srgb, var(--type-dance) 72%, white);
+}
+.marker-cluster--dance.marker-cluster-medium {
+  background-color: color-mix(in srgb, var(--type-dance) 55%, transparent);
+}
+.marker-cluster--dance.marker-cluster-medium div {
+  background-color: var(--type-dance);
+}
+.marker-cluster--dance.marker-cluster-large {
+  background-color: color-mix(in srgb, var(--type-dance) 70%, transparent);
+}
+.marker-cluster--dance.marker-cluster-large div {
+  background-color: color-mix(in srgb, var(--type-dance) 75%, black);
+}
+
+.marker-cluster--mixed.marker-cluster-small {
+  background-color: color-mix(in srgb, #5c6b73 40%, transparent);
+}
+.marker-cluster--mixed.marker-cluster-small div {
+  background-color: color-mix(in srgb, #5c6b73 72%, white);
+}
+.marker-cluster--mixed.marker-cluster-medium {
+  background-color: color-mix(in srgb, #5c6b73 55%, transparent);
+}
+.marker-cluster--mixed.marker-cluster-medium div {
+  background-color: #5c6b73;
+}
+.marker-cluster--mixed.marker-cluster-large {
+  background-color: color-mix(in srgb, #5c6b73 70%, transparent);
+}
+.marker-cluster--mixed.marker-cluster-large div {
+  background-color: color-mix(in srgb, #5c6b73 75%, black);
+}
 
 .listing-detail .listing-section {
   margin: 0 0 1.75rem;

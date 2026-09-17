@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - blackpool
+- lancashire
 county: Lancashire
 venue: ''
 address: ''
@@ -17,4 +18,4 @@ email: solidentertainments@live.co.uk
 status: listed
 ---
 
-With three days and three stages, 33 acts are here to entertain you. Quite a line-up too! One of the first folk festivals of the year!
+Spanning three days and three stages, the festival features 33 acts. It is one of the first folk festivals of the year.

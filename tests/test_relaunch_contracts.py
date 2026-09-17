@@ -11,10 +11,14 @@ from pathlib import Path
 import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
+import sys
+
+sys.path.insert(0, str(ROOT / "ingest"))
 PUBLIC = ROOT / "public"
 INDEX = PUBLIC / "listings" / "index.json"
 HOME = PUBLIC / "index.html"
 SUBMIT = PUBLIC / "submit" / "index.html"
+CLAIM = PUBLIC / "claim" / "index.html"
 BROWSE_JS = ROOT / "static" / "js" / "listings-browse.js"
 FASTSEARCH = ROOT / "assets" / "js" / "fastsearch.js"
 SCHEMA = ROOT / "layouts" / "_partials" / "templates" / "schema_json.html"
@@ -23,7 +27,7 @@ LISTINGS = ROOT / "content" / "listings"
 
 
 def _ensure_build() -> None:
-    if INDEX.exists() and HOME.exists() and SUBMIT.exists():
+    if INDEX.exists() and HOME.exists() and SUBMIT.exists() and CLAIM.exists():
         return
     subprocess.run(
         ["hugo", "--minify"],
@@ -81,6 +85,25 @@ def test_index_hides_need_for_www_field(built):
     assert len(active) == len(data["items"]) - len(defunct)
 
 
+def test_no_placeholder_listing_titles():
+    from listing_fields import is_placeholder_name  # noqa: E402
+
+    offenders = []
+    for path in LISTINGS.glob("*.md"):
+        if path.name == "_index.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        title_m = re.search(r"^title:\s*(.+)$", text, re.M)
+        name_m = re.search(r"^name:\s*(.+)$", text, re.M)
+        title = (title_m.group(1).strip().strip("\"'") if title_m else "")
+        name = (name_m.group(1).strip().strip("\"'") if name_m else "")
+        if is_placeholder_name(title) or is_placeholder_name(name) or re.fullmatch(
+            r"listing-\d+", path.stem
+        ):
+            offenders.append(path.name)
+    assert not offenders, f"placeholder listing names remain: {offenders[:20]}"
+
+
 def test_no_duplicate_listing_titles():
     titles = []
     for path in LISTINGS.glob("*.md"):
@@ -91,6 +114,20 @@ def test_no_duplicate_listing_titles():
     counts = Counter(titles)
     dups = {t: n for t, n in counts.items() if n > 1}
     assert not dups, f"duplicate titles remain: {dups}"
+
+
+def test_address_is_never_a_coord_pin():
+    """Street `address` must be human-readable; pins live in lat/lng."""
+    pin_re = re.compile(
+        r"^address:\s*['\"]?@\s*[+-]?\d{1,2}\.\d{3,}\s*,\s*[+-]?\d{1,3}\.\d{3,}",
+        re.M,
+    )
+    offenders = []
+    for path in LISTINGS.glob("*.md"):
+        text = path.read_text(encoding="utf-8")
+        if pin_re.search(text):
+            offenders.append(path.name)
+    assert not offenders, f"coord pins still in address: {offenders[:20]}"
 
 
 def test_dup_titles_export_exists():
@@ -158,11 +195,32 @@ def test_submit_page_and_issue_template(built):
     assert (ROOT / ".github" / "ISSUE_TEMPLATE" / "listing.yml").is_file()
 
 
+def test_claim_page_email_only(built):
+    assert CLAIM.is_file()
+    html = CLAIM.read_text(encoding="utf-8")
+    assert "listing-claim-form" in html
+    assert "Send claim by email" in html
+    assert "Open GitHub issue" not in html
+    assert (ROOT / "static" / "js" / "listing-claim.js").is_file()
+    for field in ("listing_id", "claimant_email", "connection", "verification"):
+        assert f"name={field}" in html or f'name="{field}"' in html
+
+
+def test_listing_footer_has_claim_and_update(built):
+    fixture = PUBLIC / "listings" / "above-the-parapet" / "index.html"
+    html_path = fixture if fixture.is_file() else next((PUBLIC / "listings").glob("*/index.html"), None)
+    assert html_path and html_path.is_file(), "expected built listing pages"
+    html = html_path.read_text(encoding="utf-8")
+    assert "/claim/?" in html
+    assert "Claim this listing" in html
+    assert "Suggest an update" in html
+    assert "Is this your event?" in html
+
+
 def test_search_empty_state_mentions_submit():
     text = FASTSEARCH.read_text(encoding="utf-8")
     assert "No matches" in text
     assert "/submit/" in text
-
 
 def test_schema_partial_uses_dict_jsonify():
     text = SCHEMA.read_text(encoding="utf-8")

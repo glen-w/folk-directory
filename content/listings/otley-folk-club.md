@@ -7,10 +7,10 @@ event_types:
 locations:
 - england
 county: West Yorkshire
-venue: ''
-address: ''
+venue: Black Horse Hotel
+address: 2 Westgate, Otley
 place: Otley
-post_code: ''
+post_code: LS21 3AS
 when: meet every Wednesday in The Black Horse Hotel on Westgate
 www: www.otleyfolkclub.org.uk
 status: listed

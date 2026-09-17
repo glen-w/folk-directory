@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - marbury-country-park
+- cheshire
 county: Cheshire
 venue: ''
 address: ''

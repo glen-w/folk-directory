@@ -14,9 +14,9 @@ post_code: NW5 2RX
 when: Last Monday of every month
 www: unityfolkclub.org
 email: glorialazenby@homechoice.co.uk
+logo: /images/listings/unity_folk_club_logo_447.png
 status: listed
 edited: 24/02/2012
-logo: /images/listings/unity_folk_club_logo_447.png
 ---
 
 All are welcome, especially singers and poets who sing or read against war, capitalism, exploitation, privatisation, imperialism and globalisation. Admission fee: £3.00.

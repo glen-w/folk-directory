@@ -8,7 +8,7 @@ locations:
 - gartly-aberdeenshire
 - scotland
 county: Aberdeenshire
-venue: ''
+venue: The White Lion
 address: ''
 place: Gartly, Aberdeenshire
 post_code: ''

@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: users.tinyonline.co.uk/fizgig-tom/folk.htm
 status: listed
 ---

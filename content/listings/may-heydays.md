@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - evesham
+- worcestershire
 county: Worcestershire
 venue: ''
 address: ''

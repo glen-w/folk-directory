@@ -14,6 +14,6 @@ post_code: ''
 when: July
 www: bromsgrovefolkclub.co.uk
 email: bromsgroveman@hotmail.com
-status: listed
 logo: /images/listings/bromsgrove_folk_festival_logo_251.png
+status: listed
 ---

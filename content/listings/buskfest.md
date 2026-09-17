@@ -7,6 +7,7 @@ event_types:
 locations:
 - banbridge
 - county-down
+- ireland
 county: Down
 venue: ''
 address: ''

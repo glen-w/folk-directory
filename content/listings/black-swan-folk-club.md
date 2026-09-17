@@ -14,9 +14,9 @@ post_code: YO1 7PR
 when: Every Thursday at 8pm
 www: blackswanfolkclub.org.uk
 email: blackswanfolkclub@yahoo.co.uk
+logo: /images/listings/black_swan_folk_club_logo_552.png
 status: listed
 edited: 12/02/2012
-logo: /images/listings/black_swan_folk_club_logo_552.png
 ---
 
 York's premier folk music venue, presenting local, national and international

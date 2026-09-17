@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - purton
+- wiltshire
 county: Wiltshire
 venue: Royal George
 address: Pavenhill

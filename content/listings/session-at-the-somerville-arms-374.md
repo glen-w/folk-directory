@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - leamington-spa
+- warwickshire
 county: Warwickshire
 venue: The Somerville Arms
 address: Campion Terrace

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - staveley
+- cumbria
 county: Cumbria
 venue: Hawkshead Brewery
 address: Mill Yard

@@ -13,6 +13,6 @@ place: Nailsea
 post_code: ''
 when: Fridays and Sundays
 www: nailseafolkclub.co.uk
-status: listed
 logo: /images/listings/nailsea_folk_club_logo_39.png
+status: listed
 ---

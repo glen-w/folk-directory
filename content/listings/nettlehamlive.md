@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: Nettleham
 post_code: ''
-when: ''
 www: www.nettlehamlive.org
 email: watkins.folk@gmail.com
 status: listed

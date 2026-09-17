@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - gloucester
+- gloucestershire
 county: Gloucestershire
 venue: ''
 address: ''

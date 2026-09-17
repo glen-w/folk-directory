@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - southampton
+- hampshire
 county: Hampshire
 venue: Bent Brief
 address: Lodge Rd

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - belfast
+- ireland
 county: Antrim
 venue: The Errigle Inn
 address: 312-320 Ormeau Road, Belfast

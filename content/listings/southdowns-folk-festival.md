@@ -14,9 +14,9 @@ post_code: PO21 1LY
 when: September
 www: www.southdownsfolkfest.co.uk
 email: rnash10@hotmail.com
+logo: /images/listings/southdowns_folk_festival_logo_602.png
 status: listed
 edited: 05/05/2013
-logo: /images/listings/southdowns_folk_festival_logo_602.png
 ---
 
 The revived Southdowns Folk Festival, in and around the town centre of Bognor Regis, brings the very best in folk and acoustic music and dance.

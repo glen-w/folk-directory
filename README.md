@@ -1,6 +1,6 @@
 # Folk Directory
 
-Hugo site for [folkdirectory.co.uk](https://folkdirectory.co.uk) — UK folk clubs, sessions, dances, and festivals.
+Hugo site for [folkdirectory.co.uk](https://folkdirectory.co.uk) — UK and Ireland folk clubs, sessions, dances, and festivals.
 
 **Events** (`/listings/`) supports Type, County, and Status filters, optional text search, Show 10/25/50/100/All, and shareable URL query params. Data comes from `/listings/index.json`; the filter UI is driven by `static/js/listings-browse.js`.
 
@@ -19,6 +19,19 @@ python3 -m pytest
 ```
 
 Built and deployed with GitHub Pages (`.github/workflows/pages.yml`).
+
+## Local ingest / scrape (maintainer only)
+
+Scrapers, corpus/ledger, assessors, and prompts live under `ingest/`, `scripts/`,
+`data/`, and `prompts/` — **gitignored** so GitHub Pages never ships caches,
+JSONL, SQLite, or API keys. On a maintainer checkout that has those dirs:
+
+- Ops runbook: [`ingest/README.md`](ingest/README.md)
+- Env template: [`.env.example`](.env.example) (`SEARXNG_BASE_URL`, Venice, Maps)
+- Never commit `.env`, `ingest/cache/`, `ingest/out/`, or `data/*.jsonl`
+
+Public site content is only updated via `scripts/publish_corpus.py` writing
+`content/listings/` (and map JSON under `static/data/`).
 
 ## Machine-readable listings API
 

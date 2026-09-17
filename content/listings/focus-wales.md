@@ -6,7 +6,8 @@ event_types:
 - festival
 locations:
 - wrexham-county
-county: Wrexham
+- wrexham
+county: Wrexham County
 venue: ''
 address: ''
 place: Wrexham

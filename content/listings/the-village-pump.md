@@ -14,6 +14,6 @@ post_code: ''
 when: Fridays
 www: villagepump.org.uk
 email: alderslade@blueyonder.co.uk
-status: listed
 logo: /images/listings/the_village_pump_logo_61.png
+status: listed
 ---

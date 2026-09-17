@@ -41,11 +41,12 @@ body:
     id: county
     attributes:
       label: County
+      description: UK or Irish county (e.g. Yorkshire, Dublin, Cork)
   - type: input
     id: when
     attributes:
       label: When
-      description: e.g. Every Tuesday, 8pm
+      description: e.g. Thursday, 21:00 or Every Tuesday, 20:00
   - type: input
     id: website
     attributes:

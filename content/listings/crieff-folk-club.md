@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: Crieff
 post_code: ''
-when: ''
 www: www.strathearnartspace.co.uk
 email: admin@strathearnartspace.co.uk
 status: listed

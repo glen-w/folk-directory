@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: www.travellingfolk.co.uk
 email: thetravellingfolk@gmail.com
 status: listed

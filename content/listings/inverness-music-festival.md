@@ -7,7 +7,7 @@ event_types:
 locations:
 - inverness
 - invernessshire
-county: Highland
+county: Invernessshire
 venue: ''
 address: ''
 place: Inverness

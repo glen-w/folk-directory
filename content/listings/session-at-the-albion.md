@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - ampthill
+- bedfordshire
 county: Bedfordshire
 venue: The Albion
 address: 36 Dunstable Road

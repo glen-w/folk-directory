@@ -18,4 +18,4 @@ status: defunct
 edited: 23/01/2012
 ---
 
-A 4-day family-friendly Folk Festival held in the historic and picturesque village of Wickham near Fareham in Hampshire.  Concerts, workshops, sessions, dance displays, traditional crafts fayre, real ales and much more.  Comfortable indoor venues, free camping and car parking.  Please see website for artists and day / weekend ticket prices.
+A four-day, family-friendly folk festival held in the historic and picturesque village of Wickham, near Fareham in Hampshire. Concerts, workshops, sessions, dance displays, a traditional crafts fair, real ales and more. Comfortable indoor venues, free camping and car parking. See the website for artists and day/weekend ticket prices.

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - dursley
+- gloucestershire
 county: Gloucestershire
 venue: The New Inn
 address: Woodmancote

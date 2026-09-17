@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - botley-southampton
+- hampshire
 county: Hampshire
 venue: The Bugle
 address: 10 High Street

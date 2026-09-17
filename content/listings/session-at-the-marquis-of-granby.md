@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - waddingham
+- lincolnshire
 county: Lincolnshire
 venue: The Marquis of Granby
 address: High St

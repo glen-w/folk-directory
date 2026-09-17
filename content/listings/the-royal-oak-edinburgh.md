@@ -6,6 +6,8 @@ event_types:
 - folk-club
 locations:
 - scotland
+- edinburgh
+- lothian
 county: Edinburgh
 venue: Royal Oak
 address: 1 Infirmary Street, Edinburgh
@@ -15,5 +17,4 @@ when: Sunday, Every Week
 www: www.royal-oak-folk.com
 status: listed
 ---
-
 The Royal Oak at Royal Oak (Edinburgh) — Sunday, Every Week

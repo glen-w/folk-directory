@@ -1,5 +1,5 @@
 ---
-title: The Kalamazoo Klub
+title: The Kalamazoo Klub · London
 id: 484
 name: The Kalamazoo Klub
 event_types:

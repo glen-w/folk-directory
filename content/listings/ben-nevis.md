@@ -11,11 +11,12 @@ venue: Ben Nevis
 address: ''
 place: Glasgow
 post_code: ''
-when: Very good -but like most plces a bit smokey
+lat: 55.86483
+lng: -4.28514
 www: www.thebennevisbar.com/live-music
 email: bennevisbar@gmail.com
-status: listed
 logo: /images/listings/ben_nevis_logo_1425.png
+status: listed
 ---
 
-Glasgow | Scotland | tel 0141 576 5204 | bennevisbar@gmail.com | @55.86483,-4.28514
+Very good -but like most plces a bit smokey

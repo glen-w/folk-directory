@@ -16,4 +16,4 @@ www: www.woolnetfolk.co.uk
 status: listed
 ---
 
-Woolston and Netley Folk Club , Netley Abbey, Hampshire Meets every Sunday evening with regular guests.
+Woolston and Netley Folk Club, Netley Abbey, Hampshire. Meets every Sunday evening with regular guests.

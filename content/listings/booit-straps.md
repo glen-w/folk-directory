@@ -10,9 +10,9 @@ county: South Yorkshire
 venue: Commercial Hotel
 address: 107 Station Rd, Chapeltown, South Yorkshire
 place: South Yorkshire
-post_code: ''
+post_code: TQ9 5EL
 when: Monday, Every Week
-www: ''
+www: www.facebook.com/groups/144387085754131
 status: listed
 ---
 

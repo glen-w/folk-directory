@@ -13,8 +13,8 @@ place: St Ives
 post_code: ''
 when: September
 www: www.stivesseptemberfestival.co.uk
-status: listed
 logo: /images/listings/st_ives_september_festival_logo_3733.png
+status: listed
 ---
 
 Two weeks of arts and music in September, featuring a wide range of musical genres, usually including folk and acoustic music from some major acts. Arts, literature and film events are also part of the programme. For over 30 years, St Ives Festival has been a key event for those in the Folk, Roots and Acoustic music scene.

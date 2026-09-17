@@ -6,15 +6,17 @@ event_types:
 - folk-club
 locations:
 - almeley
+- herefordshire
 county: Herefordshire
 venue: The Bells Inn
 address: ''
 place: Almeley
 post_code: ''
-when: Almeley Steady Session  almeleysteadysession.wordpress.com
+lat: 52.159
+lng: -2.97592
 www: almeleysteadysession.wordpress.com
-status: listed
 logo: /images/listings/the_bells_inn_logo_1153.png
+status: listed
 ---
 
-Almeley, Herefordshire, England. Tel: 01544 327216. 52.15900, -2.97592
+Almeley Steady Session almeleysteadysession.wordpress.com

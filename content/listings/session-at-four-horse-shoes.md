@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - nursling-southampton
+- hampshire
 county: Hampshire
 venue: Four Horse Shoes
 address: Nursling Street

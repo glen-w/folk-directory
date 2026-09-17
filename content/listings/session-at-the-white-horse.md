@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - northampton
+- northamptonshire
 county: Northamptonshire
 venue: The White Horse
 address: Walgrave Road, Old

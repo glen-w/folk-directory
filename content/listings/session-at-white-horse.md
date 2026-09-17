@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - soudley
+- gloucestershire
 county: Gloucestershire
 venue: White Horse
 address: ''

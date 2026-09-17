@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: www.katiefitzgeralds.co.uk
 status: listed
 ---

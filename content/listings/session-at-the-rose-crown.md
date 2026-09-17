@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - highworth
+- wiltshire
 county: Wiltshire
 venue: The Rose & Crown
 address: The Green

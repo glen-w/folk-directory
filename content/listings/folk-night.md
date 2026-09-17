@@ -6,6 +6,7 @@ event_types:
 - folk-club
 locations:
 - strumpshaw
+- wiltshire
 county: Wiltshire
 venue: The Shoulder of Mutton
 address: Norwich Road, Strumpshaw

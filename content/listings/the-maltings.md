@@ -12,6 +12,8 @@ venue: The Maltings
 address: ''
 place: York
 post_code: ''
+lat: 53.95939
+lng: -1.08803
 when: Monday and Tuesday evenings (three mins from Y
 www: www.maltings.co.uk
 status: listed

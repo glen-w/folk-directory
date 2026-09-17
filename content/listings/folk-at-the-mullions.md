@@ -10,7 +10,7 @@ county: Somerset
 venue: The Mullions
 address: Street, Somerset
 place: Somerset
-post_code: ''
+post_code: SY8 4NE
 when: Monday, Every 2 weeks
 www: ''
 status: listed

@@ -12,7 +12,6 @@ venue: Norden Farm Centre for the Arts
 address: ''
 place: Maidenhead
 post_code: ''
-when: ''
 www: www.nordenfarm.org/?tmpl=events&es_dspl=3&es_cat=13&t_id=0&_sopHoSessId=zLErPfMsMr
 status: listed
 ---

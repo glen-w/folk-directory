@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - southport
+- lancashire
 county: Lancashire
 venue: The Guest House
 address: 14 Union St

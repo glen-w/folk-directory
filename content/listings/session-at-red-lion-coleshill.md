@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - coleshill-near-amersham
+- buckinghamshire
 county: Buckinghamshire
 venue: Red Lion
 address: Village Road

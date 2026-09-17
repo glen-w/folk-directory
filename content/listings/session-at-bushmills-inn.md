@@ -1,11 +1,12 @@
 ---
-title: Session at Bushmills Inn
+title: Bushmills Inn
 id: 426
-name: Session at Bushmills Inn
+name: Bushmills Inn
 event_types:
 - session
 locations:
 - bushmills
+- ireland
 county: Antrim
 venue: Bushmills Inn
 address: Main Street

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - ballymoney
+- ireland
 county: Antrim
 venue: Ma-Kellys
 address: Church Street

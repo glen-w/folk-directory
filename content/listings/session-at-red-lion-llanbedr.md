@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - llanbedr-near-crickowel
+- powys
 county: Powys
 venue: Red Lion
 address: ''

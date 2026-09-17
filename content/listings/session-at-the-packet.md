@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - retford
+- nottinghamshire
 county: Nottinghamshire
 venue: The Packet
 address: Grove Street

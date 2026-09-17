@@ -6,6 +6,7 @@ event_types:
 - folk-club
 locations:
 - kelso
+- scottish-borders
 county: Scottish Borders
 venue: ''
 address: ''

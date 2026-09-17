@@ -7,14 +7,13 @@ event_types:
 locations:
 - dartford
 - the-south-east
-county: Kent
+county: The South East
 venue: Mick Jagger Centre
 address: ''
 place: Dartford
 post_code: ''
-when: This is a great session for everyone.  It has a great format, everyone sits
-  in a circle and we go around and take turns with a song or short set of tunes and
-  all are encouraged to join in.    Originally started from a folk workshop, the sam
+lat: 51.4416
+lng: 0.19635
 www: www.themickjaggercentre.com
 status: listed
 ---

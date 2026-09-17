@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - fleetwood
+- lancashire
 county: Lancashire
 venue: Strawberry Gardens
 address: Poulton Road

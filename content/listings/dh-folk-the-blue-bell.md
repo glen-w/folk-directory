@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Folk The Blue Bell at The Blue Bell (Earlswood) — Tuesday, 4th in Month
+DH Folk The Blue Bell at The Blue Bell (Earlswood) — Tuesday, 4th in Month

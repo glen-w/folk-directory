@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - whittlesea
+- cambridgeshire
 county: Cambridgeshire
 venue: ''
 address: ''

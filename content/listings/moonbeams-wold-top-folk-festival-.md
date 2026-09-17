@@ -15,9 +15,9 @@ post_code: YO25 3HS
 when: July
 www: woldtopbrewery.co.uk/moonbeams
 email: moonbeamsacoustic@hotmail.com
+logo: /images/listings/moonbeams_wold_top_folk_festival_logo_524.png
 status: listed
 edited: 24/01/2012
-logo: /images/listings/moonbeams_wold_top_folk_festival_logo_524.png
 ---
 
 Moonbeams Summer Festival at The Wold Top Brewery.. 

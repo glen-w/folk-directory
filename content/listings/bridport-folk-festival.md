@@ -14,8 +14,8 @@ post_code: ''
 when: July
 www: bridportfolkfestival.com
 email: info@bridportfolkfestival.com
-status: listed
 logo: /images/listings/bridport_folk_festival_logo_3697.png
+status: listed
 ---
 
 The festival supports several charities. A fair number of Morris-related sides, workshops, music sessions, headline gigs, ceilidhs and barn dances, performances and storytelling, artisans, a children's area and more are already booked.

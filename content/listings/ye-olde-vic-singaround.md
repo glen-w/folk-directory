@@ -16,4 +16,4 @@ www: yeoldevicmusic.uk
 status: listed
 ---
 
-Ye Olde Vic Singaround at Ye Olde Vic (1 Chatham St Edgeley Stockport) — Monday, 2nd in Month
+Ye Olde Vic Singaround at Ye Olde Vic, 1 Chatham St, Edgeley, Stockport — Monday, 2nd in month.

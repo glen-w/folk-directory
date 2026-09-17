@@ -1,0 +1,20 @@
+---
+title: The Park Bar
+id: 4921
+name: The Park Bar
+event_types:
+- folk-club
+locations:
+- glasgow
+county: Glasgow
+venue: The Park Bar
+address: ''
+place: Glasgow
+post_code: ''
+lat: 55.86578
+lng: -4.28711
+www: www.parkbarglasgow.com
+status: listed
+---
+
+This is a great wee session if your into playing tunes. Myself and the guitarist from my band are there every week to make sure its happening, get all sorts of great musicians along. Its really becoming a fantastic session.

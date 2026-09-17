@@ -14,8 +14,8 @@ place: Keighley.
 post_code: ''
 when: Friday, Every Week
 www: www.baccapipes.org.uk
-status: listed
 logo: /images/listings/baccapipes_folk_club_logo_755.png
+status: listed
 ---
 
 BACCApipes Folk Club is held at Riddlesden Memorial Institute, Keighley, every Friday.

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - hebden-bridge
+- west-yorkshire
 county: West Yorkshire
 venue: Fox and Goose
 address: 9 Heptonstall road

@@ -8,9 +8,9 @@ locations:
 - scotland
 county: South Lanarkshire
 venue: Church Hall
-address: St. Ninian's Church Hall, Stonehouse, South Lanarkshire.
-place: South Lanarkshire.
-post_code: ''
+address: St. Ninian's Church Hall, Stonehouse, South Lanarkshire
+place: South Lanarkshire
+post_code: B2 5SN
 when: Friday, 2nd & 4th
 www: ''
 status: listed

@@ -14,9 +14,9 @@ post_code: CO12
 when: October
 www: harwichshantyfestival.co.uk
 email: info@harwichshantyfestival.co.uk
+logo: /images/listings/harwich_international_sea_shanty_festival_logo_511.png
 status: listed
 edited: 24/01/2012
-logo: /images/listings/harwich_international_sea_shanty_festival_logo_511.png
 ---
 
 A full weekend of shanties, sea songs and other events at various venues throughout Harwich. Ticketed concerts and free street entertainment. Thames barge cruises, workshops, maritime crafts, Napoleonic displays, pub sessions and more.

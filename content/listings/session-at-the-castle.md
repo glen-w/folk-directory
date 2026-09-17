@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - castle-bytham
+- lincolnshire
 county: Lincolnshire
 venue: The Castle
 address: High Street

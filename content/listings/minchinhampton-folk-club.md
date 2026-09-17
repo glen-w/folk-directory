@@ -12,7 +12,7 @@ address: 11 High Street Minchinhampton Stroud Glos
 place: 11 High Street Minchinhampton Stroud Glos
 post_code: GL6 9BN
 when: Thursday, Every Week
-www: ''
+www: www.facebook.com/profile.php?id=100072098543669
 status: listed
 ---
 

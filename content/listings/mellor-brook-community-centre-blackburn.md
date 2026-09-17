@@ -12,7 +12,6 @@ venue: ''
 address: ''
 place: Blackburn
 post_code: ''
-when: ''
 www: www.mellorbrook.org/index.php/events
 status: listed
 ---

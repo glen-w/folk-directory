@@ -26,6 +26,14 @@
     return `${base.replace(/[.,;:!?-]+$/u, "")}…`;
   }
 
+  const TYPE_COLORS = {
+    "folk-club": "#2e7d5a",
+    session: "#3d6e8c",
+    festival: "#8a5a2b",
+    dance: "#6b5080",
+  };
+  const MIXED_TYPE = "mixed";
+
   function createMarkerIcon(color) {
     const size = 25;
     const html = `<div style="background-color:${color};width:${size}px;height:${size}px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);border:3px solid white;box-shadow:0 2px 4px rgba(0,0,0,0.3);"></div>`;
@@ -34,6 +42,50 @@
       className: "custom-marker",
       iconSize: [size, size],
       iconAnchor: [size / 2, size],
+    });
+  }
+
+  function clusterDensity(count) {
+    if (count < 10) return "small";
+    if (count < 100) return "medium";
+    return "large";
+  }
+
+  function dominantClusterType(markers) {
+    const counts = Object.create(null);
+    markers.forEach((marker) => {
+      const key = marker.options && marker.options.eventType;
+      if (!key || !TYPE_COLORS[key]) return;
+      counts[key] = (counts[key] || 0) + 1;
+    });
+    let best = MIXED_TYPE;
+    let bestCount = 0;
+    let tied = false;
+    Object.keys(counts).forEach((key) => {
+      const n = counts[key];
+      if (n > bestCount) {
+        best = key;
+        bestCount = n;
+        tied = false;
+      } else if (n === bestCount && n > 0) {
+        tied = true;
+      }
+    });
+    return tied || bestCount === 0 ? MIXED_TYPE : best;
+  }
+
+  function createClusterIcon(cluster, activeType) {
+    const count = cluster.getChildCount();
+    const density = clusterDensity(count);
+    const type =
+      activeType && TYPE_COLORS[activeType]
+        ? activeType
+        : dominantClusterType(cluster.getAllChildMarkers());
+    const size = density === "large" ? 50 : density === "medium" ? 44 : 40;
+    return L.divIcon({
+      html: `<div><span>${count}</span></div>`,
+      className: `marker-cluster marker-cluster-${density} marker-cluster--${type}`,
+      iconSize: L.point(size, size),
     });
   }
 
@@ -97,8 +149,8 @@
     const status = document.getElementById("folk-map-status");
     if (!el || !window.L) return;
 
-    // Rough UK envelope (incl. Shetland / Scilly); blocks panning abroad.
-    const ukBounds = L.latLngBounds([49.5, -8.8], [61.2, 2.1]);
+    // UK & Ireland envelope (incl. Shetland / Scilly / west Kerry).
+    const ukBounds = L.latLngBounds([49.5, -11.0], [61.2, 2.1]);
     const map = L.map(el, {
       maxBounds: ukBounds.pad(0.08),
       maxBoundsViscosity: 1.0,
@@ -110,21 +162,22 @@
       maxZoom: 18,
     }).addTo(map);
 
-    const listedIcon = createMarkerIcon("#2e7d5a");
+    const listedIcon = createMarkerIcon(TYPE_COLORS["folk-club"]);
     const defunctIcon = createMarkerIcon("#8a8a8a");
-    const typeIcons = {
-      "folk-club": createMarkerIcon("#2e7d5a"),
-      session: createMarkerIcon("#3d6e8c"),
-      festival: createMarkerIcon("#8a5a2b"),
-      dance: createMarkerIcon("#6b5080"),
-    };
+    const typeIcons = Object.fromEntries(
+      Object.entries(TYPE_COLORS).map(([key, color]) => [key, createMarkerIcon(color)])
+    );
 
+    let activeType = "";
     const cluster = L.markerClusterGroup({
       chunkedLoading: true,
       spiderfyOnMaxZoom: true,
       showCoverageOnHover: false,
       zoomToBoundsOnClick: true,
       maxClusterRadius: 50,
+      iconCreateFunction(group) {
+        return createClusterIcon(group, activeType);
+      },
     });
     map.addLayer(cluster);
 
@@ -141,6 +194,7 @@
           : typeIcons[typeKey] || listedIcon;
         const marker = L.marker([loc.coordinates.lat, loc.coordinates.lng], {
           icon,
+          eventType: TYPE_COLORS[typeKey] ? typeKey : MIXED_TYPE,
         });
         marker.bindPopup(buildPopup(loc));
         return { marker, typeKey };
@@ -156,6 +210,7 @@
       }
 
       function applyFilter(type) {
+        activeType = type || "";
         cluster.clearLayers();
         const visible = type
           ? entries.filter((entry) => entry.typeKey === type)

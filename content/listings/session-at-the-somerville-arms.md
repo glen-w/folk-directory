@@ -17,4 +17,3 @@ www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
 ---
-Leamington Spa, Warwickshire, England. Coordinates: 52.29356, -1.52548.

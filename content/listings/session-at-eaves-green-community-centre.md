@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - chorley
+- lancashire
 county: Lancashire
 venue: Eaves Green Community Centre
 address: Lower Burgh Way

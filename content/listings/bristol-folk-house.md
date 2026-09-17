@@ -14,6 +14,6 @@ post_code: ''
 when: March
 www: www.bristolfolkhouse.co.uk/live-music
 email: admin@bristolfolkhouse.co.uk
-status: listed
 logo: /images/listings/bristol_folk_house_logo_1011.png
+status: listed
 ---

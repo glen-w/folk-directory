@@ -11,10 +11,9 @@ venue: ''
 address: ''
 place: Four Lanes, Redruth
 post_code: ''
-when: ''
 www: www.dreamersfolk.co.uk
-status: listed
 logo: /images/listings/dreamers_folk_logo_728.png
+status: listed
 ---
 
 Dreamers Folk, Four Lanes, Cornwall

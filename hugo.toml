@@ -4,8 +4,8 @@ title = 'Folk Directory'
 theme = 'PaperMod'
 
 [params]
-  description = "A directory of folk music events across the UK — folk clubs, sessions, festivals and more."
-  keywords = ["folk music", "folk clubs", "folk festivals", "sessions", "UK folk", "traditional music"]
+  description = "A directory of folk music events across the UK and Ireland — folk clubs, sessions, festivals and more."
+  keywords = ["folk music", "folk clubs", "folk festivals", "sessions", "UK folk", "Irish folk", "traditional music"]
   author = "Folk Directory"
   images = ["/images/logo/folk-directory-og.png"]
 
@@ -43,6 +43,9 @@ theme = 'PaperMod'
   [params.submit]
     email = "glen.w.wright@gmail.com"
     githubNewIssue = "https://github.com/glen-w/folk-directory/issues/new?template=listing.yml"
+
+  [params.claim]
+    email = "glen.w.wright@gmail.com"
 
   [params.profileMode]
     enabled = false

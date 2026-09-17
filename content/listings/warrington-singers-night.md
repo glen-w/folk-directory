@@ -10,10 +10,10 @@ county: Cheshire
 venue: The Bulls Head
 address: Church Street, Warrington
 place: Warrington
-post_code: ''
+post_code: HG4 2AB
 when: Sunday, Every Week
 www: ''
 status: listed
 ---
 
-Warrington Singers' Night at The Bulls Head (Warrington) — Sunday, Every Week
+Warrington Singers' Night at The Bulls Head (Warrington), Sunday, every week.

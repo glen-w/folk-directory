@@ -14,6 +14,6 @@ post_code: NG24 9DZ
 when: June
 www: southwellfolkfestival.org.uk
 email: info@southwellfolkfestival.org.uk
-status: listed
 logo: /images/listings/the_gate_to_southwell_folk_festival_logo_216.png
+status: listed
 ---

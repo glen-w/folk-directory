@@ -13,8 +13,8 @@ place: Bamford
 post_code: S33 0DY
 when: Sunday, 1st in Month
 www: anglers.rest
-status: listed
 logo: /images/listings/anglers_folk_night_logo_859.png
+status: listed
 ---
 
 Anglers Folk Night at Anglers Rest, Bamford (Bamford) — Sunday, 1st in Month

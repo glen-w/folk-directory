@@ -14,6 +14,6 @@ post_code: ''
 when: August
 www: whitbyfolk.co.uk
 email: tickets@whitbyfolk.co.uk
-status: listed
 logo: /images/listings/whitby_folk_week_logo_285.png
+status: listed
 ---

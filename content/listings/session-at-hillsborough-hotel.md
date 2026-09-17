@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - sheffield
+- south-yorkshire
 county: South Yorkshire
 venue: Hillsborough Hotel
 address: Langsett Road

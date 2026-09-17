@@ -1,5 +1,5 @@
 ---
-title: Maidenhead Folk Club
+title: Maidenhead Folk Club · Every Thursday
 id: 48
 name: Maidenhead Folk Club
 event_types:

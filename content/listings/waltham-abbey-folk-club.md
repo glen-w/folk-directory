@@ -18,12 +18,12 @@ status: listed
 edited: 09/02/2012
 ---
 
-Waltham Abbey is a historic and beautiful town in the county of Essex at the very far North of London.
+Waltham Abbey is a historic and beautiful town in the county of Essex at the very far north of London.
 
-We're a small and friendly club who run singarounds most weeks with a special guest evening about once every month.
+The club is small and friendly, running singarounds most weeks with a special guest evening about once a month.
 
-On singaround evenings everybody is welcome to chip in with a song, tune, poem, monologue or anything else you'd like to share with an appreciative audience - or you can just watch the performances and join in with the choruses if you prefer. We welcome traditional, contemporary and original material. The bar is very reasonably priced and serves excellent local ale.
+On singaround evenings, everybody is welcome to chip in with a song, tune, poem, monologue, or anything else to share with an appreciative audience, or simply watch the performances and join in with the choruses. The club welcomes traditional, contemporary, and original material. The bar is very reasonably priced and serves excellent local ale.
 
-Entrance is only £2 on a singaround or feature  evening rising to £5 on guest nights.
+Entrance is £2 on a singaround or feature evening, rising to £5 on guest nights.
 
-Waltham Abbey Folk Club Is a 'no Smoking' Club.
+Waltham Abbey Folk Club is a no-smoking club.

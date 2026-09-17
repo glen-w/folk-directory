@@ -14,8 +14,8 @@ post_code: ''
 when: June
 www: tangledrootsfestival.com
 email: info@tangledrootsfestival.com
-status: listed
 logo: /images/listings/tangled_roots_logo_3657.png
+status: listed
 ---
 
 Acoustic, roots, folk, contemporary and traditional music from around the world. Further acts and details to be announced, including singing, dancing and yoga workshops, and a Sunday lunch acoustic café.

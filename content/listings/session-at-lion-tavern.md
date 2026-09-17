@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - liverpool
+- merseyside
 county: Merseyside
 venue: Lion Tavern
 address: 67 Moorfields

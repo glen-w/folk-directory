@@ -1,0 +1,108 @@
+{{- define "main" }}
+{{- $email := site.Params.claim.email | default site.Params.submit.email | default "glen.w.wright@gmail.com" -}}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+<article class="post-single">
+  <div class="post-content listing-submit listing-claim">
+    <section class="listing-claim-intro">
+      <h2>Is this your event?</h2>
+      <p>Claim this listing so future organiser tools can be connected to the right event.</p>
+    </section>
+
+    <section class="listing-claim-benefits">
+      <h2>Claim your listing</h2>
+      <p class="post-meta">Free</p>
+      <ul>
+        <li>Correct your venue, address, and website</li>
+        <li>Update when it runs</li>
+        <li>Add your session, club, or festival schedule detail</li>
+        <li>Tell us what locals should know about the event</li>
+        <li>Flag stale, wrong, or missing details</li>
+      </ul>
+      <p>Richer organiser tools will come later. For now, the useful thing is getting the basics right and giving good events a better record.</p>
+    </section>
+
+    <section class="listing-claim-next">
+      <h2>What happens next</h2>
+      <ol>
+        <li>Start from the event’s own Folk Directory page so the claim is matched to the right listing.</li>
+        <li>Tell us how you are connected to the event and provide a credible verification route.</li>
+        <li>Folk Directory reviews the claim before granting any access or changing the public record.</li>
+      </ol>
+    </section>
+
+    <p class="listing-claim-alt post-meta">
+      Not the organiser?
+      <a href="{{ "/submit/" | relURL }}">Suggest an update instead</a>.
+    </p>
+
+    <form id="listing-claim-form" class="listing-submit-form" novalidate
+      data-email="{{ $email }}">
+      <label class="listing-submit-field">
+        <span>Listing name</span>
+        <input type="text" name="name" required maxlength="120" autocomplete="organization">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Listing id</span>
+        <input type="text" name="listing_id" required maxlength="80" autocomplete="off">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Listing URL</span>
+        <input type="url" name="listing_url" maxlength="300" placeholder="https://folkdirectory.co.uk/listings/…">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Your name</span>
+        <input type="text" name="claimant_name" maxlength="120" autocomplete="name">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Your email</span>
+        <input type="email" name="claimant_email" required autocomplete="email" maxlength="120">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>How you’re connected</span>
+        <textarea name="connection" rows="3" required maxlength="1000"
+          placeholder="e.g. organiser, committee member, venue contact"></textarea>
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Verification route</span>
+        <textarea name="verification" rows="3" required maxlength="1000"
+          placeholder="e.g. website contact page, public Facebook admin, email from the listing domain"></textarea>
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Anything to fix now</span>
+        <textarea name="notes" rows="3" maxlength="2000"
+          placeholder="Optional — stale details, corrections, or context"></textarea>
+      </label>
+
+      <p class="listing-submit-confirm post-meta">
+        Submitting a claim does not automatically edit a listing or guarantee access.
+        Your contact details and verification note are used to review the claim and reply about it;
+        they are not shown on the public event page.
+      </p>
+
+      <div class="listing-submit-actions">
+        <button type="submit" class="listing-submit-primary">
+          Send claim by email
+        </button>
+      </div>
+
+      <p id="listing-claim-status" class="listing-submit-status post-meta" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</article>
+
+<script src="{{ "/js/listing-claim.js" | relURL }}" defer></script>
+{{- end }}

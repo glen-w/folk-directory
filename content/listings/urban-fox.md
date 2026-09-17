@@ -17,4 +17,4 @@ email: info@urbanfoxfolk.com
 status: listed
 ---
 
-Recently established monthly(ish) folk night in the heart of Birmingham. Aiming for a variety of local acts.
+Recently established roughly monthly folk night in the heart of Birmingham, featuring a variety of local acts.

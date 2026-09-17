@@ -14,8 +14,8 @@ post_code: ''
 when: Varied, Variable
 www: www.grayshottfolkclub.co.uk
 email: grayshottfolkclub@btinternet.com
-status: listed
 logo: /images/listings/grayshott_folk_club_logo_707.png
+status: listed
 ---
 
 Grayshott Folk Club meets at Grashott Village Hall and other venues in Surrey. The programme is varied and variable.

@@ -16,4 +16,5 @@ www: www.bagpipesociety.org.uk/blowout/about
 email: info@bagpipesociety.org.uk
 status: listed
 ---
+
 A festival for fans of piping. With concerts, dances and workshops, manufacturers, and sessions. Everything the bagpipe fan would want, in one place.

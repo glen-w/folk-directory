@@ -10,10 +10,10 @@ county: Warwickshire
 venue: The Harvesters Inn
 address: Church Road, Long Itchington, Southam
 place: Southam
-post_code: ''
+post_code: MK11 1AQ
 when: Sunday, 1st in Month
 www: ''
 status: listed
 ---
 
-Willow & Tool's Music Parlour at The Harvesters Inn (Southam) — Sunday, 1st in Month
+Willow & Tool's Music Parlour at The Harvesters Inn, Southam — Sunday, first of the month.

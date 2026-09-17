@@ -7,6 +7,7 @@ event_types:
 locations:
 - kirkcaldy
 - scotland
+- fife
 county: Fife
 venue: Polish Ex-Servicemen's Club
 address: Bennochy House, Bennochy Court, Kirkcaldy, United Kingdom
@@ -14,8 +15,7 @@ place: Kirkcaldy
 post_code: ''
 when: Thursday, Every 2 weeks
 www: kirkcaldyacousticmusicclub.co.uk
-status: listed
 logo: /images/listings/kirkaldy_acoustic_music_club_logo_782.png
+status: listed
 ---
-
 Kirkaldy Acoustic Music Club at Polish Ex-Servicemen's Club (Kirkcaldy) — Thursday, Every 2 weeks

@@ -14,6 +14,6 @@ post_code: ''
 when: August
 www: cornwallfolkfestival.com
 email: festival@hobgoblinwadebridge.co.uk
-status: listed
 logo: /images/listings/cornwall_folk_festival_logo_288.png
+status: listed
 ---

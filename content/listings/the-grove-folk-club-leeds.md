@@ -8,7 +8,7 @@ locations:
 - leeds
 - england
 county: West Yorkshire
-venue: ''
+venue: Halsway Manor
 address: ''
 place: Leeds
 post_code: ''

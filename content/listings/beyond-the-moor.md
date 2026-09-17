@@ -6,6 +6,7 @@ event_types:
 - folk-club
 locations:
 - gosforth-civic-theatre
+- tyne-and-wear
 county: Tyne and Wear
 venue: ''
 address: ''

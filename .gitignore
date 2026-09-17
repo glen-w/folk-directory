@@ -10,12 +10,16 @@
 .vscode/
 .cursor/
 
-# Secrets
+# Secrets (API keys, Tailscale SearXNG URL overrides, etc.)
 .env
 .env.*
 !.env.example
 
-# Local tooling (not published; Pages only needs Hugo content + theme)
+# ---------------------------------------------------------------------------
+# Local Track 2 tooling (not published to GitHub Pages)
+# Pages only needs Hugo content + theme. Keep scrape/assess/ledger private.
+# Canonical ops docs live in ingest/README.md on the maintainer machine.
+# ---------------------------------------------------------------------------
 prompts/
 ingest/
 scripts/
@@ -30,9 +34,17 @@ migrate_descriptions.py
 # Private / scrape / mail-merge exports (contacts, dumps, local CSV)
 *-mail-merge.csv
 listing-contacts*.csv
+
+# Belt-and-braces: never commit scrape caches, ledgers, or assess dumps
+# even if a parent directory exception is added later.
 *.sqlite
 *.sqlite3
 *.jsonl
+**/geocode-cache.json
+**/geocode_pending.json
+**/county-lookup-cache.json
+ingest/cache/
+ingest/out/
 
 # Python
 __pycache__/

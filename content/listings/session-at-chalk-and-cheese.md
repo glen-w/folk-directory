@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - maiden-newton
+- dorset
 county: Dorset
 venue: Chalk and Cheese
 address: 53 Dorchester Road

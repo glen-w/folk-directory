@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - glasbury
+- powys
 county: Powys
 venue: The Harp Inn
 address: Glasbury-on-Wye

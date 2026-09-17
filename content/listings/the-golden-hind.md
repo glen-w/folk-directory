@@ -14,8 +14,8 @@ post_code: CB4 1SP
 when: Fridays
 www: cambridgefolkclub.org
 email: inquiries@cambridgefolkclub.org
-status: listed
 logo: /images/listings/the_golden_hind_logo_72.png
+status: listed
 ---
 
 The Cambridge Folk Club is a live music club, embracing all styles of acoustic and folk music. Our performers are local, national and international musicians who are creative, talented and original in their performance.

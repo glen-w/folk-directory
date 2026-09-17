@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - alcester
+- warwickshire
 county: Warwickshire
 venue: The Hollybush
 address: Henley Street

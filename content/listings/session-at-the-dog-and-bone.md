@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - lincoln
+- lincolnshire
 county: Lincolnshire
 venue: The Dog and Bone
 address: John St

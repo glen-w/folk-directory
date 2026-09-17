@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: www.northshropshirefolk.com
 status: listed
 ---

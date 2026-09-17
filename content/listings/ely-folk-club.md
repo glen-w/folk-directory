@@ -14,8 +14,8 @@ place: Cambs
 post_code: CB6 3XD
 when: Wednesday, Other
 www: www.elyfolkclub.co.uk
-status: listed
 logo: /images/listings/ely_folk_club_logo_654.png
+status: listed
 ---
 
 Ely Folk Club at village hall (Cambs) — Wednesday, Other

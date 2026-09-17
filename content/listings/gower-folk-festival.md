@@ -14,6 +14,6 @@ post_code: Gower
 when: June
 www: www.gowerfolkfestival.co.uk
 email: contact@gowerfolkfestival.co.uk
-status: listed
 logo: /images/listings/gower_folk_festival_logo_218.png
+status: listed
 ---

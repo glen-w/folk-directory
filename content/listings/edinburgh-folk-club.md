@@ -13,8 +13,8 @@ place: Edinburgh
 post_code: EH7 5AB
 when: Wednesday, Every Week
 www: efc1973.com
-status: listed
 logo: /images/listings/edinburgh_folk_club_logo_783.png
+status: listed
 ---
 
 Edinburgh Folk Club at Ukrainian Community Centre (Edinburgh) — Wednesday, Every Week

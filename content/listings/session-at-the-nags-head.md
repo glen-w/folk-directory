@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - walthamstow
+- greater-london
 county: Greater London
 venue: The Nags Head
 address: Orford Road

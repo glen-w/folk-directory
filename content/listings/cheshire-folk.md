@@ -13,8 +13,8 @@ place: Cheshire
 post_code: ''
 when: Sunday, 1st in Month
 www: www.cheshirefolk.com
-status: listed
 logo: /images/listings/cheshire_folk_logo_820.png
+status: listed
 ---
 
 Cheshire Folk is held at the Boars Head Hotel, Cheshire, on the first Sunday of the month.

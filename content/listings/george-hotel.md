@@ -1,22 +1,20 @@
 ---
 title: George Hotel
-id: 3588
+id: 3903
 name: George Hotel
 event_types:
 - folk-club
 locations:
-- ashford
-- the-south-west
+- south-molton
 county: Devon
 venue: George Hotel
 address: ''
-place: Ashford
+place: South Molton
 post_code: ''
 when: Escapees from Ashford Folk have started playing here on most Thursday evenings
   from about 9:30 pm
 www: www.georgehotelsouthmolton.co.uk
-status: listed
 logo: /images/listings/george_hotel_logo_3588.png
+status: listed
 ---
-
-The George Hotel , south Molton, Devon Regular concerts.
+The George Hotel, South Molton, Devon. Regular concerts.

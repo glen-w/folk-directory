@@ -1,11 +1,12 @@
 ---
-title: Session at Springhill Bar
+title: Springhill Bar
 id: 427
-name: Session at Springhill Bar
+name: Springhill Bar
 event_types:
 - session
 locations:
 - portrush
+- ireland
 county: Antrim
 venue: Springhill Bar
 address: Causeway Street

@@ -12,7 +12,7 @@ address: St Wilfrid's Community Centre,Trinity Lane, Ripon
 place: Ripon
 post_code: HG4 2AB
 when: Varied, 2nd & Last
-www: ''
+www: instagram.com/gatheringsouth
 status: listed
 ---
 

@@ -14,8 +14,8 @@ post_code: SE22
 when: Various
 www: thegooseisout.com
 email: sue@thegooseisout.com
-status: listed
 logo: /images/listings/the_goose_is_out_logo_449.png
+status: listed
 ---
 
 If you don't already know us, we run folk events at three different venues just down the road from Goose Green and in or near East Dulwich, London SE22.

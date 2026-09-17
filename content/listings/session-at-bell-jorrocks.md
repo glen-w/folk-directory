@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - frittenden
+- kent
 county: Kent
 venue: Bell & Jorrocks
 address: Biddenden Road

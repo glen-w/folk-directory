@@ -11,7 +11,6 @@ venue: ''
 address: ''
 place: London
 post_code: ''
-when: ''
 www: www.folklondon.co.uk
 status: listed
 ---

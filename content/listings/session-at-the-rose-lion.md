@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - bromyard
+- herefordshire
 county: Herefordshire
 venue: The Rose & Lion
 address: New Road

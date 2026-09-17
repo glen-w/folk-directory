@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - stromness
+- orkney
 county: Orkney
 venue: ''
 address: ''

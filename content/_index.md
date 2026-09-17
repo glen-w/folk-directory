@@ -4,13 +4,13 @@ date: 2024-06-10
 draft: false
 ---
 
-The Folk Directory is a directory of regular folk music events in the UK: folk clubs, sessions, singarounds, dances and folk festivals.
+The Folk Directory is a directory of regular folk music events in the UK and Ireland: folk clubs, sessions, singarounds, dances and folk festivals.
 
 ## What We Offer
 
 - **Folk Clubs** — regular weekly and monthly folk music venues
 - **Sessions** — informal music sessions and singarounds
-- **Festivals** — annual folk music festivals across the UK
+- **Festivals** — annual folk music festivals across the UK and Ireland
 - **Dances** — ceilidhs and traditional dance events
 
 ## Explore

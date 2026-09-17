@@ -13,9 +13,9 @@ place: Campbeltown
 post_code: PA28 6AZ
 when: August
 www: mokfest.com
+logo: /images/listings/mull_of_kintyre_music_festival_logo_547.png
 status: listed
 edited: 03/02/2012
-logo: /images/listings/mull_of_kintyre_music_festival_logo_547.png
 ---
 
 The Mull of Kintyre Music Festival or MOK Fest as it is affectionately\

@@ -14,9 +14,9 @@ post_code: ''
 when: October
 www: blazininbeauly.com
 email: info@blazininbeauly.com
+logo: /images/listings/blazin_in_beauly_logo_576.png
 status: listed
 edited: 21/08/2012
-logo: /images/listings/blazin_in_beauly_logo_576.png
 ---
 
 Community Project of the Year 2011 / Event of the Year 2005 (MG Alba Scots Trad Music Awards)

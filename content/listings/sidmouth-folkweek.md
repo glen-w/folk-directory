@@ -14,6 +14,6 @@ post_code: ''
 when: July / August
 www: sidmouthfolkweek.co.uk
 email: info@sidmouthfolkweek.co.uk
-status: listed
 logo: /images/listings/sidmouth_folkweek_logo_276.png
+status: listed
 ---

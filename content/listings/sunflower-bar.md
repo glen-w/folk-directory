@@ -8,11 +8,11 @@ locations:
 - belfast
 - ireland
 county: Antrim
-venue: ''
+venue: Sunflower Public House / Sunflower Bar, Union Street, Belfast
 address: ''
 place: Belfast
 post_code: ''
-when: ''
+when: every Thursday at 8pm
 www: www.sunflowerbelfast.com/sunflower-live-music
 status: listed
 ---

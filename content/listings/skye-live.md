@@ -7,7 +7,7 @@ event_types:
 locations:
 - portree
 - isle-of-skye
-county: Highland
+county: Isle Of Skye
 venue: ''
 address: ''
 place: Portree

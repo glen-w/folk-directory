@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - bursledon
+- hampshire
 county: Hampshire
 venue: ''
 address: ''

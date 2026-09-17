@@ -5,13 +5,12 @@ name: Harberton Folk
 event_types:
 - folk-club
 locations:
-- the-south-west
+- south-devon
 county: Devon
 venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: www.harbertonfolk.co.uk
 status: listed
 ---

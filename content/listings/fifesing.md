@@ -6,8 +6,9 @@ event_types:
 - folk-club
 locations:
 - falkland
+- fife
 county: Fife
-venue: ''
+venue: The Taybank
 address: ''
 place: Falkland
 post_code: ''

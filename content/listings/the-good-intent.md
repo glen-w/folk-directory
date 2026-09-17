@@ -6,7 +6,8 @@ event_types:
 - session
 locations:
 - hampshire
-county: Kent
+- kent
+county: Hampshire
 venue: The Rising Sun pub
 address: Delce Road, Rochester, Kent
 place: Kent

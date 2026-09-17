@@ -14,8 +14,8 @@ post_code: ''
 when: July
 www: www.fromefestival.co.uk
 email: office@fromefestival.co.uk
-status: listed
 logo: /images/listings/frome_festival_logo_3679.png
+status: listed
 ---
 
 A general arts festival, with a variety of types of events, including some folk music. (There's often a separate Folk Festival in February.)

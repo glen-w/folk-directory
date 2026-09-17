@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - great-torrington
+- devon
 county: Devon
 venue: Royal Exchange
 address: 86 New Street

@@ -12,9 +12,8 @@ venue: The Mount Pleasant
 address: ''
 place: Cwmbran
 post_code: ''
-when: Landlord and landlady very welcoming! Good venue for session, quiet on a Friday
-  eve so plenty of room and good accoustics. This session is 2nd Friday of the month
-  only.     It coincides with local Welsh Folk Dance team practice and they dri
+lat: 51.64751
+lng: -3.02358
 www: torgwen.co.uk
 email: torgwen@torgwen.co.uk
 status: listed

@@ -1,5 +1,5 @@
 ---
-title: Live music @ The Kirkgate Centre
+title: Live music @ The Kirkgate Centre · Varied
 id: 808
 name: Live music @ The Kirkgate Centre
 event_types:

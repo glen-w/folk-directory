@@ -12,6 +12,8 @@ venue: The Black Bull
 address: ''
 place: Boroughbridge
 post_code: ''
+lat: 54.09401
+lng: -1.3951
 when: Friday 13th Folk Club meets every Friday night
 www: www.harrogate.co.uk/friday13
 email: janeblack6@btinternet.com

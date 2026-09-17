@@ -6,16 +6,19 @@ event_types:
 - folk-club
 locations:
 - rostrevor
+- ireland
+- down
 county: Down
 venue: Crawford's Bar
 address: ''
 place: Rostrevor
 post_code: ''
+lat: 54.11678
+lng: -6.07322
 when: Open session weekly on Sundays from 4pm until 6pm with Danny McGreevy and friends.
-  All welcome. Play slowly if you need to.
 www: www.therostrevorinn.com
 email: therostrevorinn@gmail.com
 status: listed
 ---
 
-Rostrevor | Down | Northern Ireland | tel 028 417 39911 | therostrevorinn@gmail.com | @54.11678,-6.07322
+All welcome. Play slowly if you need to.

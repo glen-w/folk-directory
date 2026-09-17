@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - wilmcote-near-stratford-upon-avon
+- warwickshire
 county: Warwickshire
 venue: The Mary Arden Inn
 address: ''

@@ -13,8 +13,8 @@ place: Broughton-in-Furness Cumbria
 post_code: LA20 6DX
 when: Saturday, Variable
 www: www.musicinulpha.org.uk
-status: listed
 logo: /images/listings/music_in_ulpha_logo_901.png
+status: listed
 ---
 
 Music in Ulpha at The Browfoot Room, Ulpha Village Hall (Broughton-in-Furness Cumbria) — Saturday, Variable

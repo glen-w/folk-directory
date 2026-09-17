@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - billinge-wigan
+- lancashire
 county: Lancashire
 venue: The Mason Arms
 address: 99 Carr Mill Rd

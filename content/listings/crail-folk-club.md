@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - scotland
-county: Fife
+county: Scotland
 venue: ''
 address: ''
 place: Crail

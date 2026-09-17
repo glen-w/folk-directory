@@ -11,10 +11,9 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: www.efdss.org
-status: listed
 logo: /images/listings/young_banker_logo_1004.png
+status: listed
 ---
 
-Cecil Sharp House The home of the English Folk Dance and Song Society and hosts several folk/Cajun/Bluegrass etc events
+Cecil Sharp House, the home of the English Folk Dance and Song Society, hosts several folk, Cajun, bluegrass, etc. events.

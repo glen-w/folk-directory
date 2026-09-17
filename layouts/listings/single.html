@@ -3,7 +3,14 @@
 {{- $venue := "" -}}
 {{- with .Params.venue }}{{ $venue = strings.TrimRight ", " . }}{{ end -}}
 {{- $address := "" -}}
-{{- with .Params.address }}{{ $address = strings.TrimRight ", " . }}{{ end -}}
+{{- with .Params.address }}
+  {{- $rawAddr := strings.TrimRight ", " . -}}
+  {{- /* Coord pins are never shown as street address. */ -}}
+  {{- if not (findRE `^@\s*[+-]?\d{1,2}\.\d{3,}\s*,\s*[+-]?\d{1,3}\.\d{3,}\s*$` $rawAddr 1) -}}
+    {{- $address = $rawAddr -}}
+  {{- end -}}
+{{- end -}}
+{{- $hasPin := or (and .Params.lat .Params.lng) (findRE `^@\s*[+-]?\d{1,2}\.\d{3,}\s*,\s*[+-]?\d{1,3}\.\d{3,}\s*$` (.Params.address | default "") 1) -}}
 {{- $mapsParts := slice -}}
 {{- if $venue }}{{ $mapsParts = $mapsParts | append $venue }}{{ end -}}
 {{- if $address }}{{ $mapsParts = $mapsParts | append $address }}{{ end -}}
@@ -12,14 +19,21 @@
 {{- with .Params.county }}{{ $mapsParts = $mapsParts | append . }}{{ end -}}
 {{- $mapsQuery := delimit $mapsParts ", " -}}
 {{- $mapsURL := "" -}}
-{{- /* Prefer explicit @lat,lng from body when present (matches map pins). */ -}}
-{{- $coordMatches := findRE `@\s*([+-]?\d{1,2}\.\d{3,})\s*,\s*([+-]?\d{1,3}\.\d{3,})` .RawContent 1 -}}
-{{- if $coordMatches -}}
-  {{- $m := index $coordMatches 0 -}}
-  {{- $latlng := replaceRE `@\s*` "" $m -}}
-  {{- $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($latlng | urlquery) -}}
-{{- else if $mapsQuery -}}
-  {{- $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($mapsQuery | urlquery) -}}
+{{- /* Prefer lat/lng FM, then legacy @lat,lng in address or body. */ -}}
+{{- if and .Params.lat .Params.lng -}}
+  {{- $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%v,%v" .Params.lat .Params.lng -}}
+{{- else -}}
+  {{- $coordMatches := findRE `@\s*([+-]?\d{1,2}\.\d{3,})\s*,\s*([+-]?\d{1,3}\.\d{3,})` .Params.address 1 -}}
+  {{- if not $coordMatches -}}
+    {{- $coordMatches = findRE `@\s*([+-]?\d{1,2}\.\d{3,})\s*,\s*([+-]?\d{1,3}\.\d{3,})` .RawContent 1 -}}
+  {{- end -}}
+  {{- if $coordMatches -}}
+    {{- $m := index $coordMatches 0 -}}
+    {{- $latlng := replaceRE `@\s*` "" $m -}}
+    {{- $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($latlng | urlquery) -}}
+  {{- else if $mapsQuery -}}
+    {{- $mapsURL = printf "https://www.google.com/maps/search/?api=1&query=%s" ($mapsQuery | urlquery) -}}
+  {{- end -}}
 {{- end -}}
 
 <p class="listing-back">
@@ -61,6 +75,18 @@
                 {{- else -}}
                 {{ $venue }}
                 {{- end -}}
+            </p>
+            {{- else if and $mapsURL $hasPin }}
+            <p class="venue-name">
+                <a href="{{ $mapsURL }}" class="venue-maps-link" target="_blank" rel="noopener">
+                    <svg class="venue-pin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" aria-hidden="true">
+                        <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                        <circle cx="12" cy="10" r="3"></circle>
+                    </svg>
+                    <span>{{ .Title }}</span>
+                </a>
             </p>
             {{- end }}
             {{- if $address }}<p>{{ $address }}</p>{{- end }}
@@ -106,7 +132,12 @@
 
         <footer class="listing-footer">
             {{- $id := .Params.id | default .File.BaseFileName -}}
-            <p>
+            {{- $claimName := .Params.name | default .Title -}}
+            {{- $claimURL := .Permalink -}}
+            <p class="listing-claim-cta">
+                Is this your event?
+                <a href="{{ printf "%s?id=%s&name=%s&url=%s" ("/claim/" | relURL) ($id | urlquery) ($claimName | urlquery) ($claimURL | urlquery) }}">Claim this listing</a>
+                <span aria-hidden="true"> · </span>
                 <a href="mailto:glen.w.wright@gmail.com?subject=Folk%20Directory%20listing%20{{ $id }}">Suggest an update</a>
             </p>
         </footer>

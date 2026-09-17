@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - totternhoe
+- bedfordshire
 county: Bedfordshire
 venue: Old Farm Inn
 address: ''

@@ -11,7 +11,6 @@ venue: the Jolly Shepherd Pub in Barr
 address: ''
 place: ''
 post_code: ''
-when: ''
 www: girvanfolkclub.shutterfly.com
 status: listed
 ---

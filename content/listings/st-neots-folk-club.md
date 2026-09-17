@@ -8,7 +8,7 @@ locations:
 - st-neots
 county: Cambridgeshire
 venue: The Priory Centre
-address: ''
+address: Priory Lane, Saint Neots
 place: St Neots
 post_code: PE19 2BH
 when: Tuesdays

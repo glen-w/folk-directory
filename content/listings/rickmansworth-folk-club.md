@@ -10,7 +10,7 @@ county: Hertfordshire
 venue: Rickmansworth Conservative Club
 address: Bury Lane, Rickmansworth, Hertfordshire
 place: Hertfordshire
-post_code: ''
+post_code: EH44 6HF
 when: Tuesday, 2nd in Month
 www: ''
 email: StimpsonM@aol.com

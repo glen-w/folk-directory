@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - hastings
+- east-sussex
 county: East Sussex
 venue: The Stag
 address: 14 All Saints Street

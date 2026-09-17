@@ -17,6 +17,7 @@ www: ilkestonfolkclub.org.uk/index.htm
 status: listed
 edited: 26/06/2012
 ---
+
 We have open mic nights and we try to give everyone the opportunity to do something, be it singing, playing an instrument or something else. 
 
 Although we call ourselves a folk club we enjoy many styles of music and a typical night might include traditional & modern folk music, blues, country music.  

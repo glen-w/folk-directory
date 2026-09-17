@@ -7,7 +7,7 @@ event_types:
 locations:
 - railway-terrace
 - west-midlands
-county: Warwickshire
+county: West Midlands
 venue: Rugby West Indian Association
 address: Railway Terrace
 place: Railway Terrace

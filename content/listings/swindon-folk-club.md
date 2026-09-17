@@ -15,8 +15,8 @@ post_code: SN1 4BH
 when: Friday, 3rd in Month
 www: swindonfolkclub.wordpress.com
 email: swindonfolkclub@gmail.com
-status: listed
 logo: /images/listings/swindon_folk_club_logo_913.png
+status: listed
 ---
 
 Swindon Folk Club at Upstairs at The Hop Inn (Swindon.) — Friday, 3rd in Month

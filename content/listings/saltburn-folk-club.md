@@ -15,8 +15,8 @@ post_code: ''
 when: Monday, Every Week
 www: www.saltburnfolkclub.co.uk
 email: fo@saltburnfolkclub.co.uk
-status: listed
 logo: /images/listings/saltburn_folk_club_logo_678.png
+status: listed
 ---
 
 Saltburn Folk Club at The Marine Hotel, Saltburn-by-the-Sea — every Monday

@@ -6,6 +6,7 @@ event_types:
 - festival
 locations:
 - bungay
+- suffolk
 county: Suffolk
 venue: ''
 address: ''

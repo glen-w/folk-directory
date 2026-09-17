@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - morpeth
+- northumberland
 county: Northumberland
 venue: Tap and Spile
 address: Manchester Street

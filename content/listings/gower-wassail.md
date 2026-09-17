@@ -7,7 +7,7 @@ event_types:
 locations:
 - gower
 - west-glamorgan
-county: Glamorgan
+county: West Glamorgan
 venue: ''
 address: ''
 place: Gower

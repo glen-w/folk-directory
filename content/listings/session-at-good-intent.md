@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - rochester
+- kent
 county: Kent
 venue: Good Intent
 address: John Street

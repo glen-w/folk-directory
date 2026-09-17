@@ -17,4 +17,4 @@ www: www.whitehartfolkclub.weebly.com
 status: listed
 ---
 
-White Hart Folk at The White Hart (Saltburn-by-the-Sea) — Saturday, Every Week
+White Hart Folk at The White Hart, Saltburn-by-the-Sea — Saturday, every week.

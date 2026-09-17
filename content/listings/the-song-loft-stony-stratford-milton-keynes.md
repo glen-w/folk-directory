@@ -8,7 +8,7 @@ locations:
 - stony-stratford-milton-keynes
 - england
 county: Buckinghamshire
-venue: ''
+venue: Folk House
 address: ''
 place: Stony Stratford, Milton Keynes
 post_code: ''

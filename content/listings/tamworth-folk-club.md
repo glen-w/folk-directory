@@ -13,8 +13,8 @@ place: Tamworth
 post_code: B79 7LR
 when: Friday, 1st & 3rd
 www: www.tamworthfolk.co.uk
-status: listed
 logo: /images/listings/tamworth_folk_club_logo_863.png
+status: listed
 ---
 
 Tamworth Folk Club meets at The Tamworth Tap & Brewery, Tamworth, on the 1st and 3rd Fridays.

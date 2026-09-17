@@ -14,8 +14,8 @@ post_code: ''
 when: on Saturdays at 8pm
 www: www.cellarupstairs.org.uk
 email: info@cellarupstairs.org.uk
-status: listed
 logo: /images/listings/cellar_upstairs_logo_658.png
+status: listed
 ---
 
 Cellar Upstairs, London Held in the Calthorpe Arms, Grays Inn Road, London, on Saturdays at 8pm

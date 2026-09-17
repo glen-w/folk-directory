@@ -14,8 +14,8 @@ place: Nottingham
 post_code: ''
 when: Wednesday, Every Week
 www: www.carringtontriangle.org.uk
-status: listed
 logo: /images/listings/carrington_triangle_logo_804.png
+status: listed
 ---
 
 Carrington Triangle takes place at The Gladstone Hotel, Nottingham, every Wednesday.

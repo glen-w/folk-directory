@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - berkhamsted
+- hertfordshire
 county: Hertfordshire
 venue: The George and Dragon
 address: High Street
