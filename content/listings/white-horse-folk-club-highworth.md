@@ -1,5 +1,5 @@
 ---
-title: White Horse Folk Club
+title: White Horse Folk Club · Highworth
 id: 736
 name: White Horse Folk Club
 event_types:

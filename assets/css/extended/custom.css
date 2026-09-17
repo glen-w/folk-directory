@@ -6,6 +6,12 @@
   --code-bg: var(--brand-cream);
   /* Matches tall logo mark so sticky header / map height stay aligned */
   --header-height: 79px;
+  /* Event type colors (map pins + listing badges) */
+  --type-folk-club: #2e7d5a;
+  --type-session: #3d6e8c;
+  --type-festival: #8a5a2b;
+  --type-dance: #6b5080;
+  --type-defunct: #8a8a8a;
 }
 
 .header {
@@ -234,6 +240,31 @@
   background: transparent;
 }
 
+.listings-type-badge--folk-club {
+  color: var(--type-folk-club);
+  border-color: color-mix(in srgb, var(--type-folk-club) 45%, var(--border, #ccc));
+}
+
+.listings-type-badge--session {
+  color: var(--type-session);
+  border-color: color-mix(in srgb, var(--type-session) 45%, var(--border, #ccc));
+}
+
+.listings-type-badge--festival {
+  color: var(--type-festival);
+  border-color: color-mix(in srgb, var(--type-festival) 45%, var(--border, #ccc));
+}
+
+.listings-type-badge--dance {
+  color: var(--type-dance);
+  border-color: color-mix(in srgb, var(--type-dance) 45%, var(--border, #ccc));
+}
+
+.listings-type-badge--defunct {
+  color: var(--type-defunct);
+  border-color: color-mix(in srgb, var(--type-defunct) 45%, var(--border, #ccc));
+}
+
 .listings-card-actions {
   margin: 0.55rem 0 0;
 }
@@ -271,11 +302,6 @@
 
 .listings-card--defunct {
   opacity: 0.72;
-}
-
-.listings-type-badge--defunct {
-  color: #666;
-  border-color: #bbb;
 }
 
 .listings-fallback-text {

@@ -1,5 +1,5 @@
 ---
-title: The Royal Oak
+title: The Royal Oak · Edinburgh
 id: 858
 name: The Royal Oak
 event_types:

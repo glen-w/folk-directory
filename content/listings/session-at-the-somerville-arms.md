@@ -1,11 +1,12 @@
 ---
-title: Session at The Somerville Arms
+title: Session at The Somerville Arms · First and Third Wednesday of the month
 id: 334
 name: Session at The Somerville Arms
 event_types:
 - session
 locations:
 - leamington-spa
+- warwickshire
 county: Warwickshire
 venue: The Somerville Arms
 address: Campion Terrace
@@ -16,5 +17,4 @@ www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed
 ---
-
-Leamington Spa, Warwickshire, England. Tel: 01926 426746. Email: info@somervillearms.co.uk. Coordinates: 52.29356, -1.52548.
+Leamington Spa, Warwickshire, England. Coordinates: 52.29356, -1.52548.

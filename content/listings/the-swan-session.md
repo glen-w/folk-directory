@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - faringdon
+- oxfordshire
 county: Oxfordshire
 venue: The Swan
 address: 1 Park Rd, Faringdon
@@ -15,5 +16,4 @@ when: First Thursday of the month, 8.00pm
 www: ''
 status: listed
 ---
-
 The Swan Session at The Swan (Faringdon) — Thursday, 1st in Month

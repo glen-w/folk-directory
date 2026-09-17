@@ -1,5 +1,5 @@
 ---
-title: White Horse Folk Club
+title: White Horse Folk Club · Near Herstmonceux
 id: 471
 name: White Horse Folk Club
 event_types:

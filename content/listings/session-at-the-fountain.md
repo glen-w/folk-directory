@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - gloucester
+- gloucestershire
 county: Gloucestershire
 venue: The Fountain
 address: Westgate Street

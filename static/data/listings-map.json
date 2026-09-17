@@ -10,7 +10,8 @@
     "cache_hits": 657,
     "corpus_coord_hits": 332,
     "patched_remaining_at": "2026-09-14T17:56:20.688698+00:00",
-    "coords_restored_from_prior_map": 27
+    "coords_restored_from_prior_map": 27,
+    "titles_synced_at": "2026-09-17"
   },
   "locations": [
     {
@@ -2735,7 +2736,7 @@
     },
     {
       "id": 867,
-      "title": "CVFolk '2nd Sunday'",
+      "title": "CVFolk '2nd Sunday",
       "venue": "Albany Theatre",
       "place": "Coventry",
       "description": "CVFolk '2nd Sunday' at Albany Theatre (Coventry) — Sunday, 2nd in Month",
@@ -6158,22 +6159,6 @@
       "status": "defunct"
     },
     {
-      "id": 431,
-      "title": "Ilkeston Folk & Blues Club",
-      "venue": "The Stute (Ilkeston Rugby Club)",
-      "place": "Ilkeston",
-      "description": "",
-      "address": "The Stute (Ilkeston Rugby Club), Hallam Fields Rd, Ilkeston, DE7 4AZ, Nottinghamshire, United Kingdom",
-      "event_type": "folk-club",
-      "permalink": "/listings/ilkeston-folk-blues-club/",
-      "coordinates": {
-        "lat": 52.9529775,
-        "lng": -1.2930146
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 572,
       "title": "Ilkeston Folk Club",
       "venue": "The Stute - Ilkeston Rugby Club",
@@ -6313,22 +6298,6 @@
       "coordinates": {
         "lat": 57.4790124,
         "lng": -4.225739
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 219,
-      "title": "Ipswich Riverside Folk Weekend",
-      "venue": "Steamboat Tavern",
-      "place": "Ipswich",
-      "description": "",
-      "address": "Steamboat Tavern, 78 New Cut West, Ipswich, IP2 8HW, Suffolk, United Kingdom",
-      "event_type": "festival",
-      "permalink": "/listings/ipswich-riverside-folk-weekend/",
-      "coordinates": {
-        "lat": 52.0490579,
-        "lng": 1.1589812
       },
       "geocoded": true,
       "status": "listed"
@@ -10510,22 +10479,6 @@
       "status": "listed"
     },
     {
-      "id": 359,
-      "title": "Session at Bowling Green Inn",
-      "venue": "Bowling Green Inn",
-      "place": "Stoke Prior, Bromsgrove",
-      "description": "",
-      "address": "Bowling Green Inn, Shaw Lane, Stoke Prior, Bromsgrove, B60 4BH, Worcestershire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-bowling-green-inn-359/",
-      "coordinates": {
-        "lat": 52.288466,
-        "lng": -2.0927483
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 320,
       "title": "Session at Bowling Green Inn",
       "venue": "Bowling Green Inn",
@@ -10537,22 +10490,6 @@
       "coordinates": {
         "lat": 52.288466,
         "lng": -2.0927483
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 369,
-      "title": "Session at Bredenbury Village Hall",
-      "venue": "Bredenbury Village Hall",
-      "place": "Bredenbury",
-      "description": "",
-      "address": "Bredenbury Village Hall, Bredenbury, HR7 4TF, Worcestershire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-bredenbury-village-hall-369/",
-      "coordinates": {
-        "lat": 52.2043137,
-        "lng": -2.5729566
       },
       "geocoded": true,
       "status": "listed"
@@ -10638,22 +10575,6 @@
       "status": "listed"
     },
     {
-      "id": 378,
-      "title": "Session at Cooper's Tavern",
-      "venue": "Cooper's Tavern",
-      "place": "Burton-on-Trent",
-      "description": "",
-      "address": "Cooper's Tavern, 43 Cross Street, Burton-on-Trent, DE14 1EG, Staffordshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-coopers-tavern-378/",
-      "coordinates": {
-        "lat": 52.8042961,
-        "lng": -1.6382053
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 337,
       "title": "Session at Cooper's Tavern",
       "venue": "Cooper's Tavern",
@@ -10665,22 +10586,6 @@
       "coordinates": {
         "lat": 52.8042961,
         "lng": -1.6382053
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 367,
-      "title": "Session at Cottage of Content",
-      "venue": "Cottage of Content",
-      "place": "Barton",
-      "description": "",
-      "address": "Cottage of Content, Barton, B50 4NP, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-cottage-of-content-367/",
-      "coordinates": {
-        "lat": 52.1590379,
-        "lng": -1.844781
       },
       "geocoded": true,
       "status": "listed"
@@ -10713,22 +10618,6 @@
       "coordinates": {
         "lat": 53.6393071,
         "lng": -2.6373243
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 332,
-      "title": "Session at Falcon Hotel",
-      "venue": "Falcon Hotel",
-      "place": "Bromyard",
-      "description": "",
-      "address": "Falcon Hotel, Broad Street, Bromyard, HR7 4BT, Herefordshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-falcon-hotel-332/",
-      "coordinates": {
-        "lat": 52.1884841,
-        "lng": -2.5065834
       },
       "geocoded": true,
       "status": "listed"
@@ -10767,7 +10656,7 @@
     },
     {
       "id": 397,
-      "title": "Session at Fox and Goose",
+      "title": "Session at Fox and Goose · Every Wednesday",
       "venue": "Fox and Goose",
       "place": "Hebden Bridge",
       "description": "",
@@ -10783,7 +10672,7 @@
     },
     {
       "id": 396,
-      "title": "Session at Fox and Goose",
+      "title": "Session at Fox and Goose · Second Thursdays",
       "venue": "Fox and Goose",
       "place": "Hebden Bridge",
       "description": "",
@@ -10793,22 +10682,6 @@
       "coordinates": {
         "lat": 53.7420588,
         "lng": -2.0213915
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 363,
-      "title": "Session at Fox Inn",
-      "venue": "Fox Inn",
-      "place": "Worcester",
-      "description": "",
-      "address": "Fox Inn, Monkwood Green, Worcester, WR2 6NX, Worcestershire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-fox-inn-363/",
-      "coordinates": {
-        "lat": 52.24024,
-        "lng": -2.29455
       },
       "geocoded": true,
       "status": "listed"
@@ -10873,22 +10746,6 @@
       "coordinates": {
         "lat": 51.138656,
         "lng": 0.4289423
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 388,
-      "title": "Session at Hare & Hounds",
-      "venue": "Hare & Hounds",
-      "place": "Haconby, Bourne",
-      "description": "",
-      "address": "Hare & Hounds, 2 West Road, Haconby, Bourne, PE10 0UZ, Lincolnshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-hare-hounds/",
-      "coordinates": {
-        "lat": 52.814764,
-        "lng": -0.3645383
       },
       "geocoded": true,
       "status": "listed"
@@ -10985,22 +10842,6 @@
       "coordinates": {
         "lat": 53.4089725,
         "lng": -2.9903313
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 412,
-      "title": "Session at Lord Hood",
-      "venue": "Lord Hood",
-      "place": "Greenwich",
-      "description": "Listing 412 at Lord Hood (Greenwich) — Every Tuesday, 9pm onwards",
-      "address": "Lord Hood, 300 Creek Road, Greenwich, SE10 9SW, Greater London, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-lord-hood/",
-      "coordinates": {
-        "lat": 51.486391650779964,
-        "lng": 0.013349383486337737
       },
       "geocoded": true,
       "status": "listed"
@@ -11230,22 +11071,6 @@
       "status": "listed"
     },
     {
-      "id": 317,
-      "title": "Session at The Beech Inn",
-      "venue": "The Beech Inn",
-      "place": "Chorlton cum Hardy",
-      "description": "",
-      "address": "The Beech Inn, Beech Road, Chorlton cum Hardy, M21 9EG, Greater Manchester, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-beech-inn-317/",
-      "coordinates": {
-        "lat": 53.4386311,
-        "lng": -2.2806007
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 316,
       "title": "Session at The Beech Inn",
       "venue": "The Beech Inn",
@@ -11289,22 +11114,6 @@
       "coordinates": {
         "lat": 51.5519147,
         "lng": -1.7743042
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 377,
-      "title": "Session at The Boar's Head",
-      "venue": "The Boar's Head",
-      "place": "Hampton Lucy",
-      "description": "",
-      "address": "The Boar's Head, Church St, Hampton Lucy, CV35 8BE, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-boars-head-377/",
-      "coordinates": {
-        "lat": 52.2109449,
-        "lng": -1.6271688
       },
       "geocoded": true,
       "status": "listed"
@@ -11385,22 +11194,6 @@
       "coordinates": {
         "lat": 53.2298199,
         "lng": -0.52941
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 384,
-      "title": "Session at The Fountain",
-      "venue": "The Fountain",
-      "place": "Gloucester",
-      "description": "",
-      "address": "The Fountain, Westgate Street, Gloucester, GL1 2NW, Gloucestershire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-fountain-384/",
-      "coordinates": {
-        "lat": 51.8660704,
-        "lng": -2.2479012
       },
       "geocoded": true,
       "status": "listed"
@@ -11614,22 +11407,6 @@
       "status": "listed"
     },
     {
-      "id": 380,
-      "title": "Session at The Norman Knight",
-      "venue": "The Norman Knight",
-      "place": "Whichford, near Shipston-on-Stour",
-      "description": "",
-      "address": "The Norman Knight, Whichford, near Shipston-on-Stour, CV36 5PE, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-norman-knight-380/",
-      "coordinates": {
-        "lat": 52.0099387,
-        "lng": -1.5409697
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 339,
       "title": "Session at The Norman Knight",
       "venue": "The Norman Knight",
@@ -11641,22 +11418,6 @@
       "coordinates": {
         "lat": 52.0099387,
         "lng": -1.5409697
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 383,
-      "title": "Session at The Old Town Hall Vaults",
-      "venue": "The Old Town Hall Vaults",
-      "place": "Whitchurch",
-      "description": "",
-      "address": "The Old Town Hall Vaults, St John's street, Whitchurch, SY13 1QU, Shropshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-old-town-hall-vaults-383/",
-      "coordinates": {
-        "lat": 52.9694038,
-        "lng": -2.6832507
       },
       "geocoded": true,
       "status": "listed"
@@ -11689,22 +11450,6 @@
       "coordinates": {
         "lat": 53.3213234,
         "lng": -0.9364339
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 327,
-      "title": "Session at The Progressive Club",
-      "venue": "The Progressive Club",
-      "place": "Tamworth",
-      "description": "",
-      "address": "The Progressive Club, Halford Street, Tamworth, B79 7RD, Staffordshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-progressive-club-327/",
-      "coordinates": {
-        "lat": 52.6349519,
-        "lng": -1.6996347
       },
       "geocoded": true,
       "status": "listed"
@@ -11759,7 +11504,7 @@
     },
     {
       "id": 335,
-      "title": "Session at The Somerville Arms",
+      "title": "Session at The Somerville Arms · First Tuesday of the month",
       "venue": "The Somerville Arms",
       "place": "Leamington Spa",
       "description": "",
@@ -11775,7 +11520,7 @@
     },
     {
       "id": 374,
-      "title": "Session at The Somerville Arms",
+      "title": "Session at The Somerville Arms · First Friday",
       "venue": "The Somerville Arms",
       "place": "Leamington Spa",
       "description": "",
@@ -11790,40 +11535,8 @@
       "status": "listed"
     },
     {
-      "id": 375,
-      "title": "Session at The Somerville Arms",
-      "venue": "The Somerville Arms",
-      "place": "Leamington Spa",
-      "description": "",
-      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-somerville-arms-375/",
-      "coordinates": {
-        "lat": 52.2935463,
-        "lng": -1.5256843
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 376,
-      "title": "Session at The Somerville Arms",
-      "venue": "The Somerville Arms",
-      "place": "Leamington Spa",
-      "description": "",
-      "address": "The Somerville Arms, Campion Terrace, Leamington Spa, CV32 4SX, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-somerville-arms-376/",
-      "coordinates": {
-        "lat": 52.2935463,
-        "lng": -1.5256843
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 334,
-      "title": "Session at The Somerville Arms",
+      "title": "Session at The Somerville Arms · First and Third Wednesday of the month",
       "venue": "The Somerville Arms",
       "place": "Leamington Spa",
       "description": "Leamington Spa | Warwickshire | England | tel 01926 426746 | info@somervillearms.co.uk | @52.29356,-1.52548",
@@ -11870,38 +11583,6 @@
       "status": "listed"
     },
     {
-      "id": 352,
-      "title": "Session at The Swan",
-      "venue": "The Swan",
-      "place": "Faringdon",
-      "description": "",
-      "address": "The Swan, Park Road, Faringdon, SN7 7BP, Oxfordshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-swan/",
-      "coordinates": {
-        "lat": 51.6554621,
-        "lng": -1.5862325
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 362,
-      "title": "Session at The Talbot",
-      "venue": "The Talbot",
-      "place": "Knightwick",
-      "description": "",
-      "address": "The Talbot, Knightwick, WR6 5PH, Worcestershire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-talbot-362/",
-      "coordinates": {
-        "lat": 52.2020162,
-        "lng": -2.3919171
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 323,
       "title": "Session at The Talbot",
       "venue": "The Talbot",
@@ -11913,22 +11594,6 @@
       "coordinates": {
         "lat": 52.2020162,
         "lng": -2.3919171
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 368,
-      "title": "Session at The Three Horseshoes",
-      "venue": "The Three Horseshoes",
-      "place": "Bubbenhall",
-      "description": "",
-      "address": "The Three Horseshoes, Spring Hill, Bubbenhall, CV8 3BD, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-three-horseshoes-368/",
-      "coordinates": {
-        "lat": 52.3486573,
-        "lng": -1.469636
       },
       "geocoded": true,
       "status": "listed"
@@ -11998,22 +11663,6 @@
       "status": "listed"
     },
     {
-      "id": 379,
-      "title": "Session at The White Lion",
-      "venue": "The White Lion",
-      "place": "Tredington",
-      "description": "",
-      "address": "The White Lion, Stratford Road, Tredington, CV36 4NS, Warwickshire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-the-white-lion/",
-      "coordinates": {
-        "lat": 52.0905954,
-        "lng": -1.6267003
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
       "id": 401,
       "title": "Session at Ty Tawe",
       "venue": "Ty Tawe",
@@ -12041,22 +11690,6 @@
       "coordinates": {
         "lat": 51.7919337,
         "lng": -2.4974174
-      },
-      "geocoded": true,
-      "status": "listed"
-    },
-    {
-      "id": 372,
-      "title": "Session at Whitefriars",
-      "venue": "Whitefriars",
-      "place": "Coventry",
-      "description": "",
-      "address": "Whitefriars, Gosford Street, Coventry, CV1 5DL, West Midlands, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/session-at-whitefriars-372/",
-      "coordinates": {
-        "lat": 52.4065229,
-        "lng": -1.5030347
       },
       "geocoded": true,
       "status": "listed"
@@ -14383,7 +14016,7 @@
     },
     {
       "id": 858,
-      "title": "The Royal Oak",
+      "title": "The Royal Oak · Edinburgh",
       "venue": "Royal Oak",
       "place": "Edinburgh",
       "description": "The Royal Oak at Royal Oak (Edinburgh) — Sunday, Every Week",
@@ -14399,7 +14032,7 @@
     },
     {
       "id": 3220,
-      "title": "The Royal Oak",
+      "title": "The Royal Oak · Fishguard",
       "venue": "The Royal Oak",
       "place": "Fishguard",
       "description": "Fishguard's Folk Festival brings together its unique mix of local talent and well-known performers to provide four days of songs, tunes and dance. Most events are still free, and whether you want to play, sing, dance or…",
@@ -15839,7 +15472,7 @@
     },
     {
       "id": 736,
-      "title": "White Horse Folk Club",
+      "title": "White Horse Folk Club · Highworth",
       "venue": "ST. MICHAEL'S CHURCH ROOM",
       "place": "Highworth",
       "description": "White Horse Folk Club at ST. MICHAEL'S CHURCH ROOM (Highworth) — Wednesday, 1st & 3rd",
@@ -15855,7 +15488,7 @@
     },
     {
       "id": 471,
-      "title": "White Horse Folk Club",
+      "title": "White Horse Folk Club · Near Herstmonceux",
       "venue": "The White Horse Inn",
       "place": "Herstmonceux",
       "description": "The White Horse Inn has hosted folk nights every other Monday since 1993. The club is held in the bar of the pub, which creates a unique and intimate atmosphere. We welcome all musicians, the very young and the very…",

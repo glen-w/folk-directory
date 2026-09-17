@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - burton-on-trent
+- staffordshire
 county: Staffordshire
 venue: Cooper's Tavern
 address: 43 Cross Street

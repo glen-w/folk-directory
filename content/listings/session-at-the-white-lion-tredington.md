@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - tredington
+- warwickshire
 county: Warwickshire
 venue: The White Lion
 address: Stratford Road

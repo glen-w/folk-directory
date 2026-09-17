@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - knightwick
+- worcestershire
 county: Worcestershire
 venue: The Talbot
 address: ''

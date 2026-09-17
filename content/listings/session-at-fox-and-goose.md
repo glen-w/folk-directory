@@ -1,5 +1,5 @@
 ---
-title: Session at Fox and Goose
+title: Session at Fox and Goose · Second Thursdays
 id: 396
 name: Session at Fox and Goose
 event_types:

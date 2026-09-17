@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - whichford-near-shipston-on-stour
+- warwickshire
 county: Warwickshire
 venue: The Norman Knight
 address: ''

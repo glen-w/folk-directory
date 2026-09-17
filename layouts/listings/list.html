@@ -41,7 +41,7 @@
 <div class="listings-browse" id="listings-browse"
   data-index-url="{{ $indexUrl }}"
   data-placeholder-logo="{{ "/images/logo/folk-directory-icon.png" | relURL }}"
-  data-enabled-filters="type,county"
+  data-enabled-filters="type,county,status"
   data-default-show="25">
   <div class="listings-toolbar">
     <div id="listings-filters" class="listings-filters" aria-label="Filter events"></div>
@@ -88,7 +88,7 @@
   document.addEventListener("DOMContentLoaded", function () {
     var root = document.getElementById("listings-browse");
     if (!root || !window.ListingsBrowse) return;
-    var enabled = (root.getAttribute("data-enabled-filters") || "type,county")
+    var enabled = (root.getAttribute("data-enabled-filters") || "type,county,status")
       .split(",")
       .map(function (s) { return s.trim(); })
       .filter(Boolean);

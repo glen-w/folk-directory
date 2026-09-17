@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - coventry
+- west-midlands
 county: West Midlands
 venue: Whitefriars
 address: Gosford Street

@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - barton
+- warwickshire
 county: Warwickshire
 venue: Cottage of Content
 address: ''

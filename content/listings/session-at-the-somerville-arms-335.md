@@ -1,11 +1,12 @@
 ---
-title: Session at The Somerville Arms
+title: Session at The Somerville Arms · First Tuesday of the month
 id: 335
 name: Session at The Somerville Arms
 event_types:
 - session
 locations:
 - leamington-spa
+- warwickshire
 county: Warwickshire
 venue: The Somerville Arms
 address: Campion Terrace

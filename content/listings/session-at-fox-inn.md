@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - worcester
+- worcestershire
 county: Worcestershire
 venue: Fox Inn
 address: Monkwood Green

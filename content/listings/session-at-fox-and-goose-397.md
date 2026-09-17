@@ -1,5 +1,5 @@
 ---
-title: Session at Fox and Goose
+title: Session at Fox and Goose · Every Wednesday
 id: 397
 name: Session at Fox and Goose
 event_types:

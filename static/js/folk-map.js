@@ -76,6 +76,12 @@
 
     const listedIcon = createMarkerIcon("#2e7d5a");
     const defunctIcon = createMarkerIcon("#8a8a8a");
+    const typeIcons = {
+      "folk-club": createMarkerIcon("#2e7d5a"),
+      session: createMarkerIcon("#3d6e8c"),
+      festival: createMarkerIcon("#8a5a2b"),
+      dance: createMarkerIcon("#6b5080"),
+    };
 
     const cluster = L.markerClusterGroup({
       chunkedLoading: true,
@@ -93,8 +99,12 @@
       const locations = (data.locations || []).filter((loc) => loc.geocoded && loc.coordinates);
       locations.forEach((loc) => {
         const muted = loc.status === "defunct";
+        const typeKey = String(loc.event_type || "").toLowerCase();
+        const icon = muted
+          ? defunctIcon
+          : typeIcons[typeKey] || listedIcon;
         const marker = L.marker([loc.coordinates.lat, loc.coordinates.lng], {
-          icon: muted ? defunctIcon : listedIcon,
+          icon,
         });
         marker.bindPopup(buildPopup(loc));
         cluster.addLayer(marker);

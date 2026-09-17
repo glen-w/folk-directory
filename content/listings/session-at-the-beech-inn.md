@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - chorlton-cum-hardy
+- greater-manchester
 county: Greater Manchester
 venue: The Beech Inn
 address: Beech Road

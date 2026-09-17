@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - hampton-lucy
+- warwickshire
 county: Warwickshire
 venue: The Boar's Head
 address: Church St

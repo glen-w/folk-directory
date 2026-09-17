@@ -1,0 +1,149 @@
+{
+  "generated": "2026-09-17",
+  "note": "Duplicate title groups after true-dup merge; titles disambiguated with \u00b7 place or \u00b7 when",
+  "groups_before_disambiguation": [
+    {
+      "title": "Session at The Somerville Arms",
+      "count": 3,
+      "listings": [
+        {
+          "permalink": "/listings/session-at-the-somerville-arms-335/",
+          "file": "session-at-the-somerville-arms-335.md",
+          "place": "Leamington Spa",
+          "county": "Warwickshire",
+          "when": "First Tuesday of the month, 8.00pm",
+          "id": "335"
+        },
+        {
+          "permalink": "/listings/session-at-the-somerville-arms-374/",
+          "file": "session-at-the-somerville-arms-374.md",
+          "place": "Leamington Spa",
+          "county": "Warwickshire",
+          "when": "First Friday, 8.30pm",
+          "id": "374"
+        },
+        {
+          "permalink": "/listings/session-at-the-somerville-arms/",
+          "file": "session-at-the-somerville-arms.md",
+          "place": "Leamington Spa",
+          "county": "Warwickshire",
+          "when": "First and Third Wednesday of the month, 8.30pm",
+          "id": "334"
+        }
+      ]
+    },
+    {
+      "title": "Session at Fox and Goose",
+      "count": 2,
+      "listings": [
+        {
+          "permalink": "/listings/session-at-fox-and-goose-397/",
+          "file": "session-at-fox-and-goose-397.md",
+          "place": "Hebden Bridge",
+          "county": "West Yorkshire",
+          "when": "Every Wednesday, 9pm",
+          "id": "397"
+        },
+        {
+          "permalink": "/listings/session-at-fox-and-goose/",
+          "file": "session-at-fox-and-goose.md",
+          "place": "Hebden Bridge",
+          "county": "West Yorkshire",
+          "when": "Second Thursdays, 8.30pm",
+          "id": "396"
+        }
+      ]
+    },
+    {
+      "title": "The Royal Oak",
+      "count": 2,
+      "listings": [
+        {
+          "permalink": "/listings/the-royal-oak-edinburgh/",
+          "file": "the-royal-oak-edinburgh.md",
+          "place": "Edinburgh",
+          "county": "Edinburgh",
+          "when": "Sunday, Every Week",
+          "id": "858"
+        },
+        {
+          "permalink": "/listings/the-royal-oak-fishguard/",
+          "file": "the-royal-oak-fishguard.md",
+          "place": "Fishguard",
+          "county": "Pembrokeshire",
+          "when": "May",
+          "id": "3220"
+        }
+      ]
+    },
+    {
+      "title": "White Horse Folk Club",
+      "count": 2,
+      "listings": [
+        {
+          "permalink": "/listings/white-horse-folk-club-highworth/",
+          "file": "white-horse-folk-club-highworth.md",
+          "place": "Highworth",
+          "county": "Wiltshire",
+          "when": "Wednesday, 1st & 3rd",
+          "id": "736"
+        },
+        {
+          "permalink": "/listings/white-horse-folk-club-near-herstmonceux/",
+          "file": "white-horse-folk-club-near-herstmonceux.md",
+          "place": "Near Herstmonceux",
+          "county": "East Sussex",
+          "when": "2nd and 4th Monday",
+          "id": "471"
+        }
+      ]
+    }
+  ],
+  "renames": [
+    {
+      "file": "session-at-fox-and-goose-397.md",
+      "from": "Session at Fox and Goose",
+      "to": "Session at Fox and Goose \u00b7 Every Wednesday"
+    },
+    {
+      "file": "session-at-fox-and-goose.md",
+      "from": "Session at Fox and Goose",
+      "to": "Session at Fox and Goose \u00b7 Second Thursdays"
+    },
+    {
+      "file": "session-at-the-somerville-arms-335.md",
+      "from": "Session at The Somerville Arms",
+      "to": "Session at The Somerville Arms \u00b7 First Tuesday of the month"
+    },
+    {
+      "file": "session-at-the-somerville-arms-374.md",
+      "from": "Session at The Somerville Arms",
+      "to": "Session at The Somerville Arms \u00b7 First Friday"
+    },
+    {
+      "file": "session-at-the-somerville-arms.md",
+      "from": "Session at The Somerville Arms",
+      "to": "Session at The Somerville Arms \u00b7 First and Third Wednesday of the month"
+    },
+    {
+      "file": "the-royal-oak-edinburgh.md",
+      "from": "The Royal Oak",
+      "to": "The Royal Oak \u00b7 Edinburgh"
+    },
+    {
+      "file": "the-royal-oak-fishguard.md",
+      "from": "The Royal Oak",
+      "to": "The Royal Oak \u00b7 Fishguard"
+    },
+    {
+      "file": "white-horse-folk-club-highworth.md",
+      "from": "White Horse Folk Club",
+      "to": "White Horse Folk Club \u00b7 Highworth"
+    },
+    {
+      "file": "white-horse-folk-club-near-herstmonceux.md",
+      "from": "White Horse Folk Club",
+      "to": "White Horse Folk Club \u00b7 Near Herstmonceux"
+    }
+  ]
+}

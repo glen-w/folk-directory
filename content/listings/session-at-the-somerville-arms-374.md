@@ -1,5 +1,5 @@
 ---
-title: Session at The Somerville Arms
+title: Session at The Somerville Arms · First Friday
 id: 374
 name: Session at The Somerville Arms
 event_types:

@@ -1,5 +1,5 @@
 ---
-title: The Royal Oak
+title: The Royal Oak · Fishguard
 id: 3220
 name: The Royal Oak
 event_types:

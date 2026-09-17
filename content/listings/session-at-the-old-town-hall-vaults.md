@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - whitchurch
+- shropshire
 county: Shropshire
 venue: The Old Town Hall Vaults
 address: St John's street

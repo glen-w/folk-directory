@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - bubbenhall
+- warwickshire
 county: Warwickshire
 venue: The Three Horseshoes
 address: Spring Hill

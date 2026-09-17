@@ -4,7 +4,7 @@
   const DEFAULTS = {
     indexUrl: "/listings/index.json",
     placeholderLogo: "/images/logo/folk-directory-icon.png",
-    enabledFilterIds: ["type", "county"],
+    enabledFilterIds: ["type", "county", "status"],
     showOptions: [10, 25, 50, 100, "all"],
     defaultShow: 25,
     defaultSort: "title",
@@ -47,7 +47,20 @@
       label: "County",
       emptyLabel: "Any county",
     },
-    // Future: status, place, q (contains), multi-select type, etc.
+    {
+      id: "status",
+      param: "status",
+      field: "status",
+      match: "statusMode",
+      control: "select",
+      label: "Status",
+      defaultValue: "active",
+      fixedOptions: [
+        { value: "active", label: "Active" },
+        { value: "all", label: "All" },
+        { value: "defunct", label: "Defunct" },
+      ],
+    },
   ];
 
   function matchItem(item, filter, value) {
@@ -78,6 +91,14 @@
             ? [String(fieldValue)]
             : [];
         return wanted.some((v) => list.includes(String(v)));
+      }
+      case "statusMode": {
+        const status = String(fieldValue || "listed").toLowerCase();
+        const mode = String(value).toLowerCase();
+        if (mode === "all") return true;
+        if (mode === "defunct") return status === "defunct";
+        // active (default): hide defunct
+        return status !== "defunct";
       }
       case "eq":
       default:
@@ -118,7 +139,14 @@
     const params = new URL(url, window.location.origin).searchParams;
     const filters = {};
     for (const filter of enabledFilters) {
-      filters[filter.id] = params.get(filter.param) || "";
+      const raw = params.get(filter.param);
+      if (raw != null && raw !== "") {
+        filters[filter.id] = raw;
+      } else if (filter.defaultValue != null) {
+        filters[filter.id] = filter.defaultValue;
+      } else {
+        filters[filter.id] = "";
+      }
     }
     const pageRaw = Number(params.get("page") || "1");
     const page = Number.isFinite(pageRaw) && pageRaw >= 1 ? Math.floor(pageRaw) : 1;
@@ -170,7 +198,11 @@
     const params = new URLSearchParams();
     for (const filter of enabledFilters) {
       const value = state.filters[filter.id];
-      if (value) params.set(filter.param, value);
+      if (!value) continue;
+      if (filter.defaultValue != null && String(value) === String(filter.defaultValue)) {
+        continue;
+      }
+      params.set(filter.param, value);
     }
     if (state.show !== config.defaultShow) {
       params.set("show", String(state.show));
@@ -190,23 +222,39 @@
 
   function renderFilterControls(root, enabledFilters, facets, state, config) {
     const parts = enabledFilters.map((filter) => {
-      const options = (facets[filter.id] || [])
-        .map((value) => {
-          const label = filter.formatOption
-            ? filter.formatOption(value)
-            : value;
-          const selected =
-            String(state.filters[filter.id] || "") === String(value)
-              ? " selected"
-              : "";
-          return `<option value="${escapeHtml(value)}"${selected}>${escapeHtml(label)}</option>`;
-        })
-        .join("");
+      let options = "";
+      if (filter.fixedOptions) {
+        options = filter.fixedOptions
+          .map((opt) => {
+            const selected =
+              String(state.filters[filter.id] || "") === String(opt.value)
+                ? " selected"
+                : "";
+            return `<option value="${escapeHtml(opt.value)}"${selected}>${escapeHtml(opt.label)}</option>`;
+          })
+          .join("");
+      } else {
+        options = (facets[filter.id] || [])
+          .map((value) => {
+            const label = filter.formatOption
+              ? filter.formatOption(value)
+              : value;
+            const selected =
+              String(state.filters[filter.id] || "") === String(value)
+                ? " selected"
+                : "";
+            return `<option value="${escapeHtml(value)}"${selected}>${escapeHtml(label)}</option>`;
+          })
+          .join("");
+      }
+      const emptyOption = filter.fixedOptions
+        ? ""
+        : `<option value="">${escapeHtml(filter.emptyLabel || "Any")}</option>`;
       return `
         <label class="listings-filter">
           <span class="listings-filter-label">${escapeHtml(filter.label)}</span>
           <select data-filter="${escapeHtml(filter.id)}" aria-label="${escapeHtml(filter.label)}">
-            <option value="">${escapeHtml(filter.emptyLabel || "Any")}</option>
+            ${emptyOption}
             ${options}
           </select>
         </label>`;
@@ -429,7 +477,8 @@
       if (!(target instanceof HTMLElement)) return;
       if (!target.closest("[data-clear]")) return;
       for (const filter of enabledFilters) {
-        state.filters[filter.id] = "";
+        state.filters[filter.id] =
+          filter.defaultValue != null ? filter.defaultValue : "";
       }
       state.show = config.defaultShow;
       state.page = 1;

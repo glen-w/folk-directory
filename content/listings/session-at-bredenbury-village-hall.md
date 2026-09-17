@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - bredenbury
+- worcestershire
 county: Worcestershire
 venue: Bredenbury Village Hall
 address: ''

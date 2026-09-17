@@ -6,6 +6,7 @@ event_types:
 - session
 locations:
 - stoke-prior-bromsgrove
+- worcestershire
 county: Worcestershire
 venue: Bowling Green Inn
 address: Shaw Lane
