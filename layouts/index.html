@@ -1,8 +1,49 @@
 {{ define "main" }}
+{{- $listings := where .Site.RegularPages "Section" "listings" -}}
+{{- $typeMeta := slice
+  (dict "slug" "folk-club" "noun" "clubs")
+  (dict "slug" "session" "noun" "sessions")
+  (dict "slug" "festival" "noun" "festivals")
+  (dict "slug" "dance" "noun" "dances")
+-}}
+{{- $counts := dict -}}
+{{- range $listings -}}
+  {{- $types := .Params.event_types | default slice -}}
+  {{- if not (reflect.IsSlice $types) -}}{{- $types = slice $types -}}{{- end -}}
+  {{- range $types -}}
+    {{- $slug := printf "%v" . -}}
+    {{- if $slug -}}
+      {{- $counts = merge $counts (dict $slug (add (index $counts $slug | default 0) 1)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 <article class="post-single home-map">
-  <p class="home-map-intro">
-    A directory of folk clubs, sessions and festivals across the UK. Explore the map or browse the listings.
-  </p>
+  <header class="home-hero">
+    <p class="home-hero-lead">Find UK folk clubs, sessions &amp; festivals</p>
+    <p class="home-hero-counts" aria-label="Listing counts by type">
+      {{- $parts := slice -}}
+      {{- range $typeMeta -}}
+        {{- $n := index $counts .slug | default 0 -}}
+        {{- if gt $n 0 -}}
+          {{- $parts = $parts | append (printf "%d %s" $n .noun) -}}
+        {{- end -}}
+      {{- end -}}
+      {{- delimit $parts " · " -}}
+    </p>
+    <nav class="home-hero-chips" aria-label="Browse by type">
+      {{- range $typeMeta -}}
+        {{- $n := index $counts .slug | default 0 -}}
+        {{- if gt $n 0 -}}
+        <a class="home-hero-chip" href="{{ "/listings/" | relURL }}?type={{ .slug }}">{{ .noun | title }}</a>
+        {{- end -}}
+      {{- end -}}
+    </nav>
+    <p class="home-hero-cta">
+      <a class="home-hero-submit" href="{{ "/contact/" | relURL }}">Submit / update a listing</a>
+    </p>
+  </header>
+
   <div id="folk-map" class="home-map-canvas" aria-label="Map of Folk Directory listings"></div>
   <p id="folk-map-status" class="post-meta">Loading map…</p>
 </article>
