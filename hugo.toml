@@ -37,6 +37,10 @@ theme = 'PaperMod'
     name = "email"
     url = "mailto:glen.w.wright@gmail.com"
 
+  [params.submit]
+    email = "glen.w.wright@gmail.com"
+    githubNewIssue = "https://github.com/glen-w/folk-directory/issues/new?template=listing.yml"
+
   [params.profileMode]
     enabled = false
 
@@ -80,6 +84,11 @@ theme = 'PaperMod'
     name = "About"
     url = "/about/"
     weight = 20
+  [[menu.main]]
+    identifier = "submit"
+    name = "Submit"
+    url = "/submit/"
+    weight = 28
   [[menu.main]]
     identifier = "contact"
     name = "Contact"

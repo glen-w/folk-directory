@@ -1,0 +1,91 @@
+{{- define "main" }}
+{{- $email := site.Params.submit.email | default "glen.w.wright@gmail.com" -}}
+{{- $github := site.Params.submit.githubNewIssue | default "https://github.com/glen-w/folk-directory/issues/new?template=listing.yml" -}}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+<article class="post-single">
+  <div class="post-content listing-submit">
+    {{- with .Content }}
+    <div class="listing-submit-intro">{{ . }}</div>
+    {{- end }}
+
+    <form id="listing-submit-form" class="listing-submit-form" novalidate
+      data-email="{{ $email }}"
+      data-github="{{ $github }}">
+      <label class="listing-submit-field">
+        <span>Listing name</span>
+        <input type="text" name="name" required autocomplete="organization" maxlength="120">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Type</span>
+        <select name="type" required>
+          <option value="">Select type</option>
+          <option value="folk-club">Folk club</option>
+          <option value="session">Session</option>
+          <option value="festival">Festival</option>
+          <option value="dance">Dance</option>
+        </select>
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Venue</span>
+        <input type="text" name="venue" maxlength="120">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Place / town</span>
+        <input type="text" name="place" maxlength="80">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>County</span>
+        <input type="text" name="county" maxlength="80">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>When</span>
+        <input type="text" name="when" placeholder="e.g. Every Tuesday, 8pm" maxlength="120">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Website</span>
+        <input type="url" name="website" placeholder="https://" maxlength="200">
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Notes</span>
+        <textarea name="notes" rows="4" maxlength="2000"></textarea>
+      </label>
+
+      <label class="listing-submit-field">
+        <span>Your email</span>
+        <input type="email" name="submitter_email" required autocomplete="email" maxlength="120">
+      </label>
+
+      <p class="listing-submit-confirm post-meta">
+        Thanks — moderated before publish.
+      </p>
+
+      <div class="listing-submit-actions">
+        <button type="submit" class="listing-submit-primary" data-action="email">
+          Send by email
+        </button>
+        <button type="button" class="listing-submit-secondary" data-action="github">
+          Open GitHub issue
+        </button>
+      </div>
+
+      <p id="listing-submit-status" class="listing-submit-status post-meta" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</article>
+
+<script src="{{ "/js/listing-submit.js" | relURL }}" defer></script>
+{{- end }}

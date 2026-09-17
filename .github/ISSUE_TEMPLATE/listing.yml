@@ -1,0 +1,62 @@
+name: Listing submission
+description: Propose a new or updated folk club, session, festival, or dance listing
+title: "[Listing] "
+labels: ["listing"]
+body:
+  - type: dropdown
+    id: action
+    attributes:
+      label: Is this new or an update?
+      options:
+        - New listing
+        - Update existing listing
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Listing name
+    validations:
+      required: true
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: Type
+      options:
+        - folk-club
+        - session
+        - festival
+        - dance
+    validations:
+      required: true
+  - type: input
+    id: venue
+    attributes:
+      label: Venue
+  - type: input
+    id: place
+    attributes:
+      label: Place / town
+  - type: input
+    id: county
+    attributes:
+      label: County
+  - type: input
+    id: when
+    attributes:
+      label: When
+      description: e.g. Every Tuesday, 8pm
+  - type: input
+    id: website
+    attributes:
+      label: Website
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Extra detail, corrections, or context for moderators
+  - type: input
+    id: submitter_email
+    attributes:
+      label: Your email
+      description: So we can follow up if needed

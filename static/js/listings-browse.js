@@ -307,7 +307,7 @@
   function renderResults(root, items, placeholderLogo) {
     if (!items.length) {
       root.innerHTML =
-        '<p class="listings-empty">No matches — try another county or <a href="/contact/">Submit a listing</a>.</p>';
+        '<p class="listings-empty">No matches — try another county or <a href="/submit/">Submit a listing</a>.</p>';
       return;
     }
     const fallback = placeholderLogo || DEFAULTS.placeholderLogo;
@@ -338,7 +338,7 @@
           : "";
         const websiteAction = websiteUrl
           ? `<a class="listings-card-website" href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener">Website</a>`
-          : `<span class="listings-card-no-website">No website listed · <a href="/contact/">Submit / update</a></span>`;
+          : `<span class="listings-card-no-website">No website listed · <a href="/submit/">Submit / update</a></span>`;
         return `
           <article class="post-entry listings-card${isDefunct ? " listings-card--defunct" : ""}">
             <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy" onerror="${onError}">

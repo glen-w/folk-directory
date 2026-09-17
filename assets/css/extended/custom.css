@@ -660,3 +660,73 @@
     align-items: stretch;
   }
 }
+
+/* Submit / update listing form */
+.listing-submit-form {
+  display: grid;
+  gap: 0.85rem;
+  max-width: 36rem;
+  margin: 1rem 0 2rem;
+}
+
+.listing-submit-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-size: 0.95rem;
+}
+
+.listing-submit-field span {
+  color: var(--secondary, #555);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.listing-submit-field input,
+.listing-submit-field select,
+.listing-submit-field textarea {
+  padding: 0.45rem 0.6rem;
+  border: 1px solid var(--border, #ddd);
+  border-radius: 4px;
+  background: var(--entry, var(--theme, #fff));
+  color: inherit;
+  font: inherit;
+}
+
+.listing-submit-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.35rem;
+}
+
+.listing-submit-primary,
+.listing-submit-secondary {
+  padding: 0.45rem 0.95rem;
+  border-radius: 4px;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.listing-submit-primary {
+  border: none;
+  background: var(--brand-green);
+  color: #fff;
+}
+
+.listing-submit-secondary {
+  border: 1px solid var(--border, #ccc);
+  background: transparent;
+  color: inherit;
+}
+
+.listing-submit-status {
+  margin: 0.35rem 0 0;
+  min-height: 1.25em;
+}
+
+:root[data-theme="dark"] .listing-submit-primary {
+  background: var(--primary);
+  color: var(--theme);
+}
