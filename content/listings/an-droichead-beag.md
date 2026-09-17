@@ -20,4 +20,4 @@ logo: /images/listings/an_droichead_beag_logo_7313.png
 status: listed
 ---
 
-The Small Bridge advertises "A Mighty Session" every night of the year, provided by are local musicians who are booked every night on a rotating basis.
+The Small Bridge advertises "A Mighty Session" every night of the year, featuring local musicians booked on a rotating basis each night.

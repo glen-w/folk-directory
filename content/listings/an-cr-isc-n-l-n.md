@@ -20,4 +20,4 @@ email: ancruiscinlanhotel@gmail.com
 status: listed
 ---
 
-Apart from winter months. Irish language and music session run by gaeilge.club in Spiddal.
+Irish language and music session, run by gaeilge.club in Spiddal, apart from winter months.

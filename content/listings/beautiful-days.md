@@ -17,4 +17,4 @@ www: www.beautifuldays.org
 status: listed
 ---
 
-Beautiful Days is the Levellers' annual 15,000 capacity family-friendly weekend camping festival at Escot Park, which started in 2003. It has a huge children's area in the centre of the festival, comedy, theatre, family camping, a healing area, licensed real ale bars from Otter Brewery & carefully selected food and craft stalls. Chosen as one of the Best Family Festivals in 2013 by the Guardian Lo
+Beautiful Days is the Levellers' annual 15,000-capacity family-friendly weekend camping festival at Escot Park, which began in 2003. The festival features a large children's area in its centre, comedy, theatre, family camping, a healing area, licensed real ale bars from Otter Brewery, and carefully selected food and craft stalls. It was named one of the Best Family Festivals in 2013 by the Guardian.
