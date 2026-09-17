@@ -16,4 +16,4 @@ www: newcrystalfolkclub.weebly.com
 status: listed
 ---
 
-The New Crystal Folk Club at Hill & Cakemore Liberal Club (Halesowen) — Friday, Every Week
+The New Crystal Folk Club at Hill & Cakemore Liberal Club, Halesowen — every Friday.

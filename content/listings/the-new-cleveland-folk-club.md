@@ -18,4 +18,4 @@ status: listed
 edited: 09/06/2012
 ---
 
-A friendly forum for singers and musicians to use to entertain an audience. The club is run on a fortunately basis with alternate guest and singer/musicians nights. The club has a very laid back atmosphere, starts 8.30pm door charge £3. We also have a facebook page for anyone to join that's New Cleveland folk club unplugged
+A friendly forum for singers and musicians to use to entertain an audience. The club is run on a fortnightly basis with alternating guest and singer/musician nights. The club has a very laid-back atmosphere, starts at 8.30pm, with a door charge of £3. There is also a Facebook page for anyone to join, called New Cleveland folk club unplugged.

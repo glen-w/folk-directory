@@ -37,6 +37,25 @@
     });
   }
 
+  // Leaflet LatLngBounds has intersects() but no intersect(); clamp manually.
+  function clampBounds(bounds, envelope) {
+    if (!bounds || !bounds.isValid()) return envelope;
+    if (!envelope.intersects(bounds)) return envelope;
+    const sw = bounds.getSouthWest();
+    const ne = bounds.getNorthEast();
+    const clamped = L.latLngBounds(
+      [
+        Math.max(sw.lat, envelope.getSouth()),
+        Math.max(sw.lng, envelope.getWest()),
+      ],
+      [
+        Math.min(ne.lat, envelope.getNorth()),
+        Math.min(ne.lng, envelope.getEast()),
+      ]
+    );
+    return clamped.isValid() ? clamped : envelope;
+  }
+
   function buildPopup(loc) {
     const href = loc.permalink || "#";
     const parts = [
@@ -111,7 +130,7 @@
       });
       if (locations.length) {
         const fitted = cluster.getBounds().pad(0.08);
-        map.fitBounds(ukBounds.intersects(fitted) ? fitted.intersect(ukBounds) : ukBounds);
+        map.fitBounds(clampBounds(fitted, ukBounds));
       } else {
         map.fitBounds(ukBounds);
       }

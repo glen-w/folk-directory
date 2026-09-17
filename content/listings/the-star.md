@@ -8,7 +8,7 @@ locations:
 - scotland
 county: Glasgow
 venue: The Star
-address: ''
+address: The Admiral, Waterloo Street
 place: Glasgow
 post_code: ''
 when: Every Thursday

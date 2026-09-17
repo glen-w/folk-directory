@@ -17,4 +17,4 @@ www: www.maltings.co.uk
 status: listed
 ---
 
-The Maltings Folk and Blues concerts at this centre of York Pub on Monday and Tuesday evenings (three mins from York BR)
+Folk and Blues concerts are held at this pub in the centre of York on Monday and Tuesday evenings, three minutes from York BR.

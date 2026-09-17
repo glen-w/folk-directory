@@ -17,4 +17,4 @@ www: www.thesongloft.co.uk
 status: listed
 ---
 
-The Song Loft, Stony Stratford, Milton Keynes The Song Loft is held fortnightly on a Friday in the York House Centre, which is situated in the historic market town of Stony Stratford
+The Song Loft is held fortnightly on a Friday in the York House Centre, which is situated in the historic market town of Stony Stratford.

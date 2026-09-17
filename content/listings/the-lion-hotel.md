@@ -16,4 +16,4 @@ www: tinyurl.com/harbury-folk-club
 status: listed
 ---
 
-The Lion Hotel at Harbury Village Club (Warwickshire) — Thursday, 1st in Month
+The Lion Hotel at Harbury Village Club, Warwickshire — Thursday, first of the month.

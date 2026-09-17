@@ -19,4 +19,4 @@ www: www.railway-greenfield.co.uk
 status: listed
 ---
 
-The Railway , Greenfield, Saddleworth, Gtr Manchester Regular concerts with well known names locally and nationally
+The Railway, Greenfield, Saddleworth, Greater Manchester. Regular concerts with well-known names, locally and nationally.
