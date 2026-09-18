@@ -124,6 +124,13 @@
     if (summary) {
       parts.push(`<span class="folk-map-popup-desc">${escapeHtml(summary)}</span>`);
     }
+    if (loc.www && window.FolkUtils) {
+      const websiteUrl = window.FolkUtils.normalizeWebsiteUrl(loc.www);
+      if (websiteUrl) {
+        const domain = window.FolkUtils.displayDomain(websiteUrl);
+        parts.push(`<a href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener" style="color:#2e7d5a;font-weight:500;">→ ${escapeHtml(domain)}</a>`);
+      }
+    }
     return `<div class="folk-map-popup">${parts.join("<br>")}</div>`;
   }
 
