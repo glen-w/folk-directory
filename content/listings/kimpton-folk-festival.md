@@ -17,4 +17,4 @@ logo: /images/listings/kimpton_folk_festival_logo_3682.png
 status: listed
 ---
 
-A new festival in 2016, it's back for July yet again. Spend a chilled-out day enjoying the nation's favourite folk artists in the beautiful Hertfordshire countryside. This is a one-day event with 4 separate venues including free events on the village green. Main stage has 3 ticketed concerts and there are workshops and a continuous concert in the 13th century church. Location: Kimpton, SG4 Date: S
+A new festival in 2016, it's back for July yet again. Spend a chilled-out day enjoying the nation's favourite folk artists in the beautiful Hertfordshire countryside. This is a one-day event with 4 separate venues including free events on the village green. Main stage has 3 ticketed concerts and there are workshops and a continuous concert in the 13th century church.

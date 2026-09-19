@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - fore-street-topsham
-county: ''
+county: Devon
 venue: Matthews Hall
 address: Fore Street
 place: Topsham

@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - glasgow
-county: ''
+county: Glasgow
 venue: Dram, Woodlands Road
 address: 246 Woodlands Road
 place: Glasgow

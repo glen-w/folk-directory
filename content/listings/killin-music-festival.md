@@ -18,4 +18,4 @@ email: office@killinmusicfestival.com
 status: listed
 ---
 
-30th event! So they have a special t-shirt! What more could you want? Killin Music Fest is a three day event held in the heart of Scotland in June, celebrating Scottish music, culture and tradition. Showcasing the unique culture of Scotland and its music, the festival includes performances from local, national, and international musicians, and hosts a variety of community, heritage, arts, and fami
+30th event! So they have a special t-shirt! What more could you want? Killin Music Fest is a three day event held in the heart of Scotland in June, celebrating Scottish music, culture and tradition.

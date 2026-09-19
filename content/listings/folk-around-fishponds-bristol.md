@@ -16,4 +16,4 @@ logo: /images/listings/folk_around_fishponds_bristol_logo_940.png
 status: listed
 ---
 
-Folk Around Fishponds, Bristol Folk Around Fishponds (FAF) is an acoustic folk club run by live music enthusiasts. "Folk" music can mean different things to different people, but basically FAF is a live music performing club with a foot firmly in the folk tradition. During an average evening, music played may range from traditional folk to blues, Americana, jazz, rock, pop covers, old faves, humor
+Folk Around Fishponds, Bristol Folk Around Fishponds (FAF) is an acoustic folk club run by live music enthusiasts. "Folk" music can mean different things to different people, but basically FAF is a live music performing club with a foot firmly in the folk tradition.

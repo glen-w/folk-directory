@@ -19,4 +19,4 @@ logo: /images/listings/todmorden_folk_festival_logo_3635.png
 status: listed
 ---
 
-With an interesting line-up, this festival is just 17 miles up the road from Manchester. Location: Todmorden Date: Friday 1st May 2026 for 3 day(s) Full Price: £45 Contact for info: todmordenfolkfestival@gmail.com Website: todfolkfest.co.uk/ County: Yorkshire Country: England
+With an interesting line-up, this festival is just 17 miles up the road from Manchester.

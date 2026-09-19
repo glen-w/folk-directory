@@ -6,7 +6,7 @@ event_types:
 - session
 locations:
 - thornhill
-county: ''
+county: Dumfries and Galloway
 venue: Friendship Club Thornhill
 address: 15 West Morton Street
 place: Thornhill

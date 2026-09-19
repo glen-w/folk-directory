@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - darlington-simpson-rolling-mills-social-club-on-longfield-road
-county: ''
+county: Durham
 venue: Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H
 address: Longfield Road
 place: Darlington

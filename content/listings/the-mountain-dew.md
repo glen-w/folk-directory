@@ -19,4 +19,4 @@ www: comhaltas.ie/locations/detail/west_london
 status: listed
 ---
 
-A Blackheath Folk Club : - Acoustic open-mic night, every Tuesday at The British Oak, 109 Old Dover Road, London SE3 8SU, featuring a mixture of floorspots and special guests. Starts 8.30pm. IRISH Session : Usually 2nd Friday of month BUT the Christmas seisiún will be Fri 5th December 2008. The West London branch of Comhaltas hold their seisiún (session) of traditional Irish music, song and dance
+A Blackheath Folk Club : - Acoustic open-mic night, every Tuesday at The British Oak, 109 Old Dover Road, London SE3 8SU, featuring a mixture of floorspots and special guests. Starts 8.30pm. IRISH Session : Usually 2nd Friday of month BUT the Christmas seisiún will be Fri 5th December 2008.

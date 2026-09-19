@@ -19,8 +19,3 @@ edited: 20/03/2012
 ---
 
 A live acoustic music night with a difference, drawing on Liverpool's radical traditions.
-
-Saturday 10th March – Joe Topping
-Saturday 14th April – Sisters Unlimited, St Brides, Liverpool – http://www.radicalliverpool.com/Big_Song_and_Dance.html
-Saturday 12th May – Zoe Mulford
-Saturday 9th June – Lizzie Nunnery

@@ -18,4 +18,4 @@ status: listed
 edited: 07/10/2013
 ---
 
-Friday Folk Club meets every Friday at the RMA Club, Walmer Green, Deal, Kent at 8.15pm. Mainly singer's nights, with guest artists approx once a month. For more information ring Avril on 01843 864208 STROOD THE PRINCE OF WALES 9 high Street For the best in Irish and Cajun
+Friday Folk Club meets every Friday at the RMA Club, Walmer Green, Deal, Kent at 8.15pm. Mainly singer's nights, with guest artists approx once a month.

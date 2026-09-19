@@ -17,4 +17,4 @@ www: www.facebook.com/theweefifefolkfest
 status: listed
 ---
 
-An evening only event. The Wee Fife Folk Festival was originally planned in 2020, but we all know what happened then! 2 years later and with a smaller scope, the inaugural event took place. It may have been wee, but it was such fun, we decided to do it all again. And it's back for 2026 as well. We couldn't connect to their original url - weefifefolkfest.co.uk - so we have used their Facebook page
+An evening only event. The Wee Fife Folk Festival was originally planned in 2020, but we all know what happened then! 2 years later and with a smaller scope, the inaugural event took place. It may have been wee, but it was such fun, we decided to do it all again. And it's back for 2026 as well.

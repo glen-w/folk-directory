@@ -6,7 +6,7 @@ event_types:
 - session
 locations:
 - penzance
-county: ''
+county: Cornwall
 venue: The Fountain Inn
 address: The Fountain Inn, Newbridge
 place: Penzance

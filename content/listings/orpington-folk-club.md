@@ -18,6 +18,4 @@ email: info@orpingtonfolkclub.org.uk
 status: listed
 ---
 
-A folk music & song club that welcomes participation through playing, singing or listening.
-
-We are always ready to greet and encourage new singers and musicians.  With regular guests and open mike/singers nights. Lovely back room pub venue in a quiet village
+A folk music & song club that welcomes participation through playing, singing or listening. We are always ready to greet and encourage new singers and musicians. With regular guests and open mike/singers nights.

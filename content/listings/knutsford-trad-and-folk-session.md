@@ -6,7 +6,7 @@ event_types:
 - session
 locations:
 - cheshire
-county: ''
+county: Cheshire
 venue: Lord Eldon
 address: Lord Eldon, Tatton Street, Knutsford
 place: Cheshire

@@ -17,4 +17,4 @@ www: www.medievalmusicinthedales.co.uk
 status: listed
 ---
 
-An annual medieval music festival wholly dedicated to medieval music-making. It's unique in the UK. A major event in the early music calendar - a weekend dedicated solely to the music of the middle ages. It's all happening at Bolton Castle in beautiful Wensleydale in North Yorkshire
+An annual medieval music festival wholly dedicated to medieval music-making. It's unique in the UK. A major event in the early music calendar - a weekend dedicated solely to the music of the middle ages.

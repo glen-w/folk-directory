@@ -18,4 +18,4 @@ logo: /images/listings/tiree_music_festival_logo_3687.png
 status: listed
 ---
 
-Think picture-perfect white sands. World-famous surf. Deserted roads lined with lush greenery and wild flowers. Not forgetting more sunshine than practically anywhere else in the UK. It's little wonder that the tiny Hebridean island of Tiree is nicknamed the Hawaii of the North. Add to this three separate campsites - the main campsite, family campsite and campervan area - and the now famous Community
+Think picture-perfect white sands. World-famous surf. Deserted roads lined with lush greenery and wild flowers. Not forgetting more sunshine than practically anywhere else in the UK. It's little wonder that the tiny Hebridean island of Tiree is nicknamed the Hawaii of the North.

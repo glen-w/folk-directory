@@ -17,4 +17,4 @@ www: www.boomtownfair.co.uk
 status: listed
 ---
 
-A large event covering a large variety of music styles, in it's 13th year. The event is spread over several stages, and there is a folk section . Research it and make your own decision on whether it suits you. The line-up includes many well-known acts. Location: Matterley Estate, Winchester, SO21 1HW Date: Wednesday 12th August 2026 for 5 day(s) Full Price: £375 Also available Various other ticket
+A large event covering a large variety of music styles, in it's 13th year. The event is spread over several stages, and there is a folk section . Research it and make your own decision on whether it suits you. The line-up includes many well-known acts.

@@ -19,6 +19,4 @@ status: listed
 edited: 03/02/2012
 ---
 
-A festival of folk's finest acts gathered in beautiful leafy parkland for one uplifting summer day of music. 
-
-Early bird ticket price - find out more and book tickets at the website
+A festival of folk's finest acts gathered in beautiful leafy parkland for one uplifting summer day of music.

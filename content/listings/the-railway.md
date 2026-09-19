@@ -18,6 +18,4 @@ www: www.railway-greenfield.co.uk
 status: listed
 ---
 
-The Railway, Greenfield, Saddleworth, Greater Manchester. Regular concerts with well-known names, locally and nationally.
-
-I've been asked to get together some musicians. I don't know waht it'll be like but all are welcome if you have nowhere else to play that night. Hope to start about 8pm
+The Railway, Greenfield, Saddleworth, Greater Manchester. Regular concerts with well-known names, locally and nationally. I've been asked to get together some musicians. I don't know waht it'll be like but all are welcome if you have nowhere else to play that night.

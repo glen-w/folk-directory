@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - hornsey-high-street-london
-county: ''
+county: London
 venue: The Great Northern Railway Tavern
 address: Hornsey High Street
 place: London

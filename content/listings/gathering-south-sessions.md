@@ -6,7 +6,7 @@ event_types:
 - session
 locations:
 - 1-admiral-street
-county: ''
+county: Glasgow
 venue: The Red Door Club (basement of The Old Toll Bar)
 address: 1 Admiral Street
 place: Glasgow

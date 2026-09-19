@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - pontefract
-county: ''
+county: West Yorkshire
 venue: The Old Grocers, Pontefract
 address: 25 Beastfair
 place: Pontefract

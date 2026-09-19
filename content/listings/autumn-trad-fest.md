@@ -17,4 +17,4 @@ www: www.tradmusic.com/springgrass-bluegrass-music-festival.php
 status: listed
 ---
 
-The 4th annual SpringGrass bluegrass festival takes place at The Vault Arts Centre, Newton Stewart, on Friday 15 May 2026 for two days. The programme features bluegrass, americana, and folk. Admission is free. Further information: www.tradmusic.com/springgras
+The 4th annual SpringGrass bluegrass festival takes place at The Vault Arts Centre, Newton Stewart, on Friday 15 May 2026 for two days. The programme features bluegrass, americana, and folk. Admission is free.

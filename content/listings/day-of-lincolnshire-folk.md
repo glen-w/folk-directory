@@ -17,4 +17,4 @@ www: www.facebook.com/DayofLincolnshireFolk
 status: listed
 ---
 
-Now in its 16th year, the Day of Lincolnshire Folk features music, dance, song, poetry, and storytelling. Admission is free. The event is held at Leadenham House, Leadenham, LN5 0PU, on Sunday 2nd August 2026, in Lincolnshire, England. Further information is available at www.facebook.com/DayofLincolnshireFolk/
+Now in its 16th year, the Day of Lincolnshire Folk features music, dance, song, poetry, and storytelling. Admission is free. The event is held at Leadenham House, Leadenham, LN5 0PU, on Sunday 2nd August 2026, in Lincolnshire, England.

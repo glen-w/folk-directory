@@ -16,4 +16,4 @@ www: www.wyrdfolkpod.com/festival
 status: listed
 ---
 
-Join Wyrd Folk for a folk moot, morris dances, author talks, films, makers market and brilliant bands. Location: Bretforton Date: Sunday 6th September 2026 for 1 day(s) Full Price: £35 Contact for info: Website: www.wyrdfolkpod.com/festival County: Worcestershire Country: England
+Join Wyrd Folk for a folk moot, morris dances, author talks, films, makers market and brilliant bands.

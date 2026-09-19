@@ -17,4 +17,4 @@ www: ''
 status: listed
 ---
 
-Ettrick Folk Club, Old Kilpatrick. This club meets in The Ettrick Bar, in the village of Old Kilpatrick, every Tuesday from 8.30pm. It has grown over the past years, and now regularly has about 20 musicians turning up to play. All are made welcome and can join in. Call 01389 872821 for more details.
+Ettrick Folk Club, Old Kilpatrick. This club meets in The Ettrick Bar, in the village of Old Kilpatrick, every Tuesday from 8.30pm. It has grown over the past years, and now regularly has about 20 musicians turning up to play. All are made welcome and can join in.

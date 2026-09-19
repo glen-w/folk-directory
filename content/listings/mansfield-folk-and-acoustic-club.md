@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - mansfield
-county: ''
+county: Nottinghamshire
 venue: Forest Town Arena
 address: Clipstone Rd West
 place: Mansfield

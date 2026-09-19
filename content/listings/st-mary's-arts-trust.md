@@ -18,4 +18,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-Ashford's exciting arts venue. We are a general arts venue in a working church. Our programme includes various guests from the folk music world. See web site for details
+Ashford's exciting arts venue. We are a general arts venue in a working church. Our programme includes various guests from the folk music world.

@@ -19,4 +19,4 @@ logo: /images/listings/lichfield_folk_festival_logo_2026.png
 status: listed
 ---
 
-A weekend of dance and music in this lovely cathedral city. Dances - Displays - Workshops - Morris Tours
+A weekend of dance and music in this lovely cathedral city.

@@ -16,4 +16,4 @@ www: www.liverpoolseashanty.co.uk
 status: listed
 ---
 
-Liverpool Sea Shanty Session Hosted By Trim Rig and A Doxy, Mick & Mary McGarry and Andy Kenna. The session is in the Pig & Whistle First Saturday of every month - 8.30pm onwards. Free Entry. All are welcome, Singers and Listeners alike
+Liverpool Sea Shanty Session Hosted By Trim Rig and A Doxy, Mick & Mary McGarry and Andy Kenna. The session is in the Pig & Whistle First Saturday of every month - 8.30pm onwards. Free Entry.

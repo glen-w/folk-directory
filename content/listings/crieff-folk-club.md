@@ -16,4 +16,4 @@ email: admin@strathearnartspace.co.uk
 status: listed
 ---
 
-Crieff Folk Club This club meets monthly at Strathearn Artspace in the former Old Library, with session evenings in between the monthly gig nights. For information email admin@strathearnartspace.co.uk or info@neilthomson.co.uk. Tickets for events are available through Eventbrite or Strathearn Artspace website
+Crieff Folk Club This club meets monthly at Strathearn Artspace in the former Old Library, with session evenings in between the monthly gig nights.

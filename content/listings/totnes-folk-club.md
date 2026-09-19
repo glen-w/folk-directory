@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - totnes
-county: ''
+county: Devon
 venue: Dartmouth Inn Totnes
 address: 28 Warland
 place: Totnes

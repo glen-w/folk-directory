@@ -19,5 +19,3 @@ edited: 28/01/2012
 ---
 
 A weekend of dance and music from across the world. Concerts, ceilidhs, music sessions and FREE dance displays.
-
-Concerts and ceilidhs at various prices

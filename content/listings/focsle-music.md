@@ -6,7 +6,7 @@ event_types:
 - folk-club
 locations:
 - earls-road-southampton
-county: ''
+county: Hampshire
 venue: The Guide Dog
 address: Earls Road
 place: Southampton

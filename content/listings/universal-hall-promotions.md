@@ -6,7 +6,7 @@ event_types:
 - unknown
 locations:
 - moray
-county: ''
+county: Moray
 venue: Universal Hall
 address: Universal Hall, The Park, Findhorn
 place: Moray

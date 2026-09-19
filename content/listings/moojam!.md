@@ -18,4 +18,4 @@ status: listed
 edited: 27/12/2013
 ---
 
-Traditional music session in Penrith's leading real ale bar. Every first and third Monday. Starts 8pm
+Traditional music session in Penrith's leading real ale bar. Every first and third Monday.
