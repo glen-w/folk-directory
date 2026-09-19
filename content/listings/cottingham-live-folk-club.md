@@ -12,9 +12,7 @@ venue: The Back Room
 address: 173 Hallgate
 place: Cottingham
 post_code: HU16 4YD
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: www.cottingham-live.co.uk
 status: listed
 ---
-
-Cottingham Live Folk Club meets at The Back Room, 173 Hallgate, Cottingham, on Wednesday every week.

@@ -16,5 +16,3 @@ www: www.runnymedefolkclub.co.uk
 logo: /images/listings/runnymede_folk_club_logo_928.png
 status: listed
 ---
-
-Runnymede Folk Club at The Red Lion, Egham (Surrey) — Thursday, 1st in Month

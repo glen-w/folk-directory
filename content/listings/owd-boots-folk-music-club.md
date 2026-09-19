@@ -15,5 +15,3 @@ when: Tuesday, 2nd in Month
 www: ''
 status: listed
 ---
-
-Owd Boots Folk Music Club meets at the Embankment Pub & Kitchen, Nottingham, on the second Tuesday of each month.

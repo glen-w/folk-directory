@@ -15,5 +15,3 @@ when: Wednesday, Every 2 weeks
 www: ''
 status: listed
 ---
-
-Shenanigans Liverpool Irish Traditional Session at Shenanigans, 77 Tithebarn Street, Liverpool L2 3EN (Liverpool) — Wednesday, Every 2 weeks

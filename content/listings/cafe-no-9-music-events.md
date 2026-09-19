@@ -15,5 +15,3 @@ when: Varied, Variable
 www: www.wegottickets.com/location/27216
 status: listed
 ---
-
-Cafe No 9 Music Events takes place at Cafe No 9, Sheffield. The events are varied and variable.

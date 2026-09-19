@@ -11,10 +11,8 @@ venue: Boars Head Hotel
 address: Kinderton Street, Middlewich
 place: Cheshire
 post_code: CW10 0JE
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: www.cheshirefolk.com
 logo: /images/listings/cheshire_folk_logo_820.png
 status: listed
 ---
-
-Cheshire Folk is held at the Boars Head Hotel, Cheshire, on the first Sunday of the month.

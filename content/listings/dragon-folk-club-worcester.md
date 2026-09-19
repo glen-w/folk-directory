@@ -17,4 +17,4 @@ www: www.dragonfolkclub.com
 status: listed
 ---
 
-Dragon Folk Club, Worcester The Dragon Folk Club was founded in 2016 and meets on the first and third Wednesday of the month from 8 - 10:30pm in the upper room of the Dragon Inn, The Tything, Worcester. The club has 3 song/15 minute floor spots and usually finishes the evening with an invited guest who plays a longer set
+The Dragon Folk Club was founded in 2016 and meets on the first and third Wednesday of the month from 8 to 10:30 pm in the upper room of the Dragon Inn, The Tything, Worcester. The club offers three song/15-minute floor spots and usually finishes the evening with an invited guest who plays a longer set.

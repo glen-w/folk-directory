@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Described locally as the 'Matt Molloy's of Leitrim'. Regular sessions on weekends, with spontaneous sets breaking out whenever the right musicians walk through the door.
+Described locally as the 'Matt Molloy's of Leitrim', the bar hosts regular sessions on weekends, with spontaneous sets breaking out whenever the right musicians walk through the door.

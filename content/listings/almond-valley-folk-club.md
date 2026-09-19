@@ -16,5 +16,3 @@ www: magjam.wixsite.com/almondvalleyfolkclub
 email: almondvalleyfolkclub@outlook.com
 status: listed
 ---
-
-Almond Valley Folk Club meets at The Railway Inn, West Lothian, on the third Tuesday of each month.

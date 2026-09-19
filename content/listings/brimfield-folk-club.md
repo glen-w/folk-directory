@@ -11,9 +11,7 @@ venue: Brimfield Village Hall
 address: Brimfield Village Hall, Brimfield
 place: Shropshire
 post_code: SY8 4NE
-when: Monday, 1st in Month
+when: Monthly, 1st Monday
 www: ''
 status: listed
 ---
-
-Brimfield Folk Club at Brimfield Village Hall (Shropshire) — Monday, 1st in Month

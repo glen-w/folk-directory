@@ -19,4 +19,4 @@ status: listed
 edited: 23/01/2012
 ---
 
-A premier folk festival in the UK, featuring a diverse range of folk, blues, country, world, singer-songwriter and acoustic music. Acts have ranged from Martin Carthy to Mumford & Sons and all in between. The festival runs over four days across four stages, with a capacity of 10,000, 8,000 campers, and two campsites. It receives national TV and radio broadcast coverage.
+A major folk festival in the UK, featuring a diverse range of folk, blues, country, world, singer-songwriter and acoustic music. Acts have ranged from Martin Carthy to Mumford & Sons and all in between. The festival runs over four days across four stages, with a capacity of 10,000, 8,000 campers, and two campsites. It receives national TV and radio broadcast coverage.

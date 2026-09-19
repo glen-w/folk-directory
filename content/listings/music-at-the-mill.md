@@ -15,5 +15,3 @@ when: Monday, Every Week
 www: www.singaround.org
 status: listed
 ---
-
-Music at the Mill at Fromebridge Mill (Whitminster) — Monday, Every Week

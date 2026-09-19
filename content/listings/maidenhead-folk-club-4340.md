@@ -16,5 +16,3 @@ when: Thursday, Every Week
 www: www.maidenheadfolkclub.org.uk
 status: listed
 ---
-
-Maidenhead Folk Club at The New Inn (Maidenhead) — Thursday, Every Week

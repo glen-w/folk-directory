@@ -11,7 +11,7 @@ venue: St Disens Hall
 address: 1 Church Street
 place: Bradninch
 post_code: EX5 4NS
-when: 2nd Wednesdays
+when: Monthly, 2nd Wednesday
 www: ''
 email: colin@willow1.freeserve.co.uk
 status: listed
@@ -30,7 +30,7 @@ GUEST ARTISTS
 
 The club often features guest performers on alternative months, drawing from local, national, and international artists in order to raise funds and provide ticket concessions to regular club-goers, small bursaries, and concert promotions.
 
-The site lists past performers, showcasing the diversity of music and high standards the club has enjoyed. This coming year the club will be raising funds for a project called "Young Voices in Music," providing a showcase on a large stage for young musicians in Devon. Musicians and club runners are encouraged to watch this space.
+The club has hosted a diverse range of performers at a high standard. This coming year the club will be raising funds for a project called "Young Voices in Music," providing a showcase on a large stage for young musicians in Devon.
 
 WHAT TIME
 

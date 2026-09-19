@@ -15,11 +15,11 @@ place: Burt
 post_code: ''
 lat: 55.03486
 lng: -7.4368
-when: Takes place every month on the 2nd Friday at 9:00 pm - Late
+when: Monthly, 2nd Friday, 9:00pm
 www: www.angriananhotel.com
 email: info@angriananhotel.com
 logo: /images/listings/an_grian_n_hotel_logo_7127.png
 status: listed
 ---
 
-Session in the Fort Bar of the stunning An Grianan Hotel.
+A session in the Fort Bar at An Grianán Hotel.

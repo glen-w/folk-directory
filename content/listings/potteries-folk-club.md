@@ -16,5 +16,3 @@ www: www.potteriesfolkclub.com
 logo: /images/listings/potteries_folk_club_logo_874.png
 status: listed
 ---
-
-Potteries Folk Club at The Fenton Town Hall Cafe (Fenton Stoke-on-Trent) — Friday, 2nd in Month

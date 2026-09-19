@@ -11,9 +11,7 @@ venue: The Bowes Hotel
 address: Bardon Mill, Hexham
 place: Northumberland
 post_code: NE47 7HU
-when: Tuesday, 1st in Month
+when: Monthly, 1st Tuesday
 www: www.theboweshotel.uk/en-GB/contact-us
 status: listed
 ---
-
-Bowes Hotel (formerly Alston FC) at The Bowes Hotel (Northumberland) — Tuesday, 1st in Month

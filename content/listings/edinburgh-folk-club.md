@@ -11,10 +11,8 @@ venue: Ukrainian Community Centre
 address: 14 Royal Terrace
 place: Edinburgh
 post_code: EH7 5AB
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: efc1973.com
 logo: /images/listings/edinburgh_folk_club_logo_783.png
 status: listed
 ---
-
-Edinburgh Folk Club at Ukrainian Community Centre (Edinburgh) — Wednesday, Every Week

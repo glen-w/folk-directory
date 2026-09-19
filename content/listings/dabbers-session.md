@@ -16,7 +16,6 @@ www: myspace.com/dabberssession
 status: listed
 ---
 
-Musicians and singers please join us but contact me first to confirm future dates and venues and save yourselves a wasted journey.
+Musicians and singers are welcome, but dates and venues may change, so it is advisable to confirm in advance to avoid a wasted journey.
 
-Why are we called Dabbers?
-There are several stories why Nantwich residents are called Dabbers and just one of them comes from the term to dab leather hides in preparation for shoe making which was an important 19th Century town industry.
+The name 'Dabbers' has several origins among Nantwich residents; one derives from the practice of dabbing leather hides in preparation for shoe-making, which was an important 19th-century town industry.

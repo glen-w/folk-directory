@@ -11,9 +11,7 @@ venue: Princess Royal
 address: 43 Slinn Street, Sheffield
 place: South Yorkshire
 post_code: YO13 0PT
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: ''
 status: listed
 ---
-
-Crookes Folk Club at Princess Royal (South Yorkshire) — Thursday, Every Week

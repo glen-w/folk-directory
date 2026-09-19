@@ -15,5 +15,3 @@ when: Tuesday, 2nd in Month
 www: www.focsle.org
 status: listed
 ---
-
-FOCSLE Music at The Guide Dog (Earls Road, Southampton) — Tuesday, 2nd in Month

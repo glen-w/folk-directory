@@ -11,9 +11,7 @@ venue: Cornmarket
 address: Old Ropery, Fenwick Street
 place: Liverpool
 post_code: BB4 6JU
-when: Tuesday, 1st in Month
+when: Monthly, 1st Tuesday
 www: ''
 status: listed
 ---
-
-Cornmarket Acoustic at Cornmarket, Liverpool — first Tuesday of the month.

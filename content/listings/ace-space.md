@@ -15,5 +15,3 @@ when: Varied, Variable
 www: www.acespace.org.uk
 status: listed
 ---
-
-Ace Space, Berkshire. Varied, variable.

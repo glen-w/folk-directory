@@ -15,5 +15,3 @@ when: Sunday, 2nd in Month
 www: ''
 status: listed
 ---
-
-Sing and Sup at the Smithy Inn at Smithy Inn (Carnforth) — Sunday, 2nd in Month

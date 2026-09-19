@@ -15,5 +15,3 @@ when: Wednesday, Every 2 weeks
 www: ''
 status: listed
 ---
-
-Lincoln Folk Club Revival at The Joiner's Arms (Lincoln) — Wednesday, Every 2 weeks

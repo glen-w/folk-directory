@@ -19,4 +19,3 @@ email: petergarratt1@gmail.com
 logo: /images/listings/the_beehive_logo_757.png
 status: listed
 ---
-The Beehive is held at Harthill Village Hall, Winney Hill, Harthill, on the first Friday of each month.

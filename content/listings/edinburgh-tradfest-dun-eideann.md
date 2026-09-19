@@ -17,4 +17,4 @@ www: edinburghtradfest.com
 status: listed
 ---
 
-Edinburgh TradFest - Dun Eideann is a vibrant celebration of folk arts celebrating TradFest will include music, song, storytelling, dance, folk drama, arts and crafts, literature, architecture, film and multi-media in the capital city. Edinburgh's only multi-arts festival is dedicated to traditional culture and folk arts. Features the very best traditional music from Scotland and around the world.
+Edinburgh TradFest – Dun Eideann is Edinburgh's only multi-arts festival dedicated to traditional culture and folk arts. The programme includes music, song, storytelling, dance, folk drama, arts and crafts, literature, architecture, film, and multimedia. It features traditional music from Scotland and around the world.

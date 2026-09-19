@@ -11,11 +11,11 @@ venue: Hop Pole
 address: Friar Street
 place: Droitwich
 post_code: WR9 8ED
-when: First Sunday of month
+when: Monthly, 1st Sunday
 www: worcesterfolk.org.uk
 email: droitwichfolk@yahoo.com
 status: listed
 edited: 08/02/2012
 ---
 
-Easy-going session. Music and song, all types of folk acceptable. Also some country music.
+An easy-going session. Music and song, all types of folk acceptable, with some country music as well.

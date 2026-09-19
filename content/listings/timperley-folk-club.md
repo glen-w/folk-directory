@@ -15,5 +15,3 @@ when: Friday, 1st & 3rd
 www: ''
 status: listed
 ---
-
-Timperley Folk Club meets at Woodheys Club, Sale, on the first and third Fridays of the month.

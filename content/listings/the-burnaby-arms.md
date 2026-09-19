@@ -16,5 +16,3 @@ www: redcuthbert.uk/music-sessions
 logo: /images/listings/the_burnaby_arms_logo_850.png
 status: listed
 ---
-
-The Burnaby Arms at The Wellington Arms (Bedford) — Tuesday, Last in month

@@ -26,4 +26,4 @@ SINGERS' NIGHTS
 The club also has a role in encouraging local musicians and singers to get together and perform traditional music in a more informal way.
 
 Not limited to singers, these nights are open to all – musicians, singers, and any acoustic performer who would like to take a floor spot and perform a couple of items for the enjoyment of all. There is no pressure to perform (performers put their name down if they wish to), and the club actively welcomes non-performers who simply want to come along and listen.
-A relaxed, friendly and supportive atmosphere is hosted by the club's resident MCs.
+A relaxed, friendly and supportive atmosphere is maintained by the club's resident MCs.

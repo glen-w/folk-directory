@@ -18,5 +18,3 @@ email: info@kitchengardencafe.co.uk
 logo: /images/listings/folk_club_at_the_kitchen_garden_cafe_logo_22.png
 status: listed
 ---
-
-Regular

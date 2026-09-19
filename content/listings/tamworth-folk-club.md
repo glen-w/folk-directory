@@ -16,5 +16,3 @@ www: www.tamworthfolk.co.uk
 logo: /images/listings/tamworth_folk_club_logo_863.png
 status: listed
 ---
-
-Tamworth Folk Club meets at The Tamworth Tap & Brewery, Tamworth, on the 1st and 3rd Fridays.

@@ -11,10 +11,10 @@ venue: The Telegraph
 address: 110 Quay Road, Bridlington
 place: East Yorkshire
 post_code: YO16 4JB
-when: Tuesday, Every 2 weeks
+when: Fortnightly, Tuesday
 www: bridlingtonfolkclub.weebly.com
 logo: /images/listings/bridlington_folk_club_logo_1102.png
 status: listed
 ---
 
-Bridlington Folk Club at The Telegraph (East Yorkshire) — Tuesday, Every 2 weeks
+Bridlington Folk Club meets at The Telegraph, East Yorkshire, on Tuesdays every two weeks.

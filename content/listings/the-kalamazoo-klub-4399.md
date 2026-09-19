@@ -15,5 +15,3 @@ when: Friday, 2nd in Month
 www: kalamazooklub.com
 status: listed
 ---
-
-The Kalamazoo Klub at The Great Northern Railway Tavern (Hornsey High Street, London) — Friday, 2nd in Month

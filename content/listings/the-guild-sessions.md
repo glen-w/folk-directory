@@ -15,5 +15,3 @@ when: Monday, 3rd in Month
 www: ''
 status: listed
 ---
-
-The Guild Sessions at St. Mary's Guildhall (Lincoln) — Monday, 3rd in Month

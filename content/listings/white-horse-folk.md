@@ -15,5 +15,3 @@ when: Thursday, Last in month
 www: d00207.wix.com/white-horse-folk
 status: listed
 ---
-
-White Horse Folk at White Horse, Seagrave (Leics) — Thursday, Last in month

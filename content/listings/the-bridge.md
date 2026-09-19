@@ -18,4 +18,3 @@ www: www.bridgefolkclub.co.uk
 logo: /images/listings/the_bridge_logo_671.png
 status: listed
 ---
-The Bridge, held at the Monkseaton Arms in Tyne & Wear, takes place every Sunday.

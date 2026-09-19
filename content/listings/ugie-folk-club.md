@@ -17,5 +17,3 @@ www: www.ugiefolk.co.uk
 email: information@ugiefolk.co.uk
 status: listed
 ---
-
-Ugie Folk Club, Longside Football Social Club, Aberdeenshire — first Friday of each month.

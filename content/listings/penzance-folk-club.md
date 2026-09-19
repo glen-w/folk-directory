@@ -16,5 +16,3 @@ when: Wednesday, Every 2 weeks
 www: www.penzancefolkclub.co.uk
 status: listed
 ---
-
-Penzance Folk Club at Bath Inn — Wednesday, Every 2 weeks

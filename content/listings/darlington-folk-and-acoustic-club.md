@@ -11,9 +11,7 @@ venue: Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H
 address: Longfield Road
 place: Darlington
 post_code: DL3 0HS
-when: Thursday, 2nd & 4th
+when: Monthly, 2nd & 4th Thursday
 www: www.darlofolkacoustic.co.uk
 status: listed
 ---
-
-Darlington Folk and Acoustic Club at Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H (Darlington Simpson Rolling Mills Social Club on Longfield Road) — Thursday, 2nd & 4th

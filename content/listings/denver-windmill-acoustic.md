@@ -11,9 +11,7 @@ venue: Denver Windmill
 address: Blackstone Engine Bar, Denver Windmill, Sluice Rd
 place: Downham Market
 post_code: PE38 0DZ
-when: Friday, 1st & 3rd
+when: Monthly, 1st & 3rd Friday
 www: ''
 status: listed
 ---
-
-Denver Windmill Acoustic at Denver Windmill (Downham Market) — Friday, 1st & 3rd

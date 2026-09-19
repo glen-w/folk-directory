@@ -15,5 +15,3 @@ when: Wednesday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Mixed folk/contemporary session at Farmers Arms (GB) — Wednesday, 3rd in month

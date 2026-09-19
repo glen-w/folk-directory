@@ -15,5 +15,3 @@ when: Friday, 2nd in Month
 www: ''
 status: listed
 ---
-
-The Kirkby in Ashfield Folk and Acoustic Club meets at the Duke of Wellington, Notts, on the second Friday of each month.

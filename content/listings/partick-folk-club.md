@@ -15,5 +15,3 @@ when: Friday, Last in Month
 www: www.glasgowwestend.co.uk/whatson/partickfolkclub09.php
 status: listed
 ---
-
-Partick Folk Club, St Peter's Hall, Glasgow — last Friday of the month.

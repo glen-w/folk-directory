@@ -16,5 +16,3 @@ www: www.paperbacktheatre.com/live-at-the-hive
 email: liveatthehivemoseley@gmail.com
 status: listed
 ---
-
-Live at the Hive at Moseley Hive (Birmingham) — Thursday, Last in month

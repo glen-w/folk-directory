@@ -17,5 +17,3 @@ email: anchorfolk@msn.com
 status: listed
 edited: 25/10/2011
 ---
-
-Anchor Folk Club at The Blue Anchor Pub (Surrey.) — Thursday, Every Week

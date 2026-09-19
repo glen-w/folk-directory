@@ -11,9 +11,7 @@ venue: Bush Inn
 address: Bush Inn, 120 Moorside St
 place: Droylsden Manchester
 post_code: M43 7HL
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: ''
 status: listed
 ---
-
-Bush Acoustic Music Club at Bush Inn (Droylsden Manchester) — Tuesday, Every Week

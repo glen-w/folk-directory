@@ -16,5 +16,3 @@ when: Thursday, 1st in Month
 www: www.wrexhamfolkacoustic.club
 status: listed
 ---
-
-Wrexham Folk & Acoustic Club at Pub - The Nag's Head. Every first and third Thursday of the month from October to June, (LL13 8DW.) — Thursday, 1st in Month

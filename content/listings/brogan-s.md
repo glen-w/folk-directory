@@ -19,4 +19,4 @@ www: www.brogans.ie
 status: listed
 ---
 
-I passed through Trim in mid-July and stumbled upon this session. I was very warmly received by the four players there (pipes, box, whistle and guitar/vocals). A high standard of music, and a straightforward, accessible style of playing.
+A session in Trim. Four players — pipes, box, whistle, and guitar/vocals — offer a high standard of music in a straightforward, accessible style. Visitors are warmly received.

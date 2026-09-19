@@ -11,9 +11,7 @@ venue: Commercial Hotel
 address: 107 Station Rd, Chapeltown
 place: South Yorkshire
 post_code: TQ9 5EL
-when: Monday, Every Week
+when: Weekly, Monday
 www: www.facebook.com/groups/144387085754131
 status: listed
 ---
-
-Booit Straps takes place at the Commercial Hotel, South Yorkshire, every Monday.

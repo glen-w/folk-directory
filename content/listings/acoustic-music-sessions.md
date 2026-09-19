@@ -16,5 +16,3 @@ www: birkscinema.co.uk/activities/acoustic-music-sessions
 logo: /images/listings/acoustic_music_sessions_logo_896.png
 status: listed
 ---
-
-Acoustic music sessions are held at The Birks Cinema, 1 Dunkeld Street, Aberfeldy, every Thursday.

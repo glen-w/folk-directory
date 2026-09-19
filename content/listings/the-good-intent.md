@@ -17,5 +17,3 @@ www: www.goodintentpetersfield.co.uk
 email: info@goodintentpetersfield.co.uk
 status: listed
 ---
-
-The Good Intent at The Rising Sun pub (Kent) — Tuesday, 1st & 3rd

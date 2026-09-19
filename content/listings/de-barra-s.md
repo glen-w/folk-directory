@@ -21,4 +21,4 @@ email: coughlanslivebookings@gmail.com
 status: listed
 ---
 
-Monday evenings, 10-midnight, in the Folk Club part of De Barra's, which is on the main high street through Clonakilty (Co Cork), two or three hundred yards east of the big spired Catholic Church.
+De Barra's, on the main high street through Clonakilty (Co Cork), two or three hundred yards east of the big spired Catholic Church, hosts a folk club on Monday evenings from 10 to midnight.

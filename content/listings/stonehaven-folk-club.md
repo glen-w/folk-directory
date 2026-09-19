@@ -17,5 +17,3 @@ www: www.stonehavenfolkclub.co.uk
 logo: /images/listings/stonehaven_folk_club_logo_805.png
 status: listed
 ---
-
-Stonehaven Folk Club at Community Centre (Stonehaven) — Friday, Every Week

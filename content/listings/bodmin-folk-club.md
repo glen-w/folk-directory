@@ -19,4 +19,4 @@ status: listed
 edited: 18/11/2011
 ---
 
-The Club that loves to sing!
+A folk club with a focus on singing.

@@ -15,5 +15,3 @@ when: Thursday, Every Week
 www: ''
 status: listed
 ---
-
-Tump Folk Club meets at The Humber pub in Coventry on Thursdays, every week.

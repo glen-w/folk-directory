@@ -15,4 +15,3 @@ when: Friday, 1st, 3rd, 5th
 www: ''
 status: defunct
 ---
-The Valley Folk Club at Glais Rugby Football Club (Swansea) — Friday, 1st, 3rd, 5th

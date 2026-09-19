@@ -11,9 +11,7 @@ venue: The Wellington
 address: The Wellington, 37 Bennetts Hill
 place: Birmingham
 post_code: B2 5SN
-when: Tuesday, 3rd in Month
+when: Monthly, 3rd Tuesday
 www: ''
 status: listed
 ---
-
-Folk music and song session at The Wellington, Birmingham, on the third Tuesday of each month.

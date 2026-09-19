@@ -16,5 +16,3 @@ www: www.wigtontheatre.org
 logo: /images/listings/folk_at_the_john_peel_logo_898.png
 status: listed
 ---
-
-Folk at the John Peel at The John Peel Theatre (Wigton Cumbria) — Varied, Variable

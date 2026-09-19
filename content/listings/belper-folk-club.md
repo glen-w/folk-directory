@@ -18,6 +18,6 @@ status: listed
 edited: 15/11/2011
 ---
 
-Most Tuesdays are open nights where anyone is welcome to come along to sing, play instruments, recite poetry, or just listen and be entertained.
+Most Tuesdays are open nights where anyone is welcome to come along to sing, play instruments, recite poetry, or simply listen and be entertained.
 
-At least once a month, the club organises a guest night where a high-quality act is booked to perform, along with a couple of floor spots.
+At least once a month, the club organises a guest night featuring a high-quality act, along with a couple of floor spots.

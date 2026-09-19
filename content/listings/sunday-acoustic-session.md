@@ -15,5 +15,3 @@ when: Sunday, 3rd in Month
 www: www.facebook.com/miceforlent
 status: listed
 ---
-
-Sunday Acoustic Session at Friendship Club Thornhill (Thornhill) — Sunday, 3rd in Month

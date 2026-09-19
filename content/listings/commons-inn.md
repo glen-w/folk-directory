@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Navan's most-mentioned trad night. Thursday sessions in a town-centre pub — good mix of Boyne Valley regulars and the odd passing musician.
+Navan's most-mentioned trad night. Thursday sessions in a town-centre pub, with a good mix of Boyne Valley regulars and the odd passing musician.

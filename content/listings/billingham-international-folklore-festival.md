@@ -18,10 +18,10 @@ status: listed
 edited: 10/11/2013
 ---
 
-Groups & ensembles from UK & Worldwide perform traditional & contemporary music, song  & dance in a blaze of colourful costumes.
+Groups and ensembles from the UK and worldwide perform traditional and contemporary music, song, and dance in colourful costumes.
 
-Arena & theatre concerts, street performance & special events at various venues in Billingham, Middlesbrough & Newcastle in this 8 day festival.
+Arena and theatre concerts, street performance, and special events take place at various venues in Billingham, Middlesbrough, and Newcastle over the eight-day festival.
 
-Participate in workshops, dance courses & children’s club activities.
+The festival includes workshops, dance courses, and children's club activities.
 
-Billingham Town Centre developed in early 1960s, by Billingham Urban District Council, as one of the first traffic free shopping precincts in the UK & each year since 1965 has hosted this Festival of fun & friendship, where cultures of the world unite & display a wonderful  fusion of colour, vibrant music & spectacular dances from across the globe.
+Billingham Town Centre was developed in the early 1960s by Billingham Urban District Council as one of the first traffic-free shopping precincts in the UK. It has hosted this festival of fun and friendship each year since 1965, bringing together cultures from around the world in a display of colour, music, and dance.

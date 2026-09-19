@@ -20,4 +20,4 @@ status: listed
 logo: /images/listings/cruises_bar_logo_7211.png
 ---
 
-Well, that's what I heard from a reliable source. I still hope it's not true, though. Last time I was in Ennis, I actually failed to find a good music session in the pub. Does anybody know what's going on there at the moment?
+A pub in Ennis where music sessions take place.

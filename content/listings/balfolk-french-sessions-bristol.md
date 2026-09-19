@@ -11,9 +11,7 @@ venue: Bristol Brewhouse and Kitchen
 address: Brewhouse & Kitchen - Bristol, 31-35 Cotham Hill, Redland
 place: Bristol
 post_code: BS6 6JY
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: bathfrenchsession.wordpress.com
 status: listed
 ---
-
-Balfolk & French Sessions Bristol at Bristol Brewhouse and Kitchen (Bristol) — Sunday, 3rd in Month

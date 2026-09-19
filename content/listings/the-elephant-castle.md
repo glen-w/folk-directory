@@ -15,5 +15,3 @@ when: Saturday, Every Week
 www: www.lewessaturdayfolkclub.org
 status: listed
 ---
-
-The Elephant & Castle at Elephant and Castle (East Sussex) — Saturday, Every Week

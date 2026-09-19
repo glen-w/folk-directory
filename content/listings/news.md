@@ -16,5 +16,3 @@ when: Wednesday, Every Week
 www: www.folkwales.org.uk/folk.html
 status: listed
 ---
-
-News at Pontyclun Institute and Athletic Club (Castan Rd/Palalwyf Ave, Pontyclun), Wednesday, every week.

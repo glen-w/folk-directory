@@ -17,4 +17,3 @@ when: Friday, 1st in Month
 www: ''
 status: listed
 ---
-Phoenix Folk Club, Poynton, at Poynton British Legion (Poynton SK12 IJY) — Friday, 1st in month

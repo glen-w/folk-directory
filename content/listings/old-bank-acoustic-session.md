@@ -15,5 +15,3 @@ when: Tuesday, Every Week
 www: ''
 status: listed
 ---
-
-Old Bank Acoustic Session at The Old Bank, Derbyshire. Held every Tuesday.

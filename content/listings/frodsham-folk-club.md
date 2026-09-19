@@ -15,5 +15,3 @@ when: Friday, Every Week
 www: www.frodshamfolkclub.com
 status: listed
 ---
-
-Frodsham Folk Club at Castle Park Arts Centre (Park Lane, Frodsham) — Friday, Every Week

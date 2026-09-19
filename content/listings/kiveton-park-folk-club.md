@@ -16,5 +16,3 @@ www: www.kivetonfolk.com
 logo: /images/listings/kiveton_park_folk_club_logo_765.png
 status: listed
 ---
-
-Kiveton Park Folk Club at Kiveton Park Colliery Cricket Club, South Yorkshire — Tuesday, every week.

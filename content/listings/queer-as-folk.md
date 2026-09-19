@@ -15,5 +15,3 @@ when: Wednesday, Every 2 weeks
 www: www.instagram.com/p/C0O7sUBtE60
 status: listed
 ---
-
-Queer as Folk at The Molly House - Pub (Manchester) — Wednesday, Every 2 weeks

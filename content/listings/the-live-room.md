@@ -16,5 +16,3 @@ www: www.theliveroom.info
 logo: /images/listings/the_live_room_logo_915.png
 status: listed
 ---
-
-The Live Room at Caroline Street Social Club (Shipley) — Varied, Variable

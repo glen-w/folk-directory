@@ -17,6 +17,4 @@ email: trivett.bingham@ntlworld.com
 status: listed
 ---
 
-Come and enjoy great folk music in the charming market town of Bingham in Nottinghamshire.
-
-There is no formal membership procedure. Performing and non performing visitors most welcome.
+Folk music sessions are held in Bingham, a market town in Nottinghamshire. There is no formal membership procedure. Performing and non-performing visitors are welcome.

@@ -15,5 +15,3 @@ when: Wednesday, Every Week
 www: ''
 status: listed
 ---
-
-Nether Edge Folk Club meets at Nether Edge Bowling Club, South Yorkshire, every Wednesday.

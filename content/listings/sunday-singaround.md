@@ -15,5 +15,3 @@ when: Sunday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Sunday Singaround at The Gas Lamp (Manchester) — Sunday, 3rd in Month

@@ -11,9 +11,7 @@ venue: Howard Arms Hotel
 address: Front Street, Brampton
 place: Cumbria
 post_code: CA8 1NS
-when: Tuesday, 3rd in Month
+when: Monthly, 3rd Tuesday
 www: www.laverocks.org.uk
 status: listed
 ---
-
-Brampton Folk Sessions at Howard Arms Hotel, Cumbria — Tuesday, 3rd in month.

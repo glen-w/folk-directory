@@ -18,4 +18,4 @@ logo: /images/listings/between_the_trees_logo_3716.png
 status: listed
 ---
 
-Music - Natural Science - Art An idyllic, new, 100 acre, woodland site in South Wales. Between The Trees has a unique theme of music, natural science and art. The festival aims to engage people of all ages with the natural world and to re-connect younger generations with the wonder and restorative qualities that this woodland environment offers. Musically, it is grounded in contemporary folk, Amer
+Music, natural science and art. An idyllic, new, 100-acre woodland site in South Wales. Between the Trees has a unique theme of music, natural science and art. The festival aims to engage people of all ages with the natural world and to reconnect younger generations with the wonder and restorative qualities that this woodland environment offers.

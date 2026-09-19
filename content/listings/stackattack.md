@@ -15,5 +15,3 @@ when: Saturday, Other
 www: ''
 status: listed
 ---
-
-Stackattack at Rosemount wmc (Bacup) — Saturday, Other

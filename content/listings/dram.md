@@ -18,4 +18,4 @@ email: dram@threethistles.co.uk
 status: listed
 ---
 
-Mixed tunes/singers session. Led by Phil. Participants get a drink ticket. Although the distribution of said tickets can break down a wee bit towards the end of the night. Starts at the ungodly hour of 6pm - or around then - I have
+Mixed tunes/singers session led by Phil. Participants receive a drink ticket, though supply may run low towards the end of the night. Starts around 6pm.

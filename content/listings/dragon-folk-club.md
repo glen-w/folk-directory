@@ -11,10 +11,8 @@ venue: Bridge Inn
 address: Bridge Rd, Shortwood
 place: Bristol
 post_code: BS16 9NG
-when: Friday, Every Week
+when: Weekly, Friday
 www: dragonfolkclub.blogspot.co.uk
 email: dragonfolk@rosma.co.uk
 status: listed
 ---
-
-Dragon Folk Club at Bridge Inn (Bristol) — Friday, Every Week

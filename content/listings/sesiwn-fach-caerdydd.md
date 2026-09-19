@@ -16,5 +16,3 @@ when: Monday, Every Week
 www: www.sesiwn.com
 status: listed
 ---
-
-Sesiwn Fach Caerdydd at Owain Glyndwr (Cardiff) — Monday, Every Week

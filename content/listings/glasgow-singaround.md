@@ -15,5 +15,3 @@ when: Monday, 1st in Month
 www: www.facebook.com/groups/893696297379282
 status: listed
 ---
-
-Glasgow Singaround at Dram, Woodlands Road (Glasgow) — Monday, 1st in Month

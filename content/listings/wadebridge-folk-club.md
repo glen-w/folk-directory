@@ -15,5 +15,3 @@ when: Thursday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Wadebridge Folk Club at The Barn (NT Café Pentireglaze) — Thursday, 3rd in month

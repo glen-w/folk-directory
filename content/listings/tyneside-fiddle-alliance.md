@@ -16,5 +16,3 @@ www: tynesidefiddlealliance.org.uk
 logo: /images/listings/tyneside_fiddle_alliance_logo_911.png
 status: listed
 ---
-
-Tyneside Fiddle Alliance at St George's Church Hall, Jesmond (Newcastle upon Tyne) — Thursday, 1st & 3rd

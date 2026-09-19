@@ -18,4 +18,4 @@ logo: /images/listings/cottingham_folk_festival_logo_3717.png
 status: listed
 ---
 
-Now in its twelth year, for the region's already blossoming music calendar, to be hosted in various venues in the picturesque East Yorkshire village of Cottingham across the first weekend of September. An exciting addition to a vibrant summer of events, this three-day extravaganza will see an incredible line-up of artists descend on what is thought to be the largest village in the UK Location: Cot
+Now in its twelfth year, the festival is hosted across various venues in Cottingham, an East Yorkshire village thought to be the largest in the UK, over the first weekend of September. The three-day event features a line-up of artists.

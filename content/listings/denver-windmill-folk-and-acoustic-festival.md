@@ -17,4 +17,4 @@ www: www.facebook.com/events/blackstone-engine-bar-official/denver-windmill-free
 status: listed
 ---
 
-Sing-around & jam sessions and open mic - all musicians welcome to join in Performer sets & join in songs or tunes. Dance Competitions for all ages & Step Dance workshops Jig Doll competition. Tales & poetry readings throughout the day. Also the beer festival is going on too. Location: Downham Market Date: Sunday 23rd August 2026 for 1 day(s) Full Price: £ Also available It's FREE! Contact for inf
+The festival features sing-arounds, jam sessions, and an open mic, with all musicians welcome to join in. Performer sets are accompanied by join-in songs and tunes. Dance competitions for all ages and step dance workshops are held alongside a jig doll competition. Tales and poetry readings run throughout the day. A beer festival takes place concurrently. The festival is held in Downham Market on Sunday 23rd August 2026 and is free to attend.

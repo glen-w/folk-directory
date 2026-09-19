@@ -15,5 +15,3 @@ when: Wednesday, 2nd & 4th
 www: ''
 status: listed
 ---
-
-The Lamb Diddle Session at The Lamb, Surbiton (Greater London) — Wednesday, 2nd & 4th

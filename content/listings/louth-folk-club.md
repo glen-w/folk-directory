@@ -16,5 +16,3 @@ www: www.louthfolkclub.org.uk
 logo: /images/listings/louth_folk_club_logo_866.png
 status: listed
 ---
-
-Louth Folk Club meets at Louth Jazz Club, Louth, on the second and fourth Thursday.

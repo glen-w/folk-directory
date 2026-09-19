@@ -15,5 +15,3 @@ when: Friday, Every Week
 www: folkbeeston.club
 status: listed
 ---
-
-Second Time Around takes place at the Royal British Legion, Nottingham, every Friday.

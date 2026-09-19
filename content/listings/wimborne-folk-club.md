@@ -15,5 +15,3 @@ when: Thursday, Every Week
 www: ''
 status: listed
 ---
-
-Wimborne Folk Club at cafe@the Allendale centre (Wimborne) — Thursday, Every Week

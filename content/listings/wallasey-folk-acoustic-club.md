@@ -16,5 +16,3 @@ www: wfaclub.wixsite.com/wallaseyfolkacoustic
 email: wfac@btinternet.com
 status: listed
 ---
-
-Wallasey Folk & Acoustic Club meets at Misty Blues, Wallasey, on the first and third Sunday of the month.

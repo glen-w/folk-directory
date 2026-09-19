@@ -15,5 +15,3 @@ when: Thursday, 2nd & 4th
 www: ''
 status: listed
 ---
-
-Longdendale Folk/Acoustic Night at Bull's Head, Tintwistle (Glossop) — Thursday, 2nd & 4th

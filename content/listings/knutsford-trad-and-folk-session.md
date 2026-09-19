@@ -15,5 +15,3 @@ when: Tuesday, 1st in Month
 www: www.facebook.com/groups/239547332815313
 status: listed
 ---
-
-Knutsford Trad and Folk Session at Lord Eldon (Cheshire) — Tuesday, 1st in Month

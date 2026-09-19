@@ -11,7 +11,7 @@ venue: ''
 address: ''
 place: Cadgwith
 post_code: ''
-when: every Tuesday from 9pm
+when: Weekly, Tuesday, 9:00pm
 www: ''
 status: listed
 ---

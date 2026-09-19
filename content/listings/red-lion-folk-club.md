@@ -16,5 +16,3 @@ www: redlionfolkclub.com
 email: acef@redlionfolkclub.co.uk
 status: listed
 ---
-
-Red Lion Folk Club at The Red Lion (Birmingham) — Wednesday, Every Week

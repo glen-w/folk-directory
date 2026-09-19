@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Castlebar town local. Friday and Saturday trad nights — the kind of pub that opens before matches and stays open after them.
+A Castlebar town local. Friday and Saturday trad nights — the kind of pub that opens before matches and stays open after them.

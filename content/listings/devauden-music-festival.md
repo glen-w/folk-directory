@@ -18,4 +18,4 @@ status: listed
 edited: 31/01/2012
 ---
 
-There will be great live music and fun for the whole family at the 2012 Devauden Music Fest.
+The 2012 Devauden Music Fest offers live music and family-friendly entertainment.

@@ -15,5 +15,3 @@ when: Friday, 1st in Month
 www: ''
 status: listed
 ---
-
-First Friday Folk is held at the Commercial Hotel, Sheffield, on the first Friday of each month.

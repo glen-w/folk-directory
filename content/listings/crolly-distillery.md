@@ -19,4 +19,4 @@ www: thecrollydistillery.com
 status: listed
 ---
 
-Bíonn an éagsúlacht ceoltóirí agus leibhéil difriúla ceoil ag an seisiún seo -- ag braithstint ar an tseachtain. De ghnáth, bíonn an ceol ag toiseacht gar do 3:00IN agus críochnaíonn sé gar do 5:00IN.
+The session features a varied mix of musicians and different levels of playing, depending on the week. Music usually begins around 3:00 pm and finishes around 5:00 pm.

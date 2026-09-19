@@ -294,6 +294,22 @@ def test_thesession_coords_become_entity_and_lat_lng(monkeypatch, tmp_path):
     assert pub.body_for_new({**ent, "raw_excerpt": "Bangor | Down | Northern Ireland | tel 028 | @54.66370,-5.66544"}) == ""
 
 
+def test_body_for_new_does_not_fabricate_identity_stub():
+    entity = {
+        "name": "The Roost",
+        "venue": "The Roost",
+        "place": "Maynooth",
+        "event_types": ["session"],
+        "when": "Friday, Every Week",
+        "raw_excerpt": "Index: stub",
+    }
+    assert pub.body_for_new(entity) == ""
+    entity["raw_excerpt"] = "The Roost at The Roost (Maynooth) — Friday, Every Week"
+    assert pub.body_for_new(entity) == ""
+    entity["raw_excerpt"] = "Nice atmosphere."
+    assert "atmosphere" in pub.body_for_new(entity).lower()
+
+
 def test_listicle_name_not_publishable():
     ent = bc.entity_from_cluster(
         [

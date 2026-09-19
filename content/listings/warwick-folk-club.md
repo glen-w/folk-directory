@@ -16,5 +16,3 @@ when: Monday, Every Week
 www: www.warwickfolkclub.co.uk
 status: listed
 ---
-
-Warwick Folk Club at Woodloes Tavern (Warwick) — Monday, Every Week

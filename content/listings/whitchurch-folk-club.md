@@ -16,5 +16,3 @@ www: www.whitchurchfolk.club
 logo: /images/listings/whitchurch_folk_club_logo_892.png
 status: listed
 ---
-
-Whitchurch Folk Club at Whitchurch Parish Hall, Hampshire. Varied and variable.

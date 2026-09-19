@@ -15,5 +15,3 @@ when: Wednesday, 1st in Month
 www: bramptonsessions.co.uk
 status: listed
 ---
-
-The Brampton Sessions at St Thomas Church Centre, Chesterfield — Wednesday, first in month.

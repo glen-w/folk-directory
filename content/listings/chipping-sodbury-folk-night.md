@@ -15,5 +15,3 @@ when: Thursday, 1st in Month
 www: ''
 status: listed
 ---
-
-Chipping Sodbury Folk Night at Beaufort Hunt Pub (Bristol) — Thursday, 1st in Month

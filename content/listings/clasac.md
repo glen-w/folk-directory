@@ -20,4 +20,4 @@ email: cst@gmail.com
 status: listed
 ---
 
-This music session is hosted by the local Comhaltas branch ( Craobh Sean Treacy) and has been running for many many years. Every Tuesday from 8pm - 11pm and is open to all ages and abilities.
+This music session is hosted by the local Comhaltas branch (Craobh Sean Treacy) and has been running for many years. It takes place every Tuesday from 8pm to 11pm and is open to all ages and abilities.

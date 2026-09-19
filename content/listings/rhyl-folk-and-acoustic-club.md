@@ -16,5 +16,3 @@ when: Friday, Every Week
 www: rhylfolkandacoustic.co.uk
 status: listed
 ---
-
-Rhyl Folk and Acoustic Club at Royal British Legion (Abergele) — Friday, Every Week

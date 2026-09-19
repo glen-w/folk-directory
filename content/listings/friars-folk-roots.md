@@ -15,5 +15,3 @@ when: Varied, Variable
 www: ''
 status: listed
 ---
-
-Friars Folk & Roots at The Frog & Fiddle (Gloucestershire) — Varied, Variable

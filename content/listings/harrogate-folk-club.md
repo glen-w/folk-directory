@@ -15,5 +15,3 @@ when: Wednesday, 1st in Month
 www: harrogatefolk.com
 status: listed
 ---
-
-Harrogate Folk Club meets at Roosters Brewery, North Yorkshire, on the first Wednesday of the month.

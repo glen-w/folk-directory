@@ -15,5 +15,3 @@ when: Friday, 4th in Month
 www: ''
 status: listed
 ---
-
-Session Borgue Hotel at Borgue Hotel (Kirkcudbright) — Friday, 4th in Month

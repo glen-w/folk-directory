@@ -15,5 +15,3 @@ when: Sunday, Variable
 www: www.facebook.com/profile.php?id=100072098543669
 status: listed
 ---
-
-Pontefract Folk Club at The Old Grocers, Pontefract (Pontefract) — Sunday, Variable

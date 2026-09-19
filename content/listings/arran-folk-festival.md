@@ -18,8 +18,8 @@ status: listed
 edited: 25/01/2012
 ---
 
-The annual Arran Folk Festival takes place in June on the Isle of Arran, Scotland. The programming includes concerts, ceilidh, free open pub sessions on the beautiful Isle of Arran.
+The annual Arran Folk Festival takes place in June on the Isle of Arran, Scotland. The programme includes concerts, ceilidhs, and free open pub sessions.
 
-Known as 'Scotland in Miniature', is one of the most southerly Scottish islands. It has mountains and lochs in the north and rolling hills and meadows in the south, surrounded by a stunning coastline.
+The island, known as 'Scotland in Miniature', is one of the most southerly Scottish islands, with mountains and lochs in the north and rolling hills and meadows in the south, surrounded by a stunning coastline.
 
-Less than an hours ride on the Caledonian MacBrayne ferry from Ardrossan.
+It is less than an hour's ride on the Caledonian MacBrayne ferry from Ardrossan.

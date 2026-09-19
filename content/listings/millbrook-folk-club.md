@@ -15,5 +15,3 @@ when: Friday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Millbrook Folk Club meets in the Balcony Room at Millbrook Village Hall, Cornwall, on the third Friday of each month.

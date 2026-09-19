@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Folk The Wellington (5th Week) at The Wellington (Bennetts Hill Birmingham) — Tuesday, Other
+A folk session at The Wellington, Bennetts Hill, Birmingham, on the fifth Tuesday of the month.

@@ -15,5 +15,3 @@ when: Wednesday, Variable
 www: ''
 status: listed
 ---
-
-Sesiwn Ioan Rhagfyr at Various (Wales.) — Wednesday, Variable

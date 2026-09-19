@@ -16,5 +16,3 @@ when: Wednesday, Every Week
 www: www.haddingtonfolkclub.co.uk
 status: listed
 ---
-
-Haddington Folk Club at Railway Hotel (Haddington) — Wednesday, Every Week

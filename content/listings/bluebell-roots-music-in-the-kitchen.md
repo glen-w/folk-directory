@@ -11,9 +11,7 @@ venue: Bluebell Farmhouse Kitchen
 address: Bates Green Farm, Tye Hill Road, Arlington
 place: East Sussex
 post_code: BN26 6SH
-when: Sunday, Last in month
+when: Monthly, Last Sunday
 www: www.bluebellroots.co.uk
 status: listed
 ---
-
-Bluebell Roots – Music in the Kitchen, at Bluebell Farmhouse Kitchen, East Sussex. Last Sunday of the month.

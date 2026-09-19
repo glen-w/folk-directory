@@ -15,5 +15,3 @@ when: Sunday, 3rd in Month
 www: instagram.com/gatheringsouth
 status: listed
 ---
-
-Gathering South Sessions at The Red Door Club (basement of The Old Toll Bar) (1 Admiral Street, Glasgow) — Sunday, 3rd in Month

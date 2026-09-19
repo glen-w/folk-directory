@@ -17,14 +17,4 @@ email: siddall394@tiscali.co.uk
 status: listed
 ---
 
-At the Dumbles Folk we welcome all musicians, singers, poets and listeners.
-
-Come
-
-At the Dumbles Folk we welcome all musicians, singers, poets and listeners.
-
-Come along to this relaxed and friendly Singaround group.
-
-FREE ADMISSION + 
-
-FREE SUPPER Kindly provided by the hosts Steve (Tink) & Angie
+The Dumbles Folk Club welcomes all musicians, singers, poets and listeners. The club is a relaxed and friendly singaround group. Admission is free, and a free supper is kindly provided by the hosts Steve (Tink) and Angie.

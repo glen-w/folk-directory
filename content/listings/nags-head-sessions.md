@@ -15,5 +15,3 @@ when: Saturday, Every Week
 www: ''
 status: listed
 ---
-
-Nags Head Sessions at The Nags Head (Scarborough) — Saturday, Every Week

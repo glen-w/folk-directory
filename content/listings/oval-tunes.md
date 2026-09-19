@@ -15,5 +15,3 @@ when: Sunday, 1st & 3rd
 www: ukulele.magix.net
 status: listed
 ---
-
-Oval Tunes at Green Dragon (Croydon) — Sunday, 1st & 3rd

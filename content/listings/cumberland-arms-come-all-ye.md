@@ -11,9 +11,7 @@ venue: The Cumberland Arms (back room)
 address: James Place Street, Byker
 place: Newcastle upon Tyne
 post_code: NE6 1LD
-when: Tuesday, 2nd in Month
+when: Monthly, 2nd Tuesday
 www: ''
 status: listed
 ---
-
-Cumberland Arms Come-all-Ye at The Cumberland Arms (back room) (Newcastle upon Tyne) — Tuesday, 2nd in Month

@@ -15,5 +15,3 @@ when: Sunday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Quay Folk Club, Quay Arts Centre, Isle of Wight. Meets on the third Sunday of each month.

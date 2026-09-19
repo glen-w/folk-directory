@@ -15,5 +15,3 @@ when: Friday, Last in month
 www: ''
 status: listed
 ---
-
-Ring of Iron Folk Club at Chapel @ Whitehouse Street (Middlesbrough) — Friday, Last in month

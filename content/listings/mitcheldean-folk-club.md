@@ -15,5 +15,3 @@ when: Thursday, 2nd in Month
 www: www.instagram.com/p/C0O7sUBtE60
 status: listed
 ---
-
-Mitcheldean Folk Club at The White Horse, Gloucestershire — Thursday, second of the month

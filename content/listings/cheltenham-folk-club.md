@@ -12,9 +12,7 @@ venue: Sandford Park Alehouse
 address: High Street
 place: Cheltenham
 post_code: GL50 1DZ
-when: Monday, 2nd & 4th
+when: Monthly, 2nd & 4th Monday
 www: www.cheltenhamfc.org.uk
 status: listed
 ---
-
-Cheltenham Folk Club meets at the Sandford Park Alehouse, High Street, Cheltenham, on the second and fourth Mondays of the month.

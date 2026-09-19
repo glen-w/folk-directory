@@ -19,4 +19,4 @@ status: listed
 logo: /images/listings/cruden_bay_folk_club_logo_962.png
 ---
 
-Cruden Bay Folk Club Kilmarnock Arms Hotel Usually Last Friday, Every Month Live Club Nights will resume from June 2022, initially in the Village Hall, then back to our spiritual home, The Kilmarnock Arms Hotel in September 2022. For more info see: Cruden Bay Folk Club
+The club meets usually on the last Friday of each month at the Kilmarnock Arms Hotel. Live club nights resumed from June 2022, initially in the Village Hall, before returning to the Kilmarnock Arms Hotel in September 2022.

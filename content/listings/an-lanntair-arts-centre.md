@@ -15,5 +15,3 @@ when: Varied, Variable
 www: www.lanntair.com
 status: listed
 ---
-
-An Lanntair Arts Centre at An Lanntair Arts Centre (Isle of Lewis) — Varied, Variable

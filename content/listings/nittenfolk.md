@@ -17,5 +17,3 @@ www: Nittenfolk.com
 logo: /images/listings/nittenfolk_logo_880.png
 status: listed
 ---
-
-Nittenfolk at The Dean Tavern (Dalkeith) — Thursday, Every Week

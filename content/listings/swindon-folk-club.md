@@ -18,5 +18,3 @@ email: swindonfolkclub@gmail.com
 logo: /images/listings/swindon_folk_club_logo_913.png
 status: listed
 ---
-
-Swindon Folk Club at Upstairs at The Hop Inn (Swindon.) — Friday, 3rd in Month

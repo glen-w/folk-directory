@@ -16,5 +16,3 @@ when: Tuesday, Every Week
 www: www.penicuikfolk.org.uk
 status: listed
 ---
-
-Penicuik Folk Club meets at Shottstown Miners Club, Penicuik, every Tuesday.

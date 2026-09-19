@@ -11,9 +11,7 @@ venue: The Elphinstone Hotel
 address: High Street, Biggar
 place: South Lanarkshire
 post_code: ML12 6LX
-when: Thursday, Last in month
+when: Monthly, Last Thursday
 www: www.clydesdalefolkclub.net
 status: listed
 ---
-
-Clydesdale Folk Club meets at The Elphinstone Hotel, South Lanarkshire, on the last Thursday of the month.

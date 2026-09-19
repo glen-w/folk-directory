@@ -15,5 +15,3 @@ when: Friday, 2nd & 4th
 www: thesongloft.com
 status: listed
 ---
-
-The Song Loft at York House Centre (Stony Stratford) — Friday, 2nd & 4th

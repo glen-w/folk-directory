@@ -16,5 +16,3 @@ www: BAYFOLK.rhbay.co.uk
 logo: /images/listings/robin_hood_s_bay_folk_club_logo_849.png
 status: listed
 ---
-
-Robin Hood's Bay Folk Club at The Bay Hotel - Wainwrights Bar (Robin Hood's Bay) — Friday, Every Week

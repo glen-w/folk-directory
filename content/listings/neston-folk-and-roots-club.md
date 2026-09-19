@@ -15,5 +15,3 @@ when: Friday, 2nd in Month
 www: ''
 status: listed
 ---
-
-Neston Folk and Roots Club meets at Paisley Grey Café, Neston, on the second Friday of the month.

@@ -17,4 +17,4 @@ www: www.buryfolkfestival.co.uk
 status: listed
 ---
 
-Music-lovers can look forward to a great day out this summer, as the 9th Bury St Edmunds Folk Festival once again brings its own brand of magic to the town. The one-day event will be in the walled garden at Nowton Park. With craft stalls, children's activities, music workshops, hot food and a bar with local real ales, this promises to be a wonderful day for the whole family. The festival is organised
+The 9th Bury St Edmunds Folk Festival is a one-day event held in the walled garden at Nowton Park this summer. The festival features craft stalls, children's activities, music workshops, hot food, and a bar with local real ales, and is suitable for the whole family.

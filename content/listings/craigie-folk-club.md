@@ -17,4 +17,4 @@ www: www.cultural-connections.co.uk/folk_club.html
 status: listed
 ---
 
-Craigie Folk Club, Craigie Village Hall, near Kilmarnock. Saturday, time variable.
+Craigie Folk Club meets at Craigie Village Hall, near Kilmarnock, on Saturdays. Time is variable.

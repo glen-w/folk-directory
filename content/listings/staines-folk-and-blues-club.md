@@ -14,5 +14,3 @@ post_code: ''
 www: www.stainesfolkandblues.org.uk
 status: listed
 ---
-
-Staines Folk and Blues Club

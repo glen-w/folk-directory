@@ -16,5 +16,3 @@ www: lambfolkclub.co.uk
 email: eastbournelambfolk@outlook.com
 status: listed
 ---
-
-Lamb Folk Club Eastbourne at Lamb Inn (East Sussex) — Wednesday, 1st & 3rd

@@ -18,4 +18,4 @@ www: entertainment.ie/events/venue-information/de-barras-folk-club-418
 status: listed
 ---
 
-Clonakilty institution since 1975. Friday and Saturday nights. Noel Redding played here; the sign's still on the wall. One of the best rooms in Munster.
+A Clonakilty institution since 1975, the club meets on Friday and Saturday nights. Noel Redding played here; the sign is still on the wall. One of the best rooms in Munster.

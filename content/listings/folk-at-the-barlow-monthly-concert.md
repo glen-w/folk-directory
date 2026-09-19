@@ -17,5 +17,3 @@ email: folkatthebarlow@gmail.com
 logo: /images/listings/folk_at_the_barlow_monthly_concert_logo_852.png
 status: listed
 ---
-
-Folk at the Barlow is a monthly concert held at The Barlow, Edgworth, Bolton, on the third Friday of each month.

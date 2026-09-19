@@ -15,5 +15,3 @@ when: Wednesday, 1st and 3rd
 www: ''
 status: listed
 ---
-
-The Sportsman Music Night at The Sportsman (Huddersfield) — Wednesday, 1st and 3rd

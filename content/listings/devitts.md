@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Mondays from 18:30 until close. Early session, cracking by 8.
+Mondays from 18:30 until close. An early session, lively by 8.

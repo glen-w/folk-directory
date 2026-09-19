@@ -15,5 +15,3 @@ when: Tuesday, 4th in Month
 www: ''
 status: listed
 ---
-
-Stumble Inn Folk and Acoustic Afternoon at The Stumble Inn, Sunderland — Tuesday, 4th in month.

@@ -15,5 +15,3 @@ when: Sunday, 1st in Month
 www: ''
 status: listed
 ---
-
-Trent Acoustic Roots and Folk is held at the Radcliffe-on-Trent Royal British Legion, Nottinghamshire, on the first Sunday of the month.

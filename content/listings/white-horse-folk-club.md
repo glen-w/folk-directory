@@ -17,4 +17,3 @@ when: Wednesday, 1st & 3rd
 www: www.whitehorsefolkclub.co.uk
 status: listed
 ---
-White Horse Folk Club at ST. MICHAEL'S CHURCH ROOM (Highworth) — Wednesday, 1st & 3rd

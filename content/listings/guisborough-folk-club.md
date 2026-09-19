@@ -16,5 +16,3 @@ when: Sunday, 1st & 3rd
 www: www.guisboroughfolkclub.ukforum.com
 status: listed
 ---
-
-Guisborough Folk Club meets at Guisborough Rugby Union Football Club, Guisborough, on the first and third Sundays.

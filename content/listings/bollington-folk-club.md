@@ -12,9 +12,7 @@ venue: The Dog and Partridge
 address: 97 Palmerston St, Bollington
 place: Macclesfield
 post_code: SK10 5JX
-when: Sunday, 1st & 3rd
+when: Monthly, 1st & 3rd Sunday
 www: www.bollyfolk.com
 status: listed
 ---
-
-Bollington Folk Club meets at The Dog and Partridge, Macclesfield, on the first and third Sundays of the month.

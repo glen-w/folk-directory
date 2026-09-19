@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Out in the hills above Lough Allen. Davitt's runs sessions for a crowd that takes the music seriously. Worth the drive from Carrick if you want the real thing.
+Set in the hills above Lough Allen, Davitt's hosts sessions with a crowd that takes the music seriously. The venue is accessible by road from Carrick.

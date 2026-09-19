@@ -11,9 +11,7 @@ venue: The Old No7
 address: The Old Nó 7
 place: Market Hill. Barnsley
 post_code: S70 1LF
-when: Sunday, 2nd in Month
+when: Monthly, 2nd Sunday
 www: ''
 status: listed
 ---
-
-Barnsley Celtic Sessions at The Old No. 7, Market Hill, Barnsley — Sunday, second in the month.

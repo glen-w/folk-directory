@@ -16,5 +16,3 @@ www: fabaylesbury.co.uk
 logo: /images/listings/folk_acoustic_and_blues_aylesbury_logo_861.png
 status: listed
 ---
-
-Folk Acoustic & Blues Aylesbury at Fairford Leys Centre (Aylesbury) — Friday, 1st & 3rd

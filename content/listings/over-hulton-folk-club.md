@@ -16,5 +16,3 @@ www: www.overhultonfolkclub.com
 email: overhultonfolkclub@hotmail.com
 status: listed
 ---
-
-Over Hulton Folk Club at Over Hulton Conservative Club (Bolton) — Wednesday, Variable

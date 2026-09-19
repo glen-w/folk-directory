@@ -15,5 +15,3 @@ when: Sunday, 1st in Month
 www: www.thepolkahop.co.uk
 status: listed
 ---
-
-Wakefield Folk Session takes place at The Polka Hop, Wakefield, on the first Sunday of the month.

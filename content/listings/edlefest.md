@@ -17,4 +17,4 @@ logo: /images/listings/edlefest_logo_3656.png
 status: listed
 ---
 
-Come for the music, the local brew and the stunning location. Come for a good time! The festival is run by volunteers, and money raised is used to improve facilities /features in the venue (the church is no longer used for worship but used by the community for events and music).
+The festival features live music and local brew in a stunning location. It is run by volunteers, and money raised is used to improve facilities and features in the venue. The church is no longer used for worship but is used by the community for events and music.

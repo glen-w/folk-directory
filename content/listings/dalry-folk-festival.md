@@ -17,4 +17,4 @@ www: www.facebook.com/DalryFolkClub/?locale=en_GB
 status: listed
 ---
 
-A new event, back for its Fifth year. Takes place in Ayrshire, Scotland. Location: Dalry Date: Thursday 9th July 2026 for 4 day(s) Full Price: £ Also available Several free events, some ticketed, £12.50 Contact for info: Use facebook Website: www.facebook.com/DalryFolkClub/?locale=en_GB County: Ayrshire Country: Scotland
+A new event, now in its fifth year. The festival takes place in Dalry, Ayrshire, Scotland, over four days from Thursday 9th July 2026. Several events are free, with some ticketed at £12.50. Further information is available via the Dalry Folk Club Facebook page (www.facebook.com/DalryFolkClub/?locale=en_GB).

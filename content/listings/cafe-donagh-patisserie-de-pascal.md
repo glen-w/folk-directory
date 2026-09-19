@@ -19,4 +19,4 @@ www: www.patisseriedepascal.com
 status: listed
 ---
 
-Sit Back and enjoy live traditional music with a picturesque view of Carndonagh with a Cappuccino/latte/tea with the various variety of home made and populal French dishes that Patisserie de pascal has to offer.
+Live traditional music is offered alongside a view of Carndonagh. The venue serves cappuccino, latte, and tea, along with a variety of homemade and popular French dishes from Patisserie de Pascal.

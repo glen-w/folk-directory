@@ -11,9 +11,9 @@ venue: The Blue Bell
 address: The Blue Bell, Warings Green Road, The Blue Bell
 place: Earlswood
 post_code: B94 6BP
-when: Tuesday, 4th in Month
+when: Monthly, 4th Tuesday
 www: ''
 status: listed
 ---
 
-DH Folk The Blue Bell at The Blue Bell (Earlswood) — Tuesday, 4th in Month
+DH Folk at The Blue Bell, Earlswood, on the fourth Tuesday of each month.

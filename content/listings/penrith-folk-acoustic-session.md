@@ -15,5 +15,3 @@ when: Sunday, 4th in Month
 www: ''
 status: listed
 ---
-
-Penrith Folk & Acoustic Session at Crown Hotel (Cumbria) — Sunday, 4th in Month

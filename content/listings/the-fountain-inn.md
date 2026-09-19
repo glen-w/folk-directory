@@ -15,5 +15,3 @@ when: Tuesday, 1st & 3rd
 www: Thefountainnewbridge.co.uk
 status: listed
 ---
-
-The Fountain Inn at The Fountain Inn (Penzance) — Tuesday, 1st & 3rd

@@ -15,5 +15,3 @@ when: Monday, Every 2 weeks
 www: ''
 status: listed
 ---
-
-Folk at The Mullions at The Mullions (Somerset) — Monday, Every 2 weeks

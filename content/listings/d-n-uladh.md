@@ -15,10 +15,10 @@ place: Omagh
 post_code: BT79 0JP
 lat: 54.60307
 lng: -7.24265
-when: Sessions held on the first Saturday of every month.
+when: Monthly, 1st Saturday
 www: www.dunuladh.ie
 email: info@dunuladh.ie
 status: listed
 ---
 
-All musicians and music lovers welcome!!!
+All musicians and music lovers welcome.

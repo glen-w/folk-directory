@@ -15,5 +15,3 @@ when: Thursday, Every Week
 www: beggarsfolk.co.uk
 status: listed
 ---
-
-The Beggar's Folk Club at Community Hall (Station Road, Ottringham) — Thursday, Every Week

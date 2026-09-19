@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Long-established Ennis session in a proper town-centre pub. Locals mix with visitors. Fridays and Saturdays through the season.
+Long-established Ennis session in a town-centre pub. Locals mix with visitors. Fridays and Saturdays through the season.

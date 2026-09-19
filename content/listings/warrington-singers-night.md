@@ -15,5 +15,3 @@ when: Sunday, Every Week
 www: ''
 status: listed
 ---
-
-Warrington Singers' Night at The Bulls Head (Warrington), Sunday, every week.

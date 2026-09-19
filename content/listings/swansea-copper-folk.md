@@ -15,5 +15,3 @@ when: Sunday, Variable
 www: copperfolk.wix.com/copperfolk
 status: listed
 ---
-
-Swansea Copper Folk at Copper Jack (Swansea Community Boat) (Swansea) — Sunday, Variable

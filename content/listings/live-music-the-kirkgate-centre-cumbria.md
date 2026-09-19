@@ -15,5 +15,3 @@ when: Varied, Variable
 www: www.thekirkgate.com
 status: listed
 ---
-
-Live music @ The Kirkgate Centre at The Kirkgate Centre (Cumbria) — Varied, Variable

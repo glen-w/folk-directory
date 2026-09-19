@@ -18,4 +18,4 @@ logo: /images/listings/bridport_folk_festival_logo_3697.png
 status: listed
 ---
 
-The festival supports several charities. A fair number of Morris-related sides, workshops, music sessions, headline gigs, ceilidhs and barn dances, performances and storytelling, artisans, a children's area and more are already booked.
+The festival supports several charities. A range of Morris-related sides, workshops, music sessions, headline gigs, ceilidhs and barn dances, performances and storytelling, artisans, and a children's area are already booked.

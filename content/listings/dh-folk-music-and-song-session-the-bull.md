@@ -11,9 +11,7 @@ venue: The Bull
 address: The Bull Price Street
 place: Birmingham
 post_code: BB4 6JU
-when: Tuesday, 1st in Month
+when: Monthly, 1st Tuesday
 www: ''
 status: listed
 ---
-
-A folk music and song session held at The Bull, Birmingham, on the first Tuesday of each month.

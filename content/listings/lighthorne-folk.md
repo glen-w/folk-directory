@@ -15,5 +15,3 @@ when: Monday, 1st in Month
 www: lighthornefolk.yolasite.com
 status: listed
 ---
-
-Lighthorne Folk at The Antelope Inn, Lighthorne CV35 0BX (Lighthorne) — Monday, 1st in Month

@@ -11,7 +11,7 @@ venue: ''
 address: ''
 place: London
 post_code: ''
-when: on Saturdays at 8pm
+when: Weekly, Saturday, 8:00pm
 www: www.cellarupstairs.org.uk
 email: info@cellarupstairs.org.uk
 logo: /images/listings/cellar_upstairs_logo_658.png

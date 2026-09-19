@@ -11,6 +11,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 from listing_fields import (  # noqa: E402
     display_listing_name,
+    is_identity_when_stub,
     is_meta_contact_body,
     is_placeholder_name,
     is_thin_body,
@@ -184,6 +185,7 @@ def test_publishable_stub_does_not_echo_listing_id():
     assert display_listing_name(
         name="Listing 411", venue="The Bugle", event_types=["session"]
     ) == "Session at The Bugle"
+    assert fields["body"] == ""
     thin = publishable_fields_from_excerpt(
         "",
         when="First Tuesdays, 8.00pm. Friendly open session.",
@@ -193,3 +195,44 @@ def test_publishable_stub_does_not_echo_listing_id():
     )
     assert "Listing 411" not in thin["body"]
     assert "Friendly" in thin["body"] or "Bugle" in thin["body"] or thin["when"]
+
+
+def test_identity_when_stub_detected():
+    assert is_identity_when_stub(
+        "Anglers Folk Night takes place at Anglers Rest, Bamford, on the first Sunday of the month.",
+        name="Anglers Folk Night",
+        venue="Anglers Rest, Bamford",
+        place="Bamford",
+    )
+    assert is_identity_when_stub(
+        "The Roost at The Roost (Maynooth) — Friday, Every Week",
+        name="The Roost",
+        venue="The Roost",
+        place="Maynooth",
+    )
+    assert not is_identity_when_stub(
+        "All musicians welcome.",
+        name="Eileen's Bar",
+        venue="Eileen's Bar",
+        place="Aghamore Village",
+    )
+
+
+def test_publishable_fields_does_not_fabricate_identity_stub():
+    stub = publishable_fields_from_excerpt(
+        "The Roost at The Roost (Maynooth) — Friday, Every Week",
+        when="Friday, Every Week",
+        name="The Roost",
+        venue="The Roost",
+        place="Maynooth",
+    )
+    assert stub["body"] == ""
+    real = publishable_fields_from_excerpt(
+        "Nice atmosphere.",
+        when="Fridays, 9pm",
+        name="The Roost",
+        venue="The Roost",
+        place="Maynooth",
+    )
+    assert "atmosphere" in real["body"].lower()
+    assert "Maynooth" not in real["body"]

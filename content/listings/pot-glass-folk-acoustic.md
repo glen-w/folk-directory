@@ -16,5 +16,3 @@ when: Wednesday, 3rd in Month
 www: www.potandglassfolkclub.co.uk
 status: listed
 ---
-
-Pot & Glass Folk & Acoustic at the Pot & Glass pub, Egglescliffe, near Yarm on Tees (TS16 9DQS), on the third Wednesday of the month.

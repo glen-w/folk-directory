@@ -15,5 +15,3 @@ when: Sunday, 1st in Month
 www: ''
 status: listed
 ---
-
-Willow & Tool's Music Parlour at The Harvesters Inn, Southam — Sunday, first of the month.

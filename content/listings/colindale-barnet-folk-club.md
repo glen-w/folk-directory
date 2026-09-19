@@ -11,10 +11,8 @@ venue: The Bull Theatre
 address: 68 High St, Chipping Barnet
 place: Barnet
 post_code: EN5 5SJ
-when: Friday, 3rd in Month
+when: Monthly, 3rd Friday
 www: www.mark3music.co.uk/cfc
 email: mark_mulrooney@hotmail.com
 status: listed
 ---
-
-Colindale Barnet Folk Club at The Bull Theatre (Barnet) — Friday, 3rd in Month

@@ -18,5 +18,3 @@ lng: -8.52846
 www: theblackswan.ie
 status: listed
 ---
-
-The Black Swan at The Black Swan (Annacotty)

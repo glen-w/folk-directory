@@ -11,9 +11,7 @@ venue: The Bridgnorth Club
 address: Bridge Street, Low Town
 place: Bridgnorth
 post_code: WV15 6BA
-when: Tuesday, 1st & 3rd
+when: Monthly, 1st & 3rd Tuesday
 www: ''
 status: listed
 ---
-
-Bridgnorth Folk Club meets at The Bridgnorth Club, Bridgnorth, on the first and third Tuesdays of the month.

@@ -16,5 +16,3 @@ when: Friday, Other
 www: www.somers-folk-club.org.uk
 status: listed
 ---
-
-Somers Traditional Folk Club at Bishop Allenby hall (Worcester) — Friday, Other

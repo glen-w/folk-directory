@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/byrne_and_woods_bar_logo_7234.png
 ---
 
-Joe McKenna is leading a lovely open session every Sunday. Officially from 5 to 7, but often going on longer. Good mix of playing and singing.
+Joe McKenna leads an open session every Sunday, officially from 5 to 7, though it often runs longer. The session features a mix of playing and singing.

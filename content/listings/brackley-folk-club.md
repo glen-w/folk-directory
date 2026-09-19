@@ -17,4 +17,4 @@ email: don@brackleyfolkclub.org
 status: listed
 ---
 
-Brackley Folk Club meets every Sunday in the Greyhound, has regular guest nights, welcomes any music style, and has strong connections with the Brackley Morris. It also runs a free folk day every June. Contact Don on 01280 840219, or don@brackleyfolkclub.org.
+Brackley Folk Club meets every Sunday in the Greyhound. The club has regular guest nights, welcomes any music style, and has strong connections with the Brackley Morris. It also runs a free folk day every June.

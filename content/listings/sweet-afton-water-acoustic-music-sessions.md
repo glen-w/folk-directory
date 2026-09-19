@@ -15,5 +15,3 @@ when: Sunday, Last in month
 www: ''
 status: listed
 ---
-
-Sweet Afton Water Acoustic Music Sessions at Various venues in New Cumnock (Ayrshire) — Sunday, Last in month

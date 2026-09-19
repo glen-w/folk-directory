@@ -19,4 +19,4 @@ www: www.instagram.com/cissieyoungs/?hl=en
 status: listed
 ---
 
-All musicians welcome , regardless of skill level .
+All musicians welcome, regardless of skill level.

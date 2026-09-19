@@ -16,4 +16,4 @@ www: www.croydonfolkclub.org.uk
 status: listed
 ---
 
-Croydon Folk Club 8pm, Mondays at Ruskin House, 23 Coombe Road, Croydon.
+The club meets on Mondays at 8pm at Ruskin House, 23 Coombe Road, Croydon.

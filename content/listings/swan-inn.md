@@ -17,5 +17,3 @@ www: www.stranraerfolkclub.org.uk
 email: mark@stranraerfolkclub.org.uk
 status: listed
 ---
-
-Swan Inn at The Fitba' Bar (Stranraer) — Wednesday, Every Week

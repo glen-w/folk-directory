@@ -19,4 +19,4 @@ logo: /images/listings/bridgwater_arts_centre_logo_2968.png
 status: listed
 ---
 
-This is a new open session, meeting on the last Tuesday of the month for four months initially (25 Jan, 22 Feb, 29 Mar, 26 Apr). Run by Mark Vallentine, come and play, sing or just listen. We'll let you know more about it as it evolves!
+A new open session at Bridgwater Arts Centre, meeting on the last Tuesday of the month for four months initially (25 Jan, 22 Feb, 29 Mar, 26 Apr). Run by Mark Vallentine, the session is open to playing, singing, or listening. Details will be updated as the session develops.

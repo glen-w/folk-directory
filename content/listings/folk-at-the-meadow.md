@@ -15,5 +15,3 @@ when: Varied, Variable
 www: black-dog-radio.com/black-dog-radio-presents
 status: listed
 ---
-
-Folk at the Meadow at Belper Meadows Cricket Club (Belper) — Varied, Variable

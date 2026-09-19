@@ -15,5 +15,3 @@ when: Weekly, Monday
 www: ''
 status: listed
 ---
-
-Acoustic Café Manchester takes place at Gorse Hill Church Hall, Manchester, on Mondays every week.

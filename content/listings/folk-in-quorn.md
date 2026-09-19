@@ -15,5 +15,3 @@ when: Sunday, 2nd and 4th
 www: ''
 status: listed
 ---
-
-Folk in Quorn at The Blacksmith's Arms (Leicestershire) — Sunday, 2nd and 4th

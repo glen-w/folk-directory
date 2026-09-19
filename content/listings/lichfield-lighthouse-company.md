@@ -15,5 +15,3 @@ when: Monday, 1st & 3rd
 www: lichfieldlighthouse.com
 status: listed
 ---
-
-Lichfield Lighthouse Company at Kings Head (Lichfield) — Monday, 1st & 3rd

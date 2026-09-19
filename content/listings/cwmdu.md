@@ -11,10 +11,8 @@ venue: The Cwmdu Inn
 address: Cwmdu, Llandeilo
 place: Carmarthenshire
 post_code: ''
-when: Friday, 1st in Month
+when: Monthly, 1st Friday
 www: www.cwmdu.org/clubs-groups
 logo: /images/listings/cwmdu_logo_825.png
 status: listed
 ---
-
-Cwmdu at The Cwmdu Inn, Carmarthenshire — Friday, 1st in month.

@@ -15,5 +15,3 @@ when: Saturday, 2nd in Month
 www: www.raisingtherafters.co.uk
 status: listed
 ---
-
-Raising the Rafters Folk Club at Saint James Rooms, Wath-upon-Dearne — Saturday, 2nd in month.

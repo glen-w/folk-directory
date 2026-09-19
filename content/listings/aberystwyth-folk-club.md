@@ -15,5 +15,3 @@ when: Monthly, 1st & 3rd Wednesday
 www: www.aberystwythfolkclub.co.uk
 status: listed
 ---
-
-Aberystwyth Folk Club at Amgueddfa Ceredigion Museum, Ceredigion — 1st and 3rd Wednesdays.

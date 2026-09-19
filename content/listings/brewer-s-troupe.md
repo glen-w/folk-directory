@@ -11,9 +11,7 @@ venue: The Brewery
 address: South Parade
 place: Whitley Bay
 post_code: NE26 2RG
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: ''
 status: listed
 ---
-
-Brewer's Troupe at The Brewery (Whitley Bay) — Wednesday, Every Week

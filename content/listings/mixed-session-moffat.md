@@ -15,5 +15,3 @@ when: Thursday, Every Week
 www: ''
 status: listed
 ---
-
-Mixed session, Moffat at Annandale Arms Hotel and Restaurant (Moffat) — Thursday, Every Week

@@ -15,5 +15,3 @@ when: Monday, 1st & 3rd
 www: liamtho.com/FolkAtTheClub
 status: listed
 ---
-
-Folk At THe Club at Churchdown Club (Churchdown GL3 2ER.) — Monday, 1st & 3rd

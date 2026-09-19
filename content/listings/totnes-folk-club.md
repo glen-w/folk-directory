@@ -15,5 +15,3 @@ when: Thursday, 2nd in Month
 www: www.facebook.com/groups/144387085754131
 status: listed
 ---
-
-Totnes folk club at Dartmouth Inn Totnes (Totnes) — Thursday, 2nd in Month

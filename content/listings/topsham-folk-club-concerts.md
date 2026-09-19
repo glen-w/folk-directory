@@ -15,5 +15,3 @@ when: Sunday, Variable
 www: www.topshamfolkclub.org
 status: listed
 ---
-
-Topsham Folk Club Concerts at Matthews Hall (Fore Street, Topsham) — Sunday, Variable

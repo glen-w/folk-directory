@@ -16,5 +16,3 @@ www: newcrystalfolkclub.weebly.com
 email: lindawoodroffe@live.co.uk
 status: listed
 ---
-
-Hartington Folk Club at The Devonshire Arms (Buxton) — Thursday, 1st & 3rd

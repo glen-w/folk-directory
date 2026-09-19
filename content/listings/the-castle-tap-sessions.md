@@ -15,5 +15,3 @@ when: Wednesday, 4th in Month
 www: ''
 status: listed
 ---
-
-The Castle Tap Sessions at The Castle Tap, Reading — the fourth Wednesday of the month.

@@ -20,4 +20,4 @@ email: cluaintarbh@gmail.com
 status: listed
 ---
 
-You've had the lessons, what do you do now.... OK, you saw all the celebs on 'Faoi Lán Cheoil' on the telly. You thought if they could do it, well you could do it too.
+Music lessons are offered at the Artane Beaumont Family Recreation Centre, in the tradition featured on Faoi Lán Cheoil.

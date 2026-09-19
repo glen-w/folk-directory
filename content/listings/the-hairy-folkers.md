@@ -15,5 +15,3 @@ when: Sunday, Every Week
 www: ''
 status: listed
 ---
-
-The Hairy Folkers at The Old Windmill (Coventry) — Sunday, Every Week

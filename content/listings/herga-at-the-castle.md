@@ -17,5 +17,3 @@ email: oldtimetim@gmail.com
 logo: /images/listings/herga_at_the_castle_logo_812.png
 status: listed
 ---
-
-Herga at The Castle, The Castle, Harrow — Monday, every week.

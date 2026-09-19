@@ -17,4 +17,4 @@ www: www.tartanheartfestival.co.uk
 status: listed
 ---
 
-Describes itself as quirky. Has quite a variety of styles of music, some of which may appeal to you. Large number of acts, including folk groups. Vote the UK's most popular summer music festival at TripAdvisor, so it's clearly doing something right. Location: Beauly, IV4 7BA Date: Thursday 30th July 2026 for 3 day(s) Full Price: £230 Also available Two day and one day tickets as well Contact for i
+Belladrum Tartan Heart Festival describes itself as quirky, offering a wide variety of musical styles and a large number of acts, including folk groups. Voted the UK's most popular summer music festival on TripAdvisor. Held in Beauly (IV4 7BA) from Thursday 30 July 2026 for three days. Full price £230; two-day and one-day tickets also available.

@@ -17,5 +17,3 @@ when: 'Sunday (Oct–Jun); check venue for summer Sundays. Lee Sessions also lis
 www: ''
 status: listed
 ---
-
-Cork Singers’ Club meets at An Spailpín Fánach on South Main Street, Cork City.

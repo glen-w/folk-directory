@@ -11,7 +11,7 @@ venue: The Old Derby Gaol
 address: Agard Street
 place: Derby
 post_code: DE1 1YS
-when: Third Thursday of the month
+when: Monthly, 3rd Thursday
 www: www.dhtmc.co.uk
 email: baronhardup.stoneybrokecastle@ntlworld.com
 status: listed

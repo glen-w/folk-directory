@@ -18,5 +18,3 @@ email: bennevisbar@gmail.com
 logo: /images/listings/ben_nevis_logo_1425.png
 status: listed
 ---
-
-Very good -but like most plces a bit smokey

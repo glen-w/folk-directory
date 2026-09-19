@@ -11,7 +11,7 @@ venue: The Birkhill
 address: 16 St.Mary's Street
 place: Dumfries
 post_code: DG1 1LZ
-when: 2nd & 4th Thursday of each Month
+when: Monthly, 2nd & 4th Thursday
 www: ''
 email: john.carson11@btinternet.com
 status: listed

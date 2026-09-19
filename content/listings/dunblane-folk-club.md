@@ -16,4 +16,4 @@ www: www.dunblanefolkclub.co.uk
 status: listed
 ---
 
-Dunblane Folk Club Dunblane Folk Club meets every Sunday at Lesser Hall of the Victoria Halls from 7.30-10 pm for an evening of songs, tunes, recitations and stories. Donation of £3 is useful but optional. BYOB, but tea and coffee are available. All styles of acoustic music are welcome. They play in a friendly and informal setting (no stage or paid guests), have a laugh over a drink, and generally
+Dunblane Folk Club meets every Sunday at the Lesser Hall of the Victoria Halls from 7.30 to 10 pm for an evening of songs, tunes, recitations and stories. A donation of £3 is welcome but optional. BYOB, though tea and coffee are available. All styles of acoustic music are welcome. The setting is friendly and informal, with no stage or paid guests.

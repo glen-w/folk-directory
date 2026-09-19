@@ -16,4 +16,4 @@ www: www.deepdalecamping.co.uk/festival
 status: listed
 ---
 
-With a great line-up, this looks as if it could be a good weekend out. And it's day tickets are not expensive either, if you have limited time available. Come and enjoy some great live music, spoken word, drum workshops, street entertainment and the chilled atmosphere.
+The festival features a strong line-up of live music, spoken word, drum workshops, and street entertainment across a weekend. Day tickets are available at a reasonable price for those with limited time. The atmosphere is relaxed.

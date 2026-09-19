@@ -18,35 +18,20 @@ status: listed
 edited: 23/01/2012
 ---
 
-Mad Nanny Music Is a not for profit venture to promote the traditional\
+Mad Nanny Music is a not-for-profit venture promoting the traditional acoustic, blues, bluegrass, folk and roots music and dance of these islands and related musical activities. Established in April 1999, the club features guest artists of considerable renown alongside newcomers on the rise. The guest is supported by a resident band or singers, and amateur singers and musicians are encouraged to perform as 'floor spots' on guest nights and to join the songs and session and open floor evenings.
 
-Mad Nanny Music Is a not for profit venture to promote the traditional Acoustic, blues, bluegrass, folk & roots music and dance of these islands and related musical activities.  Established in April 1999, we feature guest artists of considerable renown and those newcomers on the way up in the music scene. The guest is supported by a resident band or singers, and we proudly encourage amateur singers and musicians to perform as ‘floor spots’ on guest nights and to join us on our songs & session and open floor evenings. 
+The club is friendly and welcoming. Children are welcome to all evenings.
 
-We are friendly and welcoming, don’t be shy, come and join us. Children are very welcome to all of these evenings; the tradition is in their hands after all. 
+Prices: member concession £6 / member £7 / non-member £8, unless shown differently against the artist. Songs and Sessions: £2 all. Up to two accompanied children under 16 may enter free per adult. Membership card must be produced upon request. Membership is £5 per year, January to December, details upon request.
 
-We hope you can join us for some splendid entertainment. 
-
-     Prices: member concession £6 / member £7/ non member £8
-     Unless shown differently against artist.
-	Songs & Sessions:   £2 all
-	Up to two accompanied children under 16 may enter free per adult.
-	 
-	Membership card MUST be produced upon request
-	
-	Membership £5 per year, January – December, details upon request
-     	
-Events marked ** indicate underwritten for financial assistance from the Arts Council for North Hertfordshire.
-
-
+Events marked ** indicate underwriting for financial assistance from the Arts Council for North Hertfordshire.
 
 Directions to The Orange Tree:
 
-From the South: 	
-Leave A1m at j9 and turn RIGHT off the round about onto A6141 signed Baldock. Follow Road downhill into the town. At mini roundabout keep Tesco on your left and drive down the High Street. At far end of High Street turn LEFT at mini roundabout onto Hitchin Street. Norton Road is 200 metres down on your RIGHT. The Orange Tree is 200 metres down on the left.
-From the North: 	
-Leave A1m at j10 and turn LEFT signed Baldock. 100 yards at roundabout turn RIGHT A507. Follow road for about 1 mile and enter Baldock. At X roads with traffic light turn RIGHT. 200 metres straight over mini roundabout into Hitchin Street. 400 metres AFTER pedestrian lights and bollard turn RIGHT into Norton Road. The Orange Tree is 200 down on your left.
-From West 	
-On A505 from Letchworth signed Baldock. Norton Road is on your LEFT on the S bend immediately before the traffic bollard as you enter the town. If you have shops on your right you have gone too far ! 
+From the South: Leave the A1(M) at J9 and turn right off the roundabout onto the A6141 signed Baldock. Follow the road downhill into the town. At the mini roundabout keep Tesco on the left and drive down the High Street. At the far end of the High Street turn left at the mini roundabout onto Hitchin Street. Norton Road is 200 metres down on the right. The Orange Tree is 200 metres down on the left.
 
-From East (Royston): 
-On A505 into Baldock straight over crossroads with lights. 200 metres go straight over mini roundabout into Hitchin Street. Norton Road is 200 metres down on your RIGHT. The Orange Tree is 200 metres down on the left.
+From the North: Leave the A1(M) at J10 and turn left signed Baldock. At the roundabout 100 yards ahead turn right onto the A507. Follow the road for about 1 mile and enter Baldock. At the crossroads with traffic lights turn right. 200 metres straight over the mini roundabout into Hitchin Street. 400 metres after the pedestrian lights and bollard turn right into Norton Road. The Orange Tree is 200 metres down on the left.
+
+From the West: On the A505 from Letchworth signed Baldock. Norton Road is on the left on the S bend immediately before the traffic bollard as you enter the town. If shops are on the right, the venue has been passed.
+
+From the East (Royston): On the A505 into Baldock, straight over the crossroads with lights. 200 metres, go straight over the mini roundabout into Hitchin Street. Norton Road is 200 metres down on the right. The Orange Tree is 200 metres down on the left.

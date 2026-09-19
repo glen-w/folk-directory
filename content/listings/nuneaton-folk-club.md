@@ -15,5 +15,3 @@ when: Wednesday, 1st in Month
 www: ''
 status: listed
 ---
-
-Nuneaton Folk Club meets at the Queen's Hall, Nuneaton, on the first Wednesday of each month.

@@ -15,5 +15,3 @@ when: June
 www: folkinthecellar.co.uk
 status: listed
 ---
-
-June

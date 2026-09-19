@@ -15,5 +15,3 @@ when: Friday, 2nd in Month
 www: ''
 status: listed
 ---
-
-Session at the Star Twynholm at The Star, Twynholm (Kirkcudbright) — Friday, 2nd in Month

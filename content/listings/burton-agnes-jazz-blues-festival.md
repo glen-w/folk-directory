@@ -17,4 +17,4 @@ www: www.burtonagnes.com/Jazz_Festival.html
 status: listed
 ---
 
-Continuing our occasional festival that's not quite folk policy. (But it has got blues...) Surrounded by the beautiful Yorkshire Wolds, the Festival is set in the award winning grounds and Great Hall of this Elizabethan stately home. Could this be the most breathtaking place to spend a weekend, soaking up the UK's hottest jazz and blues acts? Location: Burton Agnes Hall Date: Friday 10th July 2026
+An occasional festival that falls outside strict folk policy but includes blues. Set in the award-winning grounds and Great Hall of an Elizabethan stately home surrounded by the Yorkshire Wolds, the festival features UK jazz and blues acts over a weekend. Location: Burton Agnes Hall. Date: Friday 10th July 2026.

@@ -18,4 +18,4 @@ www: belfasttraditionalmusic.com/st-patricks-music-festival
 status: listed
 ---
 
-There's usually a lot going on at this event! Take a good look at the site to see for your self. Events include a festival village, pipe band extravaganza, concerts, ceilis & more. A family friendly celebration of St Patrick, and traditional music, song and dance.
+A family-friendly celebration of St Patrick and traditional music, song and dance. Events include a festival village, pipe band extravaganza, concerts, ceilis and more. Further details are available on the website.

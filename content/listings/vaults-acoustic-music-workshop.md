@@ -15,5 +15,3 @@ when: Sunday, Every Week
 www: www.facebook.com/miceforlent
 status: listed
 ---
-
-Vaults Acoustic Music Workshop at The Vaults Bar, Stony Stratford — every Sunday.

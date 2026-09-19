@@ -17,5 +17,3 @@ www: www.northwichfolk.co.uk
 email: tickets@northwichfolk.co.uk
 status: listed
 ---
-
-Northwich Folk Club at Harlequin Theatre (Northwich) — Friday, Every Week

@@ -22,4 +22,4 @@ email: sligotraditionalsingers@gmail.com
 status: listed
 ---
 
-The Sligo Traditional Singers Circle meet here on the 2nd Wednesday of each month for their singing session
+The Sligo Traditional Singers Circle meet at Durkin's Bar on the 2nd Wednesday of each month for their singing session.

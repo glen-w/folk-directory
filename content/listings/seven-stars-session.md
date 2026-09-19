@@ -15,5 +15,3 @@ when: Sunday, 1st in Month
 www: ''
 status: listed
 ---
-
-Seven Stars session at The Packhorse pub, Leeds, on the first Sunday of each month.

@@ -15,5 +15,3 @@ when: Wednesday, 2nd in Month
 www: ''
 status: listed
 ---
-
-Guernsey Folk Club at Les Rocquettes Hotel (Guernsey) — Wednesday, 2nd in Month

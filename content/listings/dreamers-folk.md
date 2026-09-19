@@ -15,5 +15,3 @@ www: www.dreamersfolk.co.uk
 logo: /images/listings/dreamers_folk_logo_728.png
 status: listed
 ---
-
-Dreamers Folk, Four Lanes, Cornwall

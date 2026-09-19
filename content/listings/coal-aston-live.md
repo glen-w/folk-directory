@@ -17,4 +17,4 @@ logo: /images/listings/coal_aston_live_logo_813.png
 status: listed
 ---
 
-Coal Aston Live at Coal Aston Village Hall (Dronfield) — Saturday, Variable
+Coal Aston Live takes place at Coal Aston Village Hall, Dronfield, on Saturdays. The time varies.

@@ -17,4 +17,4 @@ www: www.facebook.com/events/the-barlow-bolton-road-edgworth-bl7-0ap-bolton-unit
 status: listed
 ---
 
-Details seem to be on Facebook instead of their actual website. So we have switched to that instead of https://www.folkatthebarlow.com/ But we give both urls here. https://www.facebook.com/events/the-barlow-bolton-road-edgworth-bl7-0ap-bolton-united-kingdom/edgworth-folk-festival-2026/25865985873075841/ A festival that both promotes folk music and supports a local community centre so it can contin
+The Edgworth Folk Festival is held at The Barlow, Edgworth, Bolton. The festival promotes folk music and supports a local community centre. Details are available on the festival's Facebook page or at folkatthebarlow.com.

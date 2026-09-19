@@ -19,5 +19,3 @@ www: www.list.co.uk/place/20020737-llewellyns-bar
 email: conan.mcdonnell2@gmail.com
 status: listed
 ---
-
-June

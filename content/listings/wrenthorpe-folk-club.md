@@ -15,5 +15,3 @@ when: Tuesday, Every Week
 www: ''
 status: listed
 ---
-
-Wrenthorpe Folk Club meets at the Wrenthorpe Social Club, 48 Wrenthorpe Road, Wrenthorpe, Wakefield, every Tuesday.

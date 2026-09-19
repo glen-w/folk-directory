@@ -18,4 +18,3 @@ www: kirkcaldyacousticmusicclub.co.uk
 logo: /images/listings/kirkaldy_acoustic_music_club_logo_782.png
 status: listed
 ---
-Kirkaldy Acoustic Music Club at Polish Ex-Servicemen's Club (Kirkcaldy) — Thursday, Every 2 weeks

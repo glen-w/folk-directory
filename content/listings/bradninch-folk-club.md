@@ -11,9 +11,7 @@ venue: Bradninch Guildhall & Castle Hotel
 address: Bradninch Guildhall, Fore Street
 place: Bradninch
 post_code: EX5 4NJ
-when: Tuesday, 1st & 3rd
+when: Monthly, 1st & 3rd Tuesday
 www: ''
 status: listed
 ---
-
-Bradninch Folk Club at Bradninch Guildhall & Castle Hotel (Bradninch) — Tuesday, 1st & 3rd

@@ -15,5 +15,3 @@ when: Varied, Variable
 www: ''
 status: listed
 ---
-
-Launderette Sessions at Old Cinema Launderette (Durham) — Varied, Variable

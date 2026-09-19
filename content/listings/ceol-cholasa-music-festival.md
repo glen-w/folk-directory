@@ -19,4 +19,4 @@ logo: /images/listings/ceol_cholasa_music_festival_logo_3734.png
 status: listed
 ---
 
-A great little festival on a great little island - described as a remote Atlantic rock (with 120 people on it). Support this special event. Usually about half the tickets are pre-booked, so don't miss out by leaving things too late.
+A small festival held on a remote Atlantic island with a population of 120. About half of tickets are usually pre-booked, so early booking is advisable.

@@ -16,5 +16,3 @@ www: www.lyceumfolknewport.org.uk
 email: info@lyceumfolknewport.org.uk
 status: listed
 ---
-
-Lyceum Folk Club meets at the Crindau Constitutional Club, Newport, every Thursday.

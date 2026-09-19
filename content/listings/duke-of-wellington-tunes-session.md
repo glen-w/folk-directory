@@ -11,9 +11,7 @@ venue: Kennedy's
 address: 297 Caledonian Rd
 place: London
 post_code: N1 1EG
-when: Thursday, 2nd in Month
+when: Monthly, 2nd Thursday
 www: ''
 status: listed
 ---
-
-Duke of Wellington Tunes Session at Kennedy's, London — Thursday, second in month.

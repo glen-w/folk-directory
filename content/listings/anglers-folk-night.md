@@ -11,10 +11,8 @@ venue: Anglers Rest, Bamford
 address: Anglers Rest, Taggs Knoll
 place: Bamford
 post_code: S33 0DY
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: anglers.rest
 logo: /images/listings/anglers_folk_night_logo_859.png
 status: listed
 ---
-
-Anglers Folk Night at Anglers Rest, Bamford (Bamford) — Sunday, 1st in Month

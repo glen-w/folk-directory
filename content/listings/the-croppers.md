@@ -16,5 +16,3 @@ when: Friday, Every Week
 www: www.croppersfolk.co.uk
 status: listed
 ---
-
-The Croppers at The Star (Liversedge) — Friday, Every Week

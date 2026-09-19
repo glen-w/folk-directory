@@ -15,5 +15,3 @@ when: Wednesday, Every Week
 www: ''
 status: listed
 ---
-
-Folk at the Tavern at Bank Top Tavern (Oldham. OL8 1 ES) — Wednesday, Every Week

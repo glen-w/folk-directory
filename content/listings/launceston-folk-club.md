@@ -16,5 +16,3 @@ www: launcestonfolkclub.uk
 logo: /images/listings/launceston_folk_club_logo_927.png
 status: listed
 ---
-
-Launceston Folk Club at Various venues in Launceston (Cornwall) — Varied, Other

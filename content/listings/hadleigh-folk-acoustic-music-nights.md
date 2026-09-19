@@ -16,5 +16,3 @@ www: www.hadleighfolk.org.uk
 email: simonhaines1@icloud.com
 status: listed
 ---
-
-Hadleigh Folk & Acoustic Music Nights is held at the Ansell Centre, Suffolk, on the first Friday of each month.

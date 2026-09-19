@@ -16,5 +16,3 @@ www: www.all-things-considered.org
 logo: /images/listings/the_virtual_folk_club_logo_856.png
 status: listed
 ---
-
-The Virtual Folk Club meets at the Derby Brewery Arms, Cheetham Hill Road, Manchester, on the third Tuesday of each month.

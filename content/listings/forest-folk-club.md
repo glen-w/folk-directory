@@ -18,5 +18,3 @@ email: orepool.inn@hotmail.com
 logo: /images/listings/forest_folk_club_logo_731.png
 status: listed
 ---
-
-Forest Folk Club at Ore Pool Inn (Coleford) — Sunday, 1st & 3rd

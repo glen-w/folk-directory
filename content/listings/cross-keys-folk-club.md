@@ -18,4 +18,4 @@ www: www.crosskeysfolkclub.co.uk
 status: listed
 ---
 
-No experience needed - just join in or listen! 8pm onwards
+No prior experience needed; join in or listen. 8pm onwards.

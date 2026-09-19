@@ -16,5 +16,3 @@ when: Friday, 4th
 www: binghamfolkclub.weebly.com
 status: listed
 ---
-
-Bingham Folk Club at Rugby Club Pavilion (Nottingham) — Friday, 4th

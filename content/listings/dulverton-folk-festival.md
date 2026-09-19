@@ -18,10 +18,4 @@ status: listed
 edited: 24/01/2012
 ---
 
-Dulverton Folk Festival prides itself on being a FREE event, with every single concert and workshop open to all. 
-
-We have camping available, this isn't free, but is very reasonably priced - funds raised from this go towards music education within the school whose grounds we use for camping, we also offer hot breakfasts each morning in the town hall, using as much of our wonderful local produce as we are able.
-
-We aim to put on as wide a variety of music, dance and workshops as we possibly can and rely heavily on sponsorship, donations, and our fantastic band of volunteer stewards. There are sessions ongoing throughout the festival and a range of performances for all tastes. 
-
-We look forward to welcoming you to our town :)
+Dulverton Folk Festival is a free event, with every concert and workshop open to all. Camping is available at a reasonable price; funds raised go towards music education within the school whose grounds are used for the campsite. Hot breakfasts are served each morning in the town hall, using as much local produce as possible. The festival aims to offer a wide variety of music, dance and workshops, and relies on sponsorship, donations, and volunteer stewards. Sessions run throughout the festival alongside a range of performances.

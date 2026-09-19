@@ -11,9 +11,7 @@ venue: Benedictine Social Centre
 address: Glenluce Drive, Southfield Green, Cramlington
 place: Northumberland
 post_code: NE23 6YA
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: cramfolk.co.uk
 status: listed
 ---
-
-Cramlington Folk Club meets at the Benedictine Social Centre, Northumberland, every Wednesday.

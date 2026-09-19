@@ -19,4 +19,4 @@ www: bofeyquinns.weebly.com
 status: listed
 ---
 
-This is a great friendly session and very suitable for beginners. It started out as a beginner's session each Wed. night some years ago and is still going very strong . There can be up to 20 musicians present sometimes. Great open session!
+A friendly open session, well suited to beginners. It began as a beginner's session on Wednesday nights some years ago and continues to this day. Up to 20 musicians may attend.

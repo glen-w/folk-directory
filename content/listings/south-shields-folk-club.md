@@ -16,5 +16,3 @@ when: Sunday, Every Week
 www: www.southshieldsfolkclub.co.uk
 status: listed
 ---
-
-South Shields Folk Club at South Tyneside Indoor Bowls and Social Club (South Shields) — Sunday, Every Week

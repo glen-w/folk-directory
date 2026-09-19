@@ -15,7 +15,7 @@ place: Doolin
 post_code: ''
 lat: 53.01262
 lng: -9.38377
-when: Sundays at 3pm
+when: Weekly, Sunday, 3:00pm
 www: www.doolininn.ie
 email: tunesfromdoolin@gmail.com
 logo: /images/listings/doolin_inn_logo_7236.png

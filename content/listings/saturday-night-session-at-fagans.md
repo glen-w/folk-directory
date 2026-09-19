@@ -15,5 +15,3 @@ when: Saturday, Every Week
 www: ''
 status: listed
 ---
-
-Saturday Night Session at Fagans at Fagans (Sheffield) — Saturday, Every Week

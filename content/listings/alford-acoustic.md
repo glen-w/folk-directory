@@ -15,5 +15,3 @@ when: Monthly, 3rd Wednesday
 www: www.alfordacoustic.co.uk
 status: listed
 ---
-
-Alford Acoustic is held at the Half Moon, Lincolnshire, on the third Wednesday of each month.

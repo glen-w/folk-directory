@@ -18,4 +18,4 @@ status: listed
 edited: 29/01/2012
 ---
 
-A fantastic weekend of live music set in the grounds of Riverdale Hall Hotel with fringe events in and around Bellingham, the gateway to the Northumberland National Park.
+A weekend of live music set in the grounds of Riverdale Hall Hotel, with fringe events in and around Bellingham, the gateway to the Northumberland National Park.

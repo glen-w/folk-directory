@@ -15,5 +15,3 @@ when: Varied, Variable
 www: universalhall.co.uk
 status: listed
 ---
-
-Universal Hall Promotions at Universal Hall (Moray) — Varied, Variable

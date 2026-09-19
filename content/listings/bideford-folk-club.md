@@ -11,10 +11,10 @@ venue: Joiner's Arms
 address: 6 Market Place, Bideford
 place: N. Devon
 post_code: EX39 2DR
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: bidefordfolkclub.com
 email: bidefolk@gmail.com
 status: listed
 ---
 
-Bideford Folk Club at Joiner's Arms (N. Devon) — Thursday, Every Week
+The Bideford Folk Club meets at the Joiner's Arms in North Devon every Thursday.

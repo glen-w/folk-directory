@@ -1,7 +1,7 @@
 ---
-title: CVFolk '2nd Sunday'
+title: CVFolk
 id: 867
-name: CVFolk '2nd Sunday'
+name: CVFolk
 event_types:
 - folk-club
 locations:
@@ -11,9 +11,7 @@ venue: Albany Theatre
 address: Albany Rd
 place: Coventry
 post_code: CV5 6JQ
-when: Sunday, 2nd in Month
+when: Monthly, 2nd Sunday
 www: www.cvfolk.com
 status: listed
 ---
-
-CVFolk '2nd Sunday' takes place at the Albany Theatre, Coventry, on the second Sunday of each month.

@@ -15,5 +15,3 @@ when: Thursday, Every Week
 www: www.facebook.com/profile.php?id=100072098543669
 status: listed
 ---
-
-Minchinhampton Folk Club at Minchinhampton Cotswold Club (11 High Street, Minchinhampton) — Thursday, Every Week

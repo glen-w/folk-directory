@@ -12,9 +12,7 @@ venue: NCI Club
 address: Holland St
 place: Cambridge
 post_code: CB4 3DL
-when: Sunday, Every Week
+when: Weekly, Sunday
 www: blackfenfolkclub.com
 status: listed
 ---
-
-Black Fen Folk Club at NCI Club (Cambridge) — Sunday, Every Week

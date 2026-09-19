@@ -17,5 +17,3 @@ www: www.errigle.com
 email: info@errigle.com
 status: listed
 ---
-
-The Errigle Inn at The Errigle Inn (Belfast) — Tuesday, Every Week

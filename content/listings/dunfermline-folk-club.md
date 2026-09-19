@@ -12,9 +12,7 @@ venue: The Glen Tavern
 address: 110-112 Pittencrieff St
 place: Dunfermline
 post_code: KY12 8AN
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: www.dunfermlinefolkclub.co.uk
 status: listed
 ---
-
-Dunfermline Folk Club meets at The Glen Tavern, Dunfermline, every Wednesday.

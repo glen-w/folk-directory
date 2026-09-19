@@ -15,5 +15,3 @@ when: Thursday, 1st in Month
 www: folkmaster.co.uk
 status: listed
 ---
-
-The Golden Slipper Club at The Crabtree Inn (Shoreham-by-Sea) — Thursday, 1st in Month

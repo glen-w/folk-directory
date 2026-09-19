@@ -16,5 +16,3 @@ when: Varied, Variable
 www: fhrvh.co.uk
 status: listed
 ---
-
-Hutton Rudby FolkFest at Community Village Hall (Yarm) — Varied, Variable

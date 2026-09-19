@@ -17,5 +17,3 @@ www: watfordfolkclub.co.uk
 logo: /images/listings/watford_folk_club_logo_814.png
 status: listed
 ---
-
-Watford Folk Club at The Pump House, Colne River Room (Local Board Road, Watford) — Friday, Every Week

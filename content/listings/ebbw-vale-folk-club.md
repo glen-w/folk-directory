@@ -16,4 +16,4 @@ www: ''
 status: listed
 ---
 
-Ebbw Vale Folk Club was reformed in October 2010 and is held on the last Friday of the month at Ebbw Vale Welfare Club, Eugene Cross Park, Ebbw Vale, Gwent. The club has an open mic policy and is growing in popularity, with at least a dozen regular participants. Jeff Jones and Mike "Rip" Harper are the contacts. Welfare tel. 01495 302995; Jeff's mobile 07815838670.
+Ebbw Vale Folk Club was reformed in October 2010 and meets on the last Friday of the month at Ebbw Vale Welfare Club, Eugene Cross Park, Ebbw Vale, Gwent. The club has an open mic policy and is growing in popularity, with at least a dozen regular participants.

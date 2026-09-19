@@ -17,4 +17,3 @@ when: Sunday, Every Week
 www: www.royal-oak-folk.com
 status: listed
 ---
-The Royal Oak at Royal Oak (Edinburgh) — Sunday, Every Week

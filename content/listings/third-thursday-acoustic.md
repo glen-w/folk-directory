@@ -15,5 +15,3 @@ when: Thursday, 3rd in Month
 www: ''
 status: listed
 ---
-
-Third Thursday Acoustic at Berry Brow Liberal Club (Huddersfield) — Thursday, 3rd in Month

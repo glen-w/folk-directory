@@ -15,5 +15,3 @@ when: Monday, 3rd in Month
 www: www.peteshaw.co.uk/index.php/hhtunes
 status: listed
 ---
-
-Haconby Traditional music session at Hare & Hounds pub (Lincs) — Monday, 3rd in Month

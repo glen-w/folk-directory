@@ -15,5 +15,3 @@ when: Saturday, Variable
 www: nextlevelfolk.com
 status: listed
 ---
-
-Next Level Folk at Claptrap the Venue, Stourbridge — Saturday, variable.

@@ -15,5 +15,3 @@ when: Tuesday, Every Week
 www: ''
 status: listed
 ---
-
-Fishguard session at Royal Oak (Fishguard) — Tuesday, Every Week

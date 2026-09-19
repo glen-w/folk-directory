@@ -12,10 +12,8 @@ venue: Redcar Borough Park Bowling Club
 address: 1 Thwaites Lane
 place: Redcar.
 post_code: TS10 2DU
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: cuttywrenfolkclub.com
 email: info@cuttywrenfolkclub.com
 status: listed
 ---
-
-Cutty Wren Folk Club at Redcar Borough Park Bowling Club (Redcar.) — Tuesday, Every Week

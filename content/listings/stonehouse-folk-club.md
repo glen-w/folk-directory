@@ -15,5 +15,3 @@ when: Friday, 2nd & 4th
 www: ''
 status: listed
 ---
-
-Stonehouse Folk Club at Church Hall, South Lanarkshire — Friday, 2nd & 4th

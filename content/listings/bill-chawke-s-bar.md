@@ -20,4 +20,4 @@ logo: /images/listings/bill_chawke_s_bar_logo_7185.png
 status: listed
 ---
 
-Excellent musicians playing a variety of styles and instruments. Mostly traditional Irish music. Instruments played include: fiddle, uilleann pipes, mandolin, whistles, guitar, dobro. A great session for tourists and locals alike.
+Musicians play a variety of styles and instruments, mostly traditional Irish music. Instruments heard include fiddle, uilleann pipes, mandolin, whistles, guitar, and dobro. The session welcomes both tourists and locals.

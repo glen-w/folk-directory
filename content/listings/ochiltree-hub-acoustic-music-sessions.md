@@ -16,5 +16,3 @@ www: www.ochiltreehub.com
 logo: /images/listings/ochiltree_hub_acoustic_music_sessions_logo_893.png
 status: listed
 ---
-
-Acoustic music sessions held at Ochiltree Community Hub, Cumnock, on the last Wednesday of each month.

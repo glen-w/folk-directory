@@ -15,5 +15,3 @@ www: www.travellingfolk.co.uk
 email: thetravellingfolk@gmail.com
 status: listed
 ---
-
-The Travelling Folk, Kent

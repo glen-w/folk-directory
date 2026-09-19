@@ -15,5 +15,3 @@ when: Monday, Every Week
 www: www.mansfield-folk-club.org.uk
 status: listed
 ---
-
-Mansfield Folk and Acoustic Club at Forest Town Arena (Mansfield) — Monday, Every Week

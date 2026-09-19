@@ -16,5 +16,3 @@ www: www.musicinulpha.org.uk
 logo: /images/listings/music_in_ulpha_logo_901.png
 status: listed
 ---
-
-Music in Ulpha at The Browfoot Room, Ulpha Village Hall (Broughton-in-Furness Cumbria) — Saturday, Variable

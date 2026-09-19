@@ -18,10 +18,4 @@ status: listed
 edited: 12/11/2012
 ---
 
-English music session -- instruments not singing.  Musicians welcome.
-
-The
-
-English music session -- instruments not singing.  Musicians welcome.
-
-The Horseshoe is an unspoiled, traditional, pub serving a number of real ales. Full range of food also available.
+An English music session at The Horseshoe, a traditional pub serving a number of real ales. Instruments only, no singing. Musicians welcome. A full range of food is also available.

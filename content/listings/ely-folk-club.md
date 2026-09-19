@@ -17,5 +17,3 @@ www: www.elyfolkclub.co.uk
 logo: /images/listings/ely_folk_club_logo_654.png
 status: listed
 ---
-
-Ely Folk Club at village hall (Cambs) — Wednesday, Other

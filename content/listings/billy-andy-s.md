@@ -15,7 +15,7 @@ place: Raloo
 post_code: ''
 lat: 54.81068
 lng: -5.85698
-when: Held on Wednesday nights at around 9pm.
+when: Weekly, Wednesday, 9:00pm
 www: www.billyandys.com
 email: info@billyandys.com
 status: listed

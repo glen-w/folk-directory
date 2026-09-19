@@ -15,5 +15,3 @@ when: Wednesday, 1st in Month
 www: www.roughroundtheedges.co.uk
 status: listed
 ---
-
-Live Music/Song Session at The Bird, Somerset — Wednesday, first of the month.

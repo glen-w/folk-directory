@@ -16,5 +16,3 @@ www: www.thevaultartscentre.co.uk/index.php
 email: Vernonarmsfolkandacoustic@gmail.com
 status: listed
 ---
-
-Vernon Arms Folk and Acoustic Club at The Vernon Arms, Spondon — Tuesday, every week.

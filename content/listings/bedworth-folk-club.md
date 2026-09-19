@@ -12,7 +12,7 @@ venue: Bedworth Exservicenems Club
 address: Rye Piece Ringway
 place: Bedworth
 post_code: CV12 8JH
-when: Wednesday, 2nd & 4th
+when: Monthly, 2nd & 4th Wednesday
 www: www.bedworthfolkclub.co.uk
 status: listed
 ---

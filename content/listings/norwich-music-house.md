@@ -15,5 +15,3 @@ when: Friday, Every Week
 www: ''
 status: listed
 ---
-
-Norwich Music House at Jurnets Bar (Norwich) — Friday, Every Week

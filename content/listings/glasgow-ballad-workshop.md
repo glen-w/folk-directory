@@ -16,5 +16,3 @@ www: glasgowballadworkshop.wordpress.com
 logo: /images/listings/glasgow_ballad_workshop_logo_801.png
 status: listed
 ---
-
-Glasgow Ballad Workshop at Avant Garde Bar (34 King Street, Glasgow) — Sunday, Last in Month

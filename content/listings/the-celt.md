@@ -17,5 +17,3 @@ when: Monday, 21:00
 www: ''
 status: listed
 ---
-
-The Celt — Talbot St, Dublin — Monday 21:00

@@ -19,4 +19,4 @@ status: listed
 logo: /images/listings/bowe_s_logo_7268.png
 ---
 
-Cormac Mac Diarmada, Graham Watson, Eoin Dillon, Christian the Australian, and whoever pops in. A good little bar in the middle of Dublin, all welcome.
+Cormac Mac Diarmada, Graham Watson, Eoin Dillon, Christian the Australian, and others who drop in. A bar in the centre of Dublin, open to all.

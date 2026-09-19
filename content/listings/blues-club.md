@@ -11,17 +11,11 @@ venue: The Railway Hotel
 address: North Quay
 place: Douglas
 post_code: IM1
-when: Third Wednesday of the Month
+when: Monthly, 3rd Wednesday
 www: manngo.im/venue/the-railway-hotel.html
 email: committee@bigwheelblues.com
 status: listed
 edited: 28/01/2012
 ---
 
-Organised by the committee of the Big Wheel Blues Festival (http://www.bigwheelblues.com).
-
-Music
-
-Organised by the committee of the Big Wheel Blues Festival (http://www.bigwheelblues.com).
-
-Music starts from about 9pm (depends on food service!)
+Organised by the committee of the Big Wheel Blues Festival. Music starts from about 9pm, depending on food service.

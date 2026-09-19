@@ -15,5 +15,3 @@ when: Sunday, Every Week
 www: ''
 status: listed
 ---
-
-The Minerva Sessions at The Minerva pub, Hull, every Sunday.

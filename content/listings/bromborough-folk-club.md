@@ -16,6 +16,6 @@ www: www.bromfolkclub.com
 status: listed
 ---
 
-Our policy of encouraging all to get up and have a go continues unchanged. Though we use PA and microphones our aim is only to lift the sound and not for any fancy effects. Don’t be put off if you are new to singing remember we were all beginners once. So if you fancy singing a song or perhaps reciting some poetry you can be sure of a warm and friendly welcome. If you would rather just sit and listen then you will be just as warmly received.
+The club's policy of encouraging all to get up and have a go continues unchanged. Though PA and microphones are used, the aim is only to lift the sound, not for any fancy effects. Those new to singing are welcome; no experience is needed. Singers and poets can expect a warm and friendly welcome, and those who prefer to sit and listen are equally warmly received.
 
-Admission is free even on guest nights - we rely entirely on the proceeds of our raffle and I'd like to thank you all for your generous support. Why not come along and see for yourself.
+Admission is free even on guest nights. The club relies entirely on the proceeds of its raffle.

@@ -15,5 +15,3 @@ when: Friday, 1st & 3rd
 www: ''
 status: listed
 ---
-
-The Garret, Kircudbright at The Garret (Kirkcudbright) — Friday, 1st & 3rd

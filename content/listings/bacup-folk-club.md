@@ -12,9 +12,7 @@ venue: Rosemount wmc
 address: 5 Huttock End Ln, Stacksteads
 place: Bacup
 post_code: OL13 8LD
-when: Monday, Every Week
+when: Weekly, Monday
 www: www.bacupfolkclub.co.uk
 status: listed
 ---
-
-Bacup Folk Club meets at Rosemount WMC, Bacup, every Monday.

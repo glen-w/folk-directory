@@ -17,5 +17,3 @@ www: Www.folklincs.com
 logo: /images/listings/folklincs_festival_logo_930.png
 status: listed
 ---
-
-Folklincs Festival at The Ropewalk (The Ropewalk, Barton upon Humber) — Monday, 1st in Month

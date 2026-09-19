@@ -15,5 +15,3 @@ when: Tuesday, Every Week
 www: www.glossoplabourclub.org.uk/activities.html
 status: listed
 ---
-
-Glossop Folk Club at Glossop Labour Club (Glossop) — Tuesday, Every Week

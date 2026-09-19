@@ -18,8 +18,4 @@ status: defunct
 edited: 23/01/2012
 ---
 
-A whole weekend of Louisiana-style music, dance, food, drink
-and meeting
-
-A whole weekend of Louisiana-style music, dance, food, drink
-and meeting people!
+A weekend of Louisiana-style music, dance, food, drink, and meeting people.

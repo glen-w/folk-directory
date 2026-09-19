@@ -20,4 +20,4 @@ email: info@crosskeys-inn.com
 status: listed
 ---
 
-Imagine an old thatched coaching Inn, down a secluded leafy lane - that's the Crosskeys, a lovely quiet spot for a session. I used to drive the 30 miles to her, there, & back, once a fortnight, the session was that good. Unfortunately,
+The Crosskeys is an old thatched coaching inn set down a secluded leafy lane, a quiet spot for a fortnightly session.

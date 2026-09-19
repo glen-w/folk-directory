@@ -16,5 +16,3 @@ when: Thursday, Every Week
 www: www.nawaller.com/topicfc
 status: listed
 ---
-
-The Topic Folk Club at Hullabaloo, a Community Pub (Westgate. Shipley Bradford) — Thursday, Every Week

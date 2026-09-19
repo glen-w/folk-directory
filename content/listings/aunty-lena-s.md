@@ -21,4 +21,4 @@ email: info@auntylenas.com
 status: listed
 ---
 
-Great variety of music. Irish Trad., Country, Bluegrass, Continental. Nice friendly atmosphere.
+A wide variety of music is played, including Irish traditional, country, bluegrass, and continental. The atmosphere is friendly.

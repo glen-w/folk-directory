@@ -20,4 +20,4 @@ email: cleereskilkenny@gmail.com
 status: listed
 ---
 
-Open friendly welcoming session. All skill levels.
+An open, friendly, welcoming session. All skill levels welcome.

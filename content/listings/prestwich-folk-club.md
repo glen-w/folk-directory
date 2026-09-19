@@ -15,5 +15,3 @@ when: Friday, Every Week
 www: ''
 status: listed
 ---
-
-Prestwich Folk Club meets at the Church Inn, Prestwich, every Friday.

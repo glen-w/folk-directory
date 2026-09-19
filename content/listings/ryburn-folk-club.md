@@ -16,5 +16,3 @@ www: www.ryburn3step.org.uk
 email: pete@petecoe.co.uk
 status: listed
 ---
-
-Ryburn Folk Club at Hollins Mill (West Yorkshire) — Tuesday, 2nd & 4th
