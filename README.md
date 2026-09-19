@@ -62,6 +62,6 @@ Each item:
 | `locations` | string[] | Taxonomy slugs |
 | `logo` | string | Logo path, or empty for placeholder |
 
-Map pins use `/data/listings-map.json` (coordinates + `event_type` + `status`).
+Map pins use `/data/listings-map.json` (coordinates + `event_type` + `status` + `www`). Popups and browse cards share `static/js/folk-utils.js` to turn a bare host into an `https://` link.
 
 Propose new/updated listings via `/submit/`.

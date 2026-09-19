@@ -107,6 +107,14 @@ def test_fallback_queries_include_street_without_club_name():
     assert street_i < city_i
 
 
+def test_map_www_string_slice_and_empty():
+    assert g.map_www({"www": " shipyardrsongwriters.com/gigs "}) == "shipyardrsongwriters.com/gigs"
+    assert g.map_www({"www": ["https://example.test", "ignored"]}) == "https://example.test"
+    assert g.map_www({"www": ""}) == ""
+    assert g.map_www({}) == ""
+    assert g.map_www({"www": "''"}) == ""
+
+
 def test_promote_coords_never_writes_pin_into_address():
     assert (
         lc.promote_coords_to_address(
