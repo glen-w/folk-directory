@@ -14,9 +14,9 @@ place: Derry
 post_code: ''
 lat: 54.99589
 lng: -7.31795
-when: Sandinos Sunday session is open to all musicians, singers and poets it starts around 4pm.
+when: Weekly, Sunday, 4:00pm
 www: sandinoscafebar.com
 status: listed
 ---
 
-It is a very friendly and open session catering for all levels, after all what are sunday afternoons for but relaxing and having the craic with a few
+Friendly, open session catering for all levels — musicians, singers and poets.

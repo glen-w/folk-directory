@@ -9,7 +9,7 @@ locations:
 county: West Sussex
 venue: George and Dragon in Houghton
 address: ''
-place: ''
+place: Amberley
 post_code: ''
 when: Tuesday nights but other Tuesdays are also used
 www: www.amberleyacoustic.co.uk

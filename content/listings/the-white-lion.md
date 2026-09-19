@@ -13,7 +13,9 @@ place: Salford
 post_code: ''
 lat: 53.50782
 lng: -2.33408
-when: Monday singers night — singaround, all welcome, free. Starts 8pm.
+when: Weekly, Monday, 8:00pm
 www: www.folknorthwest.co.uk/club-swinton.html
 status: listed
 ---
+
+Monday singers night — singaround, all welcome, free.

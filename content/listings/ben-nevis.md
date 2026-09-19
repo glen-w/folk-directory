@@ -18,3 +18,5 @@ email: bennevisbar@gmail.com
 logo: /images/listings/ben_nevis_logo_1425.png
 status: listed
 ---
+
+Live traditional music at Ben Nevis, 1147 Argyle Street, Glasgow.

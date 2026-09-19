@@ -9,10 +9,12 @@ locations:
 county: Oxfordshire
 venue: ''
 address: Wallingford
-place: ''
+place: Wallingford
 post_code: ''
 when: Various
 www: ''
 email: info@bunkfest.co.uk
 status: listed
 ---
+
+

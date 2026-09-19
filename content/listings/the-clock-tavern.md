@@ -15,10 +15,11 @@ place: Westport
 post_code: F28 Y193
 lat: 53.79747
 lng: -9.52278
+when: Weekly, Friday, 7:00pm-9:00pm
 www: theclocktavern.ie
 email: theclocktavern@gmail.com
-status: listed
 logo: /images/listings/the_clock_tavern_logo_7140.png
+status: listed
 ---
 
-A new Friday session with David Munnelly and Julie Langan starting April 18th and continuing weekly from 7pm to 9pm. There's also an early Saturday session with Freda Hatton, Declan Askin and Julie Langan.
+Friday session with David Munnelly and Julie Langan. There is also an early Saturday session with Freda Hatton, Declan Askin and Julie Langan.

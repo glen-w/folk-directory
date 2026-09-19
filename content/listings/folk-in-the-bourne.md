@@ -9,10 +9,12 @@ locations:
 county: Wiltshire
 venue: Boscombe Village Social Club
 address: Boscombe
-place: ''
+place: Boscombe
 post_code: SP4 0AB
 when: Fridays
 www: salisburyfolk.co.uk
 email: mail@salisburyfolk.co.uk
 status: listed
 ---
+
+

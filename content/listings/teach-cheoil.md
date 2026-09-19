@@ -20,4 +20,4 @@ www: www.coisnahabhna.ie/classes
 status: listed
 ---
 
-Once the common tune sets (Foinn Seisiun Book tunes) are played during the first hour, players are then encouraged to introduce their own tunes (or sets) as
+The first hour covers common Foinn Seisiún book tunes; players are then encouraged to introduce their own tunes and sets.

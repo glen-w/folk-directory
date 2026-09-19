@@ -15,3 +15,5 @@ www: www.dreamersfolk.co.uk
 logo: /images/listings/dreamers_folk_logo_728.png
 status: listed
 ---
+
+Dreamers Folk is a folk club in Four Lanes, Redruth.

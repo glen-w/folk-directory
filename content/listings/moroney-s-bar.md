@@ -18,3 +18,5 @@ lng: -8.98515
 www: www.moroneysbar.com
 status: listed
 ---
+
+Traditional session at Moroney's Bar in Ennis.

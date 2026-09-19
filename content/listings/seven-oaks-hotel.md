@@ -14,10 +14,11 @@ place: Carlow
 post_code: R93 V4K5
 lat: 52.84508
 lng: -6.92964
+when: Weekly, Monday
 www: sevenoakshotel.com
 email: info@sevenoakshotel.com
-status: listed
 logo: /images/listings/seven_oaks_hotel_logo_7213.png
+status: listed
 ---
 
-Regular Monday night session, has been going since the mid 1970's and at least one of the original sessioners is still going strong ( Ber Landy) This is the kind of session where old-tyme waltzes rub shoulders with the jigs, reels and polk
+Long-running Monday night session (since the mid-1970s) where old-time waltzes sit alongside jigs, reels and polkas.

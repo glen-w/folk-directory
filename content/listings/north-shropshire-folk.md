@@ -9,7 +9,7 @@ locations:
 county: West Midlands
 venue: ''
 address: ''
-place: ''
+place: North Shropshire
 post_code: ''
 www: www.northshropshirefolk.com
 status: listed

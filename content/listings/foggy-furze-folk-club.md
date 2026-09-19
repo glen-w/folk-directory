@@ -9,7 +9,7 @@ locations:
 county: Durham
 venue: ''
 address: ''
-place: ''
+place: Foggy Furze
 post_code: ''
 when: every Tuesday evening with monthly guests
 www: www.foggyfurzefolk.com

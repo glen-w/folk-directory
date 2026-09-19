@@ -13,10 +13,9 @@ venue: MacNeill's Pub (The Hardiman)
 address: ''
 place: Eyre Square / downstairs Hardiman Hotel, Galway City
 post_code: ''
-when: Every Monday & Thursday from 7:00pm — Trad Mondays & Thursdays with live Irish
-  music and traditional Irish dancers
+when: Weekly, Monday & Thursday, 7:00pm
 www: www.thehardiman.ie/discover/festivals
 status: listed
 ---
 
-Festivals in Galway 2026 | What’s On Guide | The Hardiman. June brings the Folk Festival and the Galway Sessions; July is dominated by the Film Fleadh, the International Arts Festival and the start of the Races...
+Live Irish music and traditional Irish dancers at MacNeill's Pub in the Hardiman, Galway.

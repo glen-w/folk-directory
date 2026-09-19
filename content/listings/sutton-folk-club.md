@@ -9,7 +9,7 @@ locations:
 county: Greater London
 venue: ''
 address: ''
-place: ''
+place: Sutton
 post_code: ''
 when: Saturdays with guests at Sutton Village Hall, Sut
 www: myweb.tiscali.co.uk/markii/suttonfolk.htm

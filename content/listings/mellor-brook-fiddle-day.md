@@ -9,9 +9,11 @@ locations:
 county: Lancashire
 venue: Various
 address: ''
-place: ''
+place: Mellor Brook
 post_code: ''
 when: March
 www: fiddlemusic.co.uk
 status: listed
 ---
+
+

@@ -9,9 +9,11 @@ locations:
 county: Devon
 venue: The Griffin Pub
 address: Milk Street, Frome, Devon
-place: ''
+place: Frome
 post_code: ''
 when: Sundays, around 2pm
 www: myspace.com/163217654
 status: listed
 ---
+
+

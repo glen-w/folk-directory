@@ -9,7 +9,7 @@ locations:
 county: South Ayrshire
 venue: the Jolly Shepherd Pub in Barr
 address: ''
-place: ''
+place: Girvan
 post_code: ''
 www: girvanfolkclub.shutterfly.com
 status: listed

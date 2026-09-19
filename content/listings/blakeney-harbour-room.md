@@ -9,7 +9,7 @@ locations:
 county: The South
 venue: ''
 address: ''
-place: ''
+place: Blakeney
 post_code: ''
 www: www.blakeneyharbourroom.co.uk
 logo: /images/listings/blakeney_harbour_room_logo_1217.png

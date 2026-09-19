@@ -7,7 +7,7 @@ event_types:
 county: Nottinghamshire
 venue: The Tiger Inn
 address: Long Eaton, Nottingham
-place: ''
+place: Long Eaton
 post_code: NG10 1BG
 when: Last Friday of the month
 www: ''

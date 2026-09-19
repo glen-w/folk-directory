@@ -9,7 +9,7 @@ locations:
 county: Essex
 venue: High Barn
 address: Great Bardfield
-place: ''
+place: Great Bardfield
 post_code: CM7 4SL
 when: Second Thursday each month
 www: myspace.com/greatbardfieldfolkclub

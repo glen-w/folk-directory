@@ -9,10 +9,12 @@ locations:
 county: North Yorkshire
 venue: The Old Post Office
 address: Commondale
-place: ''
+place: Commondale
 post_code: YO21 2HG
 when: April
 www: festivalonthemoor.co.uk
 email: info@festivalonthemoor.co.uk
 status: listed
 ---
+
+

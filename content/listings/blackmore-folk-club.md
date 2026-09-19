@@ -9,10 +9,12 @@ locations:
 county: Essex
 venue: The Rose & Crown
 address: Writtle Green
-place: ''
+place: Writtle
 post_code: CM1 3DT
 when: First Thursday every month
 www: folkmusic.org.uk/page2.html
 email: alan@folkmusic.org.uk
 status: listed
 ---
+
+

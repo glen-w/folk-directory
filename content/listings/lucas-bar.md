@@ -15,8 +15,9 @@ place: Ennis
 post_code: V95 X754
 lat: 52.84369
 lng: -8.98692
-when: The new home of the Friday afternoon piping session with Blackie O'Connell—every
-  Friday at 4:30pm.
+when: Weekly, Friday, 4:30pm
 www: www.instagram.com/lucasbarennis
 status: listed
 ---
+
+Friday afternoon piping session with Blackie O'Connell.

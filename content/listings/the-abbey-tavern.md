@@ -15,8 +15,9 @@ place: Quin
 post_code: ''
 lat: 52.81758
 lng: -8.86378
-when: Session is weekly, starts around 10pm and all musicians and singers are very
-  welcome!
+when: Weekly, around 10:00pm
 www: www.abbeytavernquin.com
 status: listed
 ---
+
+All musicians and singers are very welcome.

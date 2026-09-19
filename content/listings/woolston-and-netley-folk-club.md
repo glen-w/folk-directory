@@ -9,7 +9,7 @@ locations:
 county: Hampshire
 venue: ''
 address: ''
-place: ''
+place: Woolston
 post_code: ''
 when: every Sunday evening with regular guests
 www: www.woolnetfolk.co.uk

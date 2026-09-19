@@ -15,7 +15,7 @@ place: Rostrevor
 post_code: ''
 lat: 54.11678
 lng: -6.07322
-when: Open session weekly on Sundays from 4pm until 6pm with Danny McGreevy and friends.
+when: Weekly, Sunday, 4:00pm-6:00pm
 www: www.therostrevorinn.com
 email: therostrevorinn@gmail.com
 status: listed

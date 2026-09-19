@@ -9,7 +9,7 @@ locations:
 county: Staffordshire
 venue: the Bader Hall of King Edward School
 address: ''
-place: ''
+place: Lichfield
 post_code: ''
 when: Monday evenings, club nights are normally at the Bader H
 www: www.lichfieldfolkdanceclub.co.uk

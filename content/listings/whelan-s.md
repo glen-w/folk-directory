@@ -16,6 +16,8 @@ lat: 53.33658
 lng: -6.26572
 www: www.whelanslive.com
 email: info@whelanslive.com
-status: listed
 logo: /images/listings/whelan_s_logo_7271.png
+status: listed
 ---
+
+Traditional session at Whelan's in Dublin.

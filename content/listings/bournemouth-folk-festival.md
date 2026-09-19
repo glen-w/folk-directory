@@ -9,10 +9,12 @@ locations:
 county: Dorset
 venue: The Jays
 address: Horton Road
-place: ''
+place: Bournemouth
 post_code: BH24 2EJ
 when: March
 www: ''
 email: paul@fawm.net
 status: defunct
 ---
+
+

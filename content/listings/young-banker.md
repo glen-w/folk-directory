@@ -9,7 +9,7 @@ locations:
 county: London
 venue: ''
 address: ''
-place: ''
+place: London
 post_code: ''
 www: www.efdss.org
 logo: /images/listings/young_banker_logo_1004.png

@@ -9,10 +9,12 @@ locations:
 county: London
 venue: The George Inn
 address: 77 Borough High Street
-place: ''
+place: London
 post_code: SE1 1NH
 when: First Mondays, 8.00pm to 11
 www: ''
 email: chris@gigcb.com
 status: listed
 ---
+
+

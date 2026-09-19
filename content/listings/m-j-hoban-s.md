@@ -19,4 +19,4 @@ www: mjhobans.ie
 status: listed
 ---
 
-One friday night I was determined to find a session but all near me were cancelled were cancelled for some reason.
+Session at M.J. Hoban's on The Octagon, Westport.

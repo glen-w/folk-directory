@@ -9,10 +9,12 @@ locations:
 county: South Yorkshire
 venue: various
 address: Stannington, Sheffield
-place: ''
+place: Sheffield
 post_code: ukshapenote.org.uk
 when: September
 www: ''
 email: sheffield.sacred.harp@gmail.com
 status: listed
 ---
+
+

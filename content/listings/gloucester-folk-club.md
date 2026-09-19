@@ -9,7 +9,7 @@ locations:
 county: West Midlands
 venue: ''
 address: ''
-place: ''
+place: Gloucester
 post_code: ''
 when: Thursday of the month with occassional guests
 www: glosfolkclub.freewebspace.com

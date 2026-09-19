@@ -9,7 +9,7 @@ locations:
 county: North Yorkshire
 venue: ''
 address: ''
-place: ''
+place: Skipton
 post_code: ''
 when: every Tuesday evening with regular guests at The Swan
 www: www.skiptonfolkclub.co.uk

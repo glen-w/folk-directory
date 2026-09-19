@@ -18,3 +18,5 @@ lng: -7.30636
 www: www.sallysofomagh.com
 status: listed
 ---
+
+Traditional session at Sally's in Omagh.

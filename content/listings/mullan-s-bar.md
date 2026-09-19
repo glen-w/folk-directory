@@ -15,8 +15,9 @@ place: Downpatrick
 post_code: ''
 lat: 54.33294
 lng: -5.71616
+when: Weekly, Sunday, 5:00pm
 www: downfolk.tripod.com/sessions.htm
 status: listed
 ---
 
-This is a great wee session that kics off every Sunday between 5 and 6. Everyone is made to feel welcome.
+Everyone is made to feel welcome.

@@ -14,8 +14,9 @@ place: Dublin
 post_code: D02 C642
 lat: 53.33554
 lng: -6.26546
+when: Weekly, Thursday, 9:00pm
 www: www.devittspub.ie
 status: listed
 ---
 
-We're getting a session going in the upstairs of Devitt's starting this coming Thursday, November 5th from 9pm All musicians welcome Padraig
+Session upstairs at Devitt's. All musicians welcome.

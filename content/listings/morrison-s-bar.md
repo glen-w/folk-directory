@@ -14,10 +14,11 @@ place: Limerick
 post_code: ''
 lat: 52.65047
 lng: -8.58501
+when: Monthly, last Thursday
 www: morrisons.ie
 email: accounts@morrisons.ie
-status: listed
 logo: /images/listings/morrison_s_bar_logo_7256.png
+status: listed
 ---
 
-this is a small friendly session on the last Thursday of every month in Morrisons Pub in Ballysimon in Limerick. Its connected with a group called Cruinniú ( from the University of Limerick, it was formed in 2006
+Small friendly session at Morrison's in Ballysimon, connected with Cruinniú at the University of Limerick.

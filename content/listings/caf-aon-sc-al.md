@@ -15,11 +15,10 @@ place: Tallaght
 post_code: ''
 lat: 53.28798
 lng: -6.36211
-when: 'There''s a lunchtime practice session in this bilingual café twice a month,
-  usually on a Saturday or Sunday: check the Instagram account for details'
+when: Fortnightly, Saturday or Sunday
 www: www.instagram.com/aonscealcafe
 email: cafeaonsceal@gmail.com
 status: listed
 ---
 
-
+Lunchtime practice session in this bilingual café. Check Instagram for which weekend it falls on.

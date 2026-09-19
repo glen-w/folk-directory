@@ -9,10 +9,12 @@ locations:
 county: Warwickshire
 venue: Greig Hall
 address: Kinwarton Road
-place: ''
+place: Alcester
 post_code: B97 9AU
 when: June
 www: alcesterfolkfestival.org
 email: contacts@alcesterfolkfestival.org
 status: listed
 ---
+
+

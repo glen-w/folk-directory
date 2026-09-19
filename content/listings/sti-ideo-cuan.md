@@ -15,8 +15,7 @@ place: Spiddal
 post_code: H91 HX78
 lat: 53.24742
 lng: -9.26143
-when: Starting on March 13th, this session is on Sundays from 6-8pm featuring Charlie
-  Lennon, Éilís Lennon and Toner Quinn.
+when: Weekly, Sunday, 6:00pm-8:00pm
 www: www.stiuideocuan.ie
 email: oifig@studiocuan.ie
 status: listed

@@ -9,7 +9,7 @@ locations:
 county: Scottish Borders
 venue: Auld Cross Keys Hotel
 address: ''
-place: ''
+place: Denholm
 post_code: ''
 when: Thursday
 www: www.scotborders-folk.org.uk/denholm_folk_club.htm

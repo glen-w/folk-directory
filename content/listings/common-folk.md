@@ -9,9 +9,9 @@ locations:
 county: West Midlands
 venue: ''
 address: ''
-place: ''
+place: Pelsall
 post_code: ''
-when: every Thursday evening
+when: Weekly, Thursday
 www: www.commonfolk.co.uk
 status: listed
 ---

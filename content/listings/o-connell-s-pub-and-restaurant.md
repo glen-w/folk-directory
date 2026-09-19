@@ -15,11 +15,9 @@ place: Howth
 post_code: ''
 lat: 53.38824
 lng: -6.06412
-when: Just starting up again after the bar reopens following the post-celtic-tiger
-  crash.  Good mature players.  Varied mix of tunes.
 www: www.oconnellshowth.ie
-status: listed
 logo: /images/listings/o_connell_s_pub_and_restaurant_logo_7193.png
+status: listed
 ---
 
 Just starting up again after the bar reopens following the post-celtic-tiger crash. Good mature players. Varied mix of tunes.

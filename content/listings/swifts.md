@@ -15,8 +15,9 @@ place: Newbridge
 post_code: ''
 lat: 53.18187
 lng: -6.79538
-when: ''
 www: www.swifts.ie
 email: info@swifts.ie
 status: listed
 ---
+
+Traditional session at Swifts in Newbridge.

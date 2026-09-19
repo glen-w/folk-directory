@@ -14,10 +14,11 @@ place: Kilkenny
 post_code: ''
 lat: 52.65285
 lng: -7.24984
-when: There's a session on the first Friday of the month. On the last Friday of the
-  month, there's a youth trad session from 7pm to 9pm.
+when: Monthly, 1st Friday
 www: kilkennyhomeruleclub.ie
 email: kilkennyhomeruleclub1894@gmail.com
-status: listed
 logo: /images/listings/kilkenny_home_rule_club_logo_7165.png
+status: listed
 ---
+
+There is also a youth trad session on the last Friday of the month, 7:00pm–9:00pm.

@@ -9,10 +9,12 @@ locations:
 county: Northamptonshire
 venue: May
 address: Various
-place: ''
+place: Raunds
 post_code: Raunds
 when: Northamptonshire
 www: raundsfestival.com
 email: info@raundsfestival.com
 status: listed
 ---
+
+

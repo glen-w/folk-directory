@@ -15,8 +15,9 @@ place: Killarney
 post_code: V93 EFP1
 lat: 52.05947
 lng: -9.50636
+when: Weekly, Wednesday, 9:00pm
 www: www.murphysofkillarney.com/murphysbar.html
 status: listed
 ---
 
-My wife found this Wednesday night ~9pm session after some assertive Googling, and when we walked through the door a man immediately approached us and asked if we knew any songs.
+Open session mixing tunes and songs.

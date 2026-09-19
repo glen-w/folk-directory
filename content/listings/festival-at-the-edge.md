@@ -9,10 +9,12 @@ locations:
 county: Shropshire
 venue: Stokes Barn
 address: Much Wenlock
-place: ''
+place: Much Wenlock
 post_code: festivalattheedge.org
 when: July
 www: ''
 email: info@festivalattheedge.org
 status: listed
 ---
+
+

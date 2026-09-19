@@ -15,8 +15,7 @@ place: Sandyford
 post_code: D18 PF72
 lat: 53.26115
 lng: -6.23419
-when: There's a session every second Wednesday (their Facebook page calls it 'deja
-  blue').
+when: Fortnightly, Wednesday
 www: thebluelight.ie
 status: listed
 ---

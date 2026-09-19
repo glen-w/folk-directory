@@ -15,11 +15,11 @@ place: Enniskillen
 post_code: ''
 lat: 54.34581
 lng: -7.64024
-when: Long-standing Friday night session, kicking off at 10pm or thereabouts.
+when: Weekly, Friday, 10:00pm
 www: blakesofthehollow.com
 email: blakesofthehollow@hotmail.co.uk
 logo: /images/listings/blakes_of_the_hollow_logo_3213.png
 status: listed
 ---
 
-The pub has 'William Blake' on its frontage.
+Long-standing Friday night session. The pub has 'William Blake' on its frontage.

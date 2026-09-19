@@ -14,9 +14,10 @@ place: Cwmbran
 post_code: ''
 lat: 51.64751
 lng: -3.02358
+when: Weekly
 www: torgwen.co.uk
 email: torgwen@torgwen.co.uk
 status: listed
 ---
 
-Weekly Irish Session Mary O'Brien's bar, Commodore Hotel, Cwmbran, Torfaen
+Weekly Irish session in Mary O'Brien's bar at the Commodore Hotel, Cwmbran.

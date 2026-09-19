@@ -15,8 +15,9 @@ place: New Ross
 post_code: Y34 CF66
 lat: 52.39892
 lng: -6.9304
-when: ''
 www: www.corcoransbar.com
 email: emmethall@gmail.com
 status: listed
 ---
+
+Traditional session at Corcoran's Bar in New Ross.

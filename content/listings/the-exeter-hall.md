@@ -14,9 +14,10 @@ place: Oxford
 post_code: ''
 lat: 51.76111
 lng: -1.35155
+when: Weekly
 www: www.thex.co.uk/index.htm
 email: sessions@goringunplugged.co.uk
 status: listed
 ---
 
-The Exeter Hall , Cowley, Oxford Weekly folk session and other gigs.
+Weekly folk session and other gigs at The Exeter Hall, Cowley, Oxford.

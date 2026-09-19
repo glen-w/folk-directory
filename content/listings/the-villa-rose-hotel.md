@@ -15,12 +15,11 @@ place: Ballybofey
 post_code: ''
 lat: 54.79944
 lng: -7.78202
-when: Monthly session on the teenth Wednesday of each month, ie. 13th-19th depending
-  on the month.
+when: Monthly, Wednesday
 www: www.villarose.ie
 email: info@villarose.net
-status: listed
 logo: /images/listings/the_villa_rose_hotel_logo_7154.png
+status: listed
 ---
 
 All ages and abilities welcome, anyone who wants to gets to play or sing. Well established.

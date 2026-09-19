@@ -9,7 +9,7 @@ locations:
 county: Lancashire
 venue: Accrington Cricket Club
 address: ''
-place: ''
+place: Accrington
 post_code: ''
 when: Wednesday from 8
 www: ''

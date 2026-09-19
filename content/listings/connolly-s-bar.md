@@ -15,8 +15,7 @@ place: Kinvara
 post_code: H91 D623
 lat: 53.13985
 lng: -8.93791
-when: Dermot and Flo play most Monday nights when they are not away, and welcome visiting
-  players to join in this relaxed session.
+when: Weekly, Monday
 www: upstairsatconnollys.ie/music-at-connollys
 email: enquiries@upstairsatconnollys.ie
 status: listed

@@ -9,10 +9,12 @@ locations:
 county: Wiltshire
 venue: Milton Road Club
 address: Milton Road
-place: ''
+place: Swindon
 post_code: SN1 5JA
 when: Friday
 www: swindonfolk.org
 email: eric.stott2@ntworld.com
 status: listed
 ---
+
+

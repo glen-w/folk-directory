@@ -9,7 +9,7 @@ locations:
 county: Aberdeenshire
 venue: ''
 address: ''
-place: ''
+place: Aberdeen
 post_code: ''
 www: www.ents24.com/web/venue/4420/Aberdeen/Cafe+Drummond.html
 status: listed

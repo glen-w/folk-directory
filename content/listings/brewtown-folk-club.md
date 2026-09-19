@@ -7,13 +7,13 @@ event_types:
 locations:
 - east-midlands
 county: East Midlands
-venue: ''
+venue: The Stute
 address: ''
-place: ''
-post_code: ''
-when: Thursday Session At The Stute ILKESTON DE7 4AZ 8
+place: Ilkeston
+post_code: DE7 4AZ
+when: Fortnightly, Thursday, 8:00pm
 www: www.brewtownfolkclub.co.uk/index.html
 status: listed
 ---
 
-The Ilkeston Folk and Blues Club holds a Thursday session at The Stute, Ilkeston DE7 4AZ, starting at 8pm. The session is run once a fortnight; see below for dates.
+The Ilkeston Folk and Blues Club holds a session at The Stute, Ilkeston. Floor singers welcome; see the club site for dates.

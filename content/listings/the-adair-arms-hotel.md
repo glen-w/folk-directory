@@ -15,10 +15,11 @@ place: Ballymena
 post_code: ''
 lat: 54.86597
 lng: -6.27903
+when: Weekly, Thursday
 www: www.adairarms.com
 email: info@adairarmshotel.co.uk
-status: listed
 logo: /images/listings/the_adair_arms_hotel_logo_3238.png
+status: listed
 ---
 
-hay great session every thur night all welcome,dont think it would suit starters it is mostley tunes and a few songs hope to see you there sometime
+Thursday night session, mainly tunes with a few songs. All welcome, though it may not suit absolute beginners.

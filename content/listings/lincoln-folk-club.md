@@ -9,7 +9,7 @@ locations:
 county: Lincolnshire
 venue: The Unison Club
 address: Beaumont Manor, Beaumont Fee, Lincoln
-place: ''
+place: Lincoln
 post_code: LN1 1UL
 when: Alternate Fridays
 www: angelfire.com/folk/lincolnfolkclub

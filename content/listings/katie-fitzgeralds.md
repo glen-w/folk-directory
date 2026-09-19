@@ -7,12 +7,12 @@ event_types:
 locations:
 - west-midlands
 county: West Midlands
-venue: ''
+venue: Katie Fitzgeralds
 address: ''
-place: ''
+place: Stourbridge
 post_code: ''
 www: www.katiefitzgeralds.co.uk
 status: listed
 ---
 
-Katie Fitzgeralds Song Writers, Roots, Irish, Folk & Blues and regular sessions at this excellant venue in Wollaston, Stourbridge
+Songwriters, roots, Irish, folk and blues, with regular sessions at this venue in Wollaston, Stourbridge.

@@ -7,13 +7,13 @@ event_types:
 locations:
 - north-west
 county: North West
-venue: ''
+venue: The George
 address: ''
-place: ''
+place: Sandbach
 post_code: ''
-when: Every Tuesday at 9 in The George, High Street, Sandba
+when: Weekly, Tuesday, 9:00pm
 www: www.sandbachfolk.com
 status: listed
 ---
 
-Sandbach Unplugged Every Tuesday at 9 in The George, High Street, Sandbach, Cheshire Floor singers more than welcome Guests twice a month
+Sandbach Unplugged at The George, High Street. Floor singers welcome; guests twice a month.

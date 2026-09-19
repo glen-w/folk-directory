@@ -15,9 +15,10 @@ place: Rathcoole
 post_code: D24 XNR0
 lat: 53.28176
 lng: -6.46967
-when: Regular Wednesday evening Trad session in the lounge, starting 9pm approx, mixed
-  skill levels, open to all.
+when: Weekly, Wednesday, 9:00pm
 www: anpoitinstil.ie
-status: listed
 logo: /images/listings/an_poit_n_stil_logo_7252.png
+status: listed
 ---
+
+Trad session in the lounge, mixed skill levels, open to all.

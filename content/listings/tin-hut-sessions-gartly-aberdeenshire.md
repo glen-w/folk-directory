@@ -12,9 +12,9 @@ venue: The White Lion
 address: ''
 place: Gartly, Aberdeenshire
 post_code: ''
-when: Thursday of the month with an acoustic music session and t
+when: Monthly, Last Thursday
 www: www.tinhutsessions.co.uk
 status: listed
 ---
 
-Tin Hut Sessions, Gartly, Aberdeenshire The club meets regularly on the last Thursday of the month with an acoustic music session and throughout the year they have occasional guest concerts with a variety of acts from within the folk music circuit
+Acoustic music session at the Tin Hut, Gartly, with occasional guest concerts through the year.

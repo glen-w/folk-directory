@@ -15,9 +15,10 @@ place: Naas
 post_code: W91 N224
 lat: 53.2197
 lng: -6.66113
-when: ''
 www: haydensbar.com/haydens-whats-on
 email: info@haydensbar.com
-status: listed
 logo: /images/listings/hayden_s_logo_7199.png
+status: listed
 ---
+
+Traditional session at Hayden's in Naas.

@@ -14,8 +14,9 @@ place: Edinburgh
 post_code: EH3 9DP
 lat: 55.94783
 lng: -3.18133
-when: Weekly (during term time) session with the Edinburgh University Folk Soc from
-  9pm onwards on a Tuesday
+when: Weekly, Tuesday, 9:00pm
 www: www.eusa.ed.ac.uk/eatdrinkshop/findaspace/cabaretbar
 status: listed
 ---
+
+Edinburgh University Folk Soc session during term time.

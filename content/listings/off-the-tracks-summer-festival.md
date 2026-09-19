@@ -17,4 +17,4 @@ logo: /images/listings/off_the_tracks_summer_festival_logo_3729.png
 status: listed
 ---
 
-A great family site. Atmospheric Surroundings - Great live music 60 Real Ales and Ciders - Acoustic Sessions Excellent Camping Facilities & Showers Arts & crafts stalls - Fantastic Food - Circus Workshops, and Parade Family Friendly - Children's Play Area -Entertainment & activities for children Shiatsu - Yoga - Energy work - Tai Chi - Chi Kung - Meditation
+Family festival with live music, real ales and ciders, acoustic sessions, camping, workshops, and a children's play area.

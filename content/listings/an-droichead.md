@@ -15,11 +15,10 @@ place: Belfast
 post_code: ''
 lat: 54.58829
 lng: -5.923
-when: 'Fridays 9–12: Traditional session with Réalta and Friends. Saturday 2–4: Fireside
-  (family-friendly). Saturday 9–12: night session.'
+when: Weekly, Friday & Saturday
 www: www.androichead.com/events/live-events
 email: eolas@androichead.com
 status: listed
 ---
 
-Over the past year and a half, An Droichead has established itself as one of the best traditional music venues in Belfast. Its reputation has travelled throughout the city and beyond, bringing fine international and local traditional music talent to the venue.
+Over the past year and a half, An Droichead has established itself as one of the best traditional music venues in Belfast. Friday 9–12 is a traditional session with Réalta and Friends; Saturday has a family-friendly fireside session 2–4 and a night session 9–12.

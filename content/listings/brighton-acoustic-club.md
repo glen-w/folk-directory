@@ -9,7 +9,7 @@ locations:
 county: East Sussex
 venue: Lord Nelson
 address: ''
-place: ''
+place: Brighton
 post_code: ''
 when: Monthly, Monday
 www: www.brightonacoustic.com

@@ -18,3 +18,5 @@ www: www.lobby.ie
 email: enquiries@lobby.ie
 status: listed
 ---
+
+Traditional session at The Lobby in Cork.

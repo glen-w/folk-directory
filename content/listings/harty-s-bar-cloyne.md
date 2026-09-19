@@ -19,3 +19,5 @@ www: www.hartysrestaurantcloyne.com/Forthcoming%20Events/index.html
 email: cloyneclasses@gmail.com
 status: listed
 ---
+
+Traditional session at Harty's Bar Cloyne in Cloyne.

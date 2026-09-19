@@ -15,12 +15,11 @@ place: Bray
 post_code: ''
 lat: 53.20403
 lng: -6.10007
-when: 'Roots/Trad/Folk (Wed to Sun afternoon) Wed: Roots Bands Thurs/Fri/Sat: Trad/Folk
-  Sun. afternoon: Trad/Folk Some Trad/Folk sessions are open.'
+when: Weekly, Wednesday to Sunday
 www: theharbourbar.ie
 email: info@theharbourbar.ie
-status: listed
 logo: /images/listings/harbour_bar_logo_7179.png
+status: listed
 ---
 
-Known musicians and singers are often asked to join in.
+Roots bands on Wednesday; trad/folk Thursday to Saturday and Sunday afternoon. Some sessions are open. Known musicians and singers are often asked to join in.

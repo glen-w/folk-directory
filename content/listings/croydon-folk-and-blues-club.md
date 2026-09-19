@@ -9,7 +9,7 @@ locations:
 county: London
 venue: ''
 address: ''
-place: ''
+place: Croydon
 post_code: ''
 when: every Sunday evening, usually around 8:00 at Ruskin
 www: www.folkandblues.org/index.htm

@@ -9,7 +9,7 @@ locations:
 county: Kent
 venue: The Royal Native Oyster Stores
 address: Horsebridge Road, Whitstable
-place: ''
+place: Whitstable
 post_code: CT5 1BU
 when: Generally Fridays and Saturdays
 www: whitstablefolk.co.uk

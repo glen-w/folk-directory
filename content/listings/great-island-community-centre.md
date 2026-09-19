@@ -20,4 +20,4 @@ email: cobhtrad@gmail.com
 status: listed
 ---
 
-Hi, are you a musician over 18 but you haven’t find a nice place to play music with other people? Are you looking to have fun and learn more music, techniques, meet new people?
+Trad session at Great Island Community Centre in Cobh, open to adult musicians.

@@ -15,9 +15,10 @@ place: Cairncastle
 post_code: ''
 lat: 54.89602
 lng: -5.88196
+when: Weekly, Thursday, 8:00pm-11:00pm
 www: matties.co.uk
 logo: /images/listings/the_meeting_house_logo_3217.png
 status: listed
 ---
 
-The Singer Session meets Thursday nights, every week 8pm - 11pm all year (except for holiday closure, poor weather or lack of participants!).
+The Singer Session, all year except holiday closures, poor weather, or too few participants.

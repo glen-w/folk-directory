@@ -15,12 +15,11 @@ place: Killarney
 post_code: V93 AYP9
 lat: 52.05888
 lng: -9.50714
-when: 'Saturday Session from around 9pm: Friendly, open session, in a very comfortable
-  hotel bar with singers from the floor adding to the craic.'
+when: Weekly, Saturday, 9:00pm
 www: www.arbutuskillarney.com/buckleys-bar
 email: stay@arbutuskillarney.com
-status: listed
 logo: /images/listings/buckley_s_bar_logo_7159.png
+status: listed
 ---
 
 The session is very 'Kerry-like', with many boxes and polkas. It is well received.

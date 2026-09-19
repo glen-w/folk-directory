@@ -17,4 +17,4 @@ email: paulspencer@maverickfestival.co.uk
 status: listed
 ---
 
-Roots music from both sides of the Atlantic - Americana Music "One of the friendliest, most sincere festivals in England... fine music, great fun, delightful people and an idyllic rural setting" said The Telegraph
+Roots and Americana from both sides of the Atlantic, in a rural English setting.

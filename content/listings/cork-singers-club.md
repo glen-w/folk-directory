@@ -13,7 +13,9 @@ venue: An Spailpín Fánach
 address: ''
 place: 28–29 South Main Street, Cork City
 post_code: ''
-when: 'Sunday (Oct–Jun); check venue for summer Sundays. Lee Sessions also lists Thursday–Saturday from 21:30.'
+when: Weekly, Sunday
 www: ''
 status: listed
 ---
+
+Sundays October–June; check the venue for summer Sundays. Lee Sessions also lists Thursday–Saturday from 9:30pm.

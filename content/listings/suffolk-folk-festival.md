@@ -9,10 +9,12 @@ locations:
 county: Suffolk
 venue: Currently looking for a new venue!
 address: ''
-place: ''
+place: Suffolk
 post_code: ''
 when: June
 www: onesuffolk.co.uk/SuffolkFolkFestiva
 email: mike.r.everett@btinternet.com
 status: listed
 ---
+
+Suffolk folk festival, currently looking for a new venue.

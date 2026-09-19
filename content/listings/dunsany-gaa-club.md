@@ -15,9 +15,10 @@ place: Dunsany
 post_code: ''
 lat: 53.54573
 lng: -6.61963
-when: The session takes place on the last Friday night of the month in the clubs bar
-  in the village.
+when: Monthly, Last Friday
 www: dunsanygaa.com/about-us/dunsany-gaa
-status: listed
 logo: /images/listings/dunsany_gaa_club_logo_7131.png
+status: listed
 ---
+
+Session in the club bar in the village.

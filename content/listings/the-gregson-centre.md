@@ -14,9 +14,10 @@ place: Lancaster
 post_code: ''
 lat: 54.04843
 lng: -2.79219
+when: From 8:30pm
 www: www.gregson.co.uk
 email: info@gregson.co.uk
 status: listed
 ---
 
-session starts at 8.30 ish mostly plays english music with some scottish irish french and scandanavian
+Mostly English music, with some Scottish, Irish, French and Scandinavian tunes.

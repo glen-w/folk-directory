@@ -15,10 +15,9 @@ place: Ballinasloe
 post_code: ''
 lat: 53.33028
 lng: -8.22204
-when: A new weekly session....6pm until 9pm...Junior/kids session 5.30 followed by
-  seniors session.  Great atmosphere.  Welcoming to musicians.
+when: Weekly, 6:00pm-9:00pm
 www: thepillarhouse.ie
 status: listed
 ---
 
-A new weekly session....6pm until 9pm...Junior/kids session 5.30 followed by seniors session. Great atmosphere. Welcoming to musicians.
+Junior/kids session at 5:30pm, followed by the seniors session. Welcoming to musicians.

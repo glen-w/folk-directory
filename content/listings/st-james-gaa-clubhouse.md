@@ -14,8 +14,7 @@ place: Galway
 post_code: ''
 lat: 53.28089
 lng: -9.01687
-when: The St James Music Club meets Fridays 7:30–10:30 in the GAA clubhouse meeting
-  room for tunes and songs.
+when: Weekly, Friday, 7:30pm-10:30pm
 www: stjamesgaa.ie
 logo: /images/listings/st_james_gaa_clubhouse_logo_7163.png
 status: listed

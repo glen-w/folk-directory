@@ -15,10 +15,11 @@ place: Ballyvourney
 post_code: P12 AH39
 lat: 51.94571
 lng: -9.17061
+when: Weekly, Thursday
 www: www.millsinn.ie
 email: info@millsinn.ie
-status: listed
 logo: /images/listings/the_mills_inn_hotel_logo_7183.png
+status: listed
 ---
 
-It's on every thurs and is headed by Peadar o Riada , Eibhlin de pair , Connie o Connell and the owner Don O Leary , a great session with a large variety of tunes .everyone welcome .comhra as gaelinn agus ceoil s craic !
+Session headed by Peadar Ó Riada, Eibhlín de Paor, Connie O'Connell and owner Don O'Leary. Everyone welcome.

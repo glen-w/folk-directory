@@ -9,7 +9,7 @@ locations:
 county: Greater Manchester
 venue: ''
 address: ''
-place: ''
+place: Westhoughton
 post_code: ''
 www: www.folkclub.org.uk
 status: listed

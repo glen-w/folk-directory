@@ -9,7 +9,7 @@ locations:
 county: Nottinghamshire
 venue: Town Pavillion
 address: Brendan Grove
-place: ''
+place: Bingham
 post_code: G13 8TN
 when: Fridays
 www: christine.mcnair.co.uk

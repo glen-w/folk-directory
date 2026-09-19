@@ -14,9 +14,9 @@ place: Bristol
 post_code: BS1 6XJ
 lat: 51.44727
 lng: -2.61868
-when: Mondays in the Cumberland Basin, Bristol with r
+when: Weekly, Monday
 www: www.theacousticroom.co.uk
 status: listed
 ---
 
-The Nova Scotia Folk Club Meets weekly on Mondays in the Cumberland Basin, Bristol with regular guests
+The Nova Scotia Folk Club meets weekly in the Cumberland Basin, Bristol, with regular guests.

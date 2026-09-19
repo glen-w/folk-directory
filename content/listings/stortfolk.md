@@ -9,11 +9,11 @@ locations:
 county: Hertfordshire
 venue: ''
 address: ''
-place: ''
+place: Bishop's Stortford
 post_code: ''
-when: every Thursday evening in Bishops Stortford, Hertfords
+when: Weekly, Thursday
 www: www.beerfordbury.com
 status: listed
 ---
 
-Stortfolk A friendly, mainly acoustic folk club that enjoys a wide range of folk music, from Traditional to Modern, with a bit of blues, music-hall and country as an occasional side order Meets nearly every Thursday evening in Bishops Stortford, Hertfordshire.
+A mainly acoustic folk club in Bishop's Stortford, from traditional to modern, with occasional blues, music-hall, and country.

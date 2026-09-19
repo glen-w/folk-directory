@@ -15,9 +15,10 @@ place: Maghera
 post_code: BT31 9HE
 lat: 54.24134
 lng: -5.89918
+when: Monthly, 1st Friday
 www: www.themagherainn.com
-status: listed
 logo: /images/listings/the_maghera_inn_logo_3252.png
+status: listed
 ---
 
-A great wee session where musicians of all abilities are made to feel welcome - but don't be surprised if you receive some constructive criticism if you are a learner (especially bodhran players!) Meets first Friday of every month and st
+Session for musicians of all abilities. Learners are welcome, and may get constructive criticism (bodhrán players especially).

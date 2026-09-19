@@ -19,4 +19,4 @@ www: therustymackerel.com
 status: listed
 ---
 
-"Another traditional Irish pub in the Gaeltacht, this time in the Teelin area of Donegal which is a favoured spot of fishing enthusiasts throughout the co
+Traditional Irish pub in the Gaeltacht, in the Teelin area of Donegal.

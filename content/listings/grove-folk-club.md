@@ -7,13 +7,13 @@ event_types:
 locations:
 - yorkshire
 county: West Yorkshire
-venue: ''
+venue: Grove Inn
 address: ''
-place: ''
+place: Leeds
 post_code: ''
-when: every Friday Night at the Grove Inn, Leeds, just a f
+when: Weekly, Friday
 www: grovefolkclub.org.uk
 status: listed
 ---
 
-The Grove Folk Club Meets every Friday Night at the Grove Inn, Leeds, just a few minutes walk from the Central Rail station
+Meets at the Grove Inn, Leeds, a few minutes' walk from the central railway station.

@@ -14,9 +14,9 @@ place: Ditchling
 post_code: BN6 8TS
 lat: 50.92109
 lng: -0.11582
-when: Wednesday of the month with guests
+when: Monthly, 1st & 3rd Wednesday
 www: www.whitehorseditchling.com
 status: listed
 ---
 
-The White Horse Folk Club, The Fox, Swindon St (A361), Highworth, Swindon Meets on the first and third Wednesday of the month with guests
+The White Horse Folk Club meets at The Fox, Swindon Street, Highworth, with guests.

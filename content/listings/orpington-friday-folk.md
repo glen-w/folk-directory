@@ -9,9 +9,11 @@ locations:
 county: Kent
 venue: Orpington Liberal Hall
 address: 7 Station Road, Orpington, BR6 ORZ
-place: ''
+place: Orpington
 post_code: ''
 when: Friday (obviously!)
 www: sites.google.com/site/orpingtonfridayfolk/home/o-f-f-home-page
 status: listed
 ---
+
+

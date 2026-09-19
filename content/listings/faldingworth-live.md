@@ -9,10 +9,12 @@ locations:
 county: Lincolnshire
 venue: Faldingworth Memorial Hall
 address: Faldingworth
-place: ''
+place: Faldingworth
 post_code: LN8 3SE
 when: Saturdays
 www: faldingworthlive.co.uk
 email: enquiry@faldingworthlive.co.uk
 status: listed
 ---
+
+

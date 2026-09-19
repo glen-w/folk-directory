@@ -9,7 +9,7 @@ locations:
 county: Devon
 venue: ''
 address: ''
-place: ''
+place: Harberton
 post_code: ''
 www: www.harbertonfolk.co.uk
 status: listed

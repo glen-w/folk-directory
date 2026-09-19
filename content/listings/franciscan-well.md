@@ -14,10 +14,11 @@ place: Cork
 post_code: T23 RHW2
 lat: 51.90112
 lng: -8.48187
+when: Weekly, Tuesday, 8:30pm
 www: franwellbar.com
 email: franciscanwellbrewery@gmail.com
-status: listed
 logo: /images/listings/franciscan_well_logo_7172.png
+status: listed
 ---
 
-I don’t know if this is an open session of not, but it’s every Tuesday at 8:30pm.
+Session at the Franciscan Well, Cork.

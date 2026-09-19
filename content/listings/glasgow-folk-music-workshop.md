@@ -13,11 +13,10 @@ place: Glasgow
 post_code: ''
 lat: 55.87077
 lng: -4.29994
-when: This is the slow session that used to be at the Curler's Rest, two Tuesdays
-  per month
+when: Fortnightly, Tuesday
 www: gfw.scot/gfw-sessions/tuesday-very-slow-session
 email: gfwoffice@gfw.scot
 status: listed
 ---
 
-
+Slow session, formerly at the Curler's Rest.

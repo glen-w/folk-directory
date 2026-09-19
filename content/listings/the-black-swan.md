@@ -18,3 +18,5 @@ lng: -8.52846
 www: theblackswan.ie
 status: listed
 ---
+
+Traditional session at The Black Swan in Annacotty.

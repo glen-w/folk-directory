@@ -9,11 +9,11 @@ locations:
 county: West Midlands
 venue: ''
 address: ''
-place: ''
+place: Halesowen
 post_code: ''
-when: every Thursday evening
+when: Weekly, Thursday
 www: www.lighthouse-folk.org.uk
 status: listed
 ---
 
-The Lighthouse Folk Club, Halesowen, West Midlands, meets every Thursday evening.
+The Lighthouse Folk Club, Halesowen, meets every Thursday evening.

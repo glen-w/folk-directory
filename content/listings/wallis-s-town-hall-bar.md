@@ -18,3 +18,5 @@ lng: -8.17243
 www: www.wallisbar.ie
 status: listed
 ---
+
+Traditional session at Wallis's Town Hall Bar in Midleton.

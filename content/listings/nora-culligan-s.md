@@ -15,8 +15,7 @@ place: Ennis
 post_code: ''
 lat: 52.84512
 lng: -8.98218
-when: Weekly session run by Áine Heslin, Paddy Mulcahy and Lenka Fairy. 8:30pm until
-  11:00pm(ish) in the front Whiskey bar.
+when: Weekly, 8:30pm-11:00pm
 www: www.instagram.com/noraculligans/?hl=en
 status: listed
 ---

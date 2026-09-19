@@ -15,9 +15,10 @@ place: Stoneybatter
 post_code: ''
 lat: 53.35038
 lng: -6.28169
+when: Weekly, Wednesday, 9:30pm-11:30pm
 www: www.walshsstoneybatter.ie
 email: info@walshsstoneybatter.ie
 status: listed
 ---
 
-Lovely open session every Wednesday from 9:30pm to 11:30pm with fiddle players/singers and members of the band Varo, Lucie Azconaga & Consuelo Nerea Breschi.
+Open session with fiddle players and singers, including members of Varo, Lucie Azconaga and Consuelo Nerea Breschi.

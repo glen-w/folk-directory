@@ -9,10 +9,12 @@ locations:
 county: Gloucestershire
 venue: Cheltenham Town Hall
 address: Imperial Square
-place: ''
+place: Cheltenham
 post_code: GL50 1QA
 when: February
 www: cheltenhamtownhall.org.uk
 email: boxoffice@cheltenham.gov.uk
 status: listed
 ---
+
+

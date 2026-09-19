@@ -9,7 +9,7 @@ locations:
 county: Inverclyde
 venue: Baxters then at The Liberal Club
 address: ''
-place: ''
+place: Inverclyde
 post_code: ''
 when: meets every Tuesday night from around 8pm onwards at The Loreto Club,
 www: ''

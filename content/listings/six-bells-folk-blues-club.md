@@ -14,3 +14,5 @@ post_code: ''
 www: www.6bellsfolk.co.uk
 status: listed
 ---
+
+Six Bells Folk & Blues Club.

@@ -9,10 +9,10 @@ locations:
 county: Lincolnshire
 venue: ''
 address: ''
-place: ''
+place: Lincolnshire
 post_code: ''
 www: users.tinyonline.co.uk/fizgig-tom/folk.htm
 status: listed
 ---
 
-Fiz gig folk information about concerts & gigs, news of the Lincolnshire folk scene
+News of concerts, gigs, and the Lincolnshire folk scene.
