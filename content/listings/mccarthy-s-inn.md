@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Mayo
 venue: McCarthy's Inn
-address: ''
+address: Quay Road
 place: Westport
-post_code: ''
+post_code: F28 T201
 lat: 53.79853
 lng: -9.52741
 when: Session starts 10pm.

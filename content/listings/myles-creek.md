@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Clare
 venue: Myles Creek
-address: ''
+address: "O'Curry Street"
 place: Kilkee
-post_code: ''
+post_code: V15 W954
 lat: 52.67861
 lng: -9.6488
 when: Regular session with The Loopheads, every Sunday whole year through from 8.30pm

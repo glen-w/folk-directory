@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Aberdeenshire
 venue: Blue Lamp
-address: 121 Gallowgate, Aberdeen, United Kingdom
+address: 121 Gallowgate, United Kingdom
 place: Aberdeen
 post_code: ''
 when: Wednesday, Every Week

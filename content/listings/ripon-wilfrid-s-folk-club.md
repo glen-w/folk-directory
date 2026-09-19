@@ -8,7 +8,7 @@ locations:
 - ripon
 county: North Yorkshire
 venue: St Wilfrid's Community Centre
-address: St Wilfrid's Community Centre,Trinity Lane, Ripon
+address: St Wilfrid's Community Centre, Trinity Lane
 place: Ripon
 post_code: HG4 2AB
 when: Varied, 2nd & Last

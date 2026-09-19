@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Dublin
 venue: The Lord Lucan
-address: ''
+address: Elderberry
 place: Lucan
 post_code: ''
 lat: 53.35754

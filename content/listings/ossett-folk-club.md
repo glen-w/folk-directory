@@ -8,8 +8,8 @@ locations:
 - dimple-wells-ln-ossett-england
 county: West Yorkshire
 venue: Ossett Cricket Club
-address: Dimple Wells Ln Ossett England
-place: Dimple Wells Ln Ossett England
+address: Dimple Wells Lane
+place: Ossett
 post_code: WF5 8JT
 when: Thursday, Every Week
 www: ''

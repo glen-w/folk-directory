@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Coliemore
-address: ''
+address: 115/116 Coliemore Road
 place: Dalkey
-post_code: ''
+post_code: A96 HE22
 lat: 53.27708
 lng: -6.10305
 when: Unplugged open mic trad night starts at 9pm

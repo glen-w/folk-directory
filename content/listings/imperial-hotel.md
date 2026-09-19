@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: Imperial Hotel
-address: ''
+address: Williamsgate Street
 place: Galway
-post_code: ''
+post_code: H91 XC93
 lat: 53.2737
 lng: -9.04883
 when: Open session every THURSDAY, starts up 9.30pm.

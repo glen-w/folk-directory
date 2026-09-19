@@ -9,7 +9,7 @@ locations:
 - west-yorkshire
 county: West Yorkshire
 venue: Hullabaloo, a Community Pub
-address: 45, Westgate. Shipley Bradford
+address: 45
 place: Westgate. Shipley Bradford
 post_code: BD18 3QX
 when: Thursday, Every Week

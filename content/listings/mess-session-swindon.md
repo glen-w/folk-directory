@@ -8,7 +8,7 @@ locations:
 - swindon
 county: Wiltshire
 venue: The Beehive
-address: 55 Prospect Hill, Swindon
+address: 55 Prospect Hill
 place: Swindon
 post_code: SN1 3JS
 when: Monday, Every 2 weeks

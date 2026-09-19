@@ -8,7 +8,7 @@ locations:
 - cornwall
 county: Cornwall
 venue: Balcony Room, Millbrook Village Hall
-address: Millbrook Village Hall, The Parade, Millbrook, Cornwall
+address: Millbrook Village Hall, The Parade, Millbrook
 place: Cornwall
 post_code: PL10 1AX
 when: Friday, 3rd in Month

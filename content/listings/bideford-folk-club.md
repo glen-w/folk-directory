@@ -8,7 +8,7 @@ locations:
 - n-devon
 county: Dorset
 venue: Joiner's Arms
-address: 6 Market Place, Bideford, N. Devon
+address: 6 Market Place, Bideford
 place: N. Devon
 post_code: ''
 when: Thursday, Every Week

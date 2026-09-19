@@ -8,7 +8,7 @@ locations:
 - earlswood
 county: West Midlands
 venue: The Blue Bell
-address: The Blue Bell, Warings Green Road, The Blue Bell, Earlswood
+address: The Blue Bell, Warings Green Road, The Blue Bell
 place: Earlswood
 post_code: B94 6BP
 when: Tuesday, 4th in Month

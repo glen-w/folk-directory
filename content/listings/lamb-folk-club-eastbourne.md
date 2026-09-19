@@ -8,7 +8,7 @@ locations:
 - east-sussex
 county: East Sussex
 venue: Lamb Inn
-address: High Street Eastbourne, East Sussex
+address: High Street Eastbourne
 place: East Sussex
 post_code: ''
 when: Wednesday, 1st & 3rd

@@ -9,7 +9,7 @@ locations:
 - oxfordshire
 county: Oxfordshire
 venue: The Swan
-address: 1 Park Rd, Faringdon
+address: 1 Park Rd
 place: Faringdon
 post_code: SN7 7BP
 when: First Thursday of the month, 8.00pm

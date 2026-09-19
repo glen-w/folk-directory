@@ -8,7 +8,7 @@ locations:
 - hebden-bridge-west-yorkshire
 county: West Yorkshire
 venue: The Nightjar, Hebden Bridge
-address: The Nightjar, New Rd, Hebden Bridge West Yorkshire
+address: The Nightjar, New Rd
 place: Hebden Bridge West Yorkshire
 post_code: HX7 8AD
 when: Thursday, 4th in Month

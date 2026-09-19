@@ -9,7 +9,7 @@ locations:
 - ireland
 county: Galway
 venue: Kelehans
-address: ''
+address: Upper Newcastle Road
 place: Galway
 post_code: ''
 lat: 53.29506

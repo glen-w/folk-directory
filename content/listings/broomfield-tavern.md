@@ -8,9 +8,9 @@ locations:
 - coventry
 county: West Midlands
 venue: Broomfield Tavern
-address: ''
+address: Broomfield Place
 place: Coventry
-post_code: ''
+post_code: CV5 6GY
 lat: 52.40776
 lng: -1.52818
 when: We start about 8pm to 8.30pm.

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Waterford
 venue: O'Neill's Bar
-address: ''
+address: Summer Hill
 place: Tramore
-post_code: ''
+post_code: X91 YK74
 lat: 52.16361
 lng: -7.15788
 when: Great session starts around 9.30.

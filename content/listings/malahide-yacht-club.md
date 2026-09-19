@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Dublin
 venue: Malahide Yacht Club
-address: ''
+address: The Mall
 place: Malahide
 post_code: ''
 lat: 53.45147

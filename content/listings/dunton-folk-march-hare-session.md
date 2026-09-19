@@ -9,7 +9,7 @@ locations:
 - bedfordshire
 county: Bedfordshire
 venue: The March Gare Brew Pub
-address: 34 High Street, Dunton, Biggleswade
+address: 34 High Street, Dunton
 place: Biggleswade
 post_code: SG18 8RN
 when: Monday, 1st in Month

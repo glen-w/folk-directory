@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Armagh
 venue: The Corner House
-address: ''
+address: 1 Derrymacash Road
 place: Lurgan
-post_code: ''
+post_code: BT66 6LG
 lat: 54.4681
 lng: -6.38316
 www: www.cornerhousebar.com

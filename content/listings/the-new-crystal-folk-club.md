@@ -8,7 +8,7 @@ locations:
 - halesowen
 county: West Midlands
 venue: Hill & Cakemore Liberal Club
-address: 87 Nimmings Rd, Halesowen
+address: 87 Nimmings Rd
 place: Halesowen
 post_code: B62 9JG
 when: Friday, Every Week

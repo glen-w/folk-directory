@@ -8,7 +8,7 @@ locations:
 - scotland
 county: Edinburgh
 venue: Ukrainian Community Centre
-address: 14 Royal Terrace, Edinburgh
+address: 14 Royal Terrace
 place: Edinburgh
 post_code: EH7 5AB
 when: Wednesday, Every Week

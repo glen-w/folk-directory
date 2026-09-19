@@ -8,7 +8,7 @@ locations:
 - carmarthenshire
 county: Carmarthenshire
 venue: The Cwmdu Inn
-address: Cwmdu, Llandeilo, Carmarthenshire
+address: Cwmdu, Llandeilo
 place: Carmarthenshire
 post_code: ''
 when: Friday, 1st in Month

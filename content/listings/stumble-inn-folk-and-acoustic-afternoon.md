@@ -8,7 +8,7 @@ locations:
 - sunderland
 county: Tyne and Wear
 venue: The Stumble Inn
-address: Chester Road, Sunderland
+address: Chester Road
 place: Sunderland
 post_code: SR2 7PR
 when: Tuesday, 4th in Month

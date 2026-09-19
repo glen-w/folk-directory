@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Sligo
 venue: Thomas Connolly's
-address: ''
+address: Markievicz Road
 place: Markievicz Road
-post_code: ''
+post_code: F91 WV44
 lat: 54.27468
 lng: -8.47463
 when: Saturday, 21:30

@@ -8,7 +8,7 @@ locations:
 - new-brighton
 county: Merseyside
 venue: The Magazine Hotel
-address: Magazine Lane, New Brighton
+address: Magazine Lane
 place: New Brighton
 post_code: CV1 3BA
 when: Tuesday, Every Week

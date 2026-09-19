@@ -8,7 +8,7 @@ locations:
 - wylam
 county: Northumberland
 venue: Wylam Methodist Church
-address: Wylam Methodist Church, 1 Chapel Lane, Wylam
+address: Wylam Methodist Church, 1 Chapel Lane
 place: Wylam
 post_code: NE41 8AA
 when: Classes and Workshops, Every Week

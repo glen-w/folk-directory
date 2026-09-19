@@ -9,7 +9,7 @@ locations:
 - staffordshire
 county: West Midlands
 venue: Pigot Arms
-address: 11 High Street, Pattingham, Wolverhampton, United Kingdom
+address: 11 High Street, Pattingham, United Kingdom
 place: Wolverhampton
 post_code: ''
 when: Wednesday, Every 2 weeks

@@ -8,8 +8,8 @@ locations:
 - 1-chatham-st-edgeley-stockport
 county: Greater Manchester
 venue: Ye Olde Vic
-address: 1 Chatham St Edgeley Stockport
-place: 1 Chatham St Edgeley Stockport
+address: 1 Chatham St, Edgeley
+place: Stockport
 post_code: SK3 9ED
 when: Monday, 2nd in Month
 www: yeoldevicmusic.uk

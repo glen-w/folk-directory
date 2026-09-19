@@ -9,9 +9,9 @@ locations:
 - somerset
 county: Somerset
 venue: Esplanade Club
-address: ''
+address: 5 Esplanade Lane
 place: Watchet
-post_code: ''
+post_code: TA23 0AJ
 lat: 51.18208
 lng: -3.32955
 when: Last Wednesday of the month!

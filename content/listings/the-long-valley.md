@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Cork
 venue: The Long Valley
-address: ''
+address: Winthrop Street
 place: Cork
-post_code: ''
+post_code: T12 TD26
 lat: 51.8982
 lng: -8.47052
 when: Wednesdays and Thursdays at 9pm.

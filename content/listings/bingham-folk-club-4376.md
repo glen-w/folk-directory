@@ -9,7 +9,7 @@ locations:
 - nottinghamshire
 county: Nottinghamshire
 venue: Rugby Club Pavilion
-address: Brendon Grove, Bingham, Nottingham
+address: Brendon Grove, Bingham
 place: Nottingham
 post_code: NG13 8TN
 when: Friday, 4th

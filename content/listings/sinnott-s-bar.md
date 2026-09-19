@@ -9,7 +9,7 @@ locations:
 - ireland
 county: Wexford
 venue: Sinnott's Bar
-address: ''
+address: Distillery Road
 place: Wexford
 post_code: ''
 lat: 52.32978

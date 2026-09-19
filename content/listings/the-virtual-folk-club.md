@@ -8,7 +8,7 @@ locations:
 - manchester
 county: Greater Manchester
 venue: Derby Brewery Arms Cheetham Hill Road Manchester
-address: 95 Cheetham Hill Rd, Cheetham Hill, Manchester
+address: 95 Cheetham Hill Rd, Cheetham Hill
 place: Manchester
 post_code: M8 8PY
 when: Tuesday, 3rd in Month

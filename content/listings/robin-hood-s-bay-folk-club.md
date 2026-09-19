@@ -8,7 +8,7 @@ locations:
 - robin-hood-s-bay
 county: North Yorkshire
 venue: The Bay Hotel - Wainwrights Bar
-address: The Bay Hotel, The Dock, Robin Hood's Bay
+address: The Bay Hotel, The Dock
 place: Robin Hood's Bay
 post_code: YO22 4SJ
 when: Friday, Every Week

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Down
 venue: Jenny Watts
-address: ''
+address: 41 High Street
 place: Bangor
-post_code: ''
+post_code: BT20 5BE
 lat: 54.6637
 lng: -5.66544
 when: Tuesdays, 9pm to 11pm.

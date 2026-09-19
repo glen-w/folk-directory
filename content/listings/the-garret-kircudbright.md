@@ -8,7 +8,7 @@ locations:
 - kirkcudbright
 county: Dumfries and Galloway
 venue: The Garret
-address: 116 High St, Kirkcudbright
+address: 116 High St
 place: Kirkcudbright
 post_code: DG6 4JQ
 when: Friday, 1st & 3rd

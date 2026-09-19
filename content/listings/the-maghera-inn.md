@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Down
 venue: The Maghera Inn
-address: ''
+address: 89 Ballyloughlin Road
 place: Maghera
-post_code: ''
+post_code: BT31 9HE
 lat: 54.24134
 lng: -5.89918
 www: www.themagherainn.com

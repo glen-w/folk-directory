@@ -8,7 +8,7 @@ locations:
 - oldham-ol8-1-es
 county: Greater Manchester
 venue: Bank Top Tavern
-address: 1 King St, Oldham. OL8 1 ES
+address: 1 King St
 place: Oldham. OL8 1 ES
 post_code: ''
 when: Wednesday, Every Week

@@ -8,7 +8,7 @@ locations:
 - leeds
 county: West Yorkshire
 venue: The Packhorse pub
-address: Pack Horse Yard, Briggate, Leeds
+address: Pack Horse Yard, Briggate
 place: Leeds
 post_code: LS1 6AT
 when: Sunday, 1st in Month

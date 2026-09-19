@@ -9,7 +9,7 @@ locations:
 - ayrshire
 county: South Ayrshire
 venue: Craigie Village Hall
-address: Main Street, Craigie Village, By Kilmarnock
+address: Main Street, Craigie Village
 place: By Kilmarnock
 post_code: ''
 when: Saturday, Variable

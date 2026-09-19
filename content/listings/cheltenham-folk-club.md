@@ -9,8 +9,8 @@ locations:
 - west-midlands
 county: Gloucestershire
 venue: Sandford Park Alehouse
-address: High St Cheltenham
-place: High St Cheltenham
+address: High Street
+place: Cheltenham
 post_code: GL50 1DZ
 when: Monday, 2nd & 4th
 www: www.cheltenhamfc.org.uk

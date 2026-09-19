@@ -8,7 +8,7 @@ locations:
 - england
 county: Surrey
 venue: Grashott Village Hall (and other venues)
-address: Headley Road, GRAYSHOTT, Nr. HINDHEAD, Surrey
+address: Headley Road, GRAYSHOTT, Nr. HINDHEAD
 place: Surrey
 post_code: ''
 when: Varied, Variable

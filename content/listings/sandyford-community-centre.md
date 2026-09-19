@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Dublin
 venue: Sandyford Community Centre
-address: ''
+address: Enniskerry Road
 place: Sandyford
 post_code: ''
 lat: 53.28771

@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: The Western Hotel
-address: ''
+address: 33 Prospect Hill
 place: Galway
-post_code: ''
+post_code: H91 YD86
 lat: 53.27633
 lng: -9.04799
 www: www.westernhotelgalway.ie

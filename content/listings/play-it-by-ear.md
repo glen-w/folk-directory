@@ -8,7 +8,7 @@ locations:
 - shropshire
 county: Shropshire
 venue: The Pilgrim Centre
-address: Dale Street, Craven Arms, Shropshire, SY7 9NY7
+address: Dale Street, Craven Arms, SY7 9NY7
 place: Shropshire
 post_code: ''
 when: Wednesday, Every 2 weeks

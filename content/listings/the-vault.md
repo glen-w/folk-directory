@@ -8,7 +8,7 @@ locations:
 - newton-stewart
 county: Dumfries and Galloway
 venue: The Vault Art Centre
-address: 40 Victoria St, Newton Stewart
+address: 40 Victoria St
 place: Newton Stewart
 post_code: DG8 6BT
 when: Friday, Variable

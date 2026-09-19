@@ -8,7 +8,7 @@ locations:
 - cumbria
 county: Cumbria
 venue: The Kirkgate Centre
-address: Kirkgate, Cockermouth, Cumbria
+address: Kirkgate, Cockermouth
 place: Cumbria
 post_code: CA13 9PJ
 when: Varied, Variable

@@ -8,7 +8,7 @@ locations:
 - wigton-cumbria
 county: Cumbria
 venue: The John Peel Theatre
-address: Station Road, Wigton Cumbria
+address: Station Road
 place: Wigton Cumbria
 post_code: CA7 9AE
 when: Varied, Variable

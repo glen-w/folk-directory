@@ -8,7 +8,7 @@ locations:
 - somerset
 county: Somerset
 venue: The Bird
-address: Main Road, Westhay, Somerset
+address: Main Road, Westhay
 place: Somerset
 post_code: BA6 9TN
 when: Wednesday, 1st in Month

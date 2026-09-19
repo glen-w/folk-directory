@@ -9,7 +9,7 @@ locations:
 - kent
 county: Hampshire
 venue: The Rising Sun pub
-address: Delce Road, Rochester, Kent
+address: Delce Road, Rochester
 place: Kent
 post_code: ME1 2BU
 when: Tuesday, 1st & 3rd

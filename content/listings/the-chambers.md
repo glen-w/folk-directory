@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Westmeath
 venue: The Chambers
-address: ''
+address: 44 Mount Street
 place: Mullingar
-post_code: ''
+post_code: N91 W923
 lat: 53.52431
 lng: -7.34106
 when: From 9pm.

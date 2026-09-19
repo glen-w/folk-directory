@@ -8,7 +8,7 @@ locations:
 - penzance
 county: ''
 venue: The Fountain Inn
-address: The Fountain Inn, Newbridge, Penzance
+address: The Fountain Inn, Newbridge
 place: Penzance
 post_code: TR20 8QH
 when: Tuesday, 1st & 3rd

@@ -8,7 +8,7 @@ locations:
 - whitminster
 county: Gloucestershire
 venue: Fromebridge Mill
-address: Whitminster
+address: ''
 place: Whitminster
 post_code: GL2 7PB
 when: Monday, Every Week

@@ -10,7 +10,7 @@ locations:
 county: West Midlands
 venue: Rugby West Indian Association
 address: Railway Terrace
-place: Railway Terrace
+place: Rugby
 post_code: CV21 3HE
 when: Tuesday, Every Week
 www: www.wurzelbush.co.uk

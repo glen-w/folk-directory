@@ -8,7 +8,7 @@ locations:
 - ryton
 county: Tyne and Wear
 venue: Ye Olde Cross Inn
-address: Barmoor Ln, Ryton Village, Ryton
+address: Barmoor Ln, Ryton Village
 place: Ryton
 post_code: NE40 3QP
 when: Sunday, 1st in Month

@@ -9,7 +9,7 @@ locations:
 - ireland
 county: Sligo
 venue: McLynn's
-address: ''
+address: Old Market Street
 place: Sligo
 post_code: ''
 lat: 54.26893

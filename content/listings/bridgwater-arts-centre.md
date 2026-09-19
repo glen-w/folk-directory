@@ -8,9 +8,9 @@ locations:
 - bridgwater
 county: Somerset
 venue: Bridgwater Arts Centre
-address: ''
+address: 11-13 Castle Street
 place: Bridgwater
-post_code: ''
+post_code: TA6 3DD
 lat: 51.1295
 lng: -3.00259
 www: www.bridgwaterartscentre.co.uk

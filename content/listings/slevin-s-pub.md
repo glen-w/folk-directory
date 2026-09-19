@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Meath
 venue: Slevin's Pub
-address: ''
+address: Maynooth Road
 place: Dunboyne
-post_code: ''
+post_code: A86 PC78
 lat: 53.41898
 lng: -6.47667
 when: A learners session every Thursday night starting at 9.30pm.

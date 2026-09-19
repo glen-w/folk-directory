@@ -8,7 +8,7 @@ locations:
 - london
 county: London
 venue: Green Note
-address: 106 Parkway, London
+address: 106 Parkway
 place: London
 post_code: NW1 7AN
 when: Varied, Every Week

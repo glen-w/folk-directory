@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: An Poitín Stil
-address: ''
+address: Naas Road
 place: Rathcoole
-post_code: ''
+post_code: D24 XNR0
 lat: 53.28176
 lng: -6.46967
 when: Regular Wednesday evening Trad session in the lounge, starting 9pm approx, mixed

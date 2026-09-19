@@ -10,7 +10,7 @@ locations:
 - ayrshire
 county: South Ayrshire
 venue: The Market Inn
-address: 2 Castlehill Road, Ayr
+address: 2 Castlehill Road
 place: Ayr
 post_code: KA7 2HT
 when: Tuesday, 1st in Month

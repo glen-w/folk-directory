@@ -8,7 +8,7 @@ locations:
 - lincoln
 county: Lincolnshire
 venue: St. Mary's Guildhall
-address: High Street, Lincoln
+address: High Street
 place: Lincoln
 post_code: LN5 7SF
 when: Monday, 3rd in Month

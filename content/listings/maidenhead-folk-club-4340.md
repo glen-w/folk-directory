@@ -9,7 +9,7 @@ locations:
 - berkshire
 county: Berkshire
 venue: The New Inn
-address: 1 Farm Road, Maidenhead
+address: 1 Farm Road
 place: Maidenhead
 post_code: SL6 5HX
 when: Thursday, Every Week

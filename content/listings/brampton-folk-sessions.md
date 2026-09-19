@@ -8,7 +8,7 @@ locations:
 - cumbria
 county: Cumbria
 venue: Howard Arms Hotel
-address: Front Street, Brampton, Cumbria, United Kingdom
+address: Front Street, Brampton, United Kingdom
 place: Cumbria
 post_code: ''
 when: Tuesday, 3rd in Month

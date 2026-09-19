@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: Thomas Fletcher's
-address: ''
+address: 13 North Main Street
 place: Naas
-post_code: ''
+post_code: W91 CC03
 lat: 53.21869
 lng: -6.66358
 www: fletcherspubnaas.ie

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Cork
 venue: Great Island Community Centre
-address: ''
+address: St.Colmans Square
 place: Cobh
-post_code: ''
+post_code: P24 WP82
 lat: 51.85386
 lng: -8.29526
 www: www.cobhtrad.com

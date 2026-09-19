@@ -9,7 +9,7 @@ locations:
 - england
 county: Staffordshire
 venue: Pot & Glass pub
-address: Church Rd, Egglescliffe near Yarm on Tees TS16 9DQS
+address: Church Rd
 place: Egglescliffe near Yarm on Tees TS16 9DQS
 post_code: ''
 when: Wednesday, 3rd in Month

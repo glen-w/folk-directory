@@ -8,12 +8,12 @@ locations:
 - ottringham-village-institute-station-road-ottringham
 county: East Riding
 venue: Community Hall
-address: Ottringham Village Institute Station Road. Ottringham
-place: Ottringham Village Institute Station Road. Ottringham
+address: Station Road
+place: Ottringham
 post_code: HU12 0BJ
 when: Thursday, Every Week
 www: beggarsfolk.co.uk
 status: listed
 ---
 
-The Beggar's Folk Club at Community Hall (Ottringham Village Institute Station Road. Ottringham) — Thursday, Every Week
+The Beggar's Folk Club at Community Hall (Station Road, Ottringham) — Thursday, Every Week

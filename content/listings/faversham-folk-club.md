@@ -8,7 +8,7 @@ locations:
 - kent
 county: Kent
 venue: The Chimney Boy
-address: 59 Preston Street, Faversham
+address: 59 Preston Street
 place: Faversham
 post_code: ME13 8PG
 when: Every Wednesday

@@ -9,7 +9,7 @@ locations:
 - scotland
 county: East Lothian
 venue: Railway Hotel
-address: 70 Court Street, Haddington
+address: 70 Court Street
 place: Haddington
 post_code: EH41 3AF
 when: Wednesday, Every Week

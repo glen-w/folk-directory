@@ -8,7 +8,7 @@ locations:
 - prestwich
 county: Greater Manchester
 venue: Church Inn
-address: Church Inn, Church Lane, Bury New Rd, Prestwich
+address: Church Inn, Church Lane, Bury New Rd
 place: Prestwich
 post_code: ''
 when: Friday, Every Week

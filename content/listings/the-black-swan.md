@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Limerick
 venue: The Black Swan
-address: ''
+address: The Square
 place: Annacotty
-post_code: ''
+post_code: V94 W6F8
 lat: 52.67094
 lng: -8.52846
 www: theblackswan.ie

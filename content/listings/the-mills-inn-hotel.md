@@ -12,7 +12,7 @@ county: Cork
 venue: The Mills Inn Hotel
 address: ''
 place: Ballyvourney
-post_code: ''
+post_code: P12 AH39
 lat: 51.94571
 lng: -9.17061
 www: www.millsinn.ie

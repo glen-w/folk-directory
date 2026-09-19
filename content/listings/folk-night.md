@@ -9,7 +9,7 @@ locations:
 - wiltshire
 county: Wiltshire
 venue: The Shoulder of Mutton
-address: Norwich Road, Strumpshaw
+address: Norwich Road
 place: Strumpshaw
 post_code: NR13 4NT
 when: Thursday, 4th in Month

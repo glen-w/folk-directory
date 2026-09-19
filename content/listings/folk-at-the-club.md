@@ -8,7 +8,7 @@ locations:
 - churchdown-gl3-2er
 county: Gloucestershire
 venue: Churchdown Club
-address: Churchdown Club, Church Road, Churchdown
+address: Churchdown Club, Church Road
 place: Churchdown
 post_code: GL3 2ER
 when: Monday, 1st & 3rd

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Galway
 venue: The Crane Bar
-address: ''
+address: 2 Sea Road
 place: Sea Road
-post_code: ''
+post_code: H91 YP97
 lat: 53.26914
 lng: -9.06187
 when: Nightly · 21:30

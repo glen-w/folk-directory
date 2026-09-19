@@ -8,7 +8,7 @@ locations:
 - carnforth
 county: Cumbria
 venue: Smithy Inn
-address: Milnthorpe Rd, Holme, Carnforth
+address: Milnthorpe Rd, Holme
 place: Carnforth
 post_code: LA6 1PS
 when: Sunday, 2nd in Month

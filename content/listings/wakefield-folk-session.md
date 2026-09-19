@@ -8,7 +8,7 @@ locations:
 - wakefield
 county: West Yorkshire
 venue: The Polka Hop
-address: 60, George St, Wakefield
+address: 60, George St
 place: Wakefield
 post_code: WF1 1DL
 when: Sunday, 1st in Month

@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Wexford
 venue: T. Morris
-address: ''
+address: Monck Street
 place: Wexford
-post_code: ''
+post_code: Y35 V52N
 lat: 52.34199
 lng: -6.46248
 when: Weekly trad session with Bailiú 9.30 till 11.30.

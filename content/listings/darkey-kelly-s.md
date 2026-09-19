@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: Darkey Kelly's
-address: ''
+address: Fishamble Street
 place: Fishamble St
-post_code: ''
+post_code: D08 PD8W
 lat: 53.3444
 lng: -6.26978
 when: Tuesday, 21:00

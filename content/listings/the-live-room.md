@@ -8,7 +8,7 @@ locations:
 - shipley
 county: West Yorkshire
 venue: Caroline Street Social Club
-address: Caroline Street Social Club, Caroline Street, Saltaire, Shipley
+address: Caroline Street Social Club, Caroline Street, Saltaire
 place: Shipley
 post_code: BD18 3JZ
 when: Varied, Variable

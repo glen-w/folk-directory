@@ -105,7 +105,7 @@ def test_thesession_schedule_when_ignores_comments():
         "schedule": ["Thu · 21:00"],
         "comments": [{"content": "Great music - hosts are Maria. Come early about 9."}],
     }
-    assert schedule_when(detail) == "Thursday, 21:00"
+    assert schedule_when(detail) == "Weekly, Thursday, 9:00pm"
     assert "Maria" in first_useful_comment(detail)
 
 

@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: J.R. Mahon's
-address: ''
+address: 1-2 Burgh Quay
 place: Dublin
-post_code: ''
+post_code: D02 F243
 lat: 53.34696
 lng: -6.25817
 when: Sunday session is from 4pm to 6pm.

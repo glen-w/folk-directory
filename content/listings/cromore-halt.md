@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Londonderry
 venue: Cromore Halt
-address: ''
+address: 168 Station Road
 place: Portstewart
-post_code: ''
+post_code: BT55 7PU
 lat: 55.18305
 lng: -6.69743
 when: Last Friday of the month.

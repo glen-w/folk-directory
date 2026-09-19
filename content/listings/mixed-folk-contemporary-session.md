@@ -8,7 +8,7 @@ locations:
 - gb
 county: Dumfries and Galloway
 venue: Farmers Arms
-address: 50 Drumlanrig Street, Thornhill, GB
+address: 50 Drumlanrig Street, Thornhill
 place: GB
 post_code: DG3 5LJ
 when: Wednesday, 3rd in Month

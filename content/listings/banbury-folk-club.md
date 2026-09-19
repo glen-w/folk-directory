@@ -8,7 +8,7 @@ locations:
 - oxfordshire
 county: Oxfordshire
 venue: The Mill Arts Centre
-address: Spiceball Park, Banbury
+address: Spiceball Park
 place: Banbury.
 post_code: ''
 when: Wednesdays

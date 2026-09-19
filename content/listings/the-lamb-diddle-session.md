@@ -8,7 +8,7 @@ locations:
 - greater-london
 county: Greater London
 venue: The Lamb, Surbiton
-address: The Lamb, 73 Brighton Rd, Surbiton, Greater London
+address: The Lamb, 73 Brighton Rd, Surbiton
 place: Greater London
 post_code: KT6 5NF
 when: Wednesday, 2nd & 4th

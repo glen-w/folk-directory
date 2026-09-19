@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: Brady's Pub
-address: ''
+address: Main Street
 place: Maynooth
-post_code: ''
+post_code: W23 PY93
 lat: 53.3817
 lng: -6.59057
 www: www.ccemhaighnuad.com
@@ -21,4 +21,4 @@ logo: /images/listings/brady_s_pub_logo_7187.png
 status: listed
 ---
 
-The new Comhaltas craobh in maynooth run this session on the second and fourth Wednesday of the month. ...
+The new Comhaltas craobh in Maynooth runs this session on the second and fourth Wednesday of the month.

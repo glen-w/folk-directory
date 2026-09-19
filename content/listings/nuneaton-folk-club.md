@@ -8,7 +8,7 @@ locations:
 - nuneaton
 county: Warwickshire
 venue: The Queens Hall
-address: The Crew, 75 Queens Rd, Nuneaton
+address: The Crew, 75 Queens Rd
 place: Nuneaton
 post_code: CV11 5LA
 when: Wednesday, 1st in Month

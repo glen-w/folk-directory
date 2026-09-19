@@ -8,8 +8,8 @@ locations:
 - darlington-simpson-rolling-mills-social-club-on-longfield-road
 county: ''
 venue: Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H
-address: Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H
-place: Darlington Simpson Rolling Mills Social Club on Longfield Road
+address: Longfield Road
+place: Darlington
 post_code: ''
 when: Thursday, 2nd & 4th
 www: www.darlofolkacoustic.co.uk

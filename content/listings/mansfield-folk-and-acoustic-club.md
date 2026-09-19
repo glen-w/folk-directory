@@ -8,7 +8,7 @@ locations:
 - mansfield
 county: ''
 venue: Forest Town Arena
-address: Clipstone Rd West,Mansfield
+address: Clipstone Rd West
 place: Mansfield
 post_code: NG19 0EE
 when: Monday, Every Week

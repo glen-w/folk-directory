@@ -9,8 +9,8 @@ locations:
 - england
 county: Lancashire
 venue: Nets Bar (Formerly Gregson Lane S & C Club)
-address: Gregson Lane - The Village of Gregson Lane - Preston
-place: Gregson Lane - The Village of Gregson Lane - Preston
+address: Gregson Lane
+place: Preston
 post_code: ''
 when: Thursday, Every 2 weeks
 www: www.gregsonlane.co.uk

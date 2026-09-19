@@ -8,7 +8,7 @@ locations:
 - oxfordshire
 county: Oxfordshire
 venue: Tiddy Hall
-address: Shipton Road, Ascott -u- Wychwood, Oxfordshire
+address: Shipton Road, Ascott -u- Wychwood
 place: Oxfordshire
 post_code: OX7 6AG
 when: Saturday, Variable

@@ -8,7 +8,7 @@ locations:
 - nottingham
 county: Nottinghamshire
 venue: Embankment Pub & Kitchen
-address: 282-284 Arkwright Street | Trent Bridge, Nottingham
+address: 282-284 Arkwright Street | Trent Bridge
 place: Nottingham
 post_code: NG2 2GR
 when: Tuesday, 2nd in Month

@@ -8,7 +8,7 @@ locations:
 - notts
 county: Nottinghamshire
 venue: Duke of Wellington
-address: Church Street, Kirkby In Ashfield, Notts
+address: Church Street, Kirkby In Ashfield
 place: Notts
 post_code: S70 1LF
 when: Friday, 2nd in Month

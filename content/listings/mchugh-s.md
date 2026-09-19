@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: McHugh's
-address: ''
+address: 29 Princes Street
 place: Belfast
-post_code: ''
+post_code: BT1 3FG
 lat: 54.60088
 lng: -5.9231
 www: www.mchughsbar.com

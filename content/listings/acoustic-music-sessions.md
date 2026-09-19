@@ -8,8 +8,8 @@ locations:
 - 1-dunkeld-st-aberfeldy
 county: Perth and Kinross
 venue: The Birks Cinema
-address: 1 Dunkeld St Aberfeldy
-place: 1 Dunkeld St Aberfeldy
+address: 1 Dunkeld Street
+place: Aberfeldy
 post_code: PH15 2DA
 when: Thursday, Every Week
 www: birkscinema.co.uk/activities/acoustic-music-sessions

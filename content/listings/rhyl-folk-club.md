@@ -9,7 +9,7 @@ locations:
 - wales
 county: Denbighshire
 venue: Ffordd Las Community Centre
-address: Ffordd Las community Centre, Ffordd Las Rd, Rhyl
+address: Ffordd Las community Centre, Ffordd Las Rd
 place: Rhyl
 post_code: ''
 when: Friday, Every Week

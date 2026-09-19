@@ -8,7 +8,7 @@ locations:
 - neston
 county: Cheshire
 venue: Paisley Grey Cafe
-address: 29 High Street, Neston
+address: 29 High Street
 place: Neston
 post_code: CH64 9TZ
 when: Friday, 2nd in Month

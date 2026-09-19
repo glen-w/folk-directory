@@ -8,7 +8,7 @@ locations:
 - coventry
 county: West Midlands
 venue: The Old Windmill
-address: 22-23, Spon Street, Coventry
+address: 22-23, Spon Street
 place: Coventry
 post_code: CV1 3BA
 when: Sunday, Every Week

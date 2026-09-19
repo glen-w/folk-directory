@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: Buckley's Bar
-address: ''
+address: College Street
 place: Killarney
-post_code: ''
+post_code: V93 AYP9
 lat: 52.05888
 lng: -9.50714
 when: 'Saturday Session from around 9pm: Friendly, open session, in a very comfortable
@@ -23,4 +23,4 @@ status: listed
 logo: /images/listings/buckley_s_bar_logo_7159.png
 ---
 
-Very 'Kerry-like' session - i.e. loads of boxes and loads of polkas. Loved it. Sunday Session is
+The session is very 'Kerry-like', with many boxes and polkas. It is well received.

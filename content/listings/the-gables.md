@@ -9,7 +9,7 @@ locations:
 - ireland
 county: Cork
 venue: The Gables
-address: ''
+address: 32 Douglas Street
 place: Cork
 post_code: ''
 lat: 51.89334

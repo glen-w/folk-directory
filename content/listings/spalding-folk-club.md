@@ -8,7 +8,7 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: The South Holland Centre
-address: Market Place, Spalding
+address: Market Place
 place: Spalding
 post_code: PE11 1SS
 when: First Wednesday each month

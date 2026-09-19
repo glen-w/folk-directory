@@ -8,7 +8,7 @@ locations:
 - london
 county: Greater London
 venue: Kennedy's
-address: 297 Caledonian Rd, London
+address: 297 Caledonian Rd
 place: London
 post_code: N1 1EG
 when: Thursday, 2nd in Month

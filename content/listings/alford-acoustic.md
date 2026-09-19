@@ -8,7 +8,7 @@ locations:
 - lincs
 county: Lincolnshire
 venue: Half Moon
-address: West Street, Alford, Lincs
+address: West Street, Alford
 place: Lincs
 post_code: ''
 when: Wednesday, 3rd in Month

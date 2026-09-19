@@ -10,7 +10,7 @@ locations:
 - fife
 county: Fife
 venue: Polish Ex-Servicemen's Club
-address: Bennochy House, Bennochy Court, Kirkcaldy, United Kingdom
+address: Bennochy House, Bennochy Court, United Kingdom
 place: Kirkcaldy
 post_code: ''
 when: Thursday, Every 2 weeks

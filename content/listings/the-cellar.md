@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: The Cellar
-address: ''
+address: 12 Eglinton Street
 place: Galway
-post_code: ''
+post_code: H91 YX62
 lat: 53.27436
 lng: -9.05164
 when: A new Friday night session upstairs in The Cellar with Gabriel Gonzalez , Ciaran

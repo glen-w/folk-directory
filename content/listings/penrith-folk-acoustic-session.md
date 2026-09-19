@@ -8,7 +8,7 @@ locations:
 - cumbria
 county: Cumbria
 venue: Crown Hotel
-address: Eamont Bridge, Penrith, Cumbria
+address: Eamont Bridge, Penrith
 place: Cumbria
 post_code: CA10 2BX
 when: Sunday, 4th in Month

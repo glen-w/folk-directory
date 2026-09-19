@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Duke
-address: ''
+address: "8-9;9 Duke Street"
 place: Dublin
-post_code: ''
+post_code: D02 NR76
 lat: 53.34198
 lng: -6.25879
 when: ''

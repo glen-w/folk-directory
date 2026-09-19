@@ -9,7 +9,7 @@ locations:
 - yorkshire-and-the-humber
 county: West Yorkshire
 venue: The Star
-address: 223 Roberttown Lane, Liversedge
+address: 223 Roberttown Lane
 place: Liversedge
 post_code: WF15 7LQ
 when: Friday, Every Week

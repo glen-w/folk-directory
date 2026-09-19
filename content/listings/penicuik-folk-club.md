@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Midlothian
 venue: Shottstown Miners Club
-address: 165 John Street, Penicuik, EH26 8A
+address: 165 John Street, EH26 8A
 place: Penicuik
 post_code: ''
 when: Tuesday, Every Week

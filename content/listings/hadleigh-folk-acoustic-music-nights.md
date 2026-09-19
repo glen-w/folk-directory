@@ -8,7 +8,7 @@ locations:
 - suffolk
 county: Suffolk
 venue: Ansell Centre
-address: Market Pl, Hadleigh, Ipswich, Suffolk, United Kingdom
+address: Market Pl, Hadleigh, Ipswich, United Kingdom
 place: Suffolk
 post_code: ''
 when: Friday, 1st in Month

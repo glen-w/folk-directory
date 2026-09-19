@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: Crowley's
-address: ''
+address: 26 Henry Street
 place: Kenmare
-post_code: ''
+post_code: V93 Y152
 lat: 51.878
 lng: -9.58381
 when: Thursday, 21:00

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Down
 venue: Macken's
-address: ''
+address: South Promenade
 place: Newcastle
-post_code: ''
+post_code: BT33 0EY
 lat: 54.19865
 lng: -5.88812
 when: Last Friday of every month.

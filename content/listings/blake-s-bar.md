@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Donegal
 venue: Blake's Bar
-address: ''
+address: 50 Upper Main Street
 place: Letterkenny
-post_code: ''
+post_code: F92 XKN5
 lat: 54.95094
 lng: -7.73687
 when: Friday, 21:30

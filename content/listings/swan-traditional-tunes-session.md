@@ -8,7 +8,7 @@ locations:
 - cumbria
 county: Cumbria
 venue: Swan Inn, Kirkgate, Cockermouth
-address: Swan Inn, 56 Kirkgate, Cockermouth, Cumbria
+address: Swan Inn, 56 Kirkgate, Cockermouth
 place: Cumbria
 post_code: CA13 9PH
 when: Wednesday, 2nd in Month

@@ -8,7 +8,7 @@ locations:
 - manchester
 county: Greater Manchester
 venue: The Molly House - Pub
-address: 26 Richmond St, Manchester
+address: 26 Richmond St
 place: Manchester
 post_code: M1 3NB
 when: Wednesday, Every 2 weeks

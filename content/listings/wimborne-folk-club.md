@@ -8,7 +8,7 @@ locations:
 - wimborne
 county: Dorset
 venue: cafe@the Allendale centre
-address: Wimborne
+address: ''
 place: Wimborne
 post_code: BH21 1AS
 when: Thursday, Every Week

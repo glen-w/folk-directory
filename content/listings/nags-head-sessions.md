@@ -8,7 +8,7 @@ locations:
 - scarborough
 county: North Yorkshire
 venue: The Nags Head
-address: High Street, Scalby, Scarborough
+address: High Street, Scalby
 place: Scarborough
 post_code: YO13 0PT
 when: Saturday, Every Week

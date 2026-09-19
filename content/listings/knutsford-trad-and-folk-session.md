@@ -8,7 +8,7 @@ locations:
 - cheshire
 county: ''
 venue: Lord Eldon
-address: Lord Eldon, Tatton Street, Knutsford, Cheshire
+address: Lord Eldon, Tatton Street, Knutsford
 place: Cheshire
 post_code: WA16 6AD
 when: Tuesday, 1st in Month

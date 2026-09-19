@@ -8,7 +8,7 @@ locations:
 - aylesbury
 county: Buckinghamshire
 venue: Fairford Leys Centre
-address: Hampden Square, Aylesbury
+address: Hampden Square
 place: Aylesbury
 post_code: HP19 7HT
 when: Friday, 1st & 3rd

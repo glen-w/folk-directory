@@ -8,7 +8,7 @@ locations:
 - horsham
 county: West Sussex
 venue: The Partridge
-address: Church Rd, Partridge Green, Horsham
+address: Church Rd, Partridge Green
 place: Horsham
 post_code: RH13 8GW
 when: Monday, 4th in Month

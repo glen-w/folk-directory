@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Post House
-address: ''
+address: 32 Malone Road
 place: Belfast
-post_code: ''
+post_code: BT9 5BQ
 lat: 54.58085
 lng: -5.93799
 when: Sundays from 8pm to 10pm.

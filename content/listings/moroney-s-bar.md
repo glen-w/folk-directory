@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Clare
 venue: Moroney's Bar
-address: ''
+address: 9 Lower Market Street
 place: Ennis
-post_code: ''
+post_code: V95 HA89
 lat: 52.84255
 lng: -8.98515
 www: www.moroneysbar.com

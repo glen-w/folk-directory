@@ -8,7 +8,7 @@ locations:
 - louth
 county: Lincolnshire
 venue: Louth Jazz Club
-address: 51 Queen Street, Louth
+address: 51 Queen Street
 place: Louth
 post_code: LN11 9BJ
 when: Thursday, 2nd & 4th

@@ -9,7 +9,7 @@ locations:
 - ireland
 county: Antrim
 venue: The Errigle Inn
-address: 312-320 Ormeau Road, Belfast
+address: 312-320 Ormeau Road
 place: Belfast
 post_code: BT7 2GE
 when: Tuesday, Every Week

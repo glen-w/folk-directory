@@ -8,7 +8,7 @@ locations:
 - south-yorkshire
 county: South Yorkshire
 venue: The Wesley Centre
-address: Blyth Road, Maltby, South Yorkshire
+address: Blyth Road, Maltby
 place: South Yorkshire
 post_code: S66 8JD
 when: Varied, Variable

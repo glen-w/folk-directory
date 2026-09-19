@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Tipperary
 venue: Corny's
-address: ''
+address: Limerick Road
 place: Tipperary Town
 post_code: ''
 lat: 52.47419

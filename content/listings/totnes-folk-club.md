@@ -8,7 +8,7 @@ locations:
 - totnes
 county: ''
 venue: Dartmouth Inn Totnes
-address: 28 Warland, Totnes
+address: 28 Warland
 place: Totnes
 post_code: TQ9 5EL
 when: Thursday, 2nd in Month

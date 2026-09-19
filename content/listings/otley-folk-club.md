@@ -8,7 +8,7 @@ locations:
 - england
 county: West Yorkshire
 venue: Black Horse Hotel
-address: 2 Westgate, Otley
+address: 2 Westgate
 place: Otley
 post_code: LS21 3AS
 when: meet every Wednesday in The Black Horse Hotel on Westgate

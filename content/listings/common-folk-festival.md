@@ -8,7 +8,7 @@ locations:
 - leicester
 county: Leicestershire
 venue: The Regent Club
-address: 102 Regent Road, Leicester
+address: 102 Regent Road
 place: Leicester
 post_code: LE1 7DA
 when: Wednesday, 2nd in Month

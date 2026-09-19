@@ -9,9 +9,9 @@ locations:
 - herefordshire
 county: Herefordshire
 venue: The Bells Inn
-address: ''
+address: Bells Orchard
 place: Almeley
-post_code: ''
+post_code: HR3 6NE
 lat: 52.159
 lng: -2.97592
 www: almeleysteadysession.wordpress.com

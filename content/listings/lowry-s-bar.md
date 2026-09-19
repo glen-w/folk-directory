@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Galway
 venue: Lowry's Bar
-address: ''
+address: Market Square
 place: Clifden
-post_code: ''
+post_code: H71 WT32
 lat: 53.48763
 lng: -10.02102
 when: Played a gig with John Walsh in Lowry's 3 weeks ago.

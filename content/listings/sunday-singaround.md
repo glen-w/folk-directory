@@ -8,7 +8,7 @@ locations:
 - manchester
 county: Greater Manchester
 venue: The Gas Lamp
-address: 50 Bridge Street, Manchester
+address: 50 Bridge Street
 place: Manchester
 post_code: SA65 9HA
 when: Sunday, 3rd in Month

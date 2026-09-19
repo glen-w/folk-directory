@@ -8,7 +8,7 @@ locations:
 - lancaster
 county: Lancashire
 venue: Tite and Locke (Public House)
-address: Station Rd, Lancaster
+address: Station Rd
 place: Lancaster
 post_code: LA1 5NW
 when: Wednesday, 1st in Month

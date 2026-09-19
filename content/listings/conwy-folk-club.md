@@ -10,7 +10,7 @@ locations:
 county: Conwy
 venue: Conwy Comrades Social Club
 address: 8 Church Street
-place: 8 Church Street
+place: Conwy
 post_code: LL32 8AF
 when: Monday, Every Week
 www: www.conwyfolkclub.org.uk

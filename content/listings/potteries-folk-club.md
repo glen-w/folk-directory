@@ -8,7 +8,7 @@ locations:
 - fenton-stoke-on-trent
 county: Staffordshire
 venue: The Fenton Town Hall Cafe
-address: Albert Square, Fenton Stoke-on-Trent
+address: Albert Square
 place: Fenton Stoke-on-Trent
 post_code: ST4 3FA
 when: Friday, 2nd in Month

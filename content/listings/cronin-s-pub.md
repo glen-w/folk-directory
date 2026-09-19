@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Cork
 venue: Cronin's Pub
-address: ''
+address: 1 Point Road
 place: Crosshaven
-post_code: ''
+post_code: P43 XD43
 lat: 51.80204
 lng: -8.29453
 when: Last Wednesday of the month from 8pm.

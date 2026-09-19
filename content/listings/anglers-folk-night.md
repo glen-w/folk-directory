@@ -8,7 +8,7 @@ locations:
 - bamford
 county: Derbyshire
 venue: Anglers Rest, Bamford
-address: Anglers Rest, Taggs Knoll, Bamford
+address: Anglers Rest, Taggs Knoll
 place: Bamford
 post_code: S33 0DY
 when: Sunday, 1st in Month

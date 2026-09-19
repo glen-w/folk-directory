@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kilkenny
 venue: Rising Sun
-address: ''
+address: Main Street
 place: Mullinavat
-post_code: ''
+post_code: X91 W5CC
 lat: 52.36834
 lng: -7.1712
 when: Weekly / third year/ 9.30 -11.30 all levels welcome/singers as well

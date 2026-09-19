@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Purty Kitchen
-address: ''
+address: 3-5 Old Dunleary Road
 place: Monkstown
-post_code: ''
+post_code: A96 HF51
 lat: 53.29522
 lng: -6.14814
 www: www.purtykitchen.com

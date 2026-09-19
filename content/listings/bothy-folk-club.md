@@ -9,7 +9,7 @@ locations:
 county: Merseyside
 venue: Southport Bijou Cinema
 address: 8 Post Office Avenue
-place: 8 Post Office Avenue
+place: Southport
 post_code: PR9 0US
 when: Sunday, Every Week
 www: www.bothyfolkclub.org.uk
@@ -18,4 +18,4 @@ logo: /images/listings/bothy_folk_club_logo_878.png
 status: listed
 ---
 
-Bothy Folk Club at Southport Bijou Cinema (8 Post Office Avenue) — Sunday, Every Week
+Bothy Folk Club at Southport Bijou Cinema (8 Post Office Avenue, Southport) — Sunday, Every Week

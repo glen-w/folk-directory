@@ -8,7 +8,7 @@ locations:
 - cumnock
 county: East Ayrshire
 venue: Ochiltree Community Hub
-address: Ochiltree Community Hub, 45 Main Street, Ochiltree, CUMNOCK
+address: Ochiltree Community Hub, 45 Main Street, Ochiltree
 place: CUMNOCK
 post_code: KA18 2PE
 when: Wednesday, Last in month

@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: Bowe's
-address: ''
+address: 31 Fleet Street
 place: Dublin
-post_code: ''
+post_code: D02 DF77
 lat: 53.3458
 lng: -6.25789
 www: www.bowespub.com
@@ -19,4 +19,4 @@ status: listed
 logo: /images/listings/bowe_s_logo_7268.png
 ---
 
-cormac mac diarmada, graham watson, eoin dillon, christian the australian and whoever pops in. good little bar in th middle of dublin, all welcome.
+Cormac Mac Diarmada, Graham Watson, Eoin Dillon, Christian the Australian, and whoever pops in. A good little bar in the middle of Dublin, all welcome.

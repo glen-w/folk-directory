@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: Railway Inn
-address: ''
+address: Chapel Avenue
 place: Sallins
-post_code: ''
+post_code: W91 WR2D
 lat: 53.24873
 lng: -6.66533
 www: railwayinn.ie

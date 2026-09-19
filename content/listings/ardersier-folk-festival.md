@@ -9,7 +9,7 @@ locations:
 - invernessshire
 county: Highland
 venue: Ardersier Church Hall
-address: Stuart Street, Ardersier
+address: Stuart Street
 place: Ardersier
 post_code: IV2 7QE
 when: Tuesday, Every Week

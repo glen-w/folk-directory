@@ -8,7 +8,7 @@ locations:
 - pontyclun
 county: Rhondda Cynon Taf
 venue: Pontyclun Institute Athletic Club
-address: Castan Road, Pontyclun
+address: Castan Road
 place: Pontyclun
 post_code: CF72 9EH
 when: Wednesday, Every Week

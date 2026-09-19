@@ -12,7 +12,7 @@ county: Clare
 venue: Bofey Quinn's
 address: ''
 place: Corofin
-post_code: ''
+post_code: V95 HE39
 lat: 52.9454
 lng: -9.06529
 www: bofeyquinns.weebly.com

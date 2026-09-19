@@ -8,7 +8,7 @@ locations:
 - isle-of-lewis
 county: Outer Hebrides
 venue: An Lanntair Arts Centre
-address: Kenneth Street, Stornoway, Isle of Lewis
+address: Kenneth Street, Stornoway
 place: Isle of Lewis
 post_code: HS1 2DS
 when: Varied, Variable

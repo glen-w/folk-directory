@@ -9,9 +9,9 @@ locations:
 - the-south-east
 county: The South East
 venue: Mick Jagger Centre
-address: ''
+address: Shepherds Lane
 place: Dartford
-post_code: ''
+post_code: DA1 2NL
 lat: 51.4416
 lng: 0.19635
 www: www.themickjaggercentre.com

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Phoenix Bar
-address: ''
+address: 179-181 Antrim Road
 place: Belfast
-post_code: ''
+post_code: BT15 2GW
 lat: 54.6136
 lng: -5.93601
 when: Wednesdays, 8pm-10pm.

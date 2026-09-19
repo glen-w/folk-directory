@@ -9,7 +9,7 @@ locations:
 - wales
 county: Cardiff
 venue: Owain Glyndwr
-address: 10 St John St, Cardiff
+address: 10 St John St
 place: Cardiff
 post_code: CF10 1GL
 when: Monday, Every Week

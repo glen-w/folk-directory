@@ -8,7 +8,7 @@ locations:
 - glossop
 county: Derbyshire
 venue: Bull's Head, Tintwistle
-address: The Bull's Head, 78 Old Road, Tintwistle, Glossop
+address: The Bull's Head, 78 Old Road, Tintwistle
 place: Glossop
 post_code: SK13 1JY
 when: Thursday, 2nd & 4th

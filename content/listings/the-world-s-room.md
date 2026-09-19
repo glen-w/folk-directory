@@ -8,7 +8,7 @@ locations:
 - edinburgh
 county: Edinburgh
 venue: The Waverley Bar
-address: 3-5 St Mary's St, Edinburgh
+address: 3-5 St Mary's St
 place: Edinburgh
 post_code: EH1 1TA
 when: Friday, 2nd in Month

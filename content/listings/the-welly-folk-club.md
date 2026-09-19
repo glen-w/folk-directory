@@ -8,7 +8,7 @@ locations:
 - wolviston-village
 county: Durham
 venue: The Wellington Inn, High Street, Wolviston Village, TS22 5JY
-address: The Wellington Inn, High Street, Wolviston Village
+address: The Wellington Inn, High Street
 place: Wolviston Village
 post_code: TS22 5JY
 when: Thursday, Every Week

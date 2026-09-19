@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Clare
 venue: Lucas Bar
-address: ''
+address: 74 Parnell Street
 place: Ennis
-post_code: ''
+post_code: V95 X754
 lat: 52.84369
 lng: -8.98692
 when: The new home of the Friday afternoon piping session with Blackie O'Connell—every

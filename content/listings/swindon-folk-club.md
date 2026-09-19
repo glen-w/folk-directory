@@ -9,7 +9,7 @@ locations:
 - england
 county: Wiltshire
 venue: Upstairs at The Hop Inn
-address: The Hop Inn, 8 Devizes Road, Swindon
+address: The Hop Inn, 8 Devizes Road
 place: Swindon
 post_code: SN1 4BH
 when: Friday, 3rd in Month

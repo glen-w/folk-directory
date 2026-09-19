@@ -8,7 +8,7 @@ locations:
 - newcastle-upon-tyne
 county: Tyne and Wear
 venue: The Cumberland Arms (back room)
-address: James Place Street, Byker, Newcastle upon Tyne
+address: James Place Street, Byker
 place: Newcastle upon Tyne
 post_code: NE6 1LD
 when: Tuesday, 2nd in Month

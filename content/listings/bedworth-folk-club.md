@@ -9,12 +9,12 @@ locations:
 - west-midlands
 county: West Midlands
 venue: Bedworth Exservicenems Club
-address: Rye Piece Ringway Bedworth
-place: Rye Piece Ringway Bedworth
+address: Rye Piece Ringway
+place: Bedworth
 post_code: CV12 8JH
 when: Wednesday, 2nd & 4th
 www: www.bedworthfolkclub.co.uk
 status: listed
 ---
 
-Bedworth folk Club at Bedworth Exservicenems Club (Rye Piece Ringway Bedworth) — Wednesday, 2nd & 4th
+Bedworth Folk Club meets at the Bedworth Ex-Service Men's Club, Rye Piece, Ringway, Bedworth, on the 2nd and 4th Wednesdays.

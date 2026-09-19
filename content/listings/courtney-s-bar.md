@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: Courtney's Bar
-address: ''
+address: 24 Plunkett Street
 place: Killarney
-post_code: ''
+post_code: V93 RR04
 lat: 52.05994
 lng: -9.50443
 when: Good lively sessions every wed. and thurs nights for the summer season

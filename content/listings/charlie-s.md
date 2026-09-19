@@ -19,4 +19,4 @@ www: www.charliesbarcork.com
 status: listed
 ---
 
-If you're not going to the Lobby or the Phoenix, pick the one in between! Very long sessions from Sunday afternoon 'till (usually) late at night.
+Situated between the Lobby and the Phoenix, Charlie's offers very long sessions from Sunday afternoon until, usually, late at night.

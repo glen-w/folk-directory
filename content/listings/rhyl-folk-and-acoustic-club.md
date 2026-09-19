@@ -9,7 +9,7 @@ locations:
 - wales
 county: Conwy
 venue: Royal British Legion
-address: Royal British Legion, Llanddulas, Abergele
+address: Royal British Legion, Llanddulas
 place: Abergele
 post_code: LL22 8EN
 when: Friday, Every Week

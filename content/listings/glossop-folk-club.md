@@ -8,7 +8,7 @@ locations:
 - glossop
 county: Derbyshire
 venue: Glossop Labour Club
-address: 11-13 Chapel Street, Glossop
+address: 11-13 Chapel Street
 place: Glossop
 post_code: SK13 8AT
 when: Tuesday, Every Week

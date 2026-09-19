@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: The Roost
-address: ''
+address: Main Street
 place: Maynooth
-post_code: ''
+post_code: W23 E7T3
 lat: 53.3817
 lng: -6.59057
 when: Good session in a great bar

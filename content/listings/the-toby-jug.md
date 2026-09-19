@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Waterford
 venue: The Toby Jug
-address: ''
+address: Main Street
 place: Cappoquin
 post_code: ''
 lat: 52.14789

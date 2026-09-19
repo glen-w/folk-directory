@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: Devitt's
-address: ''
+address: 78 Camden Street Lower
 place: Dublin
-post_code: ''
+post_code: D02 C642
 lat: 53.33554
 lng: -6.26546
 www: www.devittspub.ie

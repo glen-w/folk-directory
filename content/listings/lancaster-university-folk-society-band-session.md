@@ -8,7 +8,7 @@ locations:
 - lancaster
 county: Lancashire
 venue: Bowland Bar
-address: Lancaster University, Bailrigg, Lancaster
+address: Lancaster University, Bailrigg
 place: Lancaster
 post_code: LA1 4YT
 when: Friday, Every Week

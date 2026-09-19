@@ -22,4 +22,4 @@ logo: /images/listings/blakes_of_the_hollow_logo_3213.png
 status: listed
 ---
 
-Note that the pub has 'William Blake' on its frontage.
+The pub has 'William Blake' on its frontage.

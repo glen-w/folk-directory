@@ -8,7 +8,7 @@ locations:
 - stockport
 county: Greater Manchester
 venue: The Midland
-address: 19 Wellington Road North, Heaton Norris, Stockport
+address: 19 Wellington Road North, Heaton Norris
 place: Stockport
 post_code: SK4 1HJ
 when: Thursday, Every 2 weeks

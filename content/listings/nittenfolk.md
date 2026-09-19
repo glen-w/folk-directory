@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Midlothian
 venue: The Dean Tavern
-address: 80 Main Street, Newtongrange, Dalkeith
+address: 80 Main Street, Newtongrange
 place: Dalkeith
 post_code: EH22 4NA
 when: Thursday, Every Week

@@ -8,7 +8,7 @@ locations:
 - middlesbrough
 county: North Yorkshire
 venue: Chapel @ Whitehouse Street
-address: WhiteHouse Street, Middlesbrough
+address: WhiteHouse Street
 place: Middlesbrough
 post_code: TS5 4BY
 when: Friday, Last in month

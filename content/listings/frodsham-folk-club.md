@@ -8,12 +8,12 @@ locations:
 - castle-park-arts-centre-off-park-lane-frodsham-cheshire
 county: Cheshire
 venue: Castle Park Arts Centre
-address: Castle Park Arts Centre off Park Lane Frodsham Cheshire WA6SE
-place: Castle Park Arts Centre off Park Lane Frodsham Cheshire
+address: Park Lane
+place: Frodsham
 post_code: ''
 when: Friday, Every Week
 www: www.frodshamfolkclub.com
 status: listed
 ---
 
-Frodsham Folk Club at Castle Park Arts Centre (Castle Park Arts Centre off Park Lane Frodsham Cheshire) — Friday, Every Week
+Frodsham Folk Club at Castle Park Arts Centre (Park Lane, Frodsham) — Friday, Every Week

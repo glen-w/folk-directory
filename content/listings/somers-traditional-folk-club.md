@@ -9,7 +9,7 @@ locations:
 - west-midlands
 county: Worcestershire
 venue: Bishop Allenby hall
-address: Bishop Allenby Hall, St. Stephen's Church, off St. Stephen's Street, Worcester
+address: Bishop Allenby Hall, St. Stephen's Church, off St. Stephen's Street
 place: Worcester
 post_code: WR3 7HS
 when: Friday, Other

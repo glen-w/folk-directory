@@ -10,9 +10,9 @@ locations:
 - antrim
 county: Antrim
 venue: Cultúrlann
-address: ''
+address: 216 Falls Road
 place: Belfast
-post_code: ''
+post_code: BT12 7LQ
 lat: 54.59631
 lng: -5.95453
 when: This session starts on each Saturday at 1pm and finishes at around 3pm.

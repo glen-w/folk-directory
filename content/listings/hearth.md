@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Hearth
-address: ''
+address: 195-199 Upper Newtownards Road
 place: Belfast
-post_code: ''
+post_code: BT4 3JB
 lat: 54.59521
 lng: -5.87033
 www: www.hearthpub.co.uk

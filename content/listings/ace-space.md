@@ -8,7 +8,7 @@ locations:
 - berkshire
 county: Berkshire
 venue: Ace Space
-address: St Nicholas Road, Newbury, Berkshire
+address: St Nicholas Road, Newbury
 place: Berkshire
 post_code: RG14 5PR
 when: Varied, Variable

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Wicklow
 venue: Byrne & Woods Bar
-address: ''
+address: Ashford Road
 place: Roundwood
-post_code: ''
+post_code: A98 H363
 lat: 53.06148
 lng: -6.22399
 www: www.byrneandwoods.ie

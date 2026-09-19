@@ -8,7 +8,7 @@ locations:
 - wimborne
 county: Dorset
 venue: Cafe@ the Allendale
-address: Allendale Community Centre, Hanham Rd, Wimborne
+address: Allendale Community Centre, Hanham Rd
 place: Wimborne
 post_code: BH21 1AS
 when: Monday, 2nd in Month

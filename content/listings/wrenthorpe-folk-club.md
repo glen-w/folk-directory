@@ -8,8 +8,8 @@ locations:
 - wrenthorpe-social-club-48-wrenthorpe-road-wrenthorpe-wakefield
 county: West Yorkshire
 venue: Wrenthorpe Social Club
-address: Wrenthorpe Social Club 48 Wrenthorpe Road Wrenthorpe Wakefield
-place: Wrenthorpe Social Club 48 Wrenthorpe Road Wrenthorpe Wakefield
+address: 48 Wrenthorpe Road, Wrenthorpe
+place: Wakefield
 post_code: WF2 0LP
 when: Tuesday, Every Week
 www: ''

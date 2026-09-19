@@ -8,7 +8,7 @@ locations:
 - fishguard
 county: Pembrokeshire
 venue: Royal Oak
-address: Market Square, Fishguard
+address: Market Square
 place: Fishguard
 post_code: SA65 9HA
 when: Tuesday, Every Week

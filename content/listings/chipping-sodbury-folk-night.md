@@ -8,7 +8,7 @@ locations:
 - bristol
 county: Gloucestershire
 venue: Beaufort Hunt Pub
-address: Chipping Sodbury , Bristol
+address: Chipping Sodbury
 place: Bristol
 post_code: BS37 6AG
 when: Thursday, 1st in Month

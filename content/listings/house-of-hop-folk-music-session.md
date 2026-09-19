@@ -8,7 +8,7 @@ locations:
 - darlington
 county: Durham
 venue: The House of Hop, Houndgate Darlington DL1 5RLn
-address: The House of Hop, Darlington
+address: The House of Hop
 place: Darlington
 post_code: DL1 5RL
 when: Sunday, 3rd in Month

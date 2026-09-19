@@ -9,7 +9,7 @@ locations:
 - england
 county: Cheshire
 venue: The Dog and Partridge
-address: 97 Palmerston St, Bollington, Macclesfield
+address: 97 Palmerston St, Bollington
 place: Macclesfield
 post_code: SK10 5JX
 when: Sunday, 1st & 3rd

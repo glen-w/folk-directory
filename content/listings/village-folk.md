@@ -8,7 +8,7 @@ locations:
 - derbyshire
 county: Derbyshire
 venue: Melbourne Assembly Rooms
-address: High Street, Melbourne, Derbyshire
+address: High Street, Melbourne
 place: Derbyshire
 post_code: DE73 8GF
 when: Saturday, Variable

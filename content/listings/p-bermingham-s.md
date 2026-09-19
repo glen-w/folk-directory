@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Meath
 venue: P. Bermingham's
-address: ''
+address: 7 Ludlow Street
 place: Navan
-post_code: ''
+post_code: C15 A337
 lat: 53.65245
 lng: -6.68326
 when: Session starts 5.30 on sunday evenings.

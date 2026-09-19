@@ -116,6 +116,34 @@ def test_no_duplicate_listing_titles():
     assert not dups, f"duplicate titles remain: {dups}"
 
 
+def test_address_does_not_repeat_place():
+    """`place` is shown on its own line, so it must not also be an address segment."""
+
+    def norm(value: str) -> str:
+        return re.sub(r"\s+", " ", value).strip(" .,").lower()
+
+    offenders = []
+    for path in LISTINGS.glob("*.md"):
+        if path.name == "_index.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        fm = re.match(r"^---\n(.*?)\n---", text, re.S)
+        if not fm:
+            continue
+        block = fm.group(1)
+        addr_m = re.search(r"^address:\s*(.*)$", block, re.M)
+        place_m = re.search(r"^place:\s*(.*)$", block, re.M)
+        if not addr_m or not place_m:
+            continue
+        address = addr_m.group(1).strip().strip("\"'")
+        place = place_m.group(1).strip().strip("\"'")
+        if not address or not place:
+            continue
+        if any(norm(part) == norm(place) for part in address.split(",") if part.strip()):
+            offenders.append(path.name)
+    assert not offenders, f"address repeats place: {offenders[:20]}"
+
+
 def test_address_is_never_a_coord_pin():
     """Street `address` must be human-readable; pins live in lat/lng."""
     pin_re = re.compile(

@@ -8,7 +8,7 @@ locations:
 - belper
 county: Derbyshire
 venue: The Cross Keys, Market Place, Belper
-address: 35 Market Place, Belper
+address: 35 Market Place
 place: Belper
 post_code: DE56 1FZ
 when: Wednesday, Every Week

@@ -9,7 +9,7 @@ locations:
 - scotland
 county: North Ayrshire
 venue: Vineburgh Community Centre
-address: Quarry Road, Irvine
+address: Quarry Road
 place: Irvine
 post_code: ''
 when: Wednesday, Every 2 weeks

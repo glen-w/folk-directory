@@ -8,7 +8,7 @@ locations:
 - southampton
 county: Hampshire
 venue: Woodie's at the Junction
-address: Priory Road, Southampton
+address: Priory Road
 place: Southampton
 post_code: SO17 2JZ
 when: Tuesday, 2nd in Month

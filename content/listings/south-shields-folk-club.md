@@ -9,7 +9,7 @@ locations:
 - north-east-england
 county: North East England
 venue: South Tyneside Indoor Bowls and Social Club
-address: Jack Clark Park, Horsley Hill Road, South Shields
+address: Jack Clark Park, Horsley Hill Road
 place: South Shields
 post_code: NE33 3HE
 when: Sunday, Every Week

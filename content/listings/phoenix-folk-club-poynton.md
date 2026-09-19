@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Cheshire
 venue: Poynton British Legion
-address: Poynton Legion Club. Geotges Rd West, Poynnton SK12 IJY
+address: Poynton Legion Club. Geotges Rd West
 place: Poynnton SK12 IJY
 post_code: ''
 when: Friday, 1st in Month

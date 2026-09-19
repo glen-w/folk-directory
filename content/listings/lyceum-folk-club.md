@@ -8,7 +8,7 @@ locations:
 - wales
 county: Newport
 venue: Crindau Constitutional Club
-address: 45 Malpas Rd, Newport
+address: 45 Malpas Rd
 place: Newport
 post_code: NP12 5PJ
 when: Thursday, Every Week

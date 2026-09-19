@@ -10,8 +10,8 @@ locations:
 - yorkshire-and-the-humber
 county: Yorkshire and the Humber
 venue: Harthill Village Hall
-address: Winney Hill Harthill
-place: Winney Hill Harthill
+address: Winney Hill
+place: Harthill
 post_code: S26 7YL
 when: Friday, 1st in Month
 www: www.beehivefolkclub.com

@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Dumfries and Galloway
 venue: The Fitba' Bar
-address: 9-15 North Strand Street, Stranraer
+address: 9-15 North Strand Street
 place: Stranraer
 post_code: DG9 7LD
 when: Wednesday, Every Week

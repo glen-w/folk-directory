@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Clare
 venue: Old Ground Hotel
-address: ''
+address: Station Road
 place: Ennis
-post_code: ''
+post_code: V95 YY19
 lat: 52.84273
 lng: -8.98307
 www: www.oldgroundhotelennis.com

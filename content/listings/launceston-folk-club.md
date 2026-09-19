@@ -8,7 +8,7 @@ locations:
 - cornwall
 county: Cornwall
 venue: Various venues in Launceston
-address: The Old Police Station, Westgate Street, Launceston, Cornwall
+address: The Old Police Station, Westgate Street, Launceston
 place: Cornwall
 post_code: PL15 7AE
 when: Varied, Other

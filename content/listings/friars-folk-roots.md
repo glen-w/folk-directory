@@ -8,7 +8,7 @@ locations:
 - gloucestershire
 county: Gloucestershire
 venue: The Frog & Fiddle
-address: 313-315 High Street, Cheltenham, Gloucestershire
+address: 313-315 High Street, Cheltenham
 place: Gloucestershire
 post_code: NE6 1LD
 when: Varied, Variable

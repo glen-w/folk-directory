@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Morris Bar
-address: ''
+address: 15 Talbot Street
 place: Dublin
-post_code: ''
+post_code: D01 F2V3
 lat: 53.35073
 lng: -6.25539
 when: Seisiún ceoil trí Ghaeilge gach mí le Paahto Cummins. 7pm-9pm. A monthly session

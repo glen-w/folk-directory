@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Wexford
 venue: The Centenary Stores
-address: ''
+address: Charlotte Street
 place: Wexford
-post_code: ''
+post_code: Y35 PF83
 lat: 52.34105
 lng: -6.4617
 when: Long running session in Wexford town, starts about 12.45 each Sunday.

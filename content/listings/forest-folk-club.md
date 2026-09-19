@@ -9,7 +9,7 @@ locations:
 - south-west-england
 county: Gloucestershire
 venue: Ore Pool Inn
-address: Chepstow Road, Coleford
+address: Chepstow Road
 place: Coleford
 post_code: GL16 8LH
 when: Sunday, 1st & 3rd

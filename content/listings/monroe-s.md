@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: Monroe's
-address: ''
+address: 14 Dominick Street Upper
 place: Galway
-post_code: ''
+post_code: H91 WD2H
 lat: 53.26997
 lng: -9.05777
 when: Session just started up in February 2005, every Thursday.

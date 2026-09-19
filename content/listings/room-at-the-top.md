@@ -8,7 +8,7 @@ locations:
 - newburgh
 county: Lancashire
 venue: The Red Lion
-address: Ash Brow, Newburgh
+address: Ash Brow
 place: Newburgh
 post_code: WN8 7NF
 when: Monday, Every Week

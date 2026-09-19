@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Galway
 venue: Stiúideo Cuan
-address: ''
+address: Ceardlann - Spiddal Craft Village
 place: Spiddal
-post_code: ''
+post_code: H91 HX78
 lat: 53.24742
 lng: -9.26143
 when: Starting on March 13th, this session is on Sundays from 6-8pm featuring Charlie

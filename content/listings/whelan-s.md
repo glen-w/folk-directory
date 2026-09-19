@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: Whelan's
-address: ''
+address: 25 Wexford Street
 place: Dublin
-post_code: ''
+post_code: D02 H527
 lat: 53.33658
 lng: -6.26572
 www: www.whelanslive.com

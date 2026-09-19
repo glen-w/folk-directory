@@ -9,7 +9,7 @@ locations:
 - yorkshire
 county: North Yorkshire
 venue: Sleights Village Hall
-address: Coach Road , Sleights , WHITBY
+address: Coach Road, Sleights
 place: WHITBY
 post_code: ''
 when: Sunday, 1st in Month

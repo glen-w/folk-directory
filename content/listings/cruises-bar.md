@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Clare
 venue: Cruises Bar
-address: ''
+address: 41 Abbey Street
 place: Ennis
-post_code: ''
+post_code: V95 XFX4
 lat: 52.84549
 lng: -8.9818
 www: www.queenshotelennis.com/en/bar

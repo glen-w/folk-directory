@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Tipperary
 venue: Baker's Bar
-address: ''
+address: 17 Parnell Street
 place: Clonmel
-post_code: ''
+post_code: E91 X653
 lat: 52.35364
 lng: -7.6983
 when: Thursday, 21:00

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Lavery's
-address: ''
+address: 12-18 Bradbury Place
 place: Belfast
-post_code: ''
+post_code: BT7 1RS
 lat: 54.58898
 lng: -5.93422
 when: Sunday session from 7pm to 9pm.

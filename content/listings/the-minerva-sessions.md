@@ -8,7 +8,7 @@ locations:
 - hull
 county: East Riding
 venue: The Minerva pub
-address: Nelson Street, Hull
+address: Nelson Street
 place: Hull
 post_code: HU1 1XE
 when: Sunday, Every Week

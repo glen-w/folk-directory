@@ -8,7 +8,7 @@ locations:
 - totnes
 county: Devon
 venue: Bay Horse Inn
-address: 8 Cistern Street, Totnes
+address: 8 Cistern Street
 place: Totnes
 post_code: TQ9 5SP
 when: Tuesday, Every Week

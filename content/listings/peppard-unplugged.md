@@ -8,7 +8,7 @@ locations:
 - henley-on-thames
 county: Oxfordshire
 venue: Peppard War Memorial Hall
-address: Gallowstree Road, Peppard Common, Henley-on-Thames
+address: Gallowstree Road, Peppard Common
 place: Henley-on-Thames
 post_code: BH21 1AS
 when: Saturday, 2nd in Month

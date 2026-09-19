@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Carlow
 venue: Seven Oaks Hotel
-address: ''
+address: Athy Road
 place: Carlow
-post_code: ''
+post_code: R93 V4K5
 lat: 52.84508
 lng: -6.92964
 www: sevenoakshotel.com

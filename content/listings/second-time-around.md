@@ -8,7 +8,7 @@ locations:
 - nottingham
 county: Nottinghamshire
 venue: Royal British Legion
-address: 16 Hall Croft, Beeston, Nottingham
+address: 16 Hall Croft, Beeston
 place: Nottingham
 post_code: NG9 1EL
 when: Friday, Every Week

@@ -8,7 +8,7 @@ locations:
 - manchester
 county: Greater Manchester
 venue: Gorse Hill Church Hall
-address: Wesley Street, Manchester
+address: Wesley Street
 place: Manchester
 post_code: M32 0GL
 when: Monday, Every Week

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Tyrone
 venue: Dún Uladh
-address: ''
+address: Drumnakilly Road
 place: Omagh
-post_code: ''
+post_code: BT79 0JP
 lat: 54.60307
 lng: -7.24265
 when: Sessions held on the first Saturday of every month.

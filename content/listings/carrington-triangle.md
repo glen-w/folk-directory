@@ -9,7 +9,7 @@ locations:
 - england
 county: Nottinghamshire
 venue: The Gladstone Hotel
-address: Loscoe Road, Carrington, Nottingham
+address: Loscoe Road, Carrington
 place: Nottingham
 post_code: ''
 when: Wednesday, Every Week

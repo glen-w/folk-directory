@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: John Benny's
-address: ''
+address: "Sráid na Trá"
 place: Dingle
-post_code: ''
+post_code: V92 N207
 lat: 52.13997
 lng: -10.2733
 www: www.johnbennyspub.com/music.html

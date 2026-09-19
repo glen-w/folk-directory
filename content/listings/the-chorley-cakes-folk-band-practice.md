@@ -8,7 +8,7 @@ locations:
 - chorley
 county: Lancashire
 venue: Eaves Green Community Centre
-address: 33 Cottage Fields, Chorley
+address: 33 Cottage Fields
 place: Chorley
 post_code: PR7 3QE
 when: Saturday, 2nd in Month

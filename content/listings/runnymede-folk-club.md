@@ -8,7 +8,7 @@ locations:
 - surrey
 county: Surrey
 venue: The Red Lion, Egham
-address: 52 High Street, Egham, Surrey
+address: 52 High Street, Egham
 place: Surrey
 post_code: TW20 9EW
 when: Thursday, 1st in Month

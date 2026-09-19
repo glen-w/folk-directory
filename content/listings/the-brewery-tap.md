@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Offaly
 venue: The Brewery Tap
-address: ''
+address: High Street
 place: Tullamore
-post_code: ''
+post_code: R35 P761
 lat: 53.27298
 lng: -7.49381
 when: Mondays at 9:30pm.

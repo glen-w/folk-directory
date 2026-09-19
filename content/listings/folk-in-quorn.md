@@ -8,7 +8,7 @@ locations:
 - leicestershire
 county: Leicestershire
 venue: The Blacksmith's Arms
-address: 29 Meeting Street,Quorn,Leicestershire
+address: 29 Meeting Street, Quorn
 place: Leicestershire
 post_code: LA8 9LN
 when: Sunday, 2nd and 4th

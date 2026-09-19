@@ -8,7 +8,7 @@ locations:
 - fife
 county: Fife
 venue: The Woodside Hotel
-address: High Street, Aberdour, Fife
+address: High Street, Aberdour
 place: Fife
 post_code: KY3 0US
 when: Friday, 3rd in Month

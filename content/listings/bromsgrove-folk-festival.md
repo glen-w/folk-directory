@@ -8,7 +8,7 @@ locations:
 - bromsgrove
 county: Worcestershire
 venue: Various
-address: Meadow Road, Catshill, Bromsgrove
+address: Meadow Road, Catshill
 place: Bromsgrove
 post_code: ''
 when: July

@@ -8,7 +8,7 @@ locations:
 - nottinghamshire
 county: Nottinghamshire
 venue: Radcliffe-on-Trent Royal British Legion
-address: 17 Main Road, Radcliffe-on-Trent, Nottinghamshire
+address: 17 Main Road, Radcliffe-on-Trent
 place: Nottinghamshire
 post_code: NG12 2FD
 when: Sunday, 1st in Month

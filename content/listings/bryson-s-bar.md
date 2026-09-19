@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Londonderry
 venue: Bryson's Bar
-address: ''
+address: 28 Union Road
 place: Magherafelt
-post_code: ''
+post_code: BT45 5DF
 lat: 54.75757
 lng: -6.61031
 when: Kicks off at 6pm every Sunday

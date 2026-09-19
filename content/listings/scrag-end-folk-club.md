@@ -8,7 +8,7 @@ locations:
 - east-midlands
 county: Leicestershire
 venue: Mushroom Hall Pub
-address: Main Street, Albert Village, Swadlincote
+address: Main Street, Albert Village
 place: Swadlincote
 post_code: DE11 8EN
 when: Sundays of the month in the restaurant

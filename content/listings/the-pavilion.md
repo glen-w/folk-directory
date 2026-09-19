@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Cork
 venue: The Pavilion
-address: ''
+address: "Carey's Lane"
 place: Cork
-post_code: ''
+post_code: T12 FH27
 lat: 51.89864
 lng: -8.47381
 www: www.pavilioncork.com

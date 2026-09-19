@@ -8,7 +8,7 @@ locations:
 - wallasey
 county: Merseyside
 venue: Misty Blues
-address: Manor Road, Liscard, Wallasey
+address: Manor Road, Liscard
 place: Wallasey
 post_code: CH44 1BY
 when: Sunday, 1st & 3rd

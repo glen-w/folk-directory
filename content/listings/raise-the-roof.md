@@ -8,7 +8,7 @@ locations:
 - sheffield
 county: South Yorkshire
 venue: The Red Deer
-address: Pitt Street, Sheffield
+address: Pitt Street
 place: Sheffield
 post_code: S1 4DD
 when: Thursday, 2nd in Month

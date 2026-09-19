@@ -8,7 +8,7 @@ locations:
 - wales
 county: Gwynedd
 venue: Various
-address: Dolgellau, Gwynedd, Wales
+address: Dolgellau, Gwynedd
 place: Wales
 post_code: DY8 1EP
 when: Wednesday, Variable

@@ -8,7 +8,7 @@ locations:
 - spondon
 county: Derbyshire
 venue: The Vernon Arms
-address: 21 Locko Road, Spondon
+address: 21 Locko Road
 place: Spondon
 post_code: DE21 7AL
 when: Tuesday, Every Week

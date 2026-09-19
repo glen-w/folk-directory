@@ -9,7 +9,7 @@ locations:
 - hertfordshire
 county: Cambridgeshire
 venue: The Plough
-address: 12 High Street, Shepreth, Cambridgeshire
+address: 12 High Street, Shepreth
 place: Cambridgeshire
 post_code: SG8 6PP
 when: Thursday, Last in month

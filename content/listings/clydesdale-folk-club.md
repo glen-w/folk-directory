@@ -8,7 +8,7 @@ locations:
 - scotland
 county: South Lanarkshire
 venue: The Elphinstone Hotel
-address: High Street, Biggar, South Lanarkshire
+address: High Street, Biggar
 place: South Lanarkshire
 post_code: ML12 6LX
 when: Thursday, Last in month

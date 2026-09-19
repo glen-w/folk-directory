@@ -10,7 +10,7 @@ locations:
 - north-east
 county: Tyne and Wear
 venue: Monkseaton Arms
-address: Front Street, Monkseaton, Whitley Bay, Tyne & Wear
+address: Front Street, Monkseaton, Whitley Bay
 place: Tyne & Wear
 post_code: ''
 when: Sunday, Every Week

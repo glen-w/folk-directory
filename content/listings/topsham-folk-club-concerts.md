@@ -8,12 +8,12 @@ locations:
 - fore-street-topsham
 county: ''
 venue: Matthews Hall
-address: Fore Street Topsham
-place: Fore Street Topsham
+address: Fore Street
+place: Topsham
 post_code: EX3 0HF
 when: Sunday, Variable
 www: www.topshamfolkclub.org
 status: listed
 ---
 
-Topsham Folk Club Concerts at Matthews Hall (Fore Street Topsham) — Sunday, Variable
+Topsham Folk Club Concerts at Matthews Hall (Fore Street, Topsham) — Sunday, Variable

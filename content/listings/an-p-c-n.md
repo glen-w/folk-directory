@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: An Púcán
-address: ''
+address: 11 Forster Street
 place: Galway
-post_code: ''
+post_code: H91 P65D
 lat: 53.27454
 lng: -9.04746
 when: Session on Tuesdays at 6pm.

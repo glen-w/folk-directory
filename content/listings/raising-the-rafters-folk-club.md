@@ -8,7 +8,7 @@ locations:
 - wath-upon-dearne
 county: South Yorkshire
 venue: Saint James Rooms
-address: Church Street, Wath-upon-Dearne
+address: Church Street
 place: Wath-upon-Dearne
 post_code: S63 7RD
 when: Saturday, 2nd in Month

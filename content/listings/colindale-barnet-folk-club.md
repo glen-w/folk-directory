@@ -8,7 +8,7 @@ locations:
 - barnet
 county: Greater London
 venue: The Bull Theatre
-address: 68 High St, Chipping Barnet, Barnet
+address: 68 High St, Chipping Barnet
 place: Barnet
 post_code: EN5 5SJ
 when: Friday, 3rd in Month

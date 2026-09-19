@@ -8,7 +8,7 @@ locations:
 - stony-stratford
 county: Buckinghamshire
 venue: The Vaults Bar
-address: The Vaults Bar, The High Street, Stony Stratford
+address: The Vaults Bar, The High Street
 place: Stony Stratford
 post_code: MK11 1AQ
 when: Sunday, Every Week

@@ -9,8 +9,8 @@ locations:
 - linconshire
 county: Lincolnshire
 venue: The Ropewalk
-address: The Ropewalk Barton upon Humber
-place: The Ropewalk Barton upon Humber
+address: The Ropewalk
+place: Barton upon Humber
 post_code: DN18 5JR
 when: Monday, 1st in Month
 www: Www.folklincs.com
@@ -18,4 +18,4 @@ logo: /images/listings/folklincs_festival_logo_930.png
 status: listed
 ---
 
-Folklincs Festival at The Ropewalk (The Ropewalk Barton upon Humber) — Monday, 1st in Month
+Folklincs Festival at The Ropewalk (The Ropewalk, Barton upon Humber) — Monday, 1st in Month

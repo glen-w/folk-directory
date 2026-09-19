@@ -8,7 +8,7 @@ locations:
 - shropshire
 county: Herefordshire
 venue: Brimfield Village Hall
-address: Brimfield Village Hall, Brimfield, Shropshire
+address: Brimfield Village Hall, Brimfield
 place: Shropshire
 post_code: SY8 4NE
 when: Monday, 1st in Month

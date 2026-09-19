@@ -8,8 +8,8 @@ locations:
 - 67-london-road-twickenham-middlesex
 county: London
 venue: The Cabbage Patch pub
-address: 67 London Road Twickenham Middlesex
-place: 67 London Road Twickenham Middlesex
+address: 67 London Road
+place: Twickenham
 post_code: ''
 when: Sunday, Every Week
 www: www.twickfolk.co.uk

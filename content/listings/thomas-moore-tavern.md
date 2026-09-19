@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Wexford
 venue: Thomas Moore Tavern
-address: ''
+address: Cornmarket
 place: Wexford
-post_code: ''
+post_code: Y35 A260
 lat: 52.33982
 lng: -6.46343
 when: Open Trad and Ballad session, every Sunday from 1.30pm.

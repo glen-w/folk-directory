@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Mayo
 venue: The Clock Tavern
-address: ''
+address: High Street
 place: Westport
-post_code: ''
+post_code: F28 Y193
 lat: 53.79747
 lng: -9.52278
 www: theclocktavern.ie

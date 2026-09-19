@@ -8,7 +8,7 @@ locations:
 - kent
 county: Kent
 venue: The Bowerhouse
-address: The Bowerhouse, 20 Warwick Place, Maidstone, Kent
+address: The Bowerhouse, 20 Warwick Place, Maidstone
 place: Kent
 post_code: ME16 8SG
 when: Tuesday, 4th in Month

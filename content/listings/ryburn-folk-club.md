@@ -8,7 +8,7 @@ locations:
 - england
 county: West Yorkshire
 venue: Hollins Mill
-address: Hollins Mill, Hollins Mill Lane, Sowerby Bridge, West Yorkshire
+address: Hollins Mill, Hollins Mill Lane, Sowerby Bridge
 place: West Yorkshire
 post_code: HX6 2QG
 when: Tuesday, 2nd & 4th

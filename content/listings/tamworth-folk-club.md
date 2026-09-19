@@ -8,7 +8,7 @@ locations:
 - tamworth
 county: Staffordshire
 venue: The Tamworth Tap & Brewery
-address: 29 Market St, Tamworth
+address: 29 Market St
 place: Tamworth
 post_code: B79 7LR
 when: Friday, 1st & 3rd

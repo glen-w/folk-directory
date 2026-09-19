@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Duke Of York
-address: ''
+address: 7-11 Commercial Court
 place: Belfast
-post_code: ''
+post_code: BT1 2NB
 lat: 54.60176
 lng: -5.92744
 www: www.dukeofyorkbelfast.com

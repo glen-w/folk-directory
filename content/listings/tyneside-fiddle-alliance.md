@@ -8,7 +8,7 @@ locations:
 - newcastle-upon-tyne
 county: Tyne and Wear
 venue: St George's Church Hall, Jesmond
-address: St George's Church Hall, St George's Close, Jesmond, Newcastle upon Tyne
+address: St George's Church Hall, St George's Close, Jesmond
 place: Newcastle upon Tyne
 post_code: NE2 2TF
 when: Thursday, 1st & 3rd

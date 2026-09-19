@@ -10,11 +10,11 @@ locations:
 county: Rhondda Cynon Taf
 venue: Pontyclun Institute and Athletic Club
 address: Castan Rd/Palalwyf Ave
-place: Castan Rd/Palalwyf Ave
+place: Pontyclun
 post_code: ''
 when: Wednesday, Every Week
 www: www.folkwales.org.uk/folk.html
 status: listed
 ---
 
-News at Pontyclun Institute and Athletic Club (Castan Rd/Palalwyf Ave), Wednesday, every week.
+News at Pontyclun Institute and Athletic Club (Castan Rd/Palalwyf Ave, Pontyclun), Wednesday, every week.

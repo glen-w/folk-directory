@@ -8,7 +8,7 @@ locations:
 - south-yorkshire
 county: South Yorkshire
 venue: Commercial Hotel
-address: 107 Station Rd, Chapeltown, South Yorkshire
+address: 107 Station Rd, Chapeltown
 place: South Yorkshire
 post_code: TQ9 5EL
 when: Monday, Every Week

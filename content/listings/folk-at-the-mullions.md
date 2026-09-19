@@ -8,7 +8,7 @@ locations:
 - somerset
 county: Somerset
 venue: The Mullions
-address: Street, Somerset
+address: Street
 place: Somerset
 post_code: SY8 4NE
 when: Monday, Every 2 weeks

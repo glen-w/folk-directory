@@ -32,6 +32,8 @@
     "venue" (.Params.venue | default "")
     "place" (.Params.place | default "")
     "post_code" (.Params.post_code | default "")
+    "lat" (.Params.lat | default 0)
+    "lng" (.Params.lng | default 0)
     "www" $www
     "locations" $locations
     "logo" $logoOut

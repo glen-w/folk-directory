@@ -9,7 +9,7 @@ locations:
 - yorkshire
 county: Yorkshire
 venue: Community Village Hall
-address: Hutton Rudby Village Hall, Enterpen, Hutton Rudby, Yarm
+address: Hutton Rudby Village Hall, Enterpen, Hutton Rudby
 place: Yarm
 post_code: TS15 0EJ
 when: Varied, Variable

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Meath
 venue: Brogan's
-address: ''
+address: High Street
 place: Trim
-post_code: ''
+post_code: C15 K2CV
 lat: 53.5572
 lng: -6.78988
 www: www.brogans.ie

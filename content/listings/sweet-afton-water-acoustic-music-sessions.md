@@ -8,7 +8,7 @@ locations:
 - ayrshire
 county: East Ayrshire
 venue: Various venues in New Cumnock
-address: New Cumnock Town Hall, Castle, New Cumnock, Ayrshire
+address: New Cumnock Town Hall, Castle, New Cumnock
 place: Ayrshire
 post_code: KA18 4AN
 when: Sunday, Last in month

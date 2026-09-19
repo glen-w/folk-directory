@@ -8,7 +8,7 @@ locations:
 - lighthorne
 county: Warwickshire
 venue: The Antelope Inn, Lighthorne CV35 0BX
-address: The Antelope Inn, Lighthorne
+address: The Antelope Inn
 place: Lighthorne
 post_code: CV35 0BX
 when: Monday, 1st in Month

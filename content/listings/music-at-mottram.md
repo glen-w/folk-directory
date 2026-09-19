@@ -8,7 +8,7 @@ locations:
 - mottram-st-andrew
 county: Cheshire
 venue: Mottram Village Hall
-address: Mottram Village Hall, Mottram St Andrew
+address: Mottram Village Hall
 place: Mottram St Andrew
 post_code: SK10 4QP
 when: Saturday, Variable

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Mayo
 venue: M.J. Hoban's
-address: ''
+address: The Octagon
 place: Westport
-post_code: ''
+post_code: F28 N902
 lat: 53.79932
 lng: -9.52453
 www: mjhobans.ie

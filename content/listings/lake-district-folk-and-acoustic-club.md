@@ -8,7 +8,7 @@ locations:
 - kendal-cumbria
 county: Cumbria
 venue: Staveley Pavilion - recreation ground
-address: 77 Main Street, Staveley, Kendal Cumbria
+address: 77 Main Street, Staveley
 place: Kendal Cumbria
 post_code: LA8 9LN
 when: Friday, 2nd in Month

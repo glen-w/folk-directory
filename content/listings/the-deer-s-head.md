@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Deer's Head
-address: ''
+address: 1-3 Lower Garfield Street
 place: Belfast
-post_code: ''
+post_code: BT1 1FP
 lat: 54.60147
 lng: -5.93028
 when: Every Friday from 5:30pm.

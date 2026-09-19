@@ -8,7 +8,7 @@ locations:
 - kirkcudbright
 county: Dumfries and Galloway
 venue: The Star, Twynholm
-address: 18 Main St, Twynholm, Kirkcudbright
+address: 18 Main St, Twynholm
 place: Kirkcudbright
 post_code: DG6 4NT
 when: Friday, 2nd in Month

@@ -8,7 +8,7 @@ locations:
 - moffat
 county: Dumfries and Galloway
 venue: Annandale Arms Hotel and Restaurant
-address: The, High St, Moffat
+address: The, High St
 place: Moffat
 post_code: DG10 9HF
 when: Thursday, Every Week

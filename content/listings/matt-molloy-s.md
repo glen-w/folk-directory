@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Mayo
 venue: Matt Molloy's
-address: ''
+address: Bridge Street
 place: Bridge Street, Westport
-post_code: ''
+post_code: F28 FV40
 lat: 53.79941
 lng: -9.52232
 when: Nightly · 21:30

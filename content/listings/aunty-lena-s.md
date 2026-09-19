@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Limerick
 venue: Aunty Lena's
-address: ''
+address: Main Street
 place: Adare
 post_code: ''
 lat: 52.56455

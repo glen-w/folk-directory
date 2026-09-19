@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Donegal
 venue: Sister Sara's
-address: ''
+address: Upper Port Road
 place: Letterkenny
 post_code: ''
 lat: 54.95213

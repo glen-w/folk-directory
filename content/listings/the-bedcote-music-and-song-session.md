@@ -8,7 +8,7 @@ locations:
 - stourbridge
 county: West Midlands
 venue: The Duke William
-address: 25 Coventry St, Stourbridge
+address: 25 Coventry St
 place: Stourbridge
 post_code: DY8 1EP
 when: Tuesday, Every 2 weeks

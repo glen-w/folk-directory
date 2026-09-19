@@ -8,7 +8,7 @@ locations:
 - sheffield
 county: South Yorkshire
 venue: Fagans
-address: 69, Broad Lane, Sheffield
+address: 69, Broad Lane
 place: Sheffield
 post_code: S1 4BS
 when: Saturday, Every Week

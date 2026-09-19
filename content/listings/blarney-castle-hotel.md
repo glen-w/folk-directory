@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Cork
 venue: Blarney Castle Hotel
-address: ''
+address: The Square
 place: Blarney
-post_code: ''
+post_code: T23 YA34
 lat: 51.93392
 lng: -8.5663
 when: Very nice and welcoming session every Tuesday from 9:30 on till around 1:00am!!!

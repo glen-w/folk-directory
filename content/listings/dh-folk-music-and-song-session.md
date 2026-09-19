@@ -8,7 +8,7 @@ locations:
 - birmingham
 county: West Midlands
 venue: The Wellington
-address: The Wellington, 37 Bennetts Hill, Birmingham
+address: The Wellington, 37 Bennetts Hill
 place: Birmingham
 post_code: B2 5SN
 when: Tuesday, 3rd in Month

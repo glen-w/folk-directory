@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Londonderry
 venue: The Shepherd's Rest
-address: ''
+address: 220 Sixtowns Road
 place: Draperstown
-post_code: ''
+post_code: BT45 7BH
 lat: 54.75022
 lng: -6.87772
 when: Third Sunday of the month from September to April.

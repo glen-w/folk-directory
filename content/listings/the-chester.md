@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Chester
-address: ''
+address: Chichester Park North
 place: Belfast
-post_code: ''
+post_code: BT15 5GE
 lat: 54.62818
 lng: -5.93947
 when: Every Thursday, 7:30pm to 9:30pm.

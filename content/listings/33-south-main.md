@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: 33 South Main
-address: ''
+address: 33 Main Street South
 place: Naas
-post_code: ''
+post_code: W91 C9ER
 lat: 53.2161
 lng: -6.66459
 when: Weekly Trad Session every Thursday evening from 21:30 Musicians Welcome!

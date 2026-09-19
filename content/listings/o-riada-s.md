@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Kilkenny
 venue: O'Riada's
-address: ''
+address: 25 Parliament Street
 place: Kilkenny
-post_code: ''
+post_code: R95 CH79
 lat: 52.6548
 lng: -7.25509
 when: Weekly session run by a number of local musicians.

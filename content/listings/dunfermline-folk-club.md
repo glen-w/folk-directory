@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Fife
 venue: The Glen Tavern
-address: 110-112 Pittencrieff St, Dunfermline
+address: 110-112 Pittencrieff St
 place: Dunfermline
 post_code: KY12 8AN
 when: Wednesday, Every Week

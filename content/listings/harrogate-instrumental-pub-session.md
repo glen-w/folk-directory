@@ -8,7 +8,7 @@ locations:
 - harrogate
 county: North Yorkshire
 venue: The Tap on Tower Street
-address: 31 Tower Street, Harrogate
+address: 31 Tower Street
 place: Harrogate
 post_code: HG1 1HS
 when: Tuesday, Every Week

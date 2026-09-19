@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: McMunn's
-address: ''
+address: Sandhill Road
 place: Ballybunion
-post_code: ''
+post_code: V31 E191
 lat: 52.50272
 lng: -9.67331
 when: Fridays, Saturdays, and Sundays at 9pm.

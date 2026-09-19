@@ -12,7 +12,7 @@ county: Galway
 venue: An Crúiscín Lán
 address: ''
 place: Spiddal
-post_code: ''
+post_code: H91 R1XY
 lat: 53.244
 lng: -9.30652
 www: cruiscin.ie

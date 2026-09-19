@@ -8,12 +8,12 @@ locations:
 - hornsey-high-street-london
 county: ''
 venue: The Great Northern Railway Tavern
-address: Hornsey High Street London
-place: Hornsey High Street London
+address: Hornsey High Street
+place: London
 post_code: N8 7QB
 when: Friday, 2nd in Month
 www: kalamazooklub.com
 status: listed
 ---
 
-The Kalamazoo Klub at The Great Northern Railway Tavern (Hornsey High Street London) — Friday, 2nd in Month
+The Kalamazoo Klub at The Great Northern Railway Tavern (Hornsey High Street, London) — Friday, 2nd in Month

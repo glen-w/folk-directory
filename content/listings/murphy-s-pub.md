@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: Murphy's Pub
-address: ''
+address: 18 College Street
 place: Killarney
-post_code: ''
+post_code: V93 EFP1
 lat: 52.05947
 lng: -9.50636
 www: www.murphysofkillarney.com/murphysbar.html

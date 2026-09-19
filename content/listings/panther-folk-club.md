@@ -8,7 +8,7 @@ locations:
 - cleckheaton
 county: West Yorkshire
 venue: Wickham Arms
-address: 6 Westgate, Cleckheaton
+address: 6 Westgate
 place: Cleckheaton
 post_code: BD19 5ET
 when: Tuesdays

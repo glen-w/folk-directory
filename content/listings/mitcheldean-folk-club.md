@@ -8,7 +8,7 @@ locations:
 - glos
 county: Gloucestershire
 venue: The White Horse
-address: The White Horse, High Street, Mitcheldean, Glos
+address: The White Horse, High Street, Mitcheldean
 place: Glos
 post_code: GL17 0AT
 when: Thursday, 2nd in Month

@@ -9,9 +9,9 @@ locations:
 - the-south
 county: The South
 venue: The White Horse
-address: ''
+address: 16 West Street
 place: Ditchling
-post_code: ''
+post_code: BN6 8TS
 lat: 50.92109
 lng: -0.11582
 when: Wednesday of the month with guests

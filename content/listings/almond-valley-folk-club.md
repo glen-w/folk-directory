@@ -8,7 +8,7 @@ locations:
 - west-lothian
 county: West Lothian
 venue: The Railway Inn
-address: Main Street, West Calder, West Lothian
+address: Main Street, West Calder
 place: West Lothian
 post_code: ''
 when: Tuesday, 3rd in Month

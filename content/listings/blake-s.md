@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Galway
 venue: Blake's
-address: ''
+address: Eglinton Street
 place: Galway
-post_code: ''
+post_code: H91 VY1F
 lat: 53.2746
 lng: -9.05278
 when: Sessions on Thursdays and Sundays at 9pm.

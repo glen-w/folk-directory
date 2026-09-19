@@ -8,7 +8,7 @@ locations:
 - bolton
 county: Fife
 venue: Over Hulton Conservative Club
-address: Over Hulton Conservative Club, St Helens Road, Over Hulton, Bolton
+address: Over Hulton Conservative Club, St Helens Road, Over Hulton
 place: Bolton
 post_code: BL5 1AA
 when: Wednesday, Variable

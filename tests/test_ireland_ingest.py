@@ -262,7 +262,13 @@ def test_eircode_normalize():
     assert normalize_eircode("d07yx00") == "D07 YX00"
 
 
-def test_thesession_coords_become_entity_and_lat_lng():
+def test_thesession_coords_become_entity_and_lat_lng(monkeypatch, tmp_path):
+    import venue_address as va
+
+    # Street fill is cache-backed. This test only checks that a pin is not
+    # written into `address` when nothing has been looked up yet.
+    monkeypatch.setattr(va, "CACHE_PATH", tmp_path / "empty-address-cache.json")
+    monkeypatch.setattr(va, "_CACHE", None)
     ent = bc.entity_from_cluster(
         [
             {

@@ -8,7 +8,7 @@ locations:
 - broughton-in-furness-cumbria
 county: Cumbria
 venue: The Browfoot Room, Ulpha Village Hall
-address: The Browfoot Room, Ulpha, Broughton-in-Furness Cumbria
+address: The Browfoot Room, Ulpha
 place: Broughton-in-Furness Cumbria
 post_code: LA20 6DX
 when: Saturday, Variable

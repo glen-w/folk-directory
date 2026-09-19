@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Cork
 venue: The Roaring Donkey
-address: ''
+address: 6-8 Midleton Street
 place: Cobh
-post_code: ''
+post_code: P24 EY43
 lat: 51.85375
 lng: -8.29559
 www: theroaringdonkey.com

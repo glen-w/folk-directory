@@ -8,7 +8,7 @@ locations:
 - aberdeenshire
 county: Aberdeenshire
 venue: Crown Bar
-address: 4 Gordon Street, Huntly, Aberdeenshire
+address: 4 Gordon Street, Huntly
 place: Aberdeenshire
 post_code: AB54 8AJ
 when: Wednesday, 3rd in Month

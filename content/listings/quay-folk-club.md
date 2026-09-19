@@ -8,7 +8,7 @@ locations:
 - isle-of-wight
 county: Isle of Wight
 venue: Quay Arts Centre
-address: 15 Sea Street, Newport Harbour, Isle of Wight
+address: 15 Sea Street, Newport Harbour
 place: Isle of Wight
 post_code: PO30 5BD
 when: Sunday, 3rd in Month

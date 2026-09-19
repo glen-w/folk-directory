@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Wicklow
 venue: The Horse & Hound
-address: ''
+address: Convent Road
 place: Delgany
-post_code: ''
+post_code: A63 DY20
 lat: 53.13474
 lng: -6.09079
 when: News session every Wednesday evening from 9pm. Currently 6-8 regulars.

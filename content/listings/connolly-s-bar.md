@@ -12,7 +12,7 @@ county: Galway
 venue: Connolly's Bar
 address: ''
 place: Kinvara
-post_code: ''
+post_code: H91 D623
 lat: 53.13985
 lng: -8.93791
 when: Dermot and Flo play most Monday nights when they are not away, and welcome visiting

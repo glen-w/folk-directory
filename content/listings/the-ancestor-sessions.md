@@ -8,7 +8,7 @@ locations:
 - callington
 county: Cornwall
 venue: The Cornish Ancestor Micro Pub, Callington
-address: Newport House, Callington
+address: Newport House
 place: Callington
 post_code: PL17 7AS
 when: Friday, 3rd in Month

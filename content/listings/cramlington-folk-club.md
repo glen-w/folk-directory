@@ -8,7 +8,7 @@ locations:
 - england
 county: Northumberland
 venue: Benedictine Social Centre
-address: Glenluce Drive, Southfield Green, Cramlington, Northumberland
+address: Glenluce Drive, Southfield Green, Cramlington
 place: Northumberland
 post_code: NE23 6YA
 when: Wednesday, Every Week

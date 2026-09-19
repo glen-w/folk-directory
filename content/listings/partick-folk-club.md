@@ -8,7 +8,7 @@ locations:
 - scotland
 county: Glasgow
 venue: St Peter's Hall
-address: 66 Chancellor Street, Partick, Glasgow
+address: 66 Chancellor Street, Partick
 place: Glasgow
 post_code: ''
 when: Friday, Last in Month

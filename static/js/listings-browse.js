@@ -323,6 +323,8 @@
   }
 
   const WEBSITE_ICON = `<svg class="listings-card-website-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>`;
+  const MAP_PIN = `<svg class="listings-card-pin" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>`;
+  const CALENDAR_ICON = `<svg class="listings-card-calendar" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg>`;
 
   function placeLine(item) {
     const place = String(item.place || "").trim();
@@ -331,6 +333,32 @@
       return `${place}, ${county}`;
     }
     return place || county || "";
+  }
+
+  function mapsHref(item, where) {
+    const lat = Number(item.lat);
+    const lng = Number(item.lng);
+    if (
+      Number.isFinite(lat) &&
+      Number.isFinite(lng) &&
+      Math.abs(lat) <= 90 &&
+      Math.abs(lng) <= 180 &&
+      !(lat === 0 && lng === 0)
+    ) {
+      return `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+    }
+    const bits = [];
+    const seen = new Set();
+    for (const raw of [item.venue, item.place, item.post_code, item.county]) {
+      const text = String(raw || "").trim();
+      const key = text.toLowerCase();
+      if (!text || seen.has(key)) continue;
+      seen.add(key);
+      bits.push(text);
+    }
+    if (!bits.length && where) bits.push(where);
+    if (!bits.length) return "";
+    return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(bits.join(", "))}`;
   }
 
   function renderResults(root, items, placeholderLogo) {
@@ -349,7 +377,15 @@
         const typeLabel = typeSlug ? slugToLabel(typeSlug) : "";
         const where = placeLine(item);
         const when = String(item.when || "").trim();
-        const metaBits = [where, when].filter(Boolean);
+        const mapUrl = where ? mapsHref(item, where) : "";
+        const whereLine = where
+          ? mapUrl
+            ? `<p class="listings-card-where"><a class="listings-card-map" href="${escapeHtml(mapUrl)}" target="_blank" rel="noopener">${MAP_PIN}<span class="listings-card-map-label">${escapeHtml(where)}</span></a></p>`
+            : `<p class="listings-card-where">${escapeHtml(where)}</p>`
+          : "";
+        const whenLine = when
+          ? `<p class="listings-card-when">${CALENDAR_ICON}<span>${escapeHtml(when)}</span></p>`
+          : "";
         const isDefunct =
           item.status && String(item.status).toLowerCase() === "defunct";
         const websiteUrl = normalizeWww(item.www);
@@ -368,7 +404,7 @@
         const websiteLabel = displayDomain(websiteUrl);
         const websiteAction = websiteUrl && websiteLabel
           ? `<a class="listings-card-website" href="${escapeHtml(websiteUrl)}" target="_blank" rel="noopener">${WEBSITE_ICON}<span class="listings-card-website-label">${escapeHtml(websiteLabel)}</span></a>`
-          : `<span class="listings-card-no-website">No website listed · <a href="/submit/">Submit / update</a></span>`;
+          : `<span class="listings-card-no-website">No website listed</span>`;
         return `
           <article class="post-entry listings-card${isDefunct ? " listings-card--defunct" : ""}">
             <img class="${logoClass}" src="${escapeHtml(logoSrc)}" alt="" width="56" height="56" loading="lazy" onerror="${onError}">
@@ -380,8 +416,8 @@
                 <div class="listings-card-badges">${badge}${defunctBadge}</div>
               </header>
               ${
-                metaBits.length
-                  ? `<p class="listings-card-meta">${escapeHtml(metaBits.join(" · "))}</p>`
+                whereLine || whenLine
+                  ? `<div class="listings-card-meta">${whereLine}${whenLine}</div>`
                   : ""
               }
               <p class="listings-card-actions">${websiteAction}</p>

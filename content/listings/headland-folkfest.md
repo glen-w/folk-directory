@@ -9,7 +9,7 @@ locations:
 - county-durham
 county: Durham
 venue: Jurnets Bar
-address: Wensum Lodge, King Street, Norwich,
+address: Wensum Lodge, King Street, Norwich
 place: Hartlepool
 post_code: ''
 when: October

@@ -8,7 +8,7 @@ locations:
 - bude
 county: Cornwall
 venue: The Falcon Hotel
-address: Breakwater Rd, Bude
+address: Breakwater Rd
 place: Bude
 post_code: EX23 8SD
 when: May

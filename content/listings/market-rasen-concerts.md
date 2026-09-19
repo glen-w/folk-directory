@@ -8,7 +8,7 @@ locations:
 - market-rasen-ln8-3ht-lincolnshire
 county: Lincolnshire
 venue: The Festival Hall, Market Rasen LN8 3HT
-address: The Festival Hall, Market Rasen Lincolnshire
+address: The Festival Hall
 place: Market Rasen Lincolnshire
 post_code: LN8 3HT
 when: Friday, Variable

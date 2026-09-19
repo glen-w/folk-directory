@@ -9,9 +9,9 @@ locations:
 - edinburgh
 county: Edinburgh
 venue: Cabaret Bar
-address: ''
+address: 137 West Port
 place: Edinburgh
-post_code: ''
+post_code: EH3 9DP
 lat: 55.94783
 lng: -3.18133
 when: Weekly (during term time) session with the Edinburgh University Folk Soc from

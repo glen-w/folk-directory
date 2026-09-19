@@ -8,7 +8,7 @@ locations:
 - east-sussex
 county: East Sussex
 venue: Bluebell Farmhouse Kitchen
-address: Bates Green Farm, Tye Hill Road, Arlington, East Sussex
+address: Bates Green Farm, Tye Hill Road, Arlington
 place: East Sussex
 post_code: BN26 6SH
 when: Sunday, Last in month

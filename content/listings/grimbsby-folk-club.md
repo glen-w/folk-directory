@@ -8,7 +8,7 @@ locations:
 - grimsby
 county: Lincolnshire
 venue: The Spider's Web
-address: 180 Carr Lane, Grimsby
+address: 180 Carr Lane
 place: Grimsby
 post_code: DN32 8LN
 when: Sunday

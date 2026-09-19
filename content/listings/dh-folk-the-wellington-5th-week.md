@@ -8,7 +8,7 @@ locations:
 - bennetts-hill-birmingham
 county: West Midlands
 venue: The Wellington
-address: The Wellington, Bennetts Hill Birmingham
+address: The Wellington
 place: Bennetts Hill Birmingham
 post_code: B2 5SN
 when: Tuesday, Other

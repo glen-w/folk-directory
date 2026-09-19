@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Clare
 venue: Cois Na HAbhna
-address: ''
+address: Gort Road
 place: Ennis
 post_code: ''
 lat: 52.85641

@@ -8,7 +8,7 @@ locations:
 - bristol
 county: Gloucestershire
 venue: Bridge Inn
-address: Bridge Rd, Shortwood, Bristol
+address: Bridge Rd, Shortwood
 place: Bristol
 post_code: BS16 9NG
 when: Friday, Every Week

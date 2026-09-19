@@ -10,9 +10,9 @@ locations:
 - antrim
 county: Antrim
 venue: The American Bar
-address: ''
+address: 65-65A Dock Street
 place: Belfast
-post_code: ''
+post_code: BT15 3AF
 lat: 54.60848
 lng: -5.92005
 when: Every second Saturday from 9pm. Every Sunday from 7pm.

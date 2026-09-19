@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Galway
 venue: Mannion's Bar
-address: ''
+address: Market Street
 place: Clifden
-post_code: ''
+post_code: H71 R129
 lat: 53.48763
 lng: -10.02102
 when: There's no music currently (February, 2023) at the pub, unfortunately.

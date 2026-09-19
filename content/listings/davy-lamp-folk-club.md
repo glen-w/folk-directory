@@ -9,7 +9,7 @@ locations:
 - england
 county: Tyne and Wear
 venue: The Arts Centre
-address: Biddick Lane, Washington
+address: Biddick Lane
 place: Washington
 post_code: NE38 8AB
 when: Saturday, 1st in Month

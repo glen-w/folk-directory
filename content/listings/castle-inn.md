@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Westmeath
 venue: Castle Inn
-address: ''
+address: 1-2 Main Street
 place: Athlone
-post_code: ''
+post_code: N37 PV34
 lat: 53.42271
 lng: -7.94247
 when: this session takes place between 7 and 9pm every sunday

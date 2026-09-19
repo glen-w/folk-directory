@@ -8,7 +8,7 @@ locations:
 - devon
 county: Devon
 venue: Devonshire Inn
-address: Sticklepath, Devon
+address: Sticklepath
 place: Devon
 post_code: ''
 when: Sunday, 1st in Month

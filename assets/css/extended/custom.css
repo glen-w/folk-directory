@@ -450,15 +450,6 @@
   color: color-mix(in srgb, var(--primary) 85%, #fff);
 }
 
-.listings-card-no-website {
-  color: var(--secondary, #777);
-  font-size: 0.88rem;
-}
-
-.listings-card-no-website a {
-  font-weight: 600;
-}
-
 .listings-card--defunct {
   opacity: 0.72;
 }
@@ -743,10 +734,61 @@
 }
 
 .listings-card-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
   margin: 0.35rem 0 0;
   color: var(--secondary, #666);
   font-size: 0.85rem;
   line-height: 1.4;
+}
+
+.listings-card-when,
+.listings-card-where {
+  margin: 0;
+}
+
+.listings-card-when {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.listings-card-calendar {
+  flex: 0 0 auto;
+  display: block;
+}
+
+.listings-card-map {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: inherit;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.listings-card-pin {
+  flex: 0 0 auto;
+  display: block;
+}
+
+.listings-card-map-label {
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.listings-card-map:hover {
+  color: var(--brand-green);
+}
+
+.listings-card-map:hover .listings-card-map-label {
+  text-decoration-thickness: 2px;
+}
+
+:root[data-theme="dark"] .listings-card-map:hover {
+  color: var(--primary);
 }
 
 .listings-empty,

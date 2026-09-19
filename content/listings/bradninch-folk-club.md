@@ -8,7 +8,7 @@ locations:
 - bradninch
 county: Devon
 venue: Bradninch Guildhall & Castle Hotel
-address: Bradninch Guildhall, Fore Street , Bradninch
+address: Bradninch Guildhall, Fore Street
 place: Bradninch
 post_code: EX5 4NJ
 when: Tuesday, 1st & 3rd

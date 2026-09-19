@@ -8,7 +8,7 @@ locations:
 - kent
 county: Kent
 venue: Dartford Working Men's Club
-address: 40 Essex Road, Dartford
+address: 40 Essex Road
 place: Dartford
 post_code: DA1 2AU
 when: Tuesdays

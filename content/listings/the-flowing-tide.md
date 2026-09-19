@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Flowing Tide
-address: ''
+address: 9 Abbey Street Lower
 place: Dublin
-post_code: ''
+post_code: D01 H6P1
 lat: 53.34883
 lng: -6.25782
 when: Nice city centre sessions from 7pm to 9pm featuring well established players.

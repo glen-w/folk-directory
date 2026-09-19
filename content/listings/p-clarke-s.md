@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Meath
 venue: P. Clarke's
-address: ''
+address: 14-15 Bridge Street
 place: Navan
-post_code: ''
+post_code: C15 XT73
 lat: 53.65191
 lng: -6.68319
 when: Every friday night.

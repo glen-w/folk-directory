@@ -8,7 +8,7 @@ locations:
 - guernsey
 county: Channel Islands
 venue: Les Rocquettes Hotel
-address: St Peter Port, Guernsey
+address: St Peter Port
 place: Guernsey
 post_code: GY1 1RN
 when: Wednesday, 2nd in Month

@@ -8,7 +8,7 @@ locations:
 - droylsden-manchester
 county: Greater Manchester
 venue: Bush Inn
-address: Bush Inn, 120 Moorside St, Droylsden Manchester, United Kingdom
+address: Bush Inn, 120 Moorside St, United Kingdom
 place: Droylsden Manchester
 post_code: M43 7HL
 when: Tuesday, Every Week

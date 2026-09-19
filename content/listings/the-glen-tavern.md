@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Limerick
 venue: The Glen Tavern
-address: ''
+address: 2 Lower Glentworth Street
 place: Limerick
-post_code: ''
+post_code: V94 WF63
 lat: 52.6613
 lng: -8.63061
 when: This session is running again every Monday night from 9.30 till late.

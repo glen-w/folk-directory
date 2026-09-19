@@ -8,7 +8,7 @@ locations:
 - northumberland
 county: Northumberland
 venue: The Bowes Hotel
-address: Bardon Mill, Hexham, Northumberland
+address: Bardon Mill, Hexham
 place: Northumberland
 post_code: NE47 7HU
 when: Tuesday, 1st in Month

@@ -8,7 +8,7 @@ locations:
 - ruthin
 county: Denbighshire
 venue: The Feathers Inn, Ruthin
-address: The Feathers Inn, Well Street, Ruthin
+address: The Feathers Inn, Well Street
 place: Ruthin
 post_code: LL15 1AW
 when: Thursday, Every Week

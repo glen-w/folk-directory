@@ -8,7 +8,7 @@ locations:
 - lichfield
 county: Staffordshire
 venue: Kings Head
-address: Bird St, Lichfield
+address: Bird St
 place: Lichfield
 post_code: WS13 6PW
 when: Monday, 1st & 3rd

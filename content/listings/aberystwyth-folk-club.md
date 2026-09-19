@@ -8,7 +8,7 @@ locations:
 - ceredigion
 county: Ceredigion
 venue: Amgueddfa Ceredigion Museum
-address: Terrace Rd., Aberystwyth, Ceredigion
+address: Terrace Rd., Aberystwyth
 place: Ceredigion
 post_code: SY23 2AQ
 when: Wednesday, 1st & 3rd

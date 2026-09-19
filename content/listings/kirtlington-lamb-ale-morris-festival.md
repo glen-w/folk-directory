@@ -8,7 +8,7 @@ locations:
 - ox5-3hj
 county: Oxfordshire
 venue: ''
-address: Kirtlington
+address: ''
 place: Kirtlington
 post_code: OX5 3HJ
 when: June

@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Cork
 venue: Cork City Library
-address: ''
+address: Grand Parade
 place: Cork
-post_code: ''
+post_code: T12 H677
 lat: 51.89694
 lng: -8.47483
 when: A session every Saturday from 4pm to 5:15pm, organised by Creative Tradition

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: White Sands Hotel
-address: ''
+address: Coast Road
 place: Portmarnock
-post_code: ''
+post_code: D13 W7X2
 lat: 53.4249
 lng: -6.13232
 when: Kicks of about 9.30 till late.

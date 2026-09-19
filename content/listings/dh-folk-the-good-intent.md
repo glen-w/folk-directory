@@ -8,7 +8,7 @@ locations:
 - birmingham
 county: West Midlands
 venue: The Good Intent
-address: The Good Intent Great Western. Arcade, Birmingham
+address: The Good Intent Great Western. Arcade
 place: Birmingham
 post_code: B2 5HU
 when: Tuesday, 2nd in Month

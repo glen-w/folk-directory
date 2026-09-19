@@ -8,7 +8,7 @@ locations:
 - sheffield
 county: South Yorkshire
 venue: Commercial Hotel
-address: 107 Station Rd, Chapeltown, Sheffield
+address: 107 Station Rd, Chapeltown
 place: Sheffield
 post_code: S35 2XF
 when: Friday, 1st in Month

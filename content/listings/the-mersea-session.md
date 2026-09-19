@@ -8,7 +8,7 @@ locations:
 - essex
 county: Essex
 venue: The Coast Inn
-address: West Mersea
+address: ''
 place: West Mersea
 post_code: CO5 8NA
 when: Thursdays

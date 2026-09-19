@@ -8,7 +8,7 @@ locations:
 - kirkcudbright
 county: Dumfries and Galloway
 venue: Borgue Hotel
-address: Main St, Borgue, Kirkcudbright
+address: Main St, Borgue
 place: Kirkcudbright
 post_code: DG6 4SH
 when: Friday, 4th in Month

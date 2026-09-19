@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Parador
-address: ''
+address: Florenceville Avenue
 place: Belfast
-post_code: ''
+post_code: BT7 3GR
 lat: 54.57418
 lng: -5.91637
 when: The session usually kicks off about 9.30 and ends at 1 am.

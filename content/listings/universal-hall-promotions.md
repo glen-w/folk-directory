@@ -8,7 +8,7 @@ locations:
 - moray
 county: ''
 venue: Universal Hall
-address: Universal Hall, The Park, Findhorn, Moray
+address: Universal Hall, The Park, Findhorn
 place: Moray
 post_code: IV36 3TZ
 when: Varied, Variable

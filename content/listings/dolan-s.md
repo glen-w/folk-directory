@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Limerick
 venue: Dolan's
-address: ''
+address: 3-4 Dock Road
 place: Dock Road
-post_code: ''
+post_code: V94 VH4X
 lat: 52.65882
 lng: -8.63823
 when: Wednesday, 21:00

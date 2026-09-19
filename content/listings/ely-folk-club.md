@@ -9,7 +9,7 @@ locations:
 - england
 county: Cambridgeshire
 venue: village hall
-address: Arkenstall Village Centre, 7 Station Road, Haddenham, Ely, Cambs
+address: Arkenstall Village Centre, 7 Station Road, Haddenham, Ely
 place: Cambs
 post_code: CB6 3XD
 when: Wednesday, Other

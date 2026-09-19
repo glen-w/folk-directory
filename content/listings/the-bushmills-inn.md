@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Bushmills Inn
-address: ''
+address: The Mews
 place: Bushmills
-post_code: ''
+post_code: BT57 8QA
 lat: 55.20631
 lng: -6.52535
 www: www.bushmillsinn.com

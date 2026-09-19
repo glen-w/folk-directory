@@ -16,4 +16,4 @@ www: www.brewtownfolkclub.co.uk/index.html
 status: listed
 ---
 
-Folk & Acoustic Music Clubs & Venues In the UK For East Midlands Area Please check before travelling long distances. Home Main Menu Folk Clubs Index Order & Order Info Support Search Voucher Codes Share page Visit Us On FB The Ilkeston Folk and Blues Club The Thursday Session At The Stute ILKESTON DE7 4AZ 8pm start The session is run once a fortnight, see below for dates. Everyone is welcome to co
+The Ilkeston Folk and Blues Club holds a Thursday session at The Stute, Ilkeston DE7 4AZ, starting at 8pm. The session is run once a fortnight; see below for dates.

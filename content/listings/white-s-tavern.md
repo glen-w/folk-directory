@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: White's Tavern
-address: ''
+address: 2-4 Winecellar Entry
 place: Belfast
-post_code: ''
+post_code: BT1 1QN
 lat: 54.60005
 lng: -5.9284
 www: whitestavernbelfast.com

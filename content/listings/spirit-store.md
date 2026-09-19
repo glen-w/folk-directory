@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Louth
 venue: Spirit Store
-address: ''
+address: "George's Quay"
 place: Dundalk
-post_code: ''
+post_code: A91 NR79
 lat: 54.00863
 lng: -6.39072
 www: spiritstore.ie

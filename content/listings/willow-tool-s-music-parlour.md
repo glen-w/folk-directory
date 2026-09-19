@@ -8,7 +8,7 @@ locations:
 - southam
 county: Warwickshire
 venue: The Harvesters Inn
-address: Church Road, Long Itchington, Southam
+address: Church Road, Long Itchington
 place: Southam
 post_code: MK11 1AQ
 when: Sunday, 1st in Month

@@ -8,7 +8,7 @@ locations:
 - england
 county: East Sussex
 venue: Elephant and Castle
-address: Elephant and Castle, White Hill, Lewes, East Sussex
+address: Elephant and Castle, White Hill, Lewes
 place: East Sussex
 post_code: BN7 2DJ
 when: Saturday, Every Week

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Donegal
 venue: The Rusty Mackerel
-address: ''
+address: Teelin Road
 place: Teelin
-post_code: ''
+post_code: F94 VP99
 lat: 54.63534
 lng: -8.64197
 www: therustymackerel.com

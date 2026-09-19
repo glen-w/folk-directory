@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Oliver St. John Gogarty
-address: ''
+address: 58-59 Fleet Street
 place: Dublin
-post_code: ''
+post_code: D02 N159
 lat: 53.34554
 lng: -6.26171
 www: www.gogartys.ie

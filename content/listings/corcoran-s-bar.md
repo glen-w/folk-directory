@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Wexford
 venue: Corcoran's Bar
-address: ''
+address: Irishtown
 place: New Ross
 post_code: ''
 lat: 52.39892

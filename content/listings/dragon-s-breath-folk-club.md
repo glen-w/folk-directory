@@ -8,7 +8,7 @@ locations:
 - mold
 county: Flintshire
 venue: Treuddyn Village Hall
-address: Treuddyn Village Hall, Queen Street, Treuddyn, Mold
+address: Treuddyn Village Hall, Queen Street, Treuddyn
 place: Mold
 post_code: CH7 4LU
 when: Tuesday, Every Week

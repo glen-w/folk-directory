@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: An Droichead Beag
-address: ''
+address: "An tSráid Mhór"
 place: Dingle
-post_code: ''
+post_code: V92 DK2E
 lat: 52.1422
 lng: -10.26937
 www: androicheadbeag.com

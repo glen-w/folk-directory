@@ -9,9 +9,9 @@ locations:
 - ireland
 county: Cork
 venue: The Welcome Inn
-address: ''
+address: 24 Parnell Place
 place: Cork
-post_code: ''
+post_code: T12 HV2X
 lat: 51.89849
 lng: -8.46761
 www: www.thewelcomeinncork.com/index.php?page=whats-on

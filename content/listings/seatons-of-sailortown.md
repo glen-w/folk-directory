@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Seatons Of Sailortown
-address: ''
+address: 29 Garmoyle Street
 place: Belfast
-post_code: ''
+post_code: BT15 1DY
 lat: 54.60862
 lng: -5.92032
 when: Tuesdays, 9pm to 11pm.

@@ -9,7 +9,7 @@ locations:
 - the-south-east
 county: Kent
 venue: Various venues in Canterbury
-address: Canterbury
+address: ''
 place: Canterbury
 post_code: ''
 when: Varied, Variable

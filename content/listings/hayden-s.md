@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kildare
 venue: Hayden's
-address: ''
+address: Poplar Square
 place: Naas
-post_code: ''
+post_code: W91 N224
 lat: 53.2197
 lng: -6.66113
 when: ''

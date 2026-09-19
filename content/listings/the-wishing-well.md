@@ -10,7 +10,7 @@ locations:
 - ireland
 county: Dublin
 venue: The Wishing Well
-address: ''
+address: Newtown Park
 place: Blackrock
 post_code: ''
 lat: 53.29345

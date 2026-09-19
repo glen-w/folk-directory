@@ -8,7 +8,7 @@ locations:
 - doncaster
 county: South Yorkshire
 venue: Various, Including the Ukranian Club
-address: 48 Beckett Road, Doncaster
+address: 48 Beckett Road
 place: Doncaster
 post_code: ''
 when: Friday, Every Week

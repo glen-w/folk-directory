@@ -9,9 +9,9 @@ locations:
 - london
 county: London
 venue: Irish Cultural Centre
-address: ''
+address: "Black's Road"
 place: Hammersmith
-post_code: ''
+post_code: W6 9EU
 lat: 51.49235
 lng: -0.22533
 when: the sessions are every thursday at 19:00

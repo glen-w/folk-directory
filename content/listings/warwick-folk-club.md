@@ -9,7 +9,7 @@ locations:
 - west-midlands
 county: West Midlands
 venue: Woodloes Tavern
-address: 16 Reardon Court, Woodloes Park, Warwick
+address: 16 Reardon Court, Woodloes Park
 place: Warwick
 post_code: CV34 5RN
 when: Monday, Every Week

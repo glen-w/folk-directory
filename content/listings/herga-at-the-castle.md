@@ -8,7 +8,7 @@ locations:
 - harrow
 county: Greater London
 venue: The Castle
-address: 30 West Street, Harrow
+address: 30 West Street
 place: Harrow
 post_code: HA1 3EF
 when: Monday, Every Week

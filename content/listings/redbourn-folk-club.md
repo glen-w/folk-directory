@@ -9,7 +9,7 @@ locations:
 - england
 county: Hertfordshire
 venue: The Holly-Bush PH, Redbourne
-address: The Hollybush Public House, Church End, Redbourn (near St Albans) Herts .
+address: The Hollybush Public House, Church End
 place: Redbourn (near St Albans) Herts .
 post_code: ''
 when: Wednesday, Every Week

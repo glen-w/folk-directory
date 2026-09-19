@@ -8,7 +8,7 @@ locations:
 - lancaster
 county: Lancashire
 venue: The Gregson Arts and Community Centre
-address: 38 Moorgate, Lancaster
+address: 38 Moorgate
 place: Lancaster
 post_code: PL10 1AX
 when: Thursday, Every Week

@@ -8,7 +8,7 @@ locations:
 - warwickshire
 county: Powys
 venue: Harbury Village Club
-address: Crown Street, Harbury, Leamington Spa, Warwickshire
+address: Crown Street, Harbury, Leamington Spa
 place: Warwickshire
 post_code: CV33 9HE
 when: Thursday, 1st in Month

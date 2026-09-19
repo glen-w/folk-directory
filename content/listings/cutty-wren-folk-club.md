@@ -9,7 +9,7 @@ locations:
 - england
 county: Surrey
 venue: Redcar Borough Park Bowling Club
-address: 1 Thwaites Lane, Redcar.
+address: 1 Thwaites Lane
 place: Redcar.
 post_code: ''
 when: Tuesday, Every Week

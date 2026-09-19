@@ -10,7 +10,7 @@ locations:
 - lothian
 county: Edinburgh
 venue: Royal Oak
-address: 1 Infirmary Street, Edinburgh
+address: 1 Infirmary Street
 place: Edinburgh
 post_code: EH1 1LT
 when: Sunday, Every Week

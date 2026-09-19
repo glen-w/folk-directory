@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Aberdeenshire
 venue: Community Centre
-address: Bath Street, Stonehaven
+address: Bath Street
 place: Stonehaven
 post_code: ''
 when: Friday, Every Week

@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Kelly's Cellars
-address: ''
+address: 30-32 Bank Street
 place: Belfast
-post_code: ''
+post_code: BT1 1HL
 lat: 54.59974
 lng: -5.9324
 when: 'Saturday afternoons, from about 16:00'

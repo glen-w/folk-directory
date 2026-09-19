@@ -8,7 +8,7 @@ locations:
 - buxton
 county: Derbyshire
 venue: The Eagle/The Prince of Wales
-address: 15 Lightwood Rd, Buxton
+address: 15 Lightwood Rd
 place: Buxton
 post_code: SK17 7BJ
 when: Every Wednesday

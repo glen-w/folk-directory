@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Galway
 venue: Donnelly's
-address: ''
+address: Barna Road
 place: Barna
-post_code: ''
+post_code: H91 TD65
 lat: 53.25117
 lng: -9.15182
 when: Every Saturday at 10pm.

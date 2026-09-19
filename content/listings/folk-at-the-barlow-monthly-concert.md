@@ -8,7 +8,7 @@ locations:
 - bolton
 county: Cumbria
 venue: The Barlow, Edgworth
-address: The Barlow, Edgworth, Bolton
+address: The Barlow, Edgworth
 place: Bolton
 post_code: BL7 0AP
 when: Friday, 3rd in Month

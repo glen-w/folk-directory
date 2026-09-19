@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Cork
 venue: Sin É
-address: ''
+address: 8 Coburg Street
 place: Coburg Street
-post_code: ''
+post_code: T23 KF5N
 lat: 51.90169
 lng: -8.4711
 when: Wednesday, 22:00; Thursday, 21:30

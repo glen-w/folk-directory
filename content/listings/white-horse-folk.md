@@ -8,7 +8,7 @@ locations:
 - leics
 county: Leicestershire
 venue: White Horse, Seagrave
-address: Church Street, Seagrave, Leics
+address: Church Street, Seagrave
 place: Leics
 post_code: ''
 when: Thursday, Last in month

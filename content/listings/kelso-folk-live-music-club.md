@@ -9,7 +9,7 @@ locations:
 - scotland
 county: Scottish Borders
 venue: The Cobbles Inn
-address: Bowmont St, Kelso
+address: Bowmont St
 place: Kelso
 post_code: ''
 when: Friday, Every Week

@@ -8,7 +8,7 @@ locations:
 - east-yorkshire
 county: East Yorkshire
 venue: The Telegraph
-address: 110 Quay Road, Bridlington, East Yorkshire
+address: 110 Quay Road, Bridlington
 place: East Yorkshire
 post_code: ''
 when: Tuesday, Every 2 weeks

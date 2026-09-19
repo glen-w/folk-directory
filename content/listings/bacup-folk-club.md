@@ -9,7 +9,7 @@ locations:
 - north-west
 county: Lancashire
 venue: Rosemount wmc
-address: 5 Huttock End Ln, Stacksteads, Bacup
+address: 5 Huttock End Ln, Stacksteads
 place: Bacup
 post_code: OL13 8LD
 when: Monday, Every Week

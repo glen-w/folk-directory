@@ -8,7 +8,7 @@ locations:
 - belper
 county: Derbyshire
 venue: Belper Meadows Cricket Club
-address: Christchurch Meadows, Off Bridge St, Belper
+address: Christchurch Meadows, Off Bridge St
 place: Belper
 post_code: DE56 1BA
 when: Varied, Variable

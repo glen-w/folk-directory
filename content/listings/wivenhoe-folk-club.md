@@ -8,7 +8,7 @@ locations:
 - essex
 county: Essex
 venue: The Greyhound
-address: High Street, Wivenhoe
+address: High Street
 place: Wivenhoe
 post_code: ''
 when: First Thursday every month

@@ -9,8 +9,8 @@ locations:
 - england
 county: East Riding
 venue: The Back Room
-address: 173 Hallgate Cottingham
-place: 173 Hallgate Cottingham
+address: 173 Hallgate
+place: Cottingham
 post_code: ''
 when: Wednesday, Every Week
 www: www.cottingham-live.co.uk

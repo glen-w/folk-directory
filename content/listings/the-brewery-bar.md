@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Donegal
 venue: The Brewery Bar
-address: ''
+address: Castle Street
 place: Letterkenny
-post_code: ''
+post_code: F92 YD77
 lat: 54.94977
 lng: -7.7381
 www: thebrewerybar.ie

@@ -8,7 +8,7 @@ locations:
 - lincoln
 county: Lincolnshire
 venue: The Joiner's Arms
-address: 4-6 Victoria St, West Parade, Lincoln
+address: 4-6 Victoria St, West Parade
 place: Lincoln
 post_code: LN1 1HU
 when: Wednesday, Every 2 weeks

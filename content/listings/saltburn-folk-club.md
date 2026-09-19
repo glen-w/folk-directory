@@ -9,7 +9,7 @@ locations:
 - yorkshire
 county: North Yorkshire
 venue: The Marine Hotel
-address: Marine Parade, Saltburn By The Sea
+address: Marine Parade
 place: Saltburn By The Sea
 post_code: ''
 when: Monday, Every Week

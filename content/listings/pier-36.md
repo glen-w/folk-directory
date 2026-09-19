@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Down
 venue: Pier 36
-address: ''
+address: 36 Parade
 place: Donaghadee
-post_code: ''
+post_code: BT21 0HE
 lat: 54.6432
 lng: -5.53246
 www: www.pier36.co.uk

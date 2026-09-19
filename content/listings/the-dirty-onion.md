@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Dirty Onion
-address: ''
+address: 3 Hill Street
 place: Belfast
-post_code: ''
+post_code: BT1 2LA
 lat: 54.60165
 lng: -5.9263
 when: Friday, 9pm - 12pm. Saturday afternoon, 2pm - 4pm. Saturday evening, 9pm - 12pm.

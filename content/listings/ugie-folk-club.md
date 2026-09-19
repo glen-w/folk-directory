@@ -9,7 +9,7 @@ locations:
 - aberdeenshire
 county: Aberdeenshire
 venue: Longside Football Social Club
-address: Davidson Park, Longside, Aberdeenshire
+address: Davidson Park, Longside
 place: Aberdeenshire
 post_code: ''
 when: Friday, 1st in Month

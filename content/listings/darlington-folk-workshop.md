@@ -8,7 +8,7 @@ locations:
 - darlington
 county: Durham
 venue: The Travellers Rest Pub
-address: The Travellers Rest, 2 West Auckland Road, Darlington
+address: The Travellers Rest, 2 West Auckland Road
 place: Darlington
 post_code: DL3 9ER
 when: Tuesday, Every Week

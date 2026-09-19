@@ -8,7 +8,7 @@ locations:
 - england
 county: North Yorkshire
 venue: Roosters Brewery
-address: Fifth Avenue, Harrogate, North Yorkshire
+address: Fifth Avenue, Harrogate
 place: North Yorkshire
 post_code: HG2 8QT
 when: Wednesday, 1st in Month

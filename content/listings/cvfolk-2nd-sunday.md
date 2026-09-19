@@ -8,7 +8,7 @@ locations:
 - coventry
 county: West Midlands
 venue: Albany Theatre
-address: Albany Rd, Coventry
+address: Albany Rd
 place: Coventry
 post_code: CV5 6JQ
 when: Sunday, 2nd in Month

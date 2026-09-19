@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Sligo
 venue: The Strand Bar
-address: ''
+address: Shore Road
 place: Strandhill
-post_code: ''
+post_code: F91 C5VW
 lat: 54.27043
 lng: -8.6066
 when: Every Wednesday 'Trad in The Strand' session at 9pm.

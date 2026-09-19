@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Kerry
 venue: Marina Inn
-address: ''
+address: "39 Sráid na Trá"
 place: Dingle
-post_code: ''
+post_code: V92 EE70
 lat: 52.13948
 lng: -10.27866
 www: themarinainndingle.com/music-sessions

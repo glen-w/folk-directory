@@ -8,7 +8,7 @@ locations:
 - whitley-bay
 county: Tyne and Wear
 venue: The Brewery
-address: South Parade, Whitley Bay
+address: South Parade
 place: Whitley Bay
 post_code: NE26 2RG
 when: Wednesday, Every Week

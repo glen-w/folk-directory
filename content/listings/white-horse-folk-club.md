@@ -10,7 +10,7 @@ locations:
 - the-south
 county: South West England
 venue: ST. MICHAEL'S CHURCH ROOM
-address: Lechlade Road, Highworth,
+address: Lechlade Road
 place: Highworth
 post_code: ''
 when: Wednesday, 1st & 3rd

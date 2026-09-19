@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: The Northern Whig
-address: ''
+address: 2-10 Bridge Street
 place: Belfast
-post_code: ''
+post_code: BT1 1LU
 lat: 54.60056
 lng: -5.92742
 when: Thursdays, 7:30pm to 9:30pm.

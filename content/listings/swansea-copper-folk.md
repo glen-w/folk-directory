@@ -8,7 +8,7 @@ locations:
 - swansea
 county: Swansea
 venue: Copper Jack (Swansea Community Boat)
-address: Victoria Quay, Swansea
+address: Victoria Quay
 place: Swansea
 post_code: ''
 when: Sunday, Variable

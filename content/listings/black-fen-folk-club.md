@@ -9,7 +9,7 @@ locations:
 - england
 county: Cambridgeshire
 venue: NCI Club
-address: Holland St, Cambridge
+address: Holland St
 place: Cambridge
 post_code: CB4 3DL
 when: Sunday, Every Week

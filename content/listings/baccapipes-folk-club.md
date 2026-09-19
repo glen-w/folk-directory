@@ -9,7 +9,7 @@ locations:
 - england
 county: West Yorkshire
 venue: Riddlesden Memorial Institute
-address: Riddlesden Institute. Scott Lane, Riddlesden Keighley BD20 5BUden, Keighley.
+address: Riddlesden Institute. Scott Lane, Riddlesden Keighley BD20 5BUden
 place: Keighley.
 post_code: ''
 when: Friday, Every Week

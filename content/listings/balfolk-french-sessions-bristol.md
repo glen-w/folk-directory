@@ -8,7 +8,7 @@ locations:
 - bristol
 county: Bristol
 venue: Bristol Brewhouse and Kitchen
-address: Brewhouse & Kitchen - Bristol, 31-35 Cotham Hill, Redland, Bristol
+address: Brewhouse & Kitchen - Bristol, 31-35 Cotham Hill, Redland
 place: Bristol
 post_code: BS6 6JY
 when: Sunday, 3rd in Month

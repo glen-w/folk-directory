@@ -8,7 +8,7 @@ locations:
 - pr4-2ph2ph
 county: Lancashire
 venue: Wrea Green Institute
-address: Wrea Green Institute, Station Road, Wrea Green, Preston, PR4 2PH2PH
+address: Wrea Green Institute, Station Road, Wrea Green, Preston
 place: PR4 2PH2PH
 post_code: ''
 when: Wednesday, Every 2 weeks

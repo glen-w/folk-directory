@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Antrim
 venue: Garrick Bar
-address: ''
+address: 29 Chichester Street
 place: Belfast
-post_code: ''
+post_code: BT1 4JB
 lat: 54.59731
 lng: -5.92664
 www: thegarrickbar.com

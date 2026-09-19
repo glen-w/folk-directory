@@ -8,7 +8,7 @@ locations:
 - birmingham
 county: West Midlands
 venue: Moseley Hive
-address: 93 Alcester Rd, Birmingham
+address: 93 Alcester Rd
 place: Birmingham
 post_code: B13 8DD
 when: Thursday, Last in month

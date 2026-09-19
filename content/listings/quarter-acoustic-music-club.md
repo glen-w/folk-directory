@@ -8,7 +8,7 @@ locations:
 - scotland
 county: South Lanarkshire
 venue: Quarter Boolin' Club
-address: Quarter Boolin' Club. Limekilnburn Rd, Quarter, Hamilton, South Lanarkshire
+address: Quarter Boolin' Club. Limekilnburn Rd, Quarter, Hamilton
 place: South Lanarkshire
 post_code: ML3 7XA
 when: Tuesday, Every Week

@@ -8,7 +8,7 @@ locations:
 - buxton
 county: Derbyshire
 venue: The Devonshire Arms
-address: Market Place, Hartington, Buxton
+address: Market Place, Hartington
 place: Buxton
 post_code: SK17 0AL
 when: Thursday, 1st & 3rd

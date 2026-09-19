@@ -9,9 +9,9 @@ locations:
 - london
 county: London
 venue: The Auld Shillelagh
-address: ''
+address: 105 Stoke Newington Church Street
 place: Stoke Newington
-post_code: ''
+post_code: N16 0UD
 lat: 51.56205
 lng: -0.07945
 when: Fortnightly from the 16th September.

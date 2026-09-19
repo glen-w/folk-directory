@@ -8,7 +8,7 @@ locations:
 - stony-stratford
 county: Buckinghamshire
 venue: York House Centre
-address: London Road, Stony Stratford
+address: London Road
 place: Stony Stratford
 post_code: MK11 1JQ
 when: Friday, 2nd & 4th

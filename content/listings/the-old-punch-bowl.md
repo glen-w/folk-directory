@@ -10,9 +10,9 @@ locations:
 - ireland
 county: Dublin
 venue: The Old Punch Bowl
-address: ''
+address: 116 Rock Road
 place: Blackrock
-post_code: ''
+post_code: A94 X2C6
 lat: 53.30877
 lng: -6.19667
 when: Irish Traditional Music Session every Tuesday night 9.30pm till closing time.

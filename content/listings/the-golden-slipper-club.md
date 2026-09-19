@@ -8,7 +8,7 @@ locations:
 - shoreham-by-sea
 county: West Sussex
 venue: The Crabtree Inn
-address: 6 Buckingham Road, Shoreham-by-Sea
+address: 6 Buckingham Road
 place: Shoreham-by-Sea
 post_code: BN43 5UA
 when: Thursday, 1st in Month

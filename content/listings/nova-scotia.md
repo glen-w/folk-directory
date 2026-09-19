@@ -9,9 +9,9 @@ locations:
 - the-south-west
 county: The South West
 venue: Nova Scotia
-address: ''
+address: 1 Nova Scotia Place
 place: Bristol
-post_code: ''
+post_code: BS1 6XJ
 lat: 51.44727
 lng: -2.61868
 when: Mondays in the Cumberland Basin, Bristol with r
