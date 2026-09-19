@@ -11,7 +11,7 @@ venue: The Birks Cinema
 address: 1 Dunkeld Street
 place: Aberfeldy
 post_code: PH15 2DA
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: birkscinema.co.uk/activities/acoustic-music-sessions
 logo: /images/listings/acoustic_music_sessions_logo_896.png
 status: listed

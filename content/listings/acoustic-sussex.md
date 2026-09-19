@@ -16,4 +16,4 @@ www: acousticsussex.org.uk
 status: listed
 ---
 
-Sadly, after 6 years of putting on live music, we have none of our own events planned in the foreseeable future - but things may change, so watch this space.
+After six years of presenting live music, Acoustic Sussex has no events planned in the foreseeable future, though this may change.

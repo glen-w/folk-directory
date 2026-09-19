@@ -12,7 +12,7 @@ county: South West England
 venue: ST. MICHAEL'S CHURCH ROOM
 address: Lechlade Road
 place: Highworth
-post_code: ''
+post_code: SN6 7HH
 when: Wednesday, 1st & 3rd
 www: www.whitehorsefolkclub.co.uk
 status: listed

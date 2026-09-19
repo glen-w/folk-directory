@@ -10,7 +10,7 @@ county: West Sussex
 venue: The 4 Chesnuts
 address: Oving  Road
 place: Chichester
-post_code: ''
+post_code: PO20 2GL
 when: Tuesdays
 www: chifolksongclub.co.uk
 email: chifolksongclub@btinternet.com

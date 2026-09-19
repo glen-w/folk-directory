@@ -10,7 +10,7 @@ county: Glasgow
 venue: St Peter's Hall
 address: 66 Chancellor Street, Partick
 place: Glasgow
-post_code: ''
+post_code: G11 5QW
 when: Friday, Last in Month
 www: www.glasgowwestend.co.uk/whatson/partickfolkclub09.php
 status: listed

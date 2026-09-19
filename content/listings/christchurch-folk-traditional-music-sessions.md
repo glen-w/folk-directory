@@ -10,7 +10,7 @@ county: Dorset
 venue: Ye Olde George Inn
 address: Castle Street
 place: Christchurch
-post_code: ''
+post_code: BH23 1DT
 when: Last Wednesday of every month, 8.30pm
 www: communigate.co.uk/dorset/christchurchfolk
 email: tteddavies@hotmail.com

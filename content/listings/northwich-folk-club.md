@@ -11,7 +11,7 @@ county: Cheshire
 venue: Harlequin Theatre
 address: Queen Street
 place: Northwich
-post_code: ''
+post_code: CW9 5JN
 when: Friday, Every Week
 www: www.northwichfolk.co.uk
 email: tickets@northwichfolk.co.uk

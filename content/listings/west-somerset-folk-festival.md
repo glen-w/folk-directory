@@ -10,7 +10,7 @@ county: Somerset
 venue: Carhampton Recreation Ground
 address: Main Road
 place: Carhampton, Somerset
-post_code: ''
+post_code: TA24 6NQ
 when: July
 www: westsomersetfolkfestival.co.uk
 email: dibblemjd@talktalk.net

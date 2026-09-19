@@ -10,7 +10,7 @@ county: Dorset
 venue: Joiner's Arms
 address: 6 Market Place, Bideford
 place: N. Devon
-post_code: ''
+post_code: EX39 2DR
 when: Thursday, Every Week
 www: bidefordfolkclub.com
 email: bidefolk@gmail.com

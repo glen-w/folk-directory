@@ -8,9 +8,9 @@ locations:
 - south-yorkshire
 county: South Yorkshire
 venue: Nether Edge Bowling Club
-address: 8 Nether Edge Road, Sheffield, United Kingdom
+address: 8 Nether Edge Road, Sheffield
 place: South Yorkshire
-post_code: ''
+post_code: S7 1RU
 when: Wednesday, Every Week
 www: ''
 status: listed

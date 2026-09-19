@@ -11,9 +11,9 @@ venue: Gorse Hill Church Hall
 address: Wesley Street
 place: Manchester
 post_code: M32 0GL
-when: Monday, Every Week
+when: Weekly, Monday
 www: ''
 status: listed
 ---
 
-Acoustic Café Manchester at Gorse Hill Church Hall, Manchester — Monday, every week.
+Acoustic Café Manchester takes place at Gorse Hill Church Hall, Manchester, on Mondays every week.

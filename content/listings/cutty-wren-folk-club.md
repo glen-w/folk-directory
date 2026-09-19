@@ -11,7 +11,7 @@ county: Surrey
 venue: Redcar Borough Park Bowling Club
 address: 1 Thwaites Lane
 place: Redcar.
-post_code: ''
+post_code: TS10 2DU
 when: Tuesday, Every Week
 www: cuttywrenfolkclub.com
 email: info@cuttywrenfolkclub.com

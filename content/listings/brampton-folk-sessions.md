@@ -8,9 +8,9 @@ locations:
 - cumbria
 county: Cumbria
 venue: Howard Arms Hotel
-address: Front Street, Brampton, United Kingdom
+address: Front Street, Brampton
 place: Cumbria
-post_code: ''
+post_code: CA8 1NS
 when: Tuesday, 3rd in Month
 www: www.laverocks.org.uk
 status: listed

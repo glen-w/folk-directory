@@ -10,7 +10,7 @@ county: Cheshire
 venue: Boars Head Hotel
 address: Kinderton Street, Middlewich
 place: Cheshire
-post_code: ''
+post_code: CW10 0JE
 when: Sunday, 1st in Month
 www: www.cheshirefolk.com
 logo: /images/listings/cheshire_folk_logo_820.png

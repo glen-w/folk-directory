@@ -10,11 +10,11 @@ county: West Lothian
 venue: The Railway Inn
 address: Main Street, West Calder
 place: West Lothian
-post_code: ''
-when: Tuesday, 3rd in Month
+post_code: EH55 8DP
+when: Monthly, 3rd Tuesday
 www: magjam.wixsite.com/almondvalleyfolkclub
 email: almondvalleyfolkclub@outlook.com
 status: listed
 ---
 
-Almond Valley Folk Club at The Railway Inn (West Lothian) — Tuesday, 3rd in Month
+Almond Valley Folk Club meets at The Railway Inn, West Lothian, on the third Tuesday of each month.

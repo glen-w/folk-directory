@@ -10,7 +10,7 @@ county: Devon
 venue: Devonshire Inn
 address: Sticklepath
 place: Devon
-post_code: ''
+post_code: EX20 2NW
 when: Sunday, 1st in Month
 www: www.sticklepath.org/groups-committees/devvy-folk-sessions
 logo: /images/listings/devvy_folk_sessions_logo_824.png

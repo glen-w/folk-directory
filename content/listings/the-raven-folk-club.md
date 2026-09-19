@@ -10,7 +10,7 @@ county: Cheshire
 venue: The Bear & Billet
 address: Lower Bridge Street
 place: Chester
-post_code: ''
+post_code: CH1 1RZ
 when: Sundays
 www: www.ravenfolk.org.uk
 email: info@ravenfolk.org.uk

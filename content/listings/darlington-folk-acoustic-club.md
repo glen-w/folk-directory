@@ -11,7 +11,7 @@ county: Durham
 venue: Darlington Simpson Rolling Mills Social Club on Longfield Road, DL3 0H
 address: Longfield Road
 place: Darlington
-post_code: ''
+post_code: DL3 0HS
 when: Thursday, 2nd & 4th
 www: www.darlofolkacoustic.co.uk
 logo: /images/listings/darlington_folk_acoustic_club_logo_931.png

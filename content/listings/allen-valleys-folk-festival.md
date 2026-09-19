@@ -8,7 +8,7 @@ locations:
 - allendale
 county: Northumberland
 venue: Berry Brow Liberal Club
-address: 6 Parkgate, Huddersfield, United Kingdom
+address: 6 Parkgate, Huddersfield
 place: Allendale
 post_code: ''
 when: September

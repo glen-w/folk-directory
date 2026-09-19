@@ -8,9 +8,9 @@ locations:
 - lothian
 county: Midlothian
 venue: Balerno Bowling Club
-address: 5 Ladycroft, Balerno, United Kingdom
+address: 5 Ladycroft, Balerno
 place: Midlothian
-post_code: ''
+post_code: EH14 7AG
 when: Tuesday, Last in Month
 www: www.balernofolkclub.org.uk
 status: listed

@@ -11,7 +11,7 @@ county: Hertfordshire
 venue: The Pump House, Colne River Room
 address: Local Board Road
 place: Watford
-post_code: ''
+post_code: WD17 2JP
 when: Friday, Every Week
 www: watfordfolkclub.co.uk
 logo: /images/listings/watford_folk_club_logo_814.png

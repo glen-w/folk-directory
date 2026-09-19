@@ -11,9 +11,9 @@ venue: Amgueddfa Ceredigion Museum
 address: Terrace Rd., Aberystwyth
 place: Ceredigion
 post_code: SY23 2AQ
-when: Wednesday, 1st & 3rd
+when: Monthly, 1st & 3rd Wednesday
 www: www.aberystwythfolkclub.co.uk
 status: listed
 ---
 
-Aberystwyth Folk Club at Amgueddfa Ceredigion Museum (Ceredigion) — Wednesday, 1st & 3rd
+Aberystwyth Folk Club at Amgueddfa Ceredigion Museum, Ceredigion — 1st and 3rd Wednesdays.

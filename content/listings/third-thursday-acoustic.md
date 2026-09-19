@@ -8,7 +8,7 @@ locations:
 - huddersfield
 county: West Yorkshire
 venue: Berry Brow Liberal Club
-address: 6 Parkgate, United Kingdom
+address: 6 Parkgate
 place: Huddersfield
 post_code: ''
 when: Thursday, 3rd in Month

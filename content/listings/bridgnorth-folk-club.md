@@ -10,7 +10,7 @@ county: Shropshire
 venue: The Bridgnorth Club
 address: Bridge Street, Low Town
 place: Bridgnorth
-post_code: ''
+post_code: WV15 6BA
 when: Tuesday, 1st & 3rd
 www: ''
 status: listed

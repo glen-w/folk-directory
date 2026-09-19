@@ -10,7 +10,7 @@ county: Essex
 venue: The Ship Hotel
 address: New Road
 place: Leigh on Sea
-post_code: ''
+post_code: SS9 2EP
 when: Tuesdays
 www: ridgeweb.co.uk/hoy.htm
 email: tony@priority.ms

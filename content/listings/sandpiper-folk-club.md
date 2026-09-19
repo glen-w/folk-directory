@@ -9,9 +9,9 @@ locations:
 - staffordshire
 county: West Midlands
 venue: Pigot Arms
-address: 11 High Street, Pattingham, United Kingdom
+address: 11 High Street, Pattingham
 place: Wolverhampton
-post_code: ''
+post_code: WV6 7BQ
 when: Wednesday, Every 2 weeks
 www: www.sandpiperfolkclub.com
 status: listed

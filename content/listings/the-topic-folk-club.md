@@ -10,7 +10,7 @@ county: West Yorkshire
 venue: The Bradford Irish Club
 address: Rebecca Street
 place: Bradford
-post_code: BD1 2RXp
+post_code: BD1 2RX
 when: Thursdays at 20.00
 www: topic-folk-club.org.uk
 email: tocharn@gmail.com

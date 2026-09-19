@@ -10,7 +10,7 @@ county: Greater London
 venue: Auld Shillelagh
 address: Church Street
 place: Stoke Newington
-post_code: N16
+post_code: N16 0UD
 when: First sunday
 www: mondegreenfolk.com
 email: mulreadyn@gmail.com

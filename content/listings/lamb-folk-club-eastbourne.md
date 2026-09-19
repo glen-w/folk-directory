@@ -10,7 +10,7 @@ county: East Sussex
 venue: Lamb Inn
 address: High Street Eastbourne
 place: East Sussex
-post_code: ''
+post_code: BN21 1HQ
 when: Wednesday, 1st & 3rd
 www: lambfolkclub.co.uk
 email: eastbournelambfolk@outlook.com

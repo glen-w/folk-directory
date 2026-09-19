@@ -12,7 +12,7 @@ county: Wexford
 venue: Corcoran's Bar
 address: Irishtown
 place: New Ross
-post_code: ''
+post_code: Y34 CF66
 lat: 52.39892
 lng: -6.9304
 when: ''

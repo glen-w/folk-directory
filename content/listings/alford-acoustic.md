@@ -10,9 +10,9 @@ county: Lincolnshire
 venue: Half Moon
 address: West Street, Alford
 place: Lincs
-post_code: ''
-when: Wednesday, 3rd in Month
-www: www.alfordacoustic.co.uk/index.htm
+post_code: LN13 9DG
+when: Monthly, 3rd Wednesday
+www: www.alfordacoustic.co.uk
 status: listed
 ---
 

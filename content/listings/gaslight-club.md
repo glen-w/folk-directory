@@ -10,7 +10,7 @@ county: West Yorkshire
 venue: Oporto
 address: 33 Call Lane
 place: Leeds
-post_code: ''
+post_code: LS1 7BT
 when: Monday, Every Week
 www: ''
 status: listed

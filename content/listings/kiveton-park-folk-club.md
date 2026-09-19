@@ -8,9 +8,9 @@ locations:
 - yorkshire-and-the-humber
 county: South Yorkshire
 venue: Kiveton Park Colliery Cricket Club
-address: Stone Close, Kiveton Park, Sheffield, United Kingdom
+address: Stone Close, Kiveton Park, Sheffield
 place: South Yorkshire
-post_code: ''
+post_code: S26 6SQ
 when: Tuesday, Every Week
 www: www.kivetonfolk.com
 logo: /images/listings/kiveton_park_folk_club_logo_765.png

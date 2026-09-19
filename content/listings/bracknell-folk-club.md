@@ -10,7 +10,7 @@ county: Surrey
 venue: The Sun
 address: 1 Chertsey Road
 place: Windlesham
-post_code: GU20
+post_code: GU20 6HY
 when: Tuesday
 www: bracknellfolk.org.uk
 email: info@bracknellfolk.org.uk

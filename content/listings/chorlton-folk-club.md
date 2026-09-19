@@ -10,7 +10,7 @@ county: Greater Manchester
 venue: Cricket Club
 address: Ellesmere Road
 place: Chorlton
-post_code: ''
+post_code: M21 0SG
 when: Thursdays
 www: chorltonfolk.co.uk
 email: chorltonfolkclub@aol.com

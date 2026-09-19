@@ -10,7 +10,7 @@ county: Essex
 venue: The Greyhound
 address: High Street
 place: Wivenhoe
-post_code: ''
+post_code: CO7 9AZ
 when: First Thursday every month
 www: wivenhoe.gov.uk/Orgs/folkclub/home.htm
 status: listed

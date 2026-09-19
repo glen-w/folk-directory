@@ -8,7 +8,7 @@ county: Nottinghamshire
 venue: The Tiger Inn
 address: Long Eaton, Nottingham
 place: ''
-post_code: ''
+post_code: NG10 1BG
 when: Last Friday of the month
 www: ''
 email: theysayjumpwesayhowhigh@hotmail.com

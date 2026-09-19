@@ -11,7 +11,7 @@ county: Argyll and Bute
 venue: Kempston Hammers sports club
 address: 134 High Street, Kempston, Bedford
 place: The Isle of Jura
-post_code: ''
+post_code: MK42 7BN
 when: September
 www: www.juramusicfestival.com
 email: juramusicfestival@gmail.com

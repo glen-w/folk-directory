@@ -91,6 +91,19 @@ def test_build_address_venue_place():
     assert addr == "Ben Nevis, Glasgow, United Kingdom"
 
 
+def test_build_address_strips_country_from_street():
+    addr = g.build_address(
+        {
+            "venue": "Blue Lamp",
+            "place": "Aberdeen",
+            "county": "Aberdeenshire",
+            "address": "121 Gallowgate, United Kingdom",
+        }
+    )
+    assert addr == "Blue Lamp, 121 Gallowgate, Aberdeen, Aberdeenshire, United Kingdom"
+    assert addr.count("United Kingdom") == 1
+
+
 def test_fallback_queries_include_street_without_club_name():
     data = {
         "venue": "The Star",
@@ -113,6 +126,20 @@ def test_map_www_string_slice_and_empty():
     assert g.map_www({"www": ""}) == ""
     assert g.map_www({}) == ""
     assert g.map_www({"www": "''"}) == ""
+
+
+def test_street_address_drops_country_suffix():
+    assert lc.street_address("121 Gallowgate, United Kingdom") == "121 Gallowgate"
+    assert lc.street_address("6 Parkgate, UK") == "6 Parkgate"
+    assert lc.street_address("11 High Street, Pattingham, U.K.") == "11 High Street, Pattingham"
+    assert lc.street_address("United Kingdom") == ""
+    assert lc.street_address("Fisher Street") == "Fisher Street"
+    street, pin = lc.resolve_street_and_coords(
+        "121 Gallowgate, United Kingdom",
+        coords={"lat": 57.15000, "lng": -2.09000},
+    )
+    assert street == "121 Gallowgate"
+    assert pin == {"lat": 57.15000, "lng": -2.09000}
 
 
 def test_promote_coords_never_writes_pin_into_address():

@@ -11,7 +11,7 @@ county: North Yorkshire
 venue: Sleights Village Hall
 address: Coach Road, Sleights
 place: WHITBY
-post_code: ''
+post_code: YO22 5BT
 when: Sunday, 1st in Month
 www: www.greatnorthfolk.com
 status: listed

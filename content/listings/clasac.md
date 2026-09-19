@@ -12,7 +12,7 @@ county: Dublin
 venue: Clasac
 address: Alfie Byrne Road
 place: Clontarf
-post_code: ''
+post_code: D03 H7X0
 lat: 53.36273
 lng: -6.22208
 www: clasac.ie

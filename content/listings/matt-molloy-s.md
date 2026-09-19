@@ -11,7 +11,7 @@ locations:
 county: Mayo
 venue: Matt Molloy's
 address: Bridge Street
-place: Bridge Street, Westport
+place: Westport
 post_code: F28 FV40
 lat: 53.79941
 lng: -9.52232

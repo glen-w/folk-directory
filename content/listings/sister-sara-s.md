@@ -12,7 +12,7 @@ county: Donegal
 venue: Sister Sara's
 address: Upper Port Road
 place: Letterkenny
-post_code: ''
+post_code: F92 PD92
 lat: 54.95213
 lng: -7.72553
 when: Tuesdays 8pm.

@@ -11,7 +11,7 @@ locations:
 county: Dublin
 venue: Darkey Kelly's
 address: Fishamble Street
-place: Fishamble St
+place: Dublin
 post_code: D08 PD8W
 lat: 53.3444
 lng: -6.26978

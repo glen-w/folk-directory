@@ -10,7 +10,7 @@ county: Norfolk
 venue: Jurnets Bar
 address: Wensum Lodge, King Street
 place: Norwich
-post_code: ''
+post_code: NR1 1QW
 when: Friday, Every Week
 www: ''
 status: listed

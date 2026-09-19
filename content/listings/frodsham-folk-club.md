@@ -10,7 +10,7 @@ county: Cheshire
 venue: Castle Park Arts Centre
 address: Park Lane
 place: Frodsham
-post_code: ''
+post_code: WA6 6RY
 when: Friday, Every Week
 www: www.frodshamfolkclub.com
 status: listed

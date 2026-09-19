@@ -10,7 +10,7 @@ county: Ceredigion
 venue: The Coopers Arms
 address: Northgate Street
 place: Aberystwyth
-post_code: sy24
+post_code: SY23 2JS
 when: every Tuesday evening
 www: ''
 email: brenigfolk@gmail.com

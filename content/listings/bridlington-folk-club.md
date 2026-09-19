@@ -10,7 +10,7 @@ county: East Yorkshire
 venue: The Telegraph
 address: 110 Quay Road, Bridlington
 place: East Yorkshire
-post_code: ''
+post_code: YO16 4JB
 when: Tuesday, Every 2 weeks
 www: bridlingtonfolkclub.weebly.com
 logo: /images/listings/bridlington_folk_club_logo_1102.png

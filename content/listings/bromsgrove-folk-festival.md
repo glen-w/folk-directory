@@ -10,7 +10,7 @@ county: Worcestershire
 venue: Various
 address: Meadow Road, Catshill
 place: Bromsgrove
-post_code: ''
+post_code: B61 0JJ
 when: July
 www: bromsgrovefolkclub.co.uk
 email: bromsgroveman@hotmail.com

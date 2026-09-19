@@ -10,7 +10,7 @@ county: Bedfordshire
 venue: Kempston Hammers sports club
 address: 134 High Street, Kempston
 place: Bedford
-post_code: ''
+post_code: MK42 7BN
 when: Thursday, Every Week
 www: ''
 status: listed

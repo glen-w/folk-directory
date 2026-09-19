@@ -10,7 +10,7 @@ county: London
 venue: The Cabbage Patch pub
 address: 67 London Road
 place: Twickenham
-post_code: ''
+post_code: TW1 3SZ
 when: Sunday, Every Week
 www: www.twickfolk.co.uk
 logo: /images/listings/twickfolk_logo_669.png

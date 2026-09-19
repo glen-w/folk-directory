@@ -10,7 +10,7 @@ county: Glasgow
 venue: The Star
 address: The Admiral, Waterloo Street
 place: Glasgow
-post_code: ''
+post_code: G2 6BZ
 when: Every Thursday
 www: www.starfolkclub.com
 status: listed

@@ -11,7 +11,7 @@ locations:
 county: Dublin
 venue: O'Donoghue's
 address: 15 Merrion Row
-place: Merrion Row
+place: Dublin
 post_code: D02 PF50
 lat: 53.33818
 lng: -6.2542

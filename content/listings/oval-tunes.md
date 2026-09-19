@@ -10,7 +10,7 @@ county: Greater London
 venue: Green Dragon
 address: 60 High Street
 place: Croydon
-post_code: ''
+post_code: CR0 1ND
 when: Sunday, 1st & 3rd
 www: ukulele.magix.net
 status: listed

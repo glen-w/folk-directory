@@ -10,7 +10,7 @@ county: Devon
 venue: The Devon Arms Hotel
 address: Northumberland Place
 place: Teignmouth
-post_code: ''
+post_code: TQ14 8BA
 when: Last Thursday of the month
 www: communigate.co.uk/twc/teignfc
 status: listed

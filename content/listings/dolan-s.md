@@ -11,7 +11,7 @@ locations:
 county: Limerick
 venue: Dolan's
 address: 3-4 Dock Road
-place: Dock Road
+place: Limerick
 post_code: V94 VH4X
 lat: 52.65882
 lng: -8.63823

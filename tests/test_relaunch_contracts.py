@@ -119,8 +119,31 @@ def test_no_duplicate_listing_titles():
 def test_address_does_not_repeat_place():
     """`place` is shown on its own line, so it must not also be an address segment."""
 
+    street_re = re.compile(
+        r"(?i)\b(road|street|lane|avenue|close|drive|way|terrace|crescent|"
+        r"square|row|quay|court|hill|gardens?|parade|grove|walk|mews|gate|"
+        r"circus|rd|st|ln|ave)\b"
+    )
+    saint_town_re = re.compile(
+        r"(?i)(^st\.?\s+|\bst\.?\s+(neots|albans|ives|edmunds|andrew|leonards)\b)"
+    )
+    house_re = re.compile(r"^\d+[a-z]?(?:\s*[-/]\s*\d+[a-z]?)?\s+", re.I)
+
     def norm(value: str) -> str:
         return re.sub(r"\s+", " ", value).strip(" .,").lower()
+
+    def fold_street(value: str) -> str:
+        value = house_re.sub("", norm(value).replace(".", ""))
+        value = re.sub(r"\bstreet\b", "st", value)
+        value = re.sub(r"\broad\b", "rd", value)
+        value = re.sub(r"\blane\b", "ln", value)
+        value = re.sub(r"\bavenue\b", "ave", value)
+        return re.sub(r"\s+", " ", value).strip()
+
+    def looks_like_street(value: str) -> bool:
+        if saint_town_re.search(value):
+            return False
+        return bool(street_re.search(value))
 
     offenders = []
     for path in LISTINGS.glob("*.md"):
@@ -141,7 +164,39 @@ def test_address_does_not_repeat_place():
             continue
         if any(norm(part) == norm(place) for part in address.split(",") if part.strip()):
             offenders.append(path.name)
+            continue
+        place_head = place.split(",")[0].strip()
+        folded_place = fold_street(place_head)
+        folded_addr = fold_street(address)
+        if (
+            looks_like_street(place_head)
+            and folded_place
+            and (folded_addr == folded_place or folded_addr.endswith(" " + folded_place))
+        ):
+            offenders.append(path.name)
     assert not offenders, f"address repeats place: {offenders[:20]}"
+
+
+def test_address_does_not_include_country():
+    """Country is schema addressCountry / a geocode hint, not a street segment."""
+    country_re = re.compile(
+        r"(?i)(?:^|,\s*)(?:united\s+kingdom|great\s+britain|u\.k\.|uk)\s*[.]?\s*$"
+    )
+    offenders = []
+    for path in LISTINGS.glob("*.md"):
+        if path.name == "_index.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        fm = re.match(r"^---\n(.*?)\n---", text, re.S)
+        if not fm:
+            continue
+        addr_m = re.search(r"^address:\s*(.*)$", fm.group(1), re.M)
+        if not addr_m:
+            continue
+        address = addr_m.group(1).strip().strip("\"'")
+        if address and country_re.search(address):
+            offenders.append(path.name)
+    assert not offenders, f"country still in address: {offenders[:20]}"
 
 
 def test_address_is_never_a_coord_pin():

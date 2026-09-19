@@ -18,4 +18,4 @@ www: ''
 status: listed
 ---
 
-Oliver Plunkett Street staple. Friday and Saturday trad in the heart of Cork city — walk out from the English Market and arrive before the queue.
+A regular fixture on Oliver Plunkett Street in the heart of Cork city. Friday and Saturday traditional music sessions; the venue is close to the English Market and is popular enough to draw a queue.

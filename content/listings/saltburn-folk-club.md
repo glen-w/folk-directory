@@ -11,7 +11,7 @@ county: North Yorkshire
 venue: The Marine Hotel
 address: Marine Parade
 place: Saltburn By The Sea
-post_code: ''
+post_code: TS12 1ET
 when: Monday, Every Week
 www: www.saltburnfolkclub.co.uk
 email: fo@saltburnfolkclub.co.uk

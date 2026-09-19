@@ -10,7 +10,7 @@ county: Swansea
 venue: Copper Jack (Swansea Community Boat)
 address: Victoria Quay
 place: Swansea
-post_code: ''
+post_code: SA1 3XE
 when: Sunday, Variable
 www: copperfolk.wix.com/copperfolk
 status: listed

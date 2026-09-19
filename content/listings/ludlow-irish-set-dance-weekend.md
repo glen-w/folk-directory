@@ -10,7 +10,7 @@ county: Shropshire
 venue: The Assembly Rooms
 address: 1 Mill Street
 place: Ludlow
-post_code: SY8
+post_code: SY8 1BE
 when: March
 www: ''
 email: pete@thedancingbridge.freeserve.co.uk

@@ -10,7 +10,7 @@ county: Devon
 venue: The Pack O' Cards
 address: High Street
 place: Combe Martin
-post_code: ''
+post_code: EX34 0EG
 when: 2nd & 4th Saturdays
 www: ''
 email: contact@shammickacoustic.org.uk

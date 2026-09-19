@@ -11,7 +11,7 @@ county: North Ayrshire
 venue: Vineburgh Community Centre
 address: Quarry Road
 place: Irvine
-post_code: ''
+post_code: KA12 0TN
 when: Wednesday, Every 2 weeks
 www: www.irvinefolkclub.org.uk
 status: listed

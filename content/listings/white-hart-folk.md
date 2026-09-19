@@ -9,7 +9,7 @@ locations:
 - yorkshire
 county: North Yorkshire
 venue: The White Hart
-address: 19 The Ln, Mickleby, United Kingdom
+address: 19 The Ln, Mickleby
 place: Saltburn-by-the-Sea
 post_code: ''
 when: Saturday, Every Week

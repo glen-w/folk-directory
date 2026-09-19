@@ -9,10 +9,10 @@ locations:
 - scotland
 county: Aberdeenshire
 venue: Blue Lamp
-address: 121 Gallowgate, United Kingdom
+address: 121 Gallowgate
 place: Aberdeen
-post_code: ''
-when: Wednesday, Every Week
+post_code: AB25 1BU
+when: Weekly, Wednesday
 www: www.aberdeenfolkclub.co.uk
 status: listed
 ---

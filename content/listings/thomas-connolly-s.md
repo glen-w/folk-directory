@@ -11,7 +11,7 @@ locations:
 county: Sligo
 venue: Thomas Connolly's
 address: Markievicz Road
-place: Markievicz Road
+place: Sligo
 post_code: F91 WV44
 lat: 54.27468
 lng: -8.47463

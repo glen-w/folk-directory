@@ -10,7 +10,7 @@ county: Lancashire
 venue: The Clarence
 address: Preston New Road
 place: Blackpool
-post_code: ''
+post_code: FY4 4HG
 when: Wednesdays
 www: myspace.com/theclarencefolkclub
 status: listed

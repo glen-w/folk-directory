@@ -9,7 +9,7 @@ locations:
 - north-east
 county: North Yorkshire
 venue: Guisborough Rugby Union Football Club
-address: Rugby Club, Belmangate, Cleveland, United Kingdom
+address: Rugby Club, Belmangate, Cleveland
 place: Guisborough
 post_code: TS14 7BB
 when: Sunday, 1st & 3rd

@@ -11,7 +11,7 @@ locations:
 county: Galway
 venue: The Crane Bar
 address: 2 Sea Road
-place: Sea Road
+place: Galway
 post_code: H91 YP97
 lat: 53.26914
 lng: -9.06187

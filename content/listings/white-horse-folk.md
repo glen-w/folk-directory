@@ -10,7 +10,7 @@ county: Leicestershire
 venue: White Horse, Seagrave
 address: Church Street, Seagrave
 place: Leics
-post_code: ''
+post_code: LE12 7LT
 when: Thursday, Last in month
 www: d00207.wix.com/white-horse-folk
 status: listed

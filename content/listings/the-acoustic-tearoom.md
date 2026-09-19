@@ -10,7 +10,7 @@ county: Cumbria
 venue: The Masonic Hall
 address: North Road
 place: Kirkby Stephen
-post_code: ''
+post_code: CA17 4RY
 when: Various
 www: acoustictearoom.com
 status: listed
