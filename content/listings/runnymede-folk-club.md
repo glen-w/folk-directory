@@ -11,6 +11,8 @@ venue: The Red Lion, Egham
 address: 52 High Street, Egham
 place: Surrey
 post_code: TW20 9EW
+lat: 51.43189
+lng: -0.54832
 when: Thursday, 1st in Month
 www: www.runnymedefolkclub.co.uk
 logo: /images/listings/runnymede_folk_club_logo_928.png

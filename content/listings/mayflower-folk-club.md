@@ -11,6 +11,8 @@ venue: The Portland Arms
 address: 129 Chesterton Road
 place: Cambridge
 post_code: CB4 3BA
+lat: 52.21447
+lng: 0.1246
 when: Various
 www: mayflowerfolkclub.org.uk
 email: dp251@foundation.cam.ac.uk

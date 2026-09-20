@@ -11,6 +11,8 @@ venue: ''
 address: ''
 place: Kirtlington
 post_code: OX5 3HJ
+lat: 51.87296
+lng: -1.27505
 when: June
 www: kirtlington-morris.org.uk
 email: steve_hanley@lineone.net

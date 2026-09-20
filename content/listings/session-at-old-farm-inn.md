@@ -12,6 +12,8 @@ venue: Old Farm Inn
 address: ''
 place: Totternhoe
 post_code: LU6 1RE
+lat: 51.87931
+lng: -0.56336
 when: Every Monday
 www: oldfarminn.co.uk
 email: john.stevens8@ntlworld.com

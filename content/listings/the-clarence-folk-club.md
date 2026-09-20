@@ -11,6 +11,8 @@ venue: The Clarence
 address: Preston New Road
 place: Blackpool
 post_code: FY4 4HG
+lat: 53.80417
+lng: -3.02122
 when: Wednesdays
 www: ''
 status: listed

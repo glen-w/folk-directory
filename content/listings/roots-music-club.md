@@ -11,9 +11,10 @@ venue: Various, Including the Ukranian Club
 address: 48 Beckett Road
 place: Doncaster
 post_code: DN2 4TS
+lat: 53.53157
+lng: -1.12071
 when: Friday, Every Week
 www: www.rootsmusicclub.co.uk
 status: listed
 ---
-
 Roots Music Club meets every Friday at various venues, including the Ukrainian Club in Doncaster.

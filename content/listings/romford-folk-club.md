@@ -12,12 +12,13 @@ venue: The Sun
 address: 47 London Road
 place: Romford
 post_code: RM7 9QA
+lat: 51.57514
+lng: 0.17556
 when: Tuesdays
 www: romfordfolkclub.com
 email: romfolk@live.co.uk
 status: listed
 ---
-
 For all types of acoustic music.
 
 The Music Club with a difference,

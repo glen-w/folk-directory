@@ -11,10 +11,10 @@ venue: Milton Road Club
 address: Milton Road
 place: Swindon
 post_code: SN1 5JA
+lat: 51.56012
+lng: -1.78998
 when: Friday
 www: swindonfolk.org
 email: eric.stott2@ntworld.com
 status: listed
 ---
-
-

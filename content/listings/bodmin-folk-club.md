@@ -11,6 +11,8 @@ venue: Mason's Arms
 address: Higher Bore Street
 place: Bodmin
 post_code: PL31 1JS
+lat: 50.47147
+lng: -4.7282
 when: Friday
 www: bodminfolk.co.uk
 email: BFCSecretary@hotmail.co.uk
@@ -18,5 +20,4 @@ logo: /images/listings/bodmin_folk_club_logo_43.png
 status: listed
 edited: 18/11/2011
 ---
-
 A folk club with a focus on singing.

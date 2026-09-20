@@ -13,10 +13,11 @@ venue: ''
 address: ''
 place: Banbridge
 post_code: ''
+lat: 54.35142
+lng: -6.27146
 when: June
 www: www.buskfest.com
 email: info@buskfest.com
 status: listed
 ---
-
 BuskFest is an international busking festival and competition held in Banbridge, County Down, Northern Ireland. The event, which has been running for over 20 years, attracts 6,000+ people from across the globe to Banbridge Town Centre.

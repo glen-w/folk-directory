@@ -11,6 +11,8 @@ venue: Les Rocquettes Hotel
 address: St Peter Port
 place: Guernsey
 post_code: GY1 1RN
+lat: 57.167
+lng: -7.37473
 when: Wednesday, 2nd in Month
 www: ''
 status: listed

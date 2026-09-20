@@ -12,11 +12,12 @@ venue: The White Horse
 address: Chadwell Heath
 place: Romford
 post_code: RM6 6NU
+lat: 51.57175
+lng: 0.13711
 when: Wednesdays
 www: haveringfolkclub.bravehost.com
 status: listed
 ---
-
 HaverFolk - The Feelgood Folk Club!
 
 We have an open session every

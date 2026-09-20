@@ -11,10 +11,10 @@ venue: The Rose & Crown
 address: Writtle Green
 place: Writtle
 post_code: CM1 3DT
+lat: 51.72995
+lng: 0.42639
 when: First Thursday every month
-www: folkmusic.org.uk/page2.html
+www: ''
 email: alan@folkmusic.org.uk
 status: listed
 ---
-
-

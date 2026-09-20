@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Blackpool
 post_code: ''
+lat: 53.81794
+lng: -3.05098
 when: January
 www: westcoastfolkfestival.co.uk
 email: solidentertainments@live.co.uk
 status: listed
 ---
-
 Spanning three days and three stages, the festival features 33 acts. It is one of the first folk festivals of the year.

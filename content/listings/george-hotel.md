@@ -11,10 +11,11 @@ venue: George Hotel
 address: ''
 place: South Molton
 post_code: ''
+lat: 51.01764
+lng: -3.83391
 when: Weekly, Thursday, 9:30pm
 www: www.georgehotelsouthmolton.co.uk
 logo: /images/listings/george_hotel_logo_3588.png
 status: listed
 ---
-
 The George Hotel, South Molton, Devon. Regular concerts.

@@ -11,6 +11,8 @@ venue: Eaves Green Community Centre
 address: 33 Cottage Fields
 place: Chorley
 post_code: PR7 3QE
+lat: 53.63922
+lng: -2.63665
 when: Saturday, 2nd in Month
 www: chorleycakesfolk.co.uk
 email: info@chorleycakesfolk.co.uk

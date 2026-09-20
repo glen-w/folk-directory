@@ -11,6 +11,8 @@ venue: Misty Blues
 address: Manor Road, Liscard
 place: Wallasey
 post_code: CH44 1BY
+lat: 53.42172
+lng: -3.04084
 when: Sunday, 1st & 3rd
 www: wfaclub.wixsite.com/wallaseyfolkacoustic
 email: wfac@btinternet.com

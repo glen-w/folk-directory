@@ -12,6 +12,8 @@ venue: The Rising Sun pub
 address: Delce Road, Rochester
 place: Kent
 post_code: ME1 2BU
+lat: 51.38411
+lng: 0.50777
 when: Tuesday, 1st & 3rd
 www: www.goodintentpetersfield.co.uk
 email: info@goodintentpetersfield.co.uk

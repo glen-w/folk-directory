@@ -11,6 +11,8 @@ venue: Cornmarket
 address: Old Ropery, Fenwick Street
 place: Liverpool
 post_code: ''
+lat: 53.38736
+lng: -3.18496
 when: Monthly, 1st Tuesday
 www: ''
 status: listed

@@ -11,6 +11,8 @@ venue: The Woodside Hotel
 address: High Street, Aberdour
 place: Fife
 post_code: KY3 0US
+lat: 56.05334
+lng: -3.30288
 when: Monthly, 3rd Friday
 www: www.dbfolkclub.co.uk
 logo: /images/listings/dalgety_bay_folk_club_logo_837.png

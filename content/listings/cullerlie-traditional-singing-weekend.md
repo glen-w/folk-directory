@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Cullerlie
 post_code: ''
+lat: 57.1108
+lng: -2.39519
 when: July
 www: abdn.ac.uk/elphinstone
 email: elphinstone@abdn.ac.uk

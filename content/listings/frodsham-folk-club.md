@@ -11,6 +11,8 @@ venue: Castle Park Arts Centre
 address: Park Lane
 place: Frodsham
 post_code: WA6 6RY
+lat: 53.29256
+lng: -2.72686
 when: Friday, Every Week
 www: www.frodshamfolkclub.com
 status: listed

@@ -11,6 +11,8 @@ venue: Harnham Social Club
 address: Pitt Street, Sheffield
 place: Salisbury
 post_code: ''
+lat: 51.04149
+lng: -1.63503
 when: January
 www: ''
 status: listed

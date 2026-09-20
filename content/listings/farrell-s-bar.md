@@ -13,9 +13,10 @@ venue: Farrell's Bar
 address: ''
 place: Longford Town
 post_code: ''
+lat: 53.7278
+lng: -7.79638
 when: Weekly, Wednesday, 9:00pm
 www: ''
 status: listed
 ---
-
 Longford's most dependable mid-week session. Wednesday nights in a town pub that keeps the trad flag flying even when the county is otherwise quiet.

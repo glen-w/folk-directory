@@ -12,6 +12,8 @@ venue: Moira Furnace Museum (and others)
 address: Furnace Lane
 place: Moira, Swadlincote
 post_code: DE12 6AT
+lat: 52.73379
+lng: -1.53612
 when: August
 www: moirafurnacefolkfestival.co.uk
 email: info@moirafurnacefolkfestival.co.uk

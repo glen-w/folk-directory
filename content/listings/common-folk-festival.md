@@ -11,6 +11,8 @@ venue: The Regent Club
 address: 102 Regent Road
 place: Leicester
 post_code: LE1 7DA
+lat: 52.62734
+lng: -1.12596
 when: Monthly, 2nd Wednesday
 www: www.commonfolk.uk
 email: admin@commonfolk.uk

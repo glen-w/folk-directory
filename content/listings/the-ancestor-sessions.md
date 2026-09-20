@@ -11,6 +11,8 @@ venue: The Cornish Ancestor Micro Pub, Callington
 address: Newport House
 place: Callington
 post_code: PL17 7AS
+lat: 50.5045
+lng: -4.31442
 when: Friday, 3rd in Month
 www: ''
 status: listed

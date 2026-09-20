@@ -12,6 +12,8 @@ venue: The Gladstone Hotel
 address: Loscoe Road, Carrington
 place: Nottingham
 post_code: NG5 2AP
+lat: 52.97563
+lng: -1.15241
 when: Weekly, Wednesday
 www: www.carringtontriangle.org.uk
 logo: /images/listings/carrington_triangle_logo_804.png

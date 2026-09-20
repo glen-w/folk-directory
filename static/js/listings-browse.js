@@ -8,6 +8,8 @@
     showOptions: [10, 25, 50, 100, "all"],
     defaultShow: 25,
     defaultSort: "title",
+    /** When Show=all, render this many cards per chunk (Load more). */
+    loadMoreChunk: 100,
   };
 
   const TYPE_PLACEHOLDER_LOGOS = {
@@ -217,6 +219,19 @@
       totalPages,
       total,
       items: items.slice(start, start + pageSize),
+    };
+  }
+
+  /** Progressive slice for Show=all — never paint 1k+ cards at once. */
+  function allModeSlice(items, visibleCount, chunk) {
+    const size = Math.max(1, Number(chunk) || 100);
+    const visible = Math.min(Math.max(size, visibleCount || size), items.length);
+    return {
+      items: items.slice(0, visible),
+      visible,
+      total: items.length,
+      hasMore: visible < items.length,
+      nextVisible: Math.min(visible + size, items.length),
     };
   }
 
@@ -443,8 +458,22 @@
       .join("");
   }
 
-  function renderPagination(root, pageInfo, show) {
-    if (show === "all" || pageInfo.totalPages <= 1) {
+  function renderPagination(root, pageInfo, show, allInfo) {
+    if (show === "all") {
+      if (!allInfo || !allInfo.hasMore) {
+        root.innerHTML = allInfo
+          ? `<p class="listings-load-more-status post-meta">Showing all ${allInfo.total} events</p>`
+          : "";
+        return;
+      }
+      root.innerHTML = `
+        <nav class="pagination listings-pagination listings-load-more" aria-label="Load more">
+          <p class="listings-load-more-status post-meta">Showing ${allInfo.visible} of ${allInfo.total}</p>
+          <button type="button" class="next" data-load-more>Load more</button>
+        </nav>`;
+      return;
+    }
+    if (pageInfo.totalPages <= 1) {
       root.innerHTML = "";
       return;
     }
@@ -504,6 +533,7 @@
     }
 
     let state = parseState(window.location.href, config, enabledFilters);
+    let allVisible = config.loadMoreChunk;
 
     function facetsFrom(candidateItems) {
       const facets = {};
@@ -519,9 +549,23 @@
         applyFilters(items, state, enabledFilters),
         state.sort
       );
-      const pageSize = resolvePageSize(state.show, filtered.length);
-      const pageInfo = paginate(filtered, state.page, pageSize);
-      state.page = pageInfo.page;
+
+      let pageInfo;
+      let allInfo = null;
+      if (state.show === "all") {
+        allInfo = allModeSlice(filtered, allVisible, config.loadMoreChunk);
+        allVisible = allInfo.visible;
+        pageInfo = {
+          page: 1,
+          totalPages: 1,
+          total: filtered.length,
+          items: allInfo.items,
+        };
+      } else {
+        const pageSize = resolvePageSize(state.show, filtered.length);
+        pageInfo = paginate(filtered, state.page, pageSize);
+        state.page = pageInfo.page;
+      }
 
       // Facets from full index in v1 (stable option lists)
       renderFilterControls(
@@ -533,7 +577,7 @@
       );
       renderStatus(statusEl, items.length, filtered.length);
       renderResults(resultsEl, pageInfo.items, config.placeholderLogo);
-      renderPagination(paginationEl, pageInfo, state.show);
+      renderPagination(paginationEl, pageInfo, state.show, allInfo);
       syncUrl(state, config, enabledFilters);
     }
 
@@ -544,6 +588,7 @@
       if (target.hasAttribute("data-show")) {
         state.show = parseShow(target.value, config);
         state.page = 1;
+        allVisible = config.loadMoreChunk;
         render();
         return;
       }
@@ -552,6 +597,7 @@
       if (!filterId) return;
       state.filters[filterId] = target.value || "";
       state.page = 1;
+      allVisible = config.loadMoreChunk;
       render();
     });
 
@@ -563,6 +609,7 @@
       if (!filterId) return;
       state.filters[filterId] = target.value || "";
       state.page = 1;
+      allVisible = config.loadMoreChunk;
       window.clearTimeout(searchTimer);
       searchTimer = window.setTimeout(render, 180);
     });
@@ -578,12 +625,19 @@
       state.show = config.defaultShow;
       state.page = 1;
       state.sort = config.defaultSort;
+      allVisible = config.loadMoreChunk;
       render();
     });
 
     paginationEl.addEventListener("click", (event) => {
       const target = event.target;
       if (!(target instanceof HTMLElement)) return;
+      const loadMore = target.closest("[data-load-more]");
+      if (loadMore) {
+        allVisible += config.loadMoreChunk;
+        render();
+        return;
+      }
       const btn = target.closest("[data-page-delta]");
       if (!btn || btn.hasAttribute("disabled")) return;
       const delta = Number(btn.getAttribute("data-page-delta") || "0");
@@ -603,6 +657,7 @@
 
     window.addEventListener("popstate", () => {
       state = parseState(window.location.href, config, enabledFilters);
+      allVisible = config.loadMoreChunk;
       render();
     });
 

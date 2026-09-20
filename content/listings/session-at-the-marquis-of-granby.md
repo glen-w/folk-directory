@@ -12,6 +12,8 @@ venue: The Marquis of Granby
 address: High St
 place: Waddingham
 post_code: DN21 4SW
+lat: 53.453
+lng: -0.5219
 when: Second and Last Sundays, From 3pm
 www: ''
 email: dgannon@lincoln.ac.uk

@@ -11,13 +11,14 @@ venue: Bell & Jorrocks pub
 address: ''
 place: Frittenden
 post_code: TN17 2EJ
+lat: 51.14208
+lng: 0.59434
 when: March
 www: frittendenfestival.com
 email: gmatkin@gmail.com
 status: listed
 edited: 23/01/2012
 ---
-
 The evening will see the multi-talented Rosie Davis calling to music provided by the Horsmonden Traditional Music Class and friends, with songs from a variety of invited guests and the odd party game.
 
 The event takes place in the Bell & Jorrocks function room, and formal attire is encouraged (but optional).

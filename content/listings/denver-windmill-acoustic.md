@@ -11,6 +11,8 @@ venue: Denver Windmill
 address: Blackstone Engine Bar, Denver Windmill, Sluice Rd
 place: Downham Market
 post_code: PE38 0DZ
+lat: 52.58661
+lng: 0.37249
 when: Monthly, 1st & 3rd Friday
 www: ''
 status: listed

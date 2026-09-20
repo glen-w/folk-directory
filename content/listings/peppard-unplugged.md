@@ -11,6 +11,8 @@ venue: Peppard War Memorial Hall
 address: Gallowstree Road, Peppard Common
 place: Henley-on-Thames
 post_code: ''
+lat: 51.53758
+lng: -0.90503
 when: Saturday, 2nd in Month
 www: ''
 status: listed

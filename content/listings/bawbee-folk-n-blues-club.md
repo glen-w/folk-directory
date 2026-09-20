@@ -11,12 +11,13 @@ venue: The Birkhill
 address: 16 St.Mary's Street
 place: Dumfries
 post_code: DG1 1LZ
+lat: 55.07189
+lng: -3.60083
 when: Monthly, 2nd & 4th Thursday
 www: ''
 email: john.carson11@btinternet.com
 status: listed
 ---
-
 Traditional and contemporary folk and blues club. Well-known folk and blues performers are presented on the 4th Thursday of each month. On the 2nd Thursday of each month, local performers and visitors are given the opportunity to perform. Occasionally, up-and-coming performers are given a 45-minute showcase slot on the singers' night.
 
 Members and non-members welcome.

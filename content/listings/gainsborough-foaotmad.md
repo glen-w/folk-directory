@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: Gainsborough
 post_code: ''
+lat: 53.39954
+lng: -0.77588
 when: February
 www: gainsborough2026.weebly.com
 status: listed
 ---
-
 I suppose this counts as American folk music, sort of. ? Friends of American Old-Time Music and Dance (FOAOTMAD for short!) was founded in 1993 with the aim of furthering the promotion and performance of traditional old-time music and dance in the UK. We organise regular music camps, residential workshops, dance parties and support for many other formal and informal old-time events.

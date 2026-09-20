@@ -7,7 +7,7 @@ event_types:
 locations:
 - leadenham-house
 - linconshire
-county: Linconshire
+county: Lincolnshire
 venue: ''
 address: ''
 place: Leadenham House

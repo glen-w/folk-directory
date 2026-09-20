@@ -11,6 +11,8 @@ venue: Commercial Hotel
 address: 107 Station Rd, Chapeltown
 place: Sheffield
 post_code: S35 2XF
+lat: 53.46446
+lng: -1.46471
 when: Friday, 1st in Month
 www: ''
 status: listed

@@ -12,6 +12,8 @@ venue: Pontyclun Institute and Athletic Club
 address: Castan Rd/Palalwyf Ave
 place: Pontyclun
 post_code: ''
+lat: 51.52519
+lng: -3.39015
 when: Wednesday, Every Week
 www: www.folkwales.org.uk/folk.html
 status: listed

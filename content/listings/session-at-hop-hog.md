@@ -12,6 +12,8 @@ venue: Hop & Hog
 address: High Street
 place: Downham Market
 post_code: PE38 9HH
+lat: 52.60361
+lng: 0.37818
 when: Third Fridays, 8pm-late
 www: ''
 email: nicodobben@yahoo.co.uk

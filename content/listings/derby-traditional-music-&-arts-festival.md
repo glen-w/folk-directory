@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Derby
 post_code: ''
+lat: 52.9233
+lng: -1.47655
 when: October
 www: prpromotions.org.uk
 email: info@prpromotions.org.uk

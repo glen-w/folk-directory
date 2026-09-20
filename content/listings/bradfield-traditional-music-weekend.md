@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Bradfield
 post_code: ''
+lat: 53.43498
+lng: -1.63008
 when: July
 www: ''
 email: edeophone@aol.com

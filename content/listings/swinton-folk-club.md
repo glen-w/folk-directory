@@ -11,10 +11,11 @@ venue: The White Lion
 address: 242 Manchester Road
 place: Swinton
 post_code: M27 4TS
+lat: 53.50765
+lng: -2.33089
 when: Monday
 www: swintonfolkclub.co.uk
 email: gbwright@btinternet.com
 status: listed
 ---
-
 A mix of guest and singers' nights.

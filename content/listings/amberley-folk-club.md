@@ -11,6 +11,8 @@ venue: The Black Horse
 address: High Street
 place: Amberley
 post_code: BN18 9NL
+lat: 50.90897
+lng: -0.53369
 when: Tuesdays
 www: ''
 email: amberleyfolkclub@hotmail.co.uk

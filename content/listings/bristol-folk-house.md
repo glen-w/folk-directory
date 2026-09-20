@@ -11,7 +11,9 @@ venue: Folk House
 address: ''
 place: Bristol
 post_code: ''
-when: March
+lat: 51.45447
+lng: -2.60155
+when: ''
 www: www.bristolfolkhouse.co.uk/live-music
 email: admin@bristolfolkhouse.co.uk
 logo: /images/listings/bristol_folk_house_logo_1011.png

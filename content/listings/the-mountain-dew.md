@@ -7,7 +7,7 @@ event_types:
 locations:
 - corduff
 - london
-county: London
+county: Greater London
 venue: The Mountain Dew
 address: ''
 place: Corduff

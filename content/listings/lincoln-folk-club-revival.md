@@ -11,6 +11,8 @@ venue: The Joiner's Arms
 address: 4-6 Victoria St, West Parade
 place: Lincoln
 post_code: LN1 1HU
+lat: 53.23244
+lng: -0.54377
 when: Wednesday, Every 2 weeks
 www: ''
 status: listed

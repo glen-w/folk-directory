@@ -2,6 +2,7 @@ baseURL = 'https://folkdirectory.co.uk/'
 languageCode = 'en-gb'
 title = 'Folk Directory'
 theme = 'PaperMod'
+enableRobotsTXT = true
 
 [params]
   description = "A directory of folk music events across the UK and Ireland — folk clubs, sessions, festivals and more."

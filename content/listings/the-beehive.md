@@ -8,11 +8,13 @@ locations:
 - winney-hill-harthill
 - england
 - yorkshire-and-the-humber
-county: Yorkshire and the Humber
+county: South Yorkshire
 venue: Harthill Village Hall
 address: Winney Hill
 place: Harthill
 post_code: S26 7YL
+lat: 53.31685
+lng: -1.25904
 when: Friday, 1st in Month
 www: www.beehivefolkclub.com
 email: petergarratt1@gmail.com

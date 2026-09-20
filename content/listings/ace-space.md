@@ -11,6 +11,8 @@ venue: Ace Space
 address: St Nicholas Road, Newbury
 place: Berkshire
 post_code: RG14 5PR
+lat: 51.39823
+lng: -1.32782
 when: Varied, Variable
 www: www.acespace.org.uk
 status: listed

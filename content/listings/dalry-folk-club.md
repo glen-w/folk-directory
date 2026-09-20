@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Dalry
 post_code: ''
+lat: 55.70599
+lng: -4.71114
 when: Monthly, Friday
 www: www.dalryfolkclub.weebly.com
-status: listed
 logo: /images/listings/dalry_folk_club_logo_964.png
+status: listed
 ---
-
 Dalry Folk Club is the newest addition to a thriving music scene in Ayrshire, formed in late 2015 and holding alternate gigs and sessions on the first Friday of the month. It meets in Dalry's Masonic Lodge in New Street. The club aims to bring members of the community together, share people's talents, and introduce people to new musicians and songs.

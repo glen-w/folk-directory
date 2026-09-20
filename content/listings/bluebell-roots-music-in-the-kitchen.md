@@ -11,6 +11,8 @@ venue: Bluebell Farmhouse Kitchen
 address: Bates Green Farm, Tye Hill Road, Arlington
 place: East Sussex
 post_code: BN26 6SH
+lat: 50.84791
+lng: 0.20497
 when: Monthly, Last Sunday
 www: www.bluebellroots.co.uk
 status: listed

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Saltburn by the Sea
 post_code: TS12 1PN
+lat: 54.58185
+lng: -0.9931
 when: August
 www: saltburnfolkfestival.com
 email: saltburnfolkfestival@talktalk.net

@@ -11,12 +11,13 @@ venue: The Pack O' Cards
 address: High Street
 place: Combe Martin
 post_code: EX34 0EG
+lat: 51.20069
+lng: -4.02667
 when: 2nd & 4th Saturdays
 www: ''
 email: contact@shammickacoustic.org.uk
 status: defunct
 ---
-
 SECOND SATURDAYS
 This is where the Open Nights started ~ as an environment
 

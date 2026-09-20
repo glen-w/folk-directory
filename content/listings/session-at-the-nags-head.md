@@ -12,6 +12,8 @@ venue: The Nags Head
 address: Orford Road
 place: Walthamstow
 post_code: E17 9LP
+lat: 51.58351
+lng: -0.01076
 when: Second Tuesdays, 8pm-10
 www: ''
 email: alison@kittywompus.com

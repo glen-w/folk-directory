@@ -11,6 +11,8 @@ venue: Church Inn
 address: Church Inn, Church Lane, Bury New Rd
 place: Prestwich
 post_code: ''
+lat: 53.53043
+lng: -2.29602
 when: Friday, Every Week
 www: ''
 status: listed

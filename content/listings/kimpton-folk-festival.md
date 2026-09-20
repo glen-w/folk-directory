@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Kimpton
 post_code: ''
+lat: 51.85261
+lng: -0.29689
 when: July
 www: www.kimptonfolk.uk
 logo: /images/listings/kimpton_folk_festival_logo_3682.png
 status: listed
 ---
-
 A new festival in 2016, it's back for July yet again. Spend a chilled-out day enjoying the nation's favourite folk artists in the beautiful Hertfordshire countryside. This is a one-day event with 4 separate venues including free events on the village green. Main stage has 3 ticketed concerts and there are workshops and a continuous concert in the 13th century church.

@@ -15,9 +15,8 @@ place: Artane
 post_code: ''
 lat: 53.38515
 lng: -6.21622
-www: www.cluaintarbh.net/adult.htm
+www: ''
 email: cluaintarbh@gmail.com
 status: listed
 ---
-
 Music lessons are offered at the Artane Beaumont Family Recreation Centre, in the tradition featured on Faoi Lán Cheoil.

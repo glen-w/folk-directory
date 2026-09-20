@@ -6,18 +6,19 @@ event_types:
 - session
 locations:
 - london
-county: London
+county: Greater London
 venue: The Horseshoe
 address: 24 Clerkenwell Close
 place: London
 post_code: EC1I 0AG
+lat: 51.503
+lng: -0.00146
 when: The first monday every month at 8.15 pm
 www: ''
 email: rebetikorecycled@gmail.com
 status: listed
 edited: 24/01/2012
 ---
-
 A monthly rebetiko (Greek blues) jam session is held at The Horseshoe pub (Farringdon Station) on the first Monday of every month, bringing the sounds of Athens to London.
 
 The Rebetiko Recycled band and friends welcome participants to play, sing, dance, or simply listen to the music. Admission is free, all are welcome, and all musicians are invited to jam with the band.

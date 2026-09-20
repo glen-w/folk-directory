@@ -12,6 +12,8 @@ venue: The Progressive Club
 address: Halford Street
 place: Tamworth
 post_code: B79 7RD
+lat: 52.635
+lng: -1.69936
 when: Irregular Friday - contact organiser, 8.00 pm - Midnight
 www: celticearthspirit.co.uk
 email: tan.harvey@celticearthspirit.co.uk

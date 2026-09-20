@@ -7,7 +7,7 @@ event_types:
 locations:
 - dartford
 - the-south-east
-county: The South East
+county: Kent
 venue: Mick Jagger Centre
 address: Shepherds Lane
 place: Dartford

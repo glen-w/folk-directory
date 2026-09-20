@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Evesham
 post_code: ''
+lat: 52.09402
+lng: -1.94831
 when: May
 www: mayheydays.org.uk
 email: Director@mayheydays.org.uk
 status: listed
 ---
-
 Closely following the long-established Eastbourne format, May Heydays offers an enjoyable bank holiday weekend mix of different folk dance traditions from many parts of the world.

@@ -12,6 +12,8 @@ venue: Tap and Spile
 address: Manchester Street
 place: Morpeth
 post_code: NE61 1BH
+lat: 55.16942
+lng: -1.69044
 when: Every Sunday, 12 noon - 4pm
 www: ''
 email: smallpiper@googlemail.com

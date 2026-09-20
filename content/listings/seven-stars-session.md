@@ -11,6 +11,8 @@ venue: The Packhorse pub
 address: Pack Horse Yard, Briggate
 place: Leeds
 post_code: LS1 6AT
+lat: 53.79756
+lng: -1.54279
 when: Sunday, 1st in Month
 www: ''
 status: listed

@@ -12,6 +12,8 @@ venue: Springhill Bar
 address: Causeway Street
 place: Portrush
 post_code: BT56 8AB
+lat: 55.20498
+lng: -6.65131
 when: Every Thursday, 9pm till 11.30pm
 www: springhillbar.blogspot.com
 email: avgm50@dsl.pipex.com

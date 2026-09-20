@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: Bradford on Avon
 post_code: ''
+lat: 51.34672
+lng: -2.25043
 when: May
 www: boagreenmanfest.org/welcome
 status: listed
 ---
-
 The Bradford on Avon Green Man Festival is a family-friendly community gathering featuring traditional dance, music, song, and folklore throughout the town centre on Saturday 10 May 2025 (9.30am to 6pm). The festival is free. Over 50 dance groups, including 500 dancers and 120 musicians, perform Morris dancing and diverse European styles.

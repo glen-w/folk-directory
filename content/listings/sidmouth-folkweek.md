@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Sidmouth
 post_code: ''
+lat: 50.679
+lng: -3.23766
 when: July / August
 www: sidmouthfolkweek.co.uk
 email: info@sidmouthfolkweek.co.uk

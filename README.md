@@ -64,4 +64,6 @@ Each item:
 
 Map pins use `/data/listings-map.json` (coordinates + `event_type` + `status` + `www`). Popups and browse cards share `static/js/folk-utils.js` to turn a bare host into an `https://` link.
 
+Maintainer geo order: run `scripts/geocode_listings.py` (writes the map JSON), then `scripts/sync_map_coords_to_front_matter.py --apply` so Hugo `/listings/index.json` carries the same `lat`/`lng`, then commit both the map file and updated listing front matter before deploy.
+
 Propose new/updated listings via `/submit/`.

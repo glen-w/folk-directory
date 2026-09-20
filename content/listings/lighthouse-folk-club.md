@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Halesowen
 post_code: ''
+lat: 52.44921
+lng: -2.05146
 when: Weekly, Thursday
 www: www.lighthouse-folk.org.uk
 status: listed
 ---
-
 The Lighthouse Folk Club, Halesowen, meets every Thursday evening.

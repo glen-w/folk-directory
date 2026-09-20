@@ -11,6 +11,8 @@ venue: The Ship Hotel
 address: New Road
 place: Leigh on Sea
 post_code: SS9 2EP
+lat: 51.54048
+lng: 0.64932
 when: Tuesdays
 www: ridgeweb.co.uk/hoy.htm
 email: tony@priority.ms

@@ -11,6 +11,8 @@ venue: The Estuary Club
 address: 1386 London Road
 place: Leigh-on-Sea
 post_code: SS9 2UJ
+lat: 51.54768
+lng: 0.63635
 when: Tuesday, Every Week
 www: www.hoyatanchor.org
 logo: /images/listings/hoy_at_anchor_folk_club_logo_860.png

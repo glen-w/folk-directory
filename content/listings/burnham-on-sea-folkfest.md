@@ -11,11 +11,12 @@ venue: Town Centre and Manor Gardens
 address: ''
 place: Burnham-on-Sea
 post_code: TA8 1AR
+lat: 51.23713
+lng: -2.99832
 when: August / September
 www: ''
 email: info@folkfest.co.uk
 status: defunct
 edited: 23/01/2012
 ---
-
 Free acoustic festival operating across seven venues and an open-air concert, with evening concerts held separately. Now in its seventh year, the festival features over seventy live acoustic acts. Full details are available on the website.

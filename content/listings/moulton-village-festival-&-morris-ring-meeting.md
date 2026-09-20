@@ -11,6 +11,8 @@ venue: Various
 address: Manor Road
 place: Moulton
 post_code: NN3 7QU
+lat: 52.28629
+lng: -0.85555
 when: May
 www: themorrisring.org
 email: melodeonplayer@hotmail.com

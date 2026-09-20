@@ -11,8 +11,9 @@ venue: Katie Fitzgeralds
 address: ''
 place: Stourbridge
 post_code: ''
+lat: 52.45818
+lng: -2.1578
 www: www.katiefitzgeralds.co.uk
 status: listed
 ---
-
 Songwriters, roots, Irish, folk and blues, with regular sessions at this venue in Wollaston, Stourbridge.

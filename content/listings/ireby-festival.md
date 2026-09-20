@@ -11,6 +11,8 @@ venue: Bank Top Cottage
 address: ''
 place: Ireby
 post_code: CA7 1EA
+lat: 54.73918
+lng: -3.18436
 when: May
 www: ''
 email: irebyfestival@tiscali.co.uk

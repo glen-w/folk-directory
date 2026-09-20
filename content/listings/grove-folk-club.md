@@ -11,9 +11,10 @@ venue: Grove Inn
 address: ''
 place: Leeds
 post_code: ''
+lat: 53.79093
+lng: -1.54792
 when: Weekly, Friday
 www: grovefolkclub.org.uk
 status: listed
 ---
-
 Meets at the Grove Inn, Leeds, a few minutes' walk from the central railway station.

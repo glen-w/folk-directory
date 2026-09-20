@@ -11,8 +11,10 @@ venue: Blue Anchor Pub
 address: High Road
 place: Byfleet
 post_code: KT14 7RL
+lat: 51.33807
+lng: -0.4696
 when: Thursday
-www: anchorfolk.org.uk
+www: ''
 email: anchorfolk@msn.com
 status: listed
 edited: 25/10/2011

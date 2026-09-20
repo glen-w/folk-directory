@@ -11,6 +11,8 @@ venue: The Cumberland Arms (back room)
 address: James Place Street, Byker
 place: Newcastle upon Tyne
 post_code: NE6 1LD
+lat: 54.97539
+lng: -1.58929
 when: Monthly, 2nd Tuesday
 www: ''
 status: listed

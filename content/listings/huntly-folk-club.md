@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Huntly
 post_code: ''
+lat: 57.44748
+lng: -2.78642
 when: Wednesday of every month at Harry's Bar (behind The Crown p
 www: ''
 status: listed
 ---
-
 The Huntly Folk Club takes place on the third Wednesday of every month at Harry's Bar (behind The Crown pub) and starts at 8pm.

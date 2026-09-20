@@ -58,14 +58,11 @@
     <div id="listings-fallback" class="listings-fallback">
       <ul class="listings-fallback-list">
         {{- range .RegularPages.ByTitle }}
-        {{- $logo := partial "listing-resolved-logo.html" . -}}
         {{- $type := index (.Params.event_types | default slice) 0 | default "" -}}
         {{- $placeBits := slice -}}
         {{- with .Params.place }}{{ $placeBits = $placeBits | append . }}{{ end -}}
         {{- with .Params.county }}{{ $placeBits = $placeBits | append . }}{{ end -}}
         <li class="listings-fallback-item">
-          <img class="listings-fallback-logo{{- if $logo.isPlaceholder }} listings-fallback-logo--placeholder{{ end }}"
-            src="{{ $logo.src | relURL }}" alt="" width="28" height="28">
           <span class="listings-fallback-text">
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{- if or $type $placeBits }}

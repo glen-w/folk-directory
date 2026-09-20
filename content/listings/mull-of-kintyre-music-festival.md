@@ -11,13 +11,14 @@ venue: Victoria Hall
 address: Kinloch Road
 place: Campbeltown
 post_code: PA28 6AZ
+lat: 55.42224
+lng: -5.60342
 when: August
 www: mokfest.com
 logo: /images/listings/mull_of_kintyre_music_festival_logo_547.png
 status: listed
 edited: 03/02/2012
 ---
-
 The Mull of Kintyre Music Festival or MOK Fest as it is affectionately\
 
 The Mull of Kintyre Music Festival or MOK Fest as it is affectionately known is a celebration of traditional and contemporary Scottish and Irish music. Based in Campbeltown, Kintyre on the West coast of Scotland the Festival has a great mix of free outdoor events, concerts, ceilidh’s, music sessions, workshops, children’s entertainment, parades, cultural and heritage tours in large venues and intimate halls.  

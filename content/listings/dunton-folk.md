@@ -11,13 +11,14 @@ venue: St Mary Magdalene Church
 address: Church Street
 place: Dunton, Biggleswade
 post_code: SG18 8RR
+lat: 52.08295
+lng: -0.19525
 when: Saturdays
 www: duntonfolk.co.uk
 email: duntonfolk@hotmail.co.uk
 status: listed
 edited: 05/09/2012
 ---
-
 Dunton Folk organises a series of folk music concerts throughout the year and folk music sessions in the March Hare Public House. The group also organises the annual Wassail in an orchard in the centre of Dunton.
 
 The folk music concerts take place in the superb setting of St Mary Magdalene Church. The acoustics of the church lend themselves to live music, and a superb atmosphere is generated when music is performed. A full bar is provided at all concerts by John and Janice of the March Hare pub.

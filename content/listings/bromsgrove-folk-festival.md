@@ -11,6 +11,8 @@ venue: Various
 address: Meadow Road, Catshill
 place: Bromsgrove
 post_code: B61 0JJ
+lat: 52.36207
+lng: -2.06218
 when: July
 www: bromsgrovefolkclub.co.uk
 email: bromsgroveman@hotmail.com

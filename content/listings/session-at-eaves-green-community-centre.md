@@ -12,6 +12,8 @@ venue: Eaves Green Community Centre
 address: Lower Burgh Way
 place: Chorley
 post_code: PR7 3QG
+lat: 53.63888
+lng: -2.63789
 when: First Saturdays, 2.00 - 5.00pm
 www: bjsystems.dyndns.org/ctms/index.html
 email: brianr@bjsystems.co.uk

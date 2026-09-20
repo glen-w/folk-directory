@@ -12,6 +12,8 @@ venue: The Albion
 address: 36 Dunstable Road
 place: Ampthill
 post_code: MK45 2JT
+lat: 52.02792
+lng: -0.49519
 when: Second Wednesdays, 8.00pm ish
 www: ''
 email: taztarry@btinternet.com

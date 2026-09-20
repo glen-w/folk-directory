@@ -12,6 +12,8 @@ venue: Chalk and Cheese
 address: 53 Dorchester Road
 place: Maiden Newton
 post_code: DT2 0BD
+lat: 50.7771
+lng: -2.57193
 when: Third Sundays, 19.45 till 23.00
 www: ''
 email: fiddler@casterbridge.net

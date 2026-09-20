@@ -12,6 +12,8 @@ venue: The Dean Tavern
 address: 80 Main Street, Newtongrange
 place: Dalkeith
 post_code: EH22 4NA
+lat: 55.86913
+lng: -3.06877
 when: Thursday, Every Week
 www: Nittenfolk.com
 logo: /images/listings/nittenfolk_logo_880.png

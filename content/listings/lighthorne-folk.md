@@ -11,6 +11,8 @@ venue: The Antelope Inn, Lighthorne CV35 0BX
 address: The Antelope Inn
 place: Lighthorne
 post_code: CV35 0BX
+lat: 52.19954
+lng: -1.50457
 when: Monday, 1st in Month
 www: lighthornefolk.yolasite.com
 status: listed

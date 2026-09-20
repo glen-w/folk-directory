@@ -7,7 +7,7 @@ event_types:
 locations:
 - stoke-newington
 - london
-county: London
+county: Greater London
 venue: The Auld Shillelagh
 address: 105 Stoke Newington Church Street
 place: Stoke Newington

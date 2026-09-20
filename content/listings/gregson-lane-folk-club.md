@@ -12,9 +12,10 @@ venue: Nets Bar (Formerly Gregson Lane S & C Club)
 address: Gregson Lane
 place: Preston
 post_code: ''
+lat: 53.73158
+lng: -2.61911
 when: Thursday, Every 2 weeks
 www: www.gregsonlane.co.uk
 status: listed
 ---
-
 Gregson Lane Folk Club meets at Nets Bar (formerly Gregson Lane S & C Club) in the village of Gregson Lane, Preston, on Thursdays every two weeks.

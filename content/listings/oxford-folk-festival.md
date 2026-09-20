@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Oxford
 post_code: ''
+lat: 51.75201
+lng: -1.25785
 when: April
 www: oxfordfolkfest.org.uk
 email: oxfordfolkfestival@gmail.com

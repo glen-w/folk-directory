@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Moira
 post_code: ''
+lat: 52.73621
+lng: -1.53447
 when: July
 www: affc.demon.co.uk
 email: mscott@affc.demon.co.uk

@@ -12,6 +12,8 @@ venue: Bell & Jorrocks
 address: Biddenden Road
 place: Frittenden
 post_code: TN17 2EJ
+lat: 51.14208
+lng: 0.59434
 when: Last Sunday every month, 20.00-22.30
 www: rittendenfestival.com
 email: gmatkin@gmail.com

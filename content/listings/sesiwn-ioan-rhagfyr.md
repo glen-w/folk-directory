@@ -11,6 +11,8 @@ venue: Various
 address: Gwynedd
 place: Dolgellau
 post_code: LL40 1AB
+lat: 52.743
+lng: -3.88445
 when: Wednesday, Variable
 www: ''
 status: listed

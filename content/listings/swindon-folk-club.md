@@ -12,6 +12,8 @@ venue: Upstairs at The Hop Inn
 address: The Hop Inn, 8 Devizes Road
 place: Swindon
 post_code: SN1 4BH
+lat: 51.55057
+lng: -1.77682
 when: Friday, 3rd in Month
 www: swindonfolkclub.wordpress.com
 email: swindonfolkclub@gmail.com

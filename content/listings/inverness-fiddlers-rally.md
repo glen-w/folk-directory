@@ -7,14 +7,15 @@ event_types:
 locations:
 - inverness
 - invernessshire
-county: Invernessshire
+county: Highland
 venue: ''
 address: ''
 place: Inverness
 post_code: ''
+lat: 57.47901
+lng: -4.22574
 when: March
 www: www.invernessfiddlers.org
 status: listed
 ---
-
 The clue's in the name - it features fiddlers. As always, the Inverness Fiddlers will be joined by special guests for the event. Not sure if it is folky or just fiddlers, but you can always contact them and ask.

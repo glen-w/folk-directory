@@ -12,6 +12,8 @@ venue: The Norman Knight
 address: ''
 place: Whichford, near Shipston-on-Stour
 post_code: CV36 5PE
+lat: 52.00992
+lng: -1.54134
 when: First Friday, 8.30pm
 www: ''
 email: theflyingmorrisman@hotmail.com

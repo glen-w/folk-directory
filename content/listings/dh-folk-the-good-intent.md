@@ -11,6 +11,8 @@ venue: The Good Intent
 address: The Good Intent Great Western. Arcade
 place: Birmingham
 post_code: B2 5HU
+lat: 52.4819
+lng: -1.89714
 when: Monthly, 2nd Tuesday
 www: ''
 status: listed

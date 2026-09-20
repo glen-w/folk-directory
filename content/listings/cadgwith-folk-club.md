@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Cadgwith
 post_code: ''
+lat: 49.98794
+lng: -5.18038
 when: Weekly, Tuesday, 9:00pm
 www: ''
 status: listed
 ---
-
 Cadgwith Folk Club runs from the Cove Inn in Cadgwith, Cornwall, every Tuesday from 9pm.

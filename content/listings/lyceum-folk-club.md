@@ -11,6 +11,8 @@ venue: Crindau Constitutional Club
 address: 45 Malpas Rd
 place: Newport
 post_code: NP12 5PJ
+lat: 51.59848
+lng: -3.00053
 when: Thursday, Every Week
 www: www.lyceumfolknewport.org.uk
 email: info@lyceumfolknewport.org.uk

@@ -11,9 +11,9 @@ venue: Orpington Liberal Hall
 address: 7 Station Road, BR6 ORZ
 place: Orpington
 post_code: ''
+lat: 51.34012
+lng: 0.14486
 when: Friday (obviously!)
 www: sites.google.com/site/orpingtonfridayfolk/home/o-f-f-home-page
 status: listed
 ---
-
-

@@ -11,10 +11,11 @@ venue: Youth Club
 address: West Street
 place: Hambledon
 post_code: PO7 4RW
+lat: 50.93054
+lng: -1.08387
 when: Second Wednesday each month
 www: hambledonfolk.co.uk
 email: folkclubhambledon@hotmail.co.uk
 status: listed
 ---
-
 Hambledon Folk Club meets on the second Wednesday of each month at 8:30pm in the Youth Club building in the Village Hall car park next to The Vine in West Street. There are guest performers most months, usually acoustic, covering a wide range of styles.

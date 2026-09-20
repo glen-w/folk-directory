@@ -12,6 +12,8 @@ venue: The Boar's Head
 address: Church St
 place: Hampton Lucy
 post_code: CV35 8BE
+lat: 52.21126
+lng: -1.62751
 when: Second Fridays, Starts after 9pm
 www: ''
 email: jan@bootfinder.co.uk

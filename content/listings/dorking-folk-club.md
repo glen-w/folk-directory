@@ -11,13 +11,14 @@ venue: Friends Life Social Club
 address: Friends Life
 place: Dorking
 post_code: RH4 1QA
+lat: 51.24292
+lng: -0.32345
 when: Wednesdays
 www: dorkingfolkclub.org.uk
 email: info@dorkingfolkclub.org.uk
 logo: /images/listings/dorking_folk_club_logo_47.png
 status: listed
 ---
-
 GUEST NIGHTS
 The club aims to provide as broad a cross-section of music as possible, to highlight the range of styles that constitute traditional music. Over the past few years the club has hosted a whole host of well-known artists: John Renbourn, Last Night's Fun, Bob Fox & Stu Luckley, Dave Burland, Eddie Walker, The Ex-Patriot Game, Jez Lowe, The Devil's Interval, Martin Simpson, Nancy Kerr and James Fagan, Richard Durrant, Martin Carthy, Chris Moreton, Steve Tilston, Spiers and Boden (Bellowhead), Les Barker, Simon Mayor and Hilary James, Vin Garbutt, Ken Perlman, Karen Tweed & Roger Wilson and many more.
 The club also showcases rising new talent, so attendees often have the opportunity to see the stars of tomorrow here today.

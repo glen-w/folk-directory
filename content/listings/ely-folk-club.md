@@ -12,6 +12,8 @@ venue: village hall
 address: Arkenstall Village Centre, 7 Station Road, Haddenham, Ely
 place: Cambs
 post_code: CB6 3XD
+lat: 52.3612
+lng: 0.14971
 when: Wednesday, Other
 www: www.elyfolkclub.co.uk
 logo: /images/listings/ely_folk_club_logo_654.png

@@ -11,11 +11,12 @@ venue: The George Hotel
 address: High Street
 place: Leadenham
 post_code: LN5 0PN
+lat: 53.0592
+lng: -0.58239
 when: August
 www: 600whiskies.co.uk
 email: 600whiskies@googlemail.com.co.uk
 status: listed
 edited: 18/07/2013
 ---
-
 Free Day  of Lincolnshire Folk Music Dance & Song

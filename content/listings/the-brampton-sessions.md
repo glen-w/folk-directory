@@ -11,6 +11,8 @@ venue: St Thomas Church Centre
 address: St Thomas Church Centre, Chatsworth Road
 place: Chesterfield
 post_code: S40 3AW
+lat: 53.23207
+lng: -1.45921
 when: Wednesday, 1st in Month
 www: bramptonsessions.co.uk
 status: listed

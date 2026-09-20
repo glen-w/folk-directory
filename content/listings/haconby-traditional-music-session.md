@@ -11,6 +11,8 @@ venue: Hare & Hounds pub
 address: 2 West Road, Main St, Haconby, Bourne
 place: Lincs
 post_code: PE10 0UZ
+lat: 52.81455
+lng: -0.36513
 when: Monday, 3rd in Month
 www: www.peteshaw.co.uk/index.php/hhtunes
 status: listed

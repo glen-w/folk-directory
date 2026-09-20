@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Swanage
 post_code: ''
+lat: 50.6087
+lng: -1.9572
 when: September
 www: swanagefolkfestival.co.uk
 email: swanagefolkfestival@hotmail.co.uk

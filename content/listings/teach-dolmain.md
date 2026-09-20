@@ -13,9 +13,10 @@ venue: Teach Dolmain
 address: ''
 place: Carlow Town
 post_code: ''
+lat: 52.84083
+lng: -6.92611
 when: Weekly, Tuesday, 9:00pm
 www: ''
 status: listed
 ---
-
 A town-centre session in Carlow. Tuesday nights are reliable — a smaller crowd than the weekend, but the musicians are more serious about it.

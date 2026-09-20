@@ -12,6 +12,8 @@ venue: The Kitchen Garden Cafe
 address: 17 York Road
 place: Kings Heath, Birmingham
 post_code: B14 7SA
+lat: 52.4344
+lng: -1.89397
 when: Regular
 www: kitchengardencafe.co.uk
 email: info@kitchengardencafe.co.uk

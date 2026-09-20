@@ -12,6 +12,8 @@ venue: The Beech Inn
 address: Beech Road
 place: Chorlton cum Hardy
 post_code: M21 9EG
+lat: 53.43872
+lng: -2.28057
 when: Every Wednesday, 8pm
 www: ''
 email: jonesthefolk@yahoo.co.uk

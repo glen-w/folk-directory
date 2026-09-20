@@ -7,7 +7,7 @@ event_types:
 locations:
 - ditchling
 - the-south
-county: The South
+county: East Sussex
 venue: The White Horse
 address: 16 West Street
 place: Ditchling

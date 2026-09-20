@@ -12,6 +12,8 @@ venue: Pub - The Nag's Head. Every first and third Thursday of the month from Oc
 address: The Nag's Head, Mount Street
 place: Wrexham
 post_code: LL13 8DW
+lat: 53.04372
+lng: -2.99078
 when: Thursday, 1st in Month
 www: www.wrexhamfolkacoustic.club
 status: listed

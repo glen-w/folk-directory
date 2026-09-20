@@ -11,12 +11,13 @@ venue: Jabez Clegg
 address: 2 Portsmouth Street
 place: Manchester
 post_code: M13 9GB
+lat: 53.46489
+lng: -2.23089
 when: Tuesdays
 www: manchesterceilidh.co.uk
 email: info@manchesterceilidh.co.uk
 status: listed
 ---
-
 Manchester's only regular Ceilidh Night.
 
 Welcomes hundreds of

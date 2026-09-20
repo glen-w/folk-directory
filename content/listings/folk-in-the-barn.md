@@ -12,10 +12,11 @@ venue: Various venues in Canterbury
 address: ''
 place: Canterbury
 post_code: ''
+lat: 51.28003
+lng: 1.08025
 when: Varied, Variable
 www: www.folkinthebarn.co.uk
 logo: /images/listings/folk_in_the_barn_logo_788.png
 status: listed
 ---
-
 Folk in the Barn takes place at various venues in Canterbury, with a varied and variable schedule.

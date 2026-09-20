@@ -12,6 +12,8 @@ venue: Bent Brief
 address: Lodge Rd
 place: Southampton
 post_code: SO14 6RP
+lat: 50.9197
+lng: -1.39676
 when: Last Thursdays, 9pm
 www: ''
 email: paul@fremantle.org

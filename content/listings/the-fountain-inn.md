@@ -11,6 +11,8 @@ venue: The Fountain Inn
 address: The Fountain Inn, Newbridge
 place: Penzance
 post_code: TR20 8QH
+lat: 50.12882
+lng: -5.6065
 when: Tuesday, 1st & 3rd
 www: Thefountainnewbridge.co.uk
 status: listed

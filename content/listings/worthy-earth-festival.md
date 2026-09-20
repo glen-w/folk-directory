@@ -13,11 +13,12 @@ venue: ''
 address: ''
 place: Dummer Down Farm
 post_code: ''
+lat: 51.20194
+lng: -1.17357
 when: September
 www: worthy-earth.co.uk/festival
 email: info@worthy-earth.co.uk
 logo: /images/listings/worthy_earth_festival_logo_3735.png
 status: listed
 ---
-
 For the fourth time. Celebrate the summer's harvest with three days of community revelry: garden-to-table feasts, renowned guest speakers, and a rich lineup of artists from the folk and global dance music tradition. Only 500 tickets! Don't miss out on this one by leaving things to the last minute.

@@ -12,6 +12,8 @@ venue: St John's Church
 address: Lansdowne Crescent
 place: Notting Hill
 post_code: W11 2NN
+lat: 51.51072
+lng: -0.20662
 when: May
 www: nottinghillmayfest.org.uk/node/22
 status: listed

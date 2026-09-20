@@ -11,6 +11,8 @@ venue: The Red Deer
 address: Pitt Street
 place: Sheffield
 post_code: S1 4DD
+lat: 53.38087
+lng: -1.47955
 when: Thursday, 2nd in Month
 www: ''
 status: listed

@@ -11,6 +11,8 @@ venue: The Falcon Hotel
 address: Breakwater Rd
 place: Bude
 post_code: EX23 8SD
+lat: 50.82688
+lng: -4.5481
 when: May
 www: budefolk.com
 email: info@budefolk.com

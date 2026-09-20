@@ -13,6 +13,8 @@ venue: The Celt
 address: ''
 place: Talbot St
 post_code: ''
+lat: 53.35057
+lng: -6.25489
 when: Monday, 21:00
 www: ''
 status: listed

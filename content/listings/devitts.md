@@ -13,9 +13,10 @@ venue: Devitts
 address: ''
 place: Camden St
 post_code: ''
+lat: 53.3344
+lng: -6.26516
 when: Monday, 18:30
 www: ''
 status: listed
 ---
-
 Mondays from 18:30 until close. An early session, lively by 8.

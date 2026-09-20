@@ -7,7 +7,7 @@ event_types:
 locations:
 - bristol
 - the-south-west
-county: The South West
+county: Bristol
 venue: Nova Scotia
 address: 1 Nova Scotia Place
 place: Bristol

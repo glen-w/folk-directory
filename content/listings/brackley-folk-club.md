@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Brackley
 post_code: ''
+lat: 52.0279
+lng: -1.14847
 when: meets every Sunday in the Greyhound, has regular guest nights, welco
 www: www.brackleyfolkclub.org
 email: don@brackleyfolkclub.org
 status: listed
 ---
-
 Brackley Folk Club meets every Sunday in the Greyhound. The club has regular guest nights, welcomes any music style, and has strong connections with the Brackley Morris. It also runs a free folk day every June.

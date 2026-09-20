@@ -11,11 +11,12 @@ venue: Riverdale Hall Hotel grounds
 address: ''
 place: Bellingham
 post_code: NE48 2JT
+lat: 55.14475
+lng: -2.26443
 when: May
 www: baafest.co.uk
 email: paul@baafest.co.uk
 status: listed
 edited: 29/01/2012
 ---
-
 A weekend of live music set in the grounds of Riverdale Hall Hotel, with fringe events in and around Bellingham, the gateway to the Northumberland National Park.

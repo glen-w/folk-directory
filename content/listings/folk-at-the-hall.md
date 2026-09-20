@@ -12,6 +12,8 @@ venue: Sleights Village Hall
 address: Coach Road, Sleights
 place: WHITBY
 post_code: YO22 5BT
+lat: 54.45671
+lng: -0.66418
 when: Sunday, 1st in Month
 www: www.greatnorthfolk.com
 status: listed

@@ -40,22 +40,25 @@
     <button type="button" class="listing-back-link" onclick="history.back()">← Back</button>
 </p>
 
-<header class="page-header">
+{{- $isDefunct := eq (lower (.Params.status | default "")) "defunct" -}}
+<header class="page-header{{- if $isDefunct }} listing-header--defunct{{ end }}">
     <div class="listing-title-row">
         {{- $logo := partial "listing-resolved-logo.html" . -}}
         <img class="listing-logo{{- if $logo.isPlaceholder }} listing-logo--placeholder{{ end }}"
             src="{{ $logo.src | relURL }}" alt="" width="96" height="96">
         <h1>{{- .Title -}}</h1>
     </div>
-    {{- with index (.Params.event_types | default slice) 0 }}
-    <div class="post-meta">
-        <strong>Type:</strong> {{ . }}
-        {{- with $.Params.county }} · {{ . }}{{- end }}
+    <div class="listing-meta-row post-meta">
+        {{- with index (.Params.event_types | default slice) 0 }}
+        <span><strong>Type:</strong> {{ . }}{{- with $.Params.county }} · {{ . }}{{- end }}</span>
+        {{- end }}
+        {{- if $isDefunct }}
+        <span class="listings-type-badge listings-type-badge--defunct">Defunct</span>
+        {{- end }}
     </div>
-    {{- end }}
 </header>
 
-<article class="post-single">
+<article class="post-single{{- if $isDefunct }} listing-detail--defunct{{ end }}">
     <div class="post-content listing-detail">
         {{- if or $venue $address .Params.place .Params.post_code }}
         <section class="listing-section venue-info">

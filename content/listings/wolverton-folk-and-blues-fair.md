@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: Wolverton Manor
 post_code: ''
+lat: 50.6399
+lng: -1.36094
 when: May
 www: www.facebook.com/WolvertonFolkandBlues
 status: listed
 ---
-
 Now in its 14th year. In aid of Teenage & Young Adult Cancer Care and Brighstone School. The live music stage will provide a full programme, featuring the best of the Island's Folk & Blues musicians. A family friendly event including BBQ, Tea Tent, children's activities and Circus Skills.

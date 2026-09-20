@@ -11,6 +11,8 @@ venue: The Magazine Hotel
 address: Magazine Lane
 place: New Brighton
 post_code: ''
+lat: 53.43222
+lng: -3.04136
 when: Tuesday, Every Week
 www: ''
 status: listed

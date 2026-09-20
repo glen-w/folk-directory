@@ -11,10 +11,10 @@ venue: Faldingworth Memorial Hall
 address: ''
 place: Faldingworth
 post_code: LN8 3SE
+lat: 53.34953
+lng: -0.39703
 when: Saturdays
 www: faldingworthlive.co.uk
 email: enquiry@faldingworthlive.co.uk
 status: listed
 ---
-
-

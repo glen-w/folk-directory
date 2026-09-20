@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: St Neots
 post_code: ''
+lat: 52.22758
+lng: -0.27038
 when: June
 www: stneotsfolkclub.co.uk
 email: stneotsfolkclub@aol.com

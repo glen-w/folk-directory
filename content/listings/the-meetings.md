@@ -13,9 +13,10 @@ venue: The Meetings
 address: ''
 place: Roundwood
 post_code: ''
+lat: 53.06347
+lng: -6.22474
 when: Weekly, Saturday, 9:00pm
 www: ''
 status: listed
 ---
-
 Sessions are held on Saturdays in a mountain pub in Ireland's highest village, near the Wicklow Gap. Occasional Sunday sessions take place in summer.

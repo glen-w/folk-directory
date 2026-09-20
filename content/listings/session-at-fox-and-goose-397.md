@@ -12,6 +12,8 @@ venue: Fox and Goose
 address: 9 Heptonstall Road
 place: Hebden Bridge
 post_code: HX7 6AZ
+lat: 53.74214
+lng: -2.02083
 when: Every Wednesday, 9pm
 www: ''
 email: foxale@tiscali.co.uk

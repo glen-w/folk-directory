@@ -12,6 +12,8 @@ venue: The Mary Arden Inn
 address: ''
 place: Wilmcote, near Stratford-upon-Avon
 post_code: CV37 9XJ
+lat: 52.2205
+lng: -1.76206
 when: Sporadic Sundays, 8.30pm07711 121210
 www: ''
 email: theflyingmorrisman@hotmail.com

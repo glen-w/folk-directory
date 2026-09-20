@@ -11,6 +11,8 @@ venue: Brimfield Village Hall
 address: Brimfield Village Hall, Brimfield
 place: Shropshire
 post_code: SY8 4NE
+lat: 52.30679
+lng: -2.69608
 when: Monthly, 1st Monday
 www: ''
 status: listed

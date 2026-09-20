@@ -11,6 +11,8 @@ venue: The Bull
 address: The Bull Price Street
 place: Birmingham
 post_code: ''
+lat: 52.4949
+lng: -1.85184
 when: Monthly, 1st Tuesday
 www: ''
 status: listed

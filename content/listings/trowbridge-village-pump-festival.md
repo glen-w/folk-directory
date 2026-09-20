@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Trowbridge
 post_code: ''
+lat: 51.31616
+lng: -2.20243
 when: July
 www: trowbridgefestival.co.uk
 email: enquiries@trowbridgefestival.co.uk

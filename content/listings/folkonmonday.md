@@ -11,11 +11,12 @@ venue: Green Note
 address: 106 Parkway, Camden
 place: London
 post_code: NW1 7AN
+lat: 51.53742
+lng: -0.14567
 when: 1st and 3rd Mondays
 www: folkonmonday.co.uk
 email: folkandroots@gmail.com
 status: listed
 edited: 24/01/2012
 ---
-
 Presenting the best of the folk scene at Camden's highly regarded Green Note

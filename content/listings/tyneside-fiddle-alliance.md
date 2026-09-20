@@ -11,6 +11,8 @@ venue: St George's Church Hall, Jesmond
 address: St George's Church Hall, St George's Close, Jesmond
 place: Newcastle upon Tyne
 post_code: NE2 2TF
+lat: 54.99514
+lng: -1.60286
 when: Thursday, 1st & 3rd
 www: tynesidefiddlealliance.org.uk
 logo: /images/listings/tyneside_fiddle_alliance_logo_911.png

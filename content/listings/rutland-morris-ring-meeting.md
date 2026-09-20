@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Uppingham
 post_code: ''
+lat: 52.58872
+lng: -0.72342
 when: July
 www: themorrisring.org
 email: bagman@themorrisring.org

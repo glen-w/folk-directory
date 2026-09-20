@@ -12,6 +12,8 @@ venue: The Crown
 address: Platt Lane
 place: Standish, Wigan
 post_code: WN1 2XF
+lat: 53.59709
+lng: -2.6414
 when: Second Sundays, 12.00-3.00 - lunch time
 www: thecrownatworthington.co.uk
 email: brianr@bjsystems.co.uk

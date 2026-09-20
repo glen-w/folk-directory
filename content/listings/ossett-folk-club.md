@@ -11,6 +11,8 @@ venue: Ossett Cricket Club
 address: Dimple Wells Lane
 place: Ossett
 post_code: WF5 8JT
+lat: 53.67565
+lng: -1.57992
 when: Thursday, Every Week
 www: ''
 status: listed

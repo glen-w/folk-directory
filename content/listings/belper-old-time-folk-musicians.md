@@ -11,6 +11,8 @@ venue: The Cross Keys, Market Place, Belper
 address: 35 Market Place
 place: Belper
 post_code: DE56 1FZ
+lat: 53.02333
+lng: -1.47894
 when: Weekly, Wednesday
 www: ''
 status: listed

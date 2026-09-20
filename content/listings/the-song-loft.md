@@ -11,6 +11,8 @@ venue: York House Centre
 address: London Road
 place: Stony Stratford
 post_code: MK11 1JQ
+lat: 52.05461
+lng: -0.84829
 when: Friday, 2nd & 4th
 www: thesongloft.com
 status: listed

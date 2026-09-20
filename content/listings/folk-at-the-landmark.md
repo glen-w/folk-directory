@@ -12,11 +12,12 @@ venue: Landmark Arts Centre
 address: Ferry Road
 place: Teddington
 post_code: TW11 9NN
+lat: 51.42942
+lng: -0.3237
 when: irregular
 www: landmarkartscentre.org
 email: info@landmarkartscentre.org
 status: listed
 edited: 05/09/2013
 ---
-
 Generally one or two folk or roots concerts per season Autumn 2013 - Prelude in Concert Saturday 21st September.

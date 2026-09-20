@@ -11,9 +11,10 @@ venue: Mushroom Hall Pub
 address: Main Street, Albert Village
 place: Swadlincote
 post_code: DE11 8EN
+lat: 52.76189
+lng: -1.55179
 when: Sundays of the month in the restaurant
 www: www.scragfolk.co.uk
 status: listed
 ---
-
 Scrag End Folk Club meets at the Shoulder of Mutton, Oakthorpe, near Measham, north west Leicestershire. The club meets at 8 pm on the 1st and 3rd Sundays of the month in the restaurant.

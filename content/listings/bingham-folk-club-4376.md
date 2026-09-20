@@ -12,6 +12,8 @@ venue: Rugby Club Pavilion
 address: Brendon Grove, Bingham
 place: Nottingham
 post_code: NG13 8TN
+lat: 52.95368
+lng: -0.97061
 when: Friday, 4th
 www: binghamfolkclub.weebly.com
 status: listed

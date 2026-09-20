@@ -11,6 +11,8 @@ venue: Ye Olde Cross Inn
 address: Barmoor Ln, Ryton Village
 place: Ryton
 post_code: NE40 3QP
+lat: 54.97736
+lng: -1.76524
 when: Sunday, 1st in Month
 www: www.yeoldecrossryton.com
 status: listed

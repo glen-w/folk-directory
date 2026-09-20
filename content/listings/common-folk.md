@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Pelsall
 post_code: ''
+lat: 52.62842
+lng: -1.96674
 when: Weekly, Thursday
 www: www.commonfolk.co.uk
 status: listed
 ---
-
 Common Folk Club, Pelsall, West Midlands. Meets every Thursday evening.

@@ -12,11 +12,12 @@ venue: Orwell
 address: Wigan Pier, 4 Wallgate
 place: Wigan
 post_code: WN3 4EU
+lat: 53.54235
+lng: -2.63864
 when: Easter Monday
 www: wiganfolkclub.co.uk
 email: wiganfolkclub@hotmail.co.uk
 status: listed
 edited: 23/01/2012
 ---
-
 Big Singaround/Poemaround 2pm till 11pm. Open music policy, anything goes as long as it's acoustic & unplugged. Singers, Songwriters, Musicians, Poets, Monologuers & Audience Welcome. Free admission. Upstairs function room (lift available). Food available until early evening.

@@ -11,9 +11,10 @@ venue: The Steamer Hotel
 address: Queens Terrace
 place: Fleetwood
 post_code: FY7 6BT
+lat: 53.92561
+lng: -3.00623
 when: Thursdays
 www: ''
 status: listed
 ---
-
 The Fleetwood Folk Club is a friendly gathering of enthusiasts who enjoy listening to and performing acoustic music in any style.

@@ -11,13 +11,14 @@ venue: Billingham, Middlesbrough, Newcastle
 address: Town centre & theatres
 place: Billingham
 post_code: TS23 2JZ
+lat: 54.60672
+lng: -1.28976
 when: August
-www: billinghamfestival.co.uk
+www: ''
 email: info@billinghamfestival.co.uk
 status: listed
 edited: 10/11/2013
 ---
-
 Groups and ensembles from the UK and worldwide perform traditional and contemporary music, song, and dance in colourful costumes.
 
 Arena and theatre concerts, street performance, and special events take place at various venues in Billingham, Middlesbrough, and Newcastle over the eight-day festival.

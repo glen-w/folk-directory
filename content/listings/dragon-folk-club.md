@@ -11,6 +11,8 @@ venue: Bridge Inn
 address: Bridge Rd, Shortwood
 place: Bristol
 post_code: BS16 9NG
+lat: 51.48117
+lng: -2.47173
 when: Weekly, Friday
 www: dragonfolkclub.blogspot.co.uk
 email: dragonfolk@rosma.co.uk

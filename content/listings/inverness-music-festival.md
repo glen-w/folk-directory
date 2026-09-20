@@ -7,15 +7,16 @@ event_types:
 locations:
 - inverness
 - invernessshire
-county: Invernessshire
+county: Highland
 venue: ''
 address: ''
 place: Inverness
 post_code: ''
+lat: 57.47901
+lng: -4.22574
 when: March
 www: invernessmusicfestival.org
 email: admin@invernessmusicfestival.org
 status: listed
 ---
-
 Inverness Music Festival is a competitive music festival open to all ages and abilities. Performers are adjudicated on their performance. It takes place at Inverness Methodist Church. So if you can play and want to show the world how help, enter the festival.

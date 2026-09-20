@@ -11,6 +11,8 @@ venue: Ty Tawe
 address: Christina Street
 place: Swansea
 post_code: SA1 4EW
+lat: 51.62033
+lng: -3.94958
 when: Second Fridays, 07875 418812
 www: ''
 email: gerrobs@hotmail.com

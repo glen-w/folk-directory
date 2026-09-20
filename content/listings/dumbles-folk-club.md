@@ -11,10 +11,11 @@ venue: The Dumbles Pub
 address: Westhorpe
 place: Southwell
 post_code: NG25 0ND
+lat: 53.07552
+lng: -0.96802
 when: Thursdays
 www: dumblesfolk.webuda.com
 email: siddall394@tiscali.co.uk
 status: listed
 ---
-
 The Dumbles Folk Club welcomes all musicians, singers, poets and listeners. The club is a relaxed and friendly singaround group. Admission is free, and a free supper is kindly provided by the hosts Steve (Tink) and Angie.

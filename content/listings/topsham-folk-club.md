@@ -11,11 +11,12 @@ venue: Globe Hotel
 address: Fore Street
 place: Topsham
 post_code: EX3 0HR
+lat: 50.68187
+lng: -3.46487
 when: Sundays
 www: ''
 email: webmaster@topshamfolkclub.co.uk
 status: defunct
 edited: 30/04/2013
 ---
-
 Regular singers' nights, with guests once a month.

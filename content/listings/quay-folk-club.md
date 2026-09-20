@@ -11,6 +11,8 @@ venue: Quay Arts Centre
 address: 15 Sea Street, Newport Harbour
 place: Isle of Wight
 post_code: ''
+lat: 50.67108
+lng: -1.3328
 when: Sunday, 3rd in Month
 www: ''
 status: listed

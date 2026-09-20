@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Derry
 post_code: ''
+lat: 54.99787
+lng: -7.32131
 when: February
 www: www.imbolcfestival.com
 logo: /images/listings/imbolc_logo_3610.png
 status: listed
 ---
-
 Not much info available just now. Multi-media, multi-genre event. A celebration of music reflecting the diversity of the contemporary Irish music scene. Alongside longstanding masters of the tradition, we will be showcasing music at the cutting edge of genres.

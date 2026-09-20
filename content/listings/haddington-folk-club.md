@@ -12,6 +12,8 @@ venue: Railway Hotel
 address: 70 Court Street
 place: Haddington
 post_code: EH41 3AF
+lat: 55.95569
+lng: -2.7831
 when: Wednesday, Every Week
 www: www.haddingtonfolkclub.co.uk
 status: listed

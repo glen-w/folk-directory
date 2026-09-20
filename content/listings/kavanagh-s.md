@@ -13,9 +13,10 @@ venue: Kavanagh's
 address: ''
 place: Borris-in-Ossory
 post_code: ''
+lat: 52.8935
+lng: -7.5272
 when: Weekly, Saturday, 9:00pm
 www: ''
 status: listed
 ---
-
 At the old N7 crossroads. Saturday sessions in a pub that has been stopping travellers since coach-road days. Occasional mid-week nights when visiting musicians pass through.

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Wickham
 post_code: ''
+lat: 50.89002
+lng: -1.18956
 when: August
 www: ''
 email: eastfest@talk21.com

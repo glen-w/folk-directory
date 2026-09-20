@@ -11,11 +11,12 @@ venue: The Greyhound
 address: High Street
 place: Wivenhoe
 post_code: CO7 9AZ
+lat: 51.85636
+lng: 0.95913
 when: First Thursday every month
 www: wivenhoe.gov.uk/Orgs/folkclub/home.htm
 status: listed
 ---
-
 The Wivenhoe Folk Club has been meeting at The Greyhound in Wivenhoe High Street since 5th March, 1992.
 
 The Club is no-smoking and largely acoustic. 

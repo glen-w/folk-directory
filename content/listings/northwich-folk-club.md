@@ -12,6 +12,8 @@ venue: Harlequin Theatre
 address: Queen Street
 place: Northwich
 post_code: CW9 5JN
+lat: 53.25633
+lng: -2.51402
 when: Friday, Every Week
 www: www.northwichfolk.co.uk
 email: tickets@northwichfolk.co.uk

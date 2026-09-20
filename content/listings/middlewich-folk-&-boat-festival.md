@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Middlewich
 post_code: ''
+lat: 53.19274
+lng: -2.44532
 when: June
 www: ''
 email: info@midfest.org.uk

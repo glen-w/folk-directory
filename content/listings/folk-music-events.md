@@ -11,6 +11,8 @@ venue: Nottingham Playhouse
 address: Wellington Circus
 place: Nottingham
 post_code: NG1 5AF
+lat: 52.95361
+lng: -1.15658
 when: Ongoing
 www: ''
 status: defunct

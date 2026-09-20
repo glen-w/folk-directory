@@ -11,10 +11,11 @@ venue: Wylam Methodist Church
 address: Wylam Methodist Church, 1 Chapel Lane
 place: Wylam
 post_code: NE41 8AA
+lat: 54.97609
+lng: -1.82268
 when: Classes and Workshops, Every Week
 www: www.northeastfiddleschool.org.uk
 logo: /images/listings/north_east_fiddle_school_logo_912.png
 status: listed
 ---
-
 North East Fiddle School at Wylam Methodist Church (Wylam) — Classes and Workshops, Every Week

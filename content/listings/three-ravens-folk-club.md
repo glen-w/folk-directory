@@ -11,6 +11,8 @@ venue: The Bowerhouse
 address: The Bowerhouse, 20 Warwick Place, Maidstone
 place: Kent
 post_code: ME16 8SG
+lat: 51.27087
+lng: 0.50945
 when: Tuesday, 4th in Month
 www: ''
 status: listed

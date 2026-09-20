@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Priddy
 post_code: ''
+lat: 51.2561
+lng: -2.67947
 when: July
 www: priddyfolk.org
 email: tickets@priddyfolk.org

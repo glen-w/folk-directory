@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: Marbury Country Park
 post_code: ''
+lat: 53.28325
+lng: -2.52052
 when: August
 www: www.macksmusic.co.uk/acoustic-and-ale
 status: listed
 ---
-
 It is now in its eighth year. Five or six acts perform each day, and as the timings do not overlap, it is easy to see each act.

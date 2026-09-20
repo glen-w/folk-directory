@@ -12,9 +12,10 @@ venue: Craigie Village Hall
 address: Main Street, Craigie Village
 place: By Kilmarnock
 post_code: ''
+lat: 55.59196
+lng: -4.48743
 when: Saturday, Variable
 www: www.cultural-connections.co.uk/folk_club.html
 status: listed
 ---
-
 Craigie Folk Club meets at Craigie Village Hall, near Kilmarnock, on Saturdays. Time is variable.

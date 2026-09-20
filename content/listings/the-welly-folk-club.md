@@ -11,6 +11,8 @@ venue: The Wellington Inn, High Street, Wolviston Village, TS22 5JY
 address: The Wellington Inn, High Street
 place: Wolviston Village
 post_code: TS22 5JY
+lat: 54.62407
+lng: -1.29953
 when: Thursday, Every Week
 www: thewilsonfamilyalbum.co.uk
 status: listed

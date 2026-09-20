@@ -11,6 +11,8 @@ venue: Club Chesterfield
 address: Chester Street
 place: Chesterfield
 post_code: S40 1DL
+lat: 53.23871
+lng: -1.44455
 when: Various (see website)
 www: chesterfieldfolkclub.org
 status: defunct

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Wadebridge
 post_code: ''
+lat: 50.51714
+lng: -4.83402
 when: August
 www: cornwallfolkfestival.com
 email: festival@hobgoblinwadebridge.co.uk

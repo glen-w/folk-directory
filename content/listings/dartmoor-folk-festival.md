@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: South Zeal
 post_code: ''
+lat: 50.72627
+lng: -3.91137
 when: August
 www: ''
 email: enquiries@dartmoorfolkfestival.co.uk

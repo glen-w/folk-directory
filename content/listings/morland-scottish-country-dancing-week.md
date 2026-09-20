@@ -11,6 +11,8 @@ venue: Newby End Farm
 address: Newby
 place: Penrith
 post_code: CA10 3EX
+lat: 54.58515
+lng: -2.63307
 when: May / June
 www: newbyendfarm.co.uk
 email: david@newbyendfarm.co.uk

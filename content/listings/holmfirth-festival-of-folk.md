@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Holmfirth
 post_code: HD9 3JP
+lat: 53.57027
+lng: -1.78802
 when: May
 www: holmfirthfestivaloffolk.co.uk
 email: holmfirthfolk@btinternet.com

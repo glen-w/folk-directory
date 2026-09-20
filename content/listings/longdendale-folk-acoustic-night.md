@@ -11,6 +11,8 @@ venue: Bull's Head, Tintwistle
 address: The Bull's Head, 78 Old Road, Tintwistle
 place: Glossop
 post_code: SK13 1JY
+lat: 53.47321
+lng: -1.96686
 when: Thursday, 2nd & 4th
 www: ''
 status: listed

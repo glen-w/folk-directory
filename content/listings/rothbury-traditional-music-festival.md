@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Rothbury
 post_code: ''
+lat: 55.30963
+lng: -1.91173
 when: July
 www: rothburytradititonalmusic.com
 email: rothburymusicfestival@live.co.uk

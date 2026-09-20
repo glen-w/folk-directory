@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Southwell, Newark
 post_code: NG24 9DZ
+lat: 53.0746
+lng: -0.81429
 when: June
 www: southwellfolkfestival.org.uk
 email: info@southwellfolkfestival.org.uk

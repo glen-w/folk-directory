@@ -12,6 +12,8 @@ venue: The Stag
 address: 14 All Saints Street
 place: Hastings
 post_code: TN34 3BJ
+lat: 50.8583
+lng: 0.59476
 when: Every Tuesday, 9 pm until close
 www: ''
 status: listed

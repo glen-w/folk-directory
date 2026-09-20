@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: London
 post_code: ''
+lat: 51.50745
+lng: -0.12777
 when: July
 www: themorrisring.org
 email: bagman@themorrisring.org

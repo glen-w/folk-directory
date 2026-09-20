@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Banbury
 post_code: OX16 6ET
+lat: 52.06154
+lng: -1.32741
 when: October
 www: banburyfolkfestival.co.uk
 email: bfest@btinternet.com

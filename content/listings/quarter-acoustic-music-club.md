@@ -11,6 +11,8 @@ venue: Quarter Boolin' Club
 address: Quarter Boolin' Club. Limekilnburn Rd, Quarter, Hamilton
 place: South Lanarkshire
 post_code: ML3 7XA
+lat: 55.73826
+lng: -4.03286
 when: Tuesday, Every Week
 www: quarteraccoustic.wixsite.com/qamc01
 status: listed

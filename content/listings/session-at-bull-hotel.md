@@ -11,9 +11,9 @@ venue: Bull Hotel
 address: ''
 place: Stony Stratford
 post_code: ''
+lat: 52.05675
+lng: -0.85258
 when: 2nd Tuesday every month
 www: ''
 status: listed
 ---
-
-

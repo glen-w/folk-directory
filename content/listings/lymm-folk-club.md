@@ -11,12 +11,13 @@ venue: Spread Eagle
 address: 47 Eagle Brow
 place: Lymm
 post_code: WA13 0AG
+lat: 53.38066
+lng: -2.47905
 when: Thursdays
 www: lymmfolkclub.org.uk
 email: bookings@lymmfolkclub.org.uk
 status: listed
 ---
-
 Due to unforeseen circumstances (temporary closure of the Railway), Lymm Folk Club is without a permanent venue.
 
 One of the venues the club is now using is the Spread Eagle in Lymm centre, by the Lower Dam.

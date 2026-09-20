@@ -11,6 +11,8 @@ venue: The Old Bank
 address: 44 North Parade, Matlock Bath
 place: Derbyshire
 post_code: DE4 3NS
+lat: 53.12183
+lng: -1.56069
 when: Tuesday, Every Week
 www: ''
 status: listed

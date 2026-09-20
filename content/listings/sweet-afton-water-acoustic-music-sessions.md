@@ -11,6 +11,8 @@ venue: Various venues in New Cumnock
 address: New Cumnock Town Hall, Castle, New Cumnock
 place: Ayrshire
 post_code: KA18 4AN
+lat: 55.39619
+lng: -4.18465
 when: Sunday, Last in month
 www: ''
 status: listed

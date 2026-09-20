@@ -7,7 +7,7 @@ event_types:
 locations:
 - watchet
 - the-south-west
-county: The South West
+county: Somerset
 venue: The Anchor Inn
 address: ''
 place: Watchet

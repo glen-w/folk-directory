@@ -13,9 +13,10 @@ venue: Seán's Bar
 address: ''
 place: Main Street, Athlone
 post_code: ''
+lat: 53.42267
+lng: -7.94226
 when: Weekly, Saturday, 9:00pm
 www: ''
 status: listed
 ---
-
 Officially the oldest pub in Ireland (900 AD), with Saturday trad sessions in a room with genuine medieval bones. The music has been continuous here longer than most countries have existed.

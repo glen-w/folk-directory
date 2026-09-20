@@ -12,11 +12,12 @@ venue: The Crown
 address: Platt Lane
 place: Worthington, near Standish
 post_code: WN1 2XF
+lat: 53.59709
+lng: -2.6414
 when: Monday
 www: freespace.virgin.net/four.fools/btindex.htm
 email: malcolmgibbons@talktalk.net
 status: listed
 edited: 20/09/2013
 ---
-
 Most weeks both singers and musicians are welcome to take part in an organised singaround/music session.

@@ -13,9 +13,10 @@ venue: Brogan's Bar
 address: ''
 place: Ennis
 post_code: ''
+lat: 52.84352
+lng: -8.98375
 when: Friday, 21:30
 www: ''
 status: listed
 ---
-
 Long-established Ennis session in a town-centre pub. Locals mix with visitors. Fridays and Saturdays through the season.

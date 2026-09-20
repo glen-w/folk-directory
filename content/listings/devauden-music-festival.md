@@ -11,11 +11,12 @@ venue: Devauden
 address: Devauden
 place: Nr Chepstow
 post_code: NP16
+lat: 51.64017
+lng: -2.66488
 when: May
 www: devaudenmusicfest.com
 email: devaudenmusicfest@gmail.com
 status: listed
 edited: 31/01/2012
 ---
-
 The 2012 Devauden Music Fest offers live music and family-friendly entertainment.

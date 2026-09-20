@@ -11,13 +11,14 @@ venue: The White Hill Centre
 address: White Hill
 place: Chesham
 post_code: HP5 1AG
+lat: 51.70634
+lng: -0.60967
 when: Monday nights
 www: tudorfolkclub.org.uk
 email: tudorfolk@hotmail.co.uk
 status: listed
 edited: 24/10/2011
 ---
-
 Comfortable and friendly setting with a huge variety of music. No distracting bar noise or booming speakers.
 
 A warm welcome awaits, with good beer and coffee on tap. The venue is 5 minutes from Chesham town centre, with full disabled access to the meeting room.

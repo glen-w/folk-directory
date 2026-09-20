@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Falmouth
 post_code: falmouthshout.com
+lat: 50.15522
+lng: -5.06883
 when: June
 www: www.falmouthseashanty.co.uk
 email: info@falmouthshout.com

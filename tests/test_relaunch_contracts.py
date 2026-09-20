@@ -305,6 +305,95 @@ def test_search_empty_state_mentions_submit():
     assert "No matches" in text
     assert "/submit/" in text
 
+def test_robots_txt_emitted(built):
+    robots = PUBLIC / "robots.txt"
+    assert robots.is_file(), "expected public/robots.txt (enableRobotsTXT)"
+    text = robots.read_text(encoding="utf-8")
+    assert "User-agent:" in text
+    assert "Sitemap:" in text
+    assert "404 Page not found" not in text
+
+
+def test_defunct_detail_page_shows_badge(built):
+    page = PUBLIC / "listings" / "amberley-folk-club" / "index.html"
+    assert page.is_file(), "amberley-folk-club fixture missing from build"
+    html = page.read_text(encoding="utf-8")
+    assert "listings-type-badge--defunct" in html
+    assert ">Defunct<" in html
+    assert "listing-detail--defunct" in html
+
+
+def test_listings_noscript_has_no_fallback_images(built):
+    page = PUBLIC / "listings" / "index.html"
+    assert page.is_file()
+    html = page.read_text(encoding="utf-8")
+    assert "listings-fallback-list" in html
+    assert "listings-fallback-logo" not in html
+
+
+def test_leaflet_is_vendored_not_unpkg():
+    for rel in ("layouts/index.html", "layouts/_default/map.html"):
+        text = (ROOT / rel).read_text(encoding="utf-8")
+        assert "unpkg.com" not in text
+        assert "/vendor/leaflet/leaflet.js" in text
+    assert (ROOT / "static" / "vendor" / "leaflet" / "leaflet.js").is_file()
+    assert (
+        ROOT / "static" / "vendor" / "leaflet.markercluster" / "leaflet.markercluster.js"
+    ).is_file()
+
+
+def test_browse_js_has_load_more_for_all():
+    text = BROWSE_JS.read_text(encoding="utf-8")
+    assert "loadMoreChunk" in text
+    assert "data-load-more" in text
+    assert "allModeSlice" in text
+
+
+def test_index_coords_mostly_geocoded(built):
+    data = json.loads(INDEX.read_text(encoding="utf-8"))
+    items = data["items"]
+    nonzero = [
+        i
+        for i in items
+        if float(i.get("lat") or 0) != 0.0 or float(i.get("lng") or 0) != 0.0
+    ]
+    # After map→FM sync, most listings should have coords (map claims ~1350).
+    assert len(nonzero) >= 1000, f"only {len(nonzero)}/{len(items)} have coords"
+
+
+JUNK_COUNTIES = {
+    "The South",
+    "The South West",
+    "The South East",
+    "South East England",
+    "South West England",
+    "Linconshire",
+    "Dumfries and Gallowa",
+    "Yorkshire",
+    "East Midlands",
+    "North West",
+    "North East",
+    "Scotland",
+    "England",
+    "Wales",
+}
+
+
+def test_no_junk_county_labels():
+    offenders = []
+    for path in LISTINGS.glob("*.md"):
+        if path.name == "_index.md":
+            continue
+        text = path.read_text(encoding="utf-8")
+        m = re.search(r"^county:\s*(.+)$", text, re.M)
+        if not m:
+            continue
+        county = m.group(1).strip().strip("\"'")
+        if county in JUNK_COUNTIES:
+            offenders.append((path.name, county))
+    assert not offenders, f"junk counties remain: {offenders[:20]}"
+
+
 def test_schema_partial_uses_dict_jsonify():
     text = SCHEMA.read_text(encoding="utf-8")
     assert "jsonify | safeJS" in text

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Burnham-on-Sea
 post_code: ''
+lat: 51.23774
+lng: -2.9987
 when: September
 www: ''
 email: gcwebsite@aol.com

@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: Edgworth
 post_code: ''
+lat: 53.64748
+lng: -2.39257
 when: October
 www: www.facebook.com/events/the-barlow-bolton-road-edgworth-bl7-0ap-bolton-united-kingdom/edgworth-folk-festival-2026/25865985873075841
 status: listed
 ---
-
 The Edgworth Folk Festival is held at The Barlow, Edgworth, Bolton. The festival promotes folk music and supports a local community centre. Details are available on the festival's Facebook page or at folkatthebarlow.com.

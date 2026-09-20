@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Llantwd
 post_code: ''
+lat: 52.0453
+lng: -4.69217
 when: August
 www: eisteddfod.wales
 status: listed
 ---
-
 The BIG one! Site not fully developed on our last visit. And tricky to navigate. The National Eisteddfod of Wales is one of the great festivals of the world, attracting over 160,000 visitors every year. An eclectic mixture of culture, music, visual arts and all kinds of activities for people of all ages, there's something for everyone on the Maes during the first week of August every year.

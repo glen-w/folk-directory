@@ -12,9 +12,10 @@ venue: The New Inn
 address: ''
 place: Pontblyddyn
 post_code: ''
+lat: 53.13863
+lng: -3.07631
 when: on Tuesdays's in Pontblyddyn, Mold, Clwyd
 www: www.newinnpontblyddyn.webs.com
 status: listed
 ---
-
 New Inn Folk Club, Pontblyddyn. The club meets on Tuesdays in Pontblyddyn, Mold, Clwyd.

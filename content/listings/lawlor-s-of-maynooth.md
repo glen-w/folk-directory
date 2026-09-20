@@ -13,9 +13,10 @@ venue: Lawlor's of Maynooth
 address: ''
 place: Maynooth
 post_code: ''
+lat: 53.38302
+lng: -6.59228
 when: Weekly, Wednesday, 9:30pm
 www: ''
 status: listed
 ---
-
 Mid-week trad in Maynooth — close enough to Dublin to pull in visiting musicians, far enough that the crowd is genuinely local.

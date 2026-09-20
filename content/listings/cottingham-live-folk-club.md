@@ -12,6 +12,8 @@ venue: The Back Room
 address: 173 Hallgate
 place: Cottingham
 post_code: HU16 4YD
+lat: 53.78214
+lng: -0.41523
 when: Weekly, Wednesday
 www: www.cottingham-live.co.uk
 status: listed

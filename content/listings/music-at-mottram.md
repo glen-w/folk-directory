@@ -11,10 +11,11 @@ venue: Mottram Village Hall
 address: Mottram Village Hall
 place: Mottram St Andrew
 post_code: SK10 4QP
+lat: 53.3043
+lng: -2.19138
 when: Saturday, Variable
 www: musicatmottram.com
 logo: /images/listings/music_at_mottram_logo_921.png
 status: listed
 ---
-
 Music at Mottram takes place at Mottram Village Hall, Mottram St Andrew, on Saturdays (time variable).

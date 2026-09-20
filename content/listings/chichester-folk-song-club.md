@@ -11,6 +11,8 @@ venue: The 4 Chesnuts
 address: Oving  Road
 place: Chichester
 post_code: PO20 2GL
+lat: 50.83365
+lng: -0.7344
 when: Tuesdays
 www: chifolksongclub.co.uk
 email: chifolksongclub@btinternet.com

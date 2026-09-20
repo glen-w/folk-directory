@@ -11,6 +11,8 @@ venue: The Eagle/The Prince of Wales
 address: 15 Lightwood Rd
 place: Buxton
 post_code: SK17 7BJ
+lat: 53.26087
+lng: -1.90609
 when: Every Wednesday
 www: clubacoustic.co.uk
 status: listed

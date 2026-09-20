@@ -11,6 +11,8 @@ venue: Westgate House
 address: ''
 place: Morpeth
 post_code: NE61 1RE
+lat: 55.17117
+lng: -1.69633
 when: April / May
 www: northumbriana.org.uk/gathering
 email: enquiries@northumbriana.org.uk

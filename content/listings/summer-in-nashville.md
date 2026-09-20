@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Robin Hill
 post_code: ''
+lat: 50.68735
+lng: -1.24169
 when: July
 www: summerinnashville.com/aberdeen
 status: listed
 ---
-
 This is a roadshow that takes place in several locations. A few are listed here; to see the full list, remove the location from the URL to reach the roadshow's own website.

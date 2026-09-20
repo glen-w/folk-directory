@@ -11,11 +11,11 @@ venue: Museum of East Anglian Life
 address: Crowe Street
 place: Stowmarket
 post_code: IP14 1DL
+lat: 52.18719
+lng: 0.99467
 when: March
 www: eatmt.org.uk
 email: info@eatmt.fsnet.co.uk
 logo: /images/listings/melodeons_and_more_logo_176.png
 status: listed
 ---
-
-

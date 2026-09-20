@@ -12,6 +12,8 @@ venue: The Fountain
 address: Westgate Street
 place: Gloucester
 post_code: GL1 2NW
+lat: 51.86588
+lng: -2.24721
 when: First Tuesday of the month, 8.30pm
 www: ''
 email: b111t@aol.com

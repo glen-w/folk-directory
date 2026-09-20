@@ -12,6 +12,8 @@ venue: The Packet
 address: Grove Street
 place: Retford
 post_code: DN22 6LJ
+lat: 53.32119
+lng: -0.93694
 when: Second Thursdays, 8.00pm-11pm
 www: ''
 email: richardbeswick@supanet.com

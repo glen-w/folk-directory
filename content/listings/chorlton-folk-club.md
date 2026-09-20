@@ -11,6 +11,8 @@ venue: Cricket Club
 address: Ellesmere Road
 place: Chorlton
 post_code: M21 0SG
+lat: 53.44389
+lng: -2.27007
 when: Thursdays
 www: chorltonfolk.co.uk
 email: chorltonfolkclub@aol.com

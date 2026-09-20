@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Hastings
 post_code: ''
+lat: 50.8551
+lng: 0.58218
 when: September
 www: sweetsunnysouth.co.uk
 email: sweetsunnysouth69@yahoo.co.uk

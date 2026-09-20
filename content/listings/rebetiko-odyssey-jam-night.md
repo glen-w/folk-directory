@@ -11,11 +11,12 @@ venue: The Horseshoe Pub
 address: Clerkenwell Close
 place: London
 post_code: EC1R 0AG
+lat: 51.52391
+lng: -0.1067
 when: First Minday in the month
 www: rebetikoodysseyband.com
 email: andy@rebetikoodysseyband.com
 status: listed
 edited: 31/01/2012
 ---
-
 The Rebetiko Odyssey Jam Session is free and all are welcome, whether musicians or non-musicians. Rebetiko is the Greek blues (world music). For more information, email or visit the website. The nearest tube station is Farringdon.

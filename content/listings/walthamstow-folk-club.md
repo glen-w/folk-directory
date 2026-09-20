@@ -11,10 +11,11 @@ venue: Ye Olde Rose and Crown Theatre Pub
 address: 53 Hoe Street
 place: Walthamstow
 post_code: E17 4SA
+lat: 51.58698
+lng: -0.02033
 when: Every sunday
 www: walthamstowfolk.co.uk
 email: info@walthamstowfolk.co.uk
 status: listed
 ---
-
 Folk club in Walthamstow, often described as one of London's friendliest.

@@ -11,6 +11,8 @@ venue: Matthews Hall
 address: Fore Street
 place: Topsham
 post_code: EX3 0HF
+lat: 50.68427
+lng: -3.46599
 when: Sunday, Variable
 www: www.topshamfolkclub.org
 status: listed

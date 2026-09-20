@@ -11,13 +11,14 @@ venue: The Orange Tree
 address: Norton Road
 place: Baldock
 post_code: SG7 5AW
+lat: 51.99038
+lng: -0.19259
 when: Wednesdays
 www: madnanny.co.uk
 email: alan@madnanny.co.uk
 status: listed
 edited: 23/01/2012
 ---
-
 Mad Nanny Music is a not-for-profit venture promoting the traditional acoustic, blues, bluegrass, folk and roots music and dance of these islands and related musical activities. Established in April 1999, the club features guest artists of considerable renown alongside newcomers on the rise. The guest is supported by a resident band or singers, and amateur singers and musicians are encouraged to perform as 'floor spots' on guest nights and to join the songs and session and open floor evenings.
 
 The club is friendly and welcoming. Children are welcome to all evenings.

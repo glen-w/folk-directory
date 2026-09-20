@@ -12,11 +12,12 @@ venue: ''
 address: ''
 place: George Watson's College
 post_code: ''
+lat: 55.92958
+lng: -3.21758
 when: April
 www: www.harpfestival.co.uk
 email: office@harpfestival.co.uk
 logo: /images/listings/edinburgh_international_harp_festival_logo_3627.png
 status: listed
 ---
-
 A festival for harp enthusiasts, featuring courses, concerts, workshops, a harp exhibition, sessions, and a ceilidh.

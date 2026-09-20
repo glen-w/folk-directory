@@ -11,11 +11,12 @@ venue: The Folk House
 address: 40a Park Street
 place: Bristol
 post_code: ''
+lat: 51.45447
+lng: -2.60155
 when: October
 www: ''
 email: bristol_cajun@yahoo.com
 status: defunct
 edited: 23/01/2012
 ---
-
 A weekend of Louisiana-style music, dance, food, drink, and meeting people.

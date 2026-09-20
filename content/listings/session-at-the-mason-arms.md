@@ -12,6 +12,8 @@ venue: The Mason Arms
 address: 99 Carr Mill Rd
 place: Billinge, Wigan
 post_code: WN5 7TY
+lat: 53.48736
+lng: -2.7112
 when: Every Thursday, 8.30 - 11.00pm
 www: masonsarmsbillinge.co.uk
 email: brianr@bjsystems.co.uk

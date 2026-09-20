@@ -12,6 +12,8 @@ venue: Bredenbury Village Hall
 address: ''
 place: Bredenbury
 post_code: HR7 4TF
+lat: 52.20564
+lng: -2.57362
 when: Fourth Thursdays, 8.30pm onwards
 www: bredenburyfolkclub.webs.com
 email: dwyer40@yahoo.co.uk

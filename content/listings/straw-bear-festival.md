@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Whittlesea
 post_code: ''
+lat: 52.55501
+lng: -0.12264
 when: January
 www: www.strawbear.org.uk
 email: info@strawbear.org.uk
 status: listed
 ---
-
 The Straw Bear Festival celebrates the old Fenland plough custom of parading straw bears around the town every January. Often the first festival of the year, it features folk tradition, folk music, folk dancing, and the Straw Bear Parade.

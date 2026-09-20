@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Banbury
 post_code: ''
+lat: 52.06018
+lng: -1.34028
 when: April
 www: ''
 email: bfest@btinternet.com

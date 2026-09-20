@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: ''
 post_code: ''
+lat: 51.20707
+lng: 0.72104
 www: www.travellingfolk.co.uk
 email: thetravellingfolk@gmail.com
 status: listed
 ---
-
 The Travelling Folk.

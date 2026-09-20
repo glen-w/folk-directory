@@ -11,6 +11,8 @@ venue: Kempston Hammers sports club
 address: 134 High Street, Kempston
 place: Bedford
 post_code: MK42 7BN
+lat: 52.11459
+lng: -0.50769
 when: Weekly, Thursday
 www: ''
 status: listed

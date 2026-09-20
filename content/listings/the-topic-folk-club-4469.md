@@ -12,6 +12,8 @@ venue: Hullabaloo, a Community Pub
 address: 45
 place: Westgate. Shipley Bradford
 post_code: BD18 3QX
+lat: 53.83453
+lng: -1.77838
 when: Thursday, Every Week
 www: www.nawaller.com/topicfc
 status: listed

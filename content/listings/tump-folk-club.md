@@ -11,6 +11,8 @@ venue: The Humber pub
 address: Humber Road
 place: Coventry
 post_code: ''
+lat: 52.39316
+lng: -1.48372
 when: Thursday, Every Week
 www: ''
 status: listed

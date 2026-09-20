@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Cleckheaton
 post_code: ''
+lat: 53.72532
+lng: -1.71272
 when: July
 www: cleckheatonfolkfestival.org
 email: dave@cleckheatonfolkfestival.org

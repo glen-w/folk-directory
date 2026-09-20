@@ -11,9 +11,9 @@ venue: Various
 address: ''
 place: Mellor Brook
 post_code: ''
+lat: 53.77553
+lng: -2.54682
 when: March
 www: fiddlemusic.co.uk
 status: listed
 ---
-
-

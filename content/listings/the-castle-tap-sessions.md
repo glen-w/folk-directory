@@ -11,6 +11,8 @@ venue: The Castle Tap
 address: 120 Castle Street
 place: Reading
 post_code: RG1 7RJ
+lat: 51.45184
+lng: -0.97918
 when: Wednesday, 4th in Month
 www: ''
 status: listed

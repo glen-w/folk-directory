@@ -13,9 +13,10 @@ venue: The Abbey Hotel Bar
 address: ''
 place: Roscommon Town
 post_code: ''
+lat: 53.63124
+lng: -8.19068
 when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 ---
-
 County town pub session on Thursday nights, reliably attended. The bar has enough space to accommodate a full session comfortably.

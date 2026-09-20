@@ -11,12 +11,13 @@ venue: Constitutional Club
 address: 2 Guildhall Street
 place: Bury St Edmunds
 post_code: IP33 1PR
+lat: 52.24404
+lng: 0.71189
 when: First and Third Fridays
 www: milkmaidmusic.co.uk/folkclub.html
 email: contact@milkmaidmusic.co.uk
 status: listed
 ---
-
 As well as hosting top name acts from the international folk world, local musicians and singers are encouraged to take part in Open Mic/Singers nights.
 
 This gives the club an opportunity to pick support acts for the main concerts.

@@ -11,6 +11,8 @@ venue: Southport Bijou Cinema
 address: 8 Post Office Avenue
 place: Southport
 post_code: PR9 0US
+lat: 53.64871
+lng: -3.0028
 when: Weekly, Sunday
 www: www.bothyfolkclub.org.uk
 email: enquiries@bothyfolkclub.org.uk

@@ -11,6 +11,8 @@ venue: The Vernon Arms
 address: 21 Locko Road
 place: Spondon
 post_code: DE21 7AL
+lat: 52.92286
+lng: -1.40764
 when: Tuesday, Every Week
 www: www.thevaultartscentre.co.uk/index.php
 email: Vernonarmsfolkandacoustic@gmail.com

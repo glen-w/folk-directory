@@ -11,6 +11,8 @@ venue: The Assembly Rooms
 address: 1 Mill Street
 place: Ludlow
 post_code: SY8 1BE
+lat: 52.36575
+lng: -2.72028
 when: March
 www: ''
 email: pete@thedancingbridge.freeserve.co.uk

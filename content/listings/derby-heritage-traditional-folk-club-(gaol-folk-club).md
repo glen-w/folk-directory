@@ -11,11 +11,12 @@ venue: The Old Derby Gaol
 address: Agard Street
 place: Derby
 post_code: DE1 1YS
+lat: 52.92463
+lng: -1.48595
 when: Monthly, 3rd Thursday
 www: www.dhtmc.co.uk
 email: baronhardup.stoneybrokecastle@ntlworld.com
 status: listed
 edited: 28/01/2012
 ---
-
 Mainly a singers' club with a strong leaning toward the tradition, which books four guests a year.

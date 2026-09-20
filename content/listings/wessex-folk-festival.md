@@ -11,6 +11,8 @@ venue: Various
 address: Festival Office, 32 Greenways
 place: Portland, Weymouth
 post_code: DT5 2LE
+lat: 50.54234
+lng: -2.44166
 when: June
 www: wessexfolkfestival.co.uk
 email: info@wessexfolkfestival.co.uk

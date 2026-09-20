@@ -11,13 +11,14 @@ venue: Aberdeen University
 address: University Road
 place: Aberdeen
 post_code: AB24 3UT
+lat: 57.16259
+lng: -2.09997
 when: March
 www: ivfdf2012.org.uk
 email: info@ivfdf2012.org.uk
 status: listed
 edited: 25/01/2012
 ---
-
 Aberdeen, UK – The Inter-Varsity Folk Dance Festival is the UK''s
 
 Aberdeen, UK – The Inter-Varsity Folk Dance Festival is the UK's national student folk dance festival, and the country's longest running folk festival. IVFDF has been held at a different university each year since the first one in Leeds in 1951.

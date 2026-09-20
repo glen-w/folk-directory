@@ -12,6 +12,8 @@ venue: Ardersier Church Hall
 address: Stuart Street
 place: Ardersier
 post_code: IV2 7QE
+lat: 57.57142
+lng: -4.03934
 when: Weekly, Tuesday
 www: www.ardersierfolkclub.org.uk
 email: info@ardersierfolkclub.org.uk

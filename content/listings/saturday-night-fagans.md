@@ -11,6 +11,8 @@ venue: Fagans
 address: 69, Broad Lane
 place: Sheffield
 post_code: S1 4BS
+lat: 53.3831
+lng: -1.47633
 when: Saturday, Every Week
 www: ''
 status: listed

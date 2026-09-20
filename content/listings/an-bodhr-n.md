@@ -13,9 +13,10 @@ venue: An Bodhrán
 address: ''
 place: Oliver Plunkett Street
 post_code: ''
+lat: 51.89759
+lng: -8.47197
 when: Friday, 21:00
 www: ''
 status: listed
 ---
-
 A regular fixture on Oliver Plunkett Street in the heart of Cork city. Friday and Saturday traditional music sessions; the venue is close to the English Market and is popular enough to draw a queue.

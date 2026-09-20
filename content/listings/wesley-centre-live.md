@@ -11,10 +11,11 @@ venue: The Wesley Centre
 address: Blyth Road, Maltby
 place: South Yorkshire
 post_code: S66 8JD
+lat: 53.42225
+lng: -1.20365
 when: Varied, Variable
 www: wesleycentremaltby.co.uk
 logo: /images/listings/wesley_centre_live_logo_871.png
 status: listed
 ---
-
 Wesley Centre Live is held at The Wesley Centre, South Yorkshire. Events are varied and variable.

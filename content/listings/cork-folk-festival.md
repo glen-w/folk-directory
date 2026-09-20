@@ -13,10 +13,11 @@ venue: Various venues (Cork City)
 address: ''
 place: Cork City
 post_code: ''
+lat: 51.88978
+lng: -8.46538
 when: October
 www: www.corkfolkfestival.com/homepage-alt-1
-status: listed
 logo: /images/listings/cork_folk_festival_logo_10053.png
+status: listed
 ---
-
 A folk music festival in Cork City, Ireland, held on 2nd–5th October 2025. The 45th edition includes sessions and the Noel Brazil Song Contest.

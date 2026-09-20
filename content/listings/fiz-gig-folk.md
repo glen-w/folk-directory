@@ -11,8 +11,9 @@ venue: ''
 address: ''
 place: Lincolnshire
 post_code: ''
+lat: 53.1823
+lng: -0.20312
 www: users.tinyonline.co.uk/fizgig-tom/folk.htm
 status: listed
 ---
-
 News of concerts, gigs, and the Lincolnshire folk scene.

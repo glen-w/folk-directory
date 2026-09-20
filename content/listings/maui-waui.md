@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Elveden Hall Estate
 post_code: ''
+lat: 52.38514
+lng: 0.67967
 when: August
 www: www.mauiwauievents.co.uk
 email: mauiwauievents@gmail.com
 status: listed
 ---
-
 Not strictly a folk event. A mixture of styles and events, described as similar to Breaded Theory.

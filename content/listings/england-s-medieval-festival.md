@@ -12,9 +12,10 @@ venue: ''
 address: ''
 place: The King's Grove
 post_code: ''
+lat: 53.27689
+lng: -2.16559
 when: August
 www: www.englandsmedievalfestival.com
 status: listed
 ---
-
 A medieval event featuring stage shows, jousting, music and dance, with activities for children. The festival offers a full lineup of folk music and is family-friendly, with a particular emphasis on older and traditional music.

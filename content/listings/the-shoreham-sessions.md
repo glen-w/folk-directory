@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Shoreham-by-Sea
 post_code: ''
+lat: 50.83223
+lng: -0.27467
 when: Various
 www: sessions.folkmaster.com
 email: sessions@folkmaster.com

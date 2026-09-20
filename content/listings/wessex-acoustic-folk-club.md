@@ -11,10 +11,11 @@ venue: British Legion
 address: Church Lane
 place: Blandford Forum
 post_code: DT11 7AD
+lat: 50.85634
+lng: -2.16446
 when: Fridays
 www: wimborne-acoustic.co.uk
 email: kathy.dunn@btopenworld.com
 status: defunct
 ---
-
 Wessex Acoustic Folk Club at Royal British Legion (Blandford) — Friday, Variable

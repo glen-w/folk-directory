@@ -11,6 +11,8 @@ venue: Churchdown Club
 address: Churchdown Club, Church Road
 place: Churchdown
 post_code: GL3 2ER
+lat: 51.87682
+lng: -2.1687
 when: Monday, 1st & 3rd
 www: liamtho.com/FolkAtTheClub
 status: listed

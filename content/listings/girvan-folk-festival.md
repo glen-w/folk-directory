@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Girvan
 post_code: ''
+lat: 55.24132
+lng: -4.85536
 when: May
 www: girvantraditionalfolkfestival.org.uk
 logo: /images/listings/girvan_folk_festival_logo_3637.png
 status: listed
 ---
-
 Scotland's first sustainable event. Music, verse and story telling Concerts - Sessions - Open Stage - Competitions - Workshops - Children's Events- Secure Campsite. Popular Scottish event, promises to be even bigger than last year. In its 50th year of existence and still going strong. With a nice redesigned website too.

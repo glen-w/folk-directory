@@ -11,13 +11,14 @@ venue: The Black Bull
 address: Woodhouse Road
 place: Mansfield
 post_code: NG18 2BQ
+lat: 53.15452
+lng: -1.19325
 when: Every Monday Doors 8pm, kick-off 8.30
 www: mansfieldfolkclub.org.uk
 email: folkclub@kochut.co.uk
 status: listed
 edited: 23/01/2012
 ---
-
 Generally, the club alternates between open singers' nights, feature nights, and guest nights.
 
 On singers' nights, a warm welcome is offered whether or not one wishes to perform. Performers take a short spot (one or two songs, tunes, or poems; a maximum of ten minutes, please).

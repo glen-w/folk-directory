@@ -11,12 +11,13 @@ venue: The Coast Inn
 address: ''
 place: West Mersea
 post_code: CO5 8NA
+lat: 51.77804
+lng: 0.89938
 when: Thursdays
 www: merseasession.blogspot.com
 email: gdpdunn@hotmail.com
 status: listed
 ---
-
 Hello and welcome
 If you are looking for the rockingest acoustic session
 

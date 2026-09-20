@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Burnham
 post_code: ''
+lat: 52.93452
+lng: 0.76338
 when: September
 www: www.deepdalecamping.co.uk/festival
 status: listed
 ---
-
 The festival features a strong line-up of live music, spoken word, drum workshops, and street entertainment across a weekend. Day tickets are available at a reasonable price for those with limited time. The atmosphere is relaxed.

@@ -12,11 +12,12 @@ venue: The Hope
 address: West Street
 place: Carshalton
 post_code: SM5 2PR
+lat: 51.36726
+lng: -0.16712
 when: 8pm every 3rd Wednesday
 www: allezdansez.com
 email: allezdansez@btinternet.com
 status: listed
 edited: 16/09/2012
 ---
-
 French music session. Mostly music in the traditional style from Central France and Brittany.

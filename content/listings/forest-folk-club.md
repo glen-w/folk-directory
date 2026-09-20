@@ -12,6 +12,8 @@ venue: Ore Pool Inn
 address: Chepstow Road
 place: Coleford
 post_code: GL16 8LH
+lat: 51.76708
+lng: -2.60901
 when: Sunday, 1st & 3rd
 www: forestfolkclub.com
 email: orepool.inn@hotmail.com

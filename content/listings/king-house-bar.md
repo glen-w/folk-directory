@@ -13,9 +13,10 @@ venue: King House Bar
 address: ''
 place: Boyle
 post_code: ''
+lat: 53.99068
+lng: -8.26649
 when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
-
 Boyle's most consistent trad night. Friday sessions in a town that punches above its size for traditional music — the Roscommon–Leitrim border brings fiddle players from both sides.

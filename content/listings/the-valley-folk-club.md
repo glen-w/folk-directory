@@ -11,6 +11,8 @@ venue: Glais Rugby Football Club
 address: 609, Birchgrove Road, Glais, nr Clydach
 place: Swansea
 post_code: SA7 9EN
+lat: 51.68917
+lng: -3.87794
 when: Friday, 1st, 3rd, 5th
 www: ''
 status: defunct

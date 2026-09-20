@@ -11,13 +11,14 @@ venue: St Disens Hall
 address: 1 Church Street
 place: Bradninch
 post_code: EX5 4NS
+lat: 50.82781
+lng: -3.4212
 when: Monthly, 2nd Wednesday
 www: ''
 email: colin@willow1.freeserve.co.uk
 status: listed
 edited: 25/01/2012
 ---
-
 The Bradninch Acoustic Music Club meets on the second Wednesday of each month at St Disens Hall in Bradninch.
 
 The club was founded in April 2009 by Colin Wilson and Jerry Cahill to provide a platform for young and up-and-coming artists to hone their performance skills in a concert-style atmosphere and to try out new songs and instrumentals, as well as to enjoy a musical night out.

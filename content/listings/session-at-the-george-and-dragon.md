@@ -12,6 +12,8 @@ venue: The George and Dragon
 address: High Street
 place: Berkhamsted
 post_code: HP4 3QL
+lat: 51.76955
+lng: -0.59045
 when: Every Sunday from 7.30 til close
 www: johndevinemusic.com
 email: info@johndevinemusic.com

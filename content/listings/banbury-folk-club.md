@@ -11,6 +11,8 @@ venue: The Mill Arts Centre
 address: Spiceball Park
 place: Banbury.
 post_code: ''
+lat: 52.06018
+lng: -1.34028
 when: Wednesdays
 www: banburyfolkclub.co.uk
 email: irhuckin@aol.com

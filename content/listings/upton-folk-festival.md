@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Severn Stoke
 post_code: WR8 9JR
+lat: 52.09154
+lng: -2.19045
 when: April
 www: uptonfolk.org
 email: boxoffice@uptonfolk.org

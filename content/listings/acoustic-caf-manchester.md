@@ -11,6 +11,8 @@ venue: Gorse Hill Church Hall
 address: Wesley Street
 place: Manchester
 post_code: M32 0GL
+lat: 53.45584
+lng: -2.29809
 when: Weekly, Monday
 www: ''
 status: listed

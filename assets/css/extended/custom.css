@@ -486,6 +486,23 @@
   opacity: 0.72;
 }
 
+.listing-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  margin-top: 0.35rem;
+}
+
+.listing-header--defunct .listing-title-row h1,
+.listing-detail--defunct {
+  opacity: 0.85;
+}
+
+.listing-detail--defunct {
+  opacity: 0.78;
+}
+
 .listings-fallback-text {
   display: flex;
   flex-direction: column;

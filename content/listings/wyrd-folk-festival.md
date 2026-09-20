@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Bretforton
 post_code: ''
+lat: 52.09375
+lng: -1.87078
 when: September
 www: www.wyrdfolkpod.com/festival
 status: listed
 ---
-
 Join Wyrd Folk for a folk moot, morris dances, author talks, films, makers market and brilliant bands.

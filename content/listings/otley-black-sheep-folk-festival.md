@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Otley
 post_code: LS21 1XP
+lat: 53.90483
+lng: -1.69169
 when: September
 www: otleyfolkfestival.com
 email: otleyff@hotmail.com

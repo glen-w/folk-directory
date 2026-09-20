@@ -12,11 +12,12 @@ venue: The Lord Ashley
 address: 269 Stanhope Road
 place: South Shields
 post_code: NE33 4SS
+lat: 54.9776
+lng: -1.43439
 when: Not running
 www: ''
 email: tradition@blueyonder.co.uk
 status: listed
 edited: 20/01/2012
 ---
-
 Not running

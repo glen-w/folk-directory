@@ -13,6 +13,8 @@ venue: Ist Wednesday Three Horseshoes at Sambrook TF10 8AP, 2nd Wed Lion at Edgm
 address: Various Pubs around Newport Shropshire
 place: including Kings Head Newport
 post_code: TF10 7JJ
+lat: 52.77284
+lng: -2.38155
 when: Wednesday, Every Week
 www: ''
 status: listed

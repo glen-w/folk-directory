@@ -11,11 +11,12 @@ venue: The Larklands
 address: Park Road
 place: Ilkeston
 post_code: DE7 5DN
+lat: 52.96821
+lng: -1.30106
 when: Thursdays
 www: erewash-acoustic.co.uk
 email: admin@erewash-acoustic.co.uk
 status: listed
 edited: 10/09/2012
 ---
-
 Folk and acoustic music at its best. Resident hosts Alan Morley and Hugh Stewart (Morley/Stewart). Traditional and contemporary folk, country, and Celtic music.

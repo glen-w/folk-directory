@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Dalbeattie
 post_code: ''
+lat: 54.9307
+lng: -3.82007
 when: Thursday of the month (except January) in the Masonic Lodg
 www: www.dalbeattie-acoustic.club
 status: listed
 ---
-
 Dalbeattie Acoustic Sessions are held on the second Thursday of the month (except January) in the Masonic Lodge, Copland Street, Dalbeattie, DG5 4EX. Doors open at 7.30 pm; the session runs from 8.00 pm until 11.00 pm. All styles of song, music, and poetry are welcome.

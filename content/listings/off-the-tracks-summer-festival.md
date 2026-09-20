@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Castle Donington
 post_code: ''
+lat: 52.84117
+lng: -1.34095
 when: September
 www: offthetracks.co.uk
 logo: /images/listings/off_the_tracks_summer_festival_logo_3729.png
 status: listed
 ---
-
 Family festival with live music, real ales and ciders, acoustic sessions, camping, workshops, and a children's play area.

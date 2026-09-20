@@ -11,6 +11,8 @@ venue: The Sun
 address: 1 Chertsey Road
 place: Windlesham
 post_code: GU20 6HY
+lat: 51.36884
+lng: -0.64413
 when: Tuesday
 www: bracknellfolk.org.uk
 email: info@bracknellfolk.org.uk

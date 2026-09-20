@@ -7,14 +7,15 @@ event_types:
 locations:
 - portree
 - isle-of-skye
-county: Isle Of Skye
+county: Highland
 venue: ''
 address: ''
 place: Portree
 post_code: ''
+lat: 57.41305
+lng: -6.19445
 when: May
 www: www.skyelive.co.uk
 status: listed
 ---
-
 A nice Scottish Festival, which can sell out quickly due to its popularity. The first release of tickets last year had sold out by 7th December!

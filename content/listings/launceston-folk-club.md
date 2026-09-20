@@ -11,6 +11,8 @@ venue: Various venues in Launceston
 address: The Old Police Station, Westgate Street, Launceston
 place: Cornwall
 post_code: PL15 7AE
+lat: 50.63545
+lng: -4.36303
 when: Varied, Other
 www: launcestonfolkclub.uk
 logo: /images/listings/launceston_folk_club_logo_927.png

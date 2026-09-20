@@ -11,7 +11,9 @@ venue: Half Moon
 address: West Street, Alford
 place: Lincs
 post_code: LN13 9DG
+lat: 53.26105
+lng: 0.17788
 when: Monthly, 3rd Wednesday
-www: www.alfordacoustic.co.uk
+www: ''
 status: listed
 ---

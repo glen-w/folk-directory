@@ -11,6 +11,8 @@ venue: The Chemic Tavern
 address: 9 Johnston Street
 place: Leeds
 post_code: ''
+lat: 53.81451
+lng: -1.55287
 when: Wednesday, Every Week
 www: ''
 status: listed

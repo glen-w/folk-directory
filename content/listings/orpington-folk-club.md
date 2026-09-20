@@ -12,10 +12,11 @@ address: Farborough Village, Orpington
 place: 6 Pleasant View Place Via Farrow Fields Farnborough Village Kent What3Words
   - ///shout.speak.sticks
 post_code: BR6 7BB
+lat: 51.3598
+lng: 0.06861
 when: Thursdays
 www: orpingtonfolkclub.org.uk
 email: info@orpingtonfolkclub.org.uk
 status: listed
 ---
-
 A folk music & song club that welcomes participation through playing, singing or listening. We are always ready to greet and encourage new singers and musicians. With regular guests and open mike/singers nights.

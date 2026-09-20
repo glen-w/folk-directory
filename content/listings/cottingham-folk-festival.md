@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Cottingham
 post_code: ''
+lat: 53.78048
+lng: -0.41786
 when: August
 www: cottinghamfolkfestival.co.uk
 logo: /images/listings/cottingham_folk_festival_logo_3717.png
 status: listed
 ---
-
 Now in its twelfth year, the festival is hosted across various venues in Cottingham, an East Yorkshire village thought to be the largest in the UK, over the first weekend of September. The three-day event features a line-up of artists.

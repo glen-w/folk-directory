@@ -11,13 +11,14 @@ venue: Various locations
 address: Castle Carrock
 place: Brampton
 post_code: CA8 9LU
+lat: 54.89122
+lng: -2.71416
 when: July
 www: ''
 email: richard@johnstone2710.fsnet.co.uk
 status: defunct
 edited: 17/04/2012
 ---
-
 Music on the Marr
 Great music, festival of Local Real Ales  Camping
 

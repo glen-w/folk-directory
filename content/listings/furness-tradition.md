@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Ulverston
 post_code: ''
+lat: 54.19594
+lng: -3.0963
 when: July
 www: furnesstradition.org.uk
 status: listed

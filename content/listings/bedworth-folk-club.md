@@ -12,9 +12,10 @@ venue: Bedworth Exservicenems Club
 address: Rye Piece Ringway
 place: Bedworth
 post_code: CV12 8JH
+lat: 52.47839
+lng: -1.46944
 when: Monthly, 2nd & 4th Wednesday
 www: www.bedworthfolkclub.co.uk
 status: listed
 ---
-
 Bedworth Folk Club meets at the Bedworth Ex-Service Men's Club, Rye Piece, Ringway, Bedworth, on the 2nd and 4th Wednesdays.

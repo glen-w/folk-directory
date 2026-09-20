@@ -12,6 +12,8 @@ venue: The Ropewalk
 address: The Ropewalk
 place: Barton upon Humber
 post_code: DN18 5JR
+lat: 53.69693
+lng: -0.4419
 when: Monday, 1st in Month
 www: Www.folklincs.com
 logo: /images/listings/folklincs_festival_logo_930.png

@@ -12,6 +12,8 @@ venue: Woodloes Tavern
 address: 16 Reardon Court, Woodloes Park
 place: Warwick
 post_code: CV34 5RN
+lat: 52.29453
+lng: -1.58649
 when: Monday, Every Week
 www: www.warwickfolkclub.co.uk
 status: listed

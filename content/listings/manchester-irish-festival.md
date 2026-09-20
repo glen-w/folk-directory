@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Manchester
 post_code: M14 7DW
+lat: 53.44373
+lng: -2.22856
 when: March
 www: manchesteririshfestival.co.uk
 email: info@manchesteririshfestival.co.uk

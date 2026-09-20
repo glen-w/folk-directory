@@ -11,13 +11,14 @@ venue: The Ritz Social Club
 address: Victoria Street
 place: Burnham-On-Sea
 post_code: TA8 1AL
+lat: 51.23767
+lng: -2.99691
 when: Every Thursday
 www: ''
 email: info@ritzacoustic.com
 status: defunct
 edited: 23/01/2012
 ---
-
 The Ritz Acoustic Club is about providing a stage for anyone to come along and perform in front of a live audience (normally quite forgiving too).
 
 The club runs a first come first served basis and we recommend you arrive early if you wish to guarantee a spot (two songs per slot).

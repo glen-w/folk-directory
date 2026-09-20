@@ -11,10 +11,10 @@ venue: Greig Hall
 address: Kinwarton Road
 place: Alcester
 post_code: B97 9AU
+lat: 52.31187
+lng: -1.93762
 when: June
-www: alcesterfolkfestival.org
+www: ''
 email: contacts@alcesterfolkfestival.org
 status: listed
 ---
-
-

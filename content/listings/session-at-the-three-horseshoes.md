@@ -12,6 +12,8 @@ venue: The Three Horseshoes
 address: Spring Hill
 place: Bubbenhall
 post_code: CV8 3BD
+lat: 52.34868
+lng: -1.46952
 when: Third Thursdays, 8
 www: ''
 email: jan@bootfinder.co.uk

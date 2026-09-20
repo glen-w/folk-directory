@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Towersey
 post_code: ''
+lat: 51.74076
+lng: -0.9365
 when: August
 www: ''
 email: info@towerseyfestival.com

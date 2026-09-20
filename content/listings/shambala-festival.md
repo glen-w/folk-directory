@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Kelmarsh Hall and Gardens
 post_code: ''
+lat: 52.40913
+lng: -0.91899
 when: August
 www: www.shambalafestival.org
 logo: /images/listings/shambala_festival_logo_3719.png
 status: listed
 ---
-
 The festival covers many different music styles, including folk, and suits those with a wide range of musical interests. Over 200 diverse acts perform across 12 live stages, spanning comedy, electric, roots, reggae and folk, as well as films and theatre. The location is sometimes kept secret for quite some time. It takes place at Kelmarsh Hall and Gardens, Northampton NN6 9LY, on Thursday 27th August.

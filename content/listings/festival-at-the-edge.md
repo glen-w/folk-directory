@@ -11,10 +11,10 @@ venue: Stokes Barn
 address: ''
 place: Much Wenlock
 post_code: festivalattheedge.org
+lat: 52.5956
+lng: -2.55785
 when: July
 www: ''
 email: info@festivalattheedge.org
 status: listed
 ---
-
-

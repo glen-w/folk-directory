@@ -13,9 +13,10 @@ venue: Callan's Bar
 address: ''
 place: Clanbrassil Street, Dundalk
 post_code: ''
+lat: 54.00574
+lng: -6.40253
 when: Friday, 21:30
 www: ''
 status: listed
 ---
-
 Dundalk town-centre institution. Friday and Saturday trad — the cross-border influence shows in the music, with fiddle styles from both sides of the Cooley Mountains.

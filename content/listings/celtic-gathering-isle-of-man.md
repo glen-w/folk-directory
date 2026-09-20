@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Peel
 post_code: ''
+lat: 53.77614
+lng: -2.97459
 when: July
 www: www.celticgathering.im
 logo: /images/listings/celtic_gathering_isle_of_man_logo_3701.png
 status: listed
 ---
-
 Yn Chruinnaght Celtic Gathering, in its 49th year, is based in Peel. It is a celebration of Manx culture and the relationship between the Isle of Man and the other five Celtic countries (Scotland, Ireland, Wales, Cornwall and Brittany). Musicians, singers and dancers take part in concerts, ceilis, sessions, free events and workshops.

@@ -12,6 +12,8 @@ venue: Ye Olde Chequers Inn
 address: 122 High St
 place: Tonbridge
 post_code: TN9 1AS
+lat: 51.1965
+lng: 0.27503
 when: Monday, 1st & 3rd
 www: tonbridgefolkclub.org
 status: listed

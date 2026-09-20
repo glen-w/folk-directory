@@ -11,10 +11,11 @@ venue: ''
 address: ''
 place: Keith
 post_code: ''
+lat: 57.50278
+lng: -1.77001
 when: June
 www: www.keithfestival.com
 email: keithfestival@gmail.com
 status: listed
 ---
-
 51st Event! Not many festivals can say that. There are concerts, a dance, competitions, informal sessions and various other events during the weekend. This page will provide more details as events are finalised. (Site incomplete just now.)

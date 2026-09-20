@@ -11,6 +11,8 @@ venue: The Minerva pub
 address: Nelson Street
 place: Hull
 post_code: HU1 1XE
+lat: 53.73841
+lng: -0.33434
 when: Sunday, Every Week
 www: ''
 status: listed

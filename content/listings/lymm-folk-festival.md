@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Lymm
 post_code: ''
+lat: 53.37821
+lng: -2.45851
 when: July
 www: lymmfolkclub.org.uk
 email: bernard@lymmfolkclub.org.uk

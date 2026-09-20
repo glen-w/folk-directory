@@ -12,9 +12,10 @@ venue: Vineburgh Community Centre
 address: Quarry Road
 place: Irvine
 post_code: KA12 0TN
+lat: 55.61999
+lng: -4.66552
 when: Wednesday, Every 2 weeks
 www: www.irvinefolkclub.org.uk
 status: listed
 ---
-
 Irvine Folk Club meets at Vineburgh Community Centre, Irvine, every two weeks on Wednesday.

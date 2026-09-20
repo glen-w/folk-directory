@@ -12,6 +12,8 @@ venue: Rose & Lion
 address: New Road
 place: Bromyard
 post_code: HR7 4AJ
+lat: 52.18839
+lng: -2.50986
 when: Sunday, 8pm
 www: ''
 email: info@bromyardsessions.co.uk

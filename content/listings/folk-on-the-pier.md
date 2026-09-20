@@ -11,6 +11,8 @@ venue: Pavilion Theatre
 address: Cromer Pier
 place: Cromer
 post_code: NR27 9HE
+lat: 52.93185
+lng: 1.30195
 when: May
 www: folkonthepier.co.uk
 email: info@deckchairproductions.co.uk

@@ -11,6 +11,8 @@ venue: Medway Visitor Centre
 address: 95 High Street
 place: Rochester
 post_code: ME1 1LX
+lat: 51.38925
+lng: 0.5044
 when: April / May
 www: medway.gov.uk/sweepsfestival
 email: visitor.centre@medway.gov.uk

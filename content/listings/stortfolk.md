@@ -11,9 +11,10 @@ venue: ''
 address: ''
 place: Bishop's Stortford
 post_code: ''
+lat: 51.86763
+lng: 0.1632
 when: Weekly, Thursday
 www: www.beerfordbury.com
 status: listed
 ---
-
 A mainly acoustic folk club in Bishop's Stortford, from traditional to modern, with occasional blues, music-hall, and country.

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Middlesbrough
 post_code: ''
+lat: 54.57604
+lng: -1.2344
 when: July
 www: festivalonthemoor.co.uk
 email: info@festivalonthemoor.co.uk

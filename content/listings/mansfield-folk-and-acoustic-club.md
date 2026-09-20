@@ -11,6 +11,8 @@ venue: Forest Town Arena
 address: Clipstone Rd West
 place: Mansfield
 post_code: NG19 0EE
+lat: 53.15214
+lng: -1.16201
 when: Monday, Every Week
 www: www.mansfield-folk-club.org.uk
 status: listed

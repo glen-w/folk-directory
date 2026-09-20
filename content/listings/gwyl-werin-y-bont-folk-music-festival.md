@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Tafarn y Bont
 post_code: ''
+lat: 52.29033
+lng: -3.99349
 when: July
 www: www.facebook.com/p/G?yl-Werin-y-Bont-61568280574649
 email: efanmiles@gmail.com
 status: listed
 ---
-
 An afternoon and evening event featuring Welsh musicians.

@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Fishguard
 post_code: ''
+lat: 51.99382
+lng: -4.97647
 when: June
 www: pembrokeshire-folk-music.co.uk
 email: storesman@gmail.com

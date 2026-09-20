@@ -13,9 +13,10 @@ venue: The Hibernian Bar
 address: ''
 place: Ormonde Street
 post_code: ''
+lat: 52.65028
+lng: -7.25207
 when: Weekly, Tuesday, 9:00pm
 www: ''
 status: listed
 ---
-
 Live Irish music Tue/Wed/Thu/Fri/Sun 9pm–11pm. No cover charge, no booking required.

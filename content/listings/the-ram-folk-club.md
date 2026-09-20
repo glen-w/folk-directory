@@ -11,10 +11,11 @@ venue: Old Cranleighan Sports Club
 address: Portsmouth Road
 place: Thames Ditton, Surrey
 post_code: KT7 0HB
+lat: 51.38203
+lng: -0.34181
 when: Fridays, 8.15pm
 www: theramclub.co.uk
 email: ramclub@btinternet.com
 status: defunct
 ---
-
 The Ram Club is renowned as one of the finest venues in the South of England for folk, acoustic and roots music. Our aim is to create a relaxed and intimate atmosphere to allow you to enjoy the finest in music to the fullest. Now successfully relocated in the Old Cranleighan Sports Club in Thames Ditton, we have been running since 1983. We strive to bring you top artistes from the UK and beyond to perform for you in our convivial surroundings.

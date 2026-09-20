@@ -11,6 +11,8 @@ venue: The Old Windmill
 address: 22-23, Spon Street
 place: Coventry
 post_code: CV1 3BA
+lat: 52.4083
+lng: -1.51693
 when: Sunday, Every Week
 www: ''
 status: listed

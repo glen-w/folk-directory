@@ -13,9 +13,10 @@ venue: The Cartoon Inn
 address: ''
 place: Rathnew
 post_code: ''
+lat: 52.99492
+lng: -6.08213
 when: Weekly, Thursday, 9:30pm
 www: ''
 status: listed
 ---
-
 A weekly trad session in Rathnew, held on Thursdays at The Cartoon Inn, a pub off the N11.

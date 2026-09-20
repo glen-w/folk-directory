@@ -13,9 +13,10 @@ venue: Davitt's Pub
 address: ''
 place: Drumkeeran
 post_code: ''
+lat: 54.16886
+lng: -8.14429
 when: Friday, 21:00
 www: ''
 status: listed
 ---
-
 Set in the hills above Lough Allen, Davitt's hosts sessions with a crowd that takes the music seriously. The venue is accessible by road from Carrick.

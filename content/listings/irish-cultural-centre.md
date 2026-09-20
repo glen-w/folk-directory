@@ -7,7 +7,7 @@ event_types:
 locations:
 - hammersmith
 - london
-county: London
+county: Greater London
 venue: Irish Cultural Centre
 address: "Black's Road"
 place: Hammersmith

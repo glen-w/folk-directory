@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Salisbury
 post_code: ''
+lat: 51.06906
+lng: -1.79541
 when: July
 www: larmertreefestival.co.uk
 email: info@larmertreefestival.co.uk

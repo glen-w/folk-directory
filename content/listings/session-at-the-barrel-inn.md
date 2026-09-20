@@ -12,6 +12,8 @@ venue: The Barrel Inn
 address: St Mary's Street
 place: Thornbury
 post_code: BS35 2AB
+lat: 51.60776
+lng: -2.52473
 when: Third Thursdays, 8pm
 www: ''
 email: carol.mosses@hotmail.co.uk

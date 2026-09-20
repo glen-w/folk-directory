@@ -13,9 +13,10 @@ venue: ''
 address: ''
 place: Dummer Down Farm
 post_code: ''
+lat: 51.20194
+lng: -1.17357
 when: May
 www: loadsbetter.com/latespringfolkfestival
 status: listed
 ---
-
 Back for its second year. In addition to another 12 hours of back-to-back folk music starting at 11am across multiple stages on the May bank holiday weekend, the festival will feature beer from the farm brewery, multiple food outlets, camping, arts and crafts, and a new soapbox stage for established and aspiring musicians alike. The lineup will be announced in full in April. The festival takes place at Dummer Down Farm.

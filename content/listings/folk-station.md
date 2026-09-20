@@ -11,6 +11,8 @@ venue: Various
 address: ''
 place: Havenstreet
 post_code: ''
+lat: 50.71016
+lng: -1.20627
 when: July
 www: folkstation.co.uk
 email: folkstationonline@googlemail.com

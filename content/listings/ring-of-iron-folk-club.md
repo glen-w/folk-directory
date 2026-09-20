@@ -11,6 +11,8 @@ venue: Chapel @ Whitehouse Street
 address: WhiteHouse Street
 place: Middlesbrough
 post_code: TS5 4BY
+lat: 54.56924
+lng: -1.25745
 when: Friday, Last in month
 www: ''
 status: listed

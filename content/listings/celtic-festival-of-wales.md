@@ -12,6 +12,8 @@ venue: Various
 address: ''
 place: Porthcawl
 post_code: CF36 3YW
+lat: 51.47657
+lng: -3.70674
 when: March
 www: cwlwmceltaidd.com
 email: derek@cwlwmceltaidd.com

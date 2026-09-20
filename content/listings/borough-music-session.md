@@ -11,11 +11,12 @@ venue: The Horseshoe Inn
 address: 26 Melior Street
 place: London
 post_code: SE1 3QP
+lat: 51.50243
+lng: -0.08466
 when: First Sundays, 12 noon - 3 pm
 www: boroughmusicsession.co.uk
 email: martin@boroughmusicsession.co.uk
 status: listed
 edited: 12/11/2012
 ---
-
 An English music session at The Horseshoe, a traditional pub serving a number of real ales. Instruments only, no singing. Musicians welcome. A full range of food is also available.

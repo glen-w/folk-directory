@@ -12,10 +12,11 @@ venue: ''
 address: ''
 place: Biggar
 post_code: ''
+lat: 55.62449
+lng: -3.52158
 when: June
 www: blazininbiggar.com
 logo: /images/listings/blazin_in_biggar_logo_3673.png
 status: listed
 ---
-
 Recently launched, Blazin' Fiddles are a sister fiddle school to the well-established Blazin' in Beauly. This summer the band will launch 'Blazin' in Biggar', bringing together fiddlers, guitarists and piano players for a weekend of workshops and music-making.

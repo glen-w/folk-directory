@@ -12,6 +12,8 @@ venue: The Wold Top Brewery
 address: Hunmanby Grange
 place: Driffield
 post_code: YO25 3HS
+lat: 54.15877
+lng: -0.35218
 when: July
 www: woldtopbrewery.co.uk/moonbeams
 email: moonbeamsacoustic@hotmail.com
@@ -19,7 +21,6 @@ logo: /images/listings/moonbeams_wold_top_folk_festival_logo_524.png
 status: listed
 edited: 24/01/2012
 ---
-
 Moonbeams Summer Festival at The Wold Top Brewery.. 
 perched on top
 

@@ -12,6 +12,8 @@ venue: Rugby West Indian Association
 address: Railway Terrace
 place: Rugby
 post_code: CV21 3HE
+lat: 52.37539
+lng: -1.25575
 when: Tuesday, Every Week
 www: www.wurzelbush.co.uk
 status: listed

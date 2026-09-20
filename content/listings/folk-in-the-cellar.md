@@ -7,7 +7,7 @@ event_types:
 locations:
 - islington
 - london
-county: London
+county: Greater London
 venue: Whelans Lark In The Park
 address: ''
 place: Islington

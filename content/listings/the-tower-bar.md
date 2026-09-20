@@ -13,9 +13,10 @@ venue: The Tower Bar
 address: ''
 place: North Main Street, Wexford
 post_code: ''
+lat: 52.33865
+lng: -6.46187
 when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
-
 Friday and Saturday sessions on the most-walked street in Wexford town. A good centrepiece for an evening that starts with dinner on the quays.

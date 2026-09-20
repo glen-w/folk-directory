@@ -11,6 +11,8 @@ venue: The Castle
 address: 30 West Street
 place: Harrow
 post_code: HA1 3EF
+lat: 51.57202
+lng: -0.33962
 when: Monday, Every Week
 www: herga.club
 email: oldtimetim@gmail.com

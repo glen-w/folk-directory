@@ -11,6 +11,8 @@ venue: Beaufort Hunt Pub
 address: Chipping Sodbury
 place: Bristol
 post_code: BS37 6AG
+lat: 51.53804
+lng: -2.39266
 when: Thursday, 1st in Month
 www: ''
 status: listed

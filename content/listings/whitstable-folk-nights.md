@@ -11,12 +11,13 @@ venue: The Royal Native Oyster Stores
 address: Horsebridge Road
 place: Whitstable
 post_code: CT5 1BU
+lat: 51.3609
+lng: 1.02367
 when: Generally Fridays and Saturdays
 www: whitstablefolk.co.uk
 email: info@whitstablefolk.co.uk
 status: listed
 ---
-
 “But I don’t like folk music ...”  Don’t worry.
 
 Our definition

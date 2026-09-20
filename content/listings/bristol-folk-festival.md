@@ -11,6 +11,8 @@ venue: Colston Hall
 address: Colston Street
 place: Bristol
 post_code: BS1 5AR
+lat: 51.45478
+lng: -2.59826
 when: April / May
 www: bristolfolkfestival.com
 email: boxoffice@colstonhall.org

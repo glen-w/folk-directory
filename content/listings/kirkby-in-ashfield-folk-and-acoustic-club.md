@@ -12,6 +12,8 @@ venue: Duke of Wellington
 address: Church Street
 place: Kirkby in Ashfield
 post_code: NG17 8LA
+lat: 53.09939
+lng: -1.2693
 when: Friday, 2nd in Month
 www: ''
 status: listed

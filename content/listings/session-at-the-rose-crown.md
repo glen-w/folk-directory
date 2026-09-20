@@ -12,6 +12,8 @@ venue: The Rose & Crown
 address: The Green
 place: Highworth
 post_code: SN6 7DB
+lat: 51.62862
+lng: -1.71207
 when: Second Monday of the month, 8-11pm
 www: ''
 email: mess@music-alive.org.uk

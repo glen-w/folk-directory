@@ -11,6 +11,8 @@ venue: A field! And various venues in the town
 address: ''
 place: Cropredy
 post_code: ''
+lat: 52.12283
+lng: -1.3281
 when: August
 www: fairportconvention.com
 logo: /images/listings/fairport_s_cropredy_convention_logo_313.png

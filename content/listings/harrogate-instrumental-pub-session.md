@@ -11,6 +11,8 @@ venue: The Tap on Tower Street
 address: 31 Tower Street
 place: Harrogate
 post_code: HG1 1HS
+lat: 53.98928
+lng: -1.53859
 when: Tuesday, Every Week
 www: ''
 status: listed

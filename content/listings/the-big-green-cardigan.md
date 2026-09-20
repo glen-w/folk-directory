@@ -11,6 +11,8 @@ venue: Sussex Countryside
 address: Hawkhurst Road
 place: Cripps Corner
 post_code: TN32 5SA
+lat: 50.95572
+lng: 0.52812
 when: September
 www: biggreencardigan.co.uk
 email: info@biggreencardigan.co.uk

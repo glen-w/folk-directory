@@ -11,6 +11,8 @@ venue: Belper Meadows Cricket Club
 address: Christchurch Meadows, Off Bridge St
 place: Belper
 post_code: DE56 1BA
+lat: 53.02627
+lng: -1.48571
 when: Varied, Variable
 www: black-dog-radio.com/black-dog-radio-presents
 status: listed

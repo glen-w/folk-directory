@@ -12,9 +12,10 @@ venue: Folk House
 address: ''
 place: Stony Stratford, Milton Keynes
 post_code: ''
+lat: 52.06216
+lng: -0.85395
 when: Friday in the York House Centre, which is situated in th
 www: www.thesongloft.co.uk
 status: listed
 ---
-
 The Song Loft is held fortnightly on a Friday in the York House Centre, which is situated in the historic market town of Stony Stratford.

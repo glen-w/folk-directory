@@ -11,6 +11,8 @@ venue: Barnsley Civic Hall
 address: Hanson Street
 place: Milton Keynes
 post_code: ''
+lat: 52.04065
+lng: -0.75941
 when: April
 www: ''
 email: wombwell.folk@blueyonder.co.uk

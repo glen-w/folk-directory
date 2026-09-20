@@ -11,13 +11,14 @@ venue: Westgarth Social Club
 address: Southfield Road
 place: Middlesbrough
 post_code: TS1 3EZ
+lat: 54.57016
+lng: -1.23246
 when: Monthly, 1st Thursday
-www: shipyardrsongwriters.com/gigs
+www: ''
 email: info@shipyardsongwriters.com
 status: listed
 edited: 09/02/2012
 ---
-
 A night of topical song, spoken word and more, taking place at the Westgarth Social Club on the first Thursday of the month. Above the Parapet celebrates artists getting together to give a voice to the ordinary person.
 
 The people of Teesside have for generations been hit and hit hard by the policies of successive governments. Above the Parapet is a space that rouses, celebrates and embodies the region, commenting artistically on the problems and stories of the people, and the many like them around the world.
