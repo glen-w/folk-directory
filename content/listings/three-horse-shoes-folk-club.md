@@ -12,7 +12,7 @@ address: 68 High street, Chapmanslade
 place: Westbury
 post_code: BA13 4AN
 when: One friday a month
-www: myspace.com/507142058
+www: ''
 email: nadiaevans@uwclub.net
 status: listed
 edited: 03/03/2012

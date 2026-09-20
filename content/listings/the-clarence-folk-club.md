@@ -12,6 +12,6 @@ address: Preston New Road
 place: Blackpool
 post_code: FY4 4HG
 when: Wednesdays
-www: myspace.com/theclarencefolkclub
+www: ''
 status: listed
 ---

@@ -12,7 +12,7 @@ address: Hanson Street
 place: Milton Keynes
 post_code: ''
 when: April
-www: myspace.com/barnsleyacoustic
+www: ''
 email: wombwell.folk@blueyonder.co.uk
 status: listed
 ---

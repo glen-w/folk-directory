@@ -12,7 +12,7 @@ address: Milk Street, Devon
 place: Frome
 post_code: ''
 when: Sundays, around 2pm
-www: myspace.com/163217654
+www: ''
 status: listed
 ---
 

@@ -12,7 +12,7 @@ address: Crown Street
 place: Lowestoft
 post_code: NR32 1SG
 when: Alternate Fridays
-www: myspace.com/waveneyfolkclub
+www: ''
 status: listed
 edited: 24/10/2011
 ---

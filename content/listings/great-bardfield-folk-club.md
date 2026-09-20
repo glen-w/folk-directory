@@ -12,7 +12,7 @@ address: ''
 place: Great Bardfield
 post_code: CM7 4SL
 when: Second Thursday each month
-www: myspace.com/greatbardfieldfolkclub
+www: ''
 status: listed
 ---
 

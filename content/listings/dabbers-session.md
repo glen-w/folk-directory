@@ -12,7 +12,7 @@ address: 68 James Hall Street
 place: Nantwich
 post_code: CW5 5QE
 when: First and third Thursdaya
-www: myspace.com/dabberssession
+www: ''
 status: listed
 ---
 

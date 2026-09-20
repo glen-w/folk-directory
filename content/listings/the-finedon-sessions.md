@@ -12,6 +12,6 @@ address: Wellingborough Road
 place: Finedon
 post_code: NN9 5LG
 when: First Friday, every third month (Feb, May etc.)
-www: myspace.com/thefinedonsessions
+www: ''
 status: listed
 ---

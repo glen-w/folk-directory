@@ -12,7 +12,7 @@ address: Queens Terrace
 place: Fleetwood
 post_code: FY7 6BT
 when: Thursdays
-www: myspace.com/fleetwoodfolkclub
+www: ''
 status: listed
 ---
 

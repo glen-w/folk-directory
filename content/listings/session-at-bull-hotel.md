@@ -12,7 +12,7 @@ address: ''
 place: Stony Stratford
 post_code: ''
 when: 2nd Tuesday every month
-www: myspace.com/stonysecondtuesday
+www: ''
 status: listed
 ---
 
