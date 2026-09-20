@@ -10,7 +10,7 @@ county: West Yorkshire
 venue: The Chemic Tavern
 address: 9 Johnston Street
 place: Leeds
-post_code: RH13 8GW
+post_code: ''
 when: Wednesday, Every Week
 www: ''
 status: listed

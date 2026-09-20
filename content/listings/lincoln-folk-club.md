@@ -8,7 +8,7 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: The Unison Club
-address: Beaumont Manor, Beaumont Fee, Lincoln
+address: Beaumont Manor, Beaumont Fee
 place: Lincoln
 post_code: LN1 1UL
 when: Alternate Fridays

@@ -8,7 +8,7 @@ locations:
 - herefordshire
 county: Herefordshire
 venue: The Rose & Crown
-address: Fishpool Street, St Albans
+address: Fishpool Street
 place: St Albans
 post_code: AL3 4RU
 when: Sunday

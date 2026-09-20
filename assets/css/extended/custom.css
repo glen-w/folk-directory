@@ -622,7 +622,9 @@
 }
 
 .home-hero-chip {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
   padding: 0.28rem 0.7rem;
   border: 1px solid var(--border, #ccc);
   border-radius: 4px;
@@ -634,6 +636,13 @@
   line-height: 1.3;
   text-decoration: none;
   cursor: pointer;
+}
+
+.home-hero-chip-icon {
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  display: block;
 }
 
 .home-hero-chip--all {

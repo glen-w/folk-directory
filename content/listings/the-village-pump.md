@@ -8,7 +8,7 @@ locations:
 - wiltshire
 county: Wiltshire
 venue: The Lamb Inn
-address: Trowbridge
+address: ''
 place: Trowbridge
 post_code: ''
 when: Fridays

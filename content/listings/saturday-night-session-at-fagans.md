@@ -10,7 +10,7 @@ county: South Yorkshire
 venue: Fagans
 address: 69 Broad Lane
 place: Sheffield
-post_code: HG1 2RB
+post_code: ''
 when: Saturday, Every Week
 www: ''
 status: listed

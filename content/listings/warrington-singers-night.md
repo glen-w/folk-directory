@@ -10,7 +10,7 @@ county: Cheshire
 venue: The Bulls Head
 address: Church Street
 place: Warrington
-post_code: HG4 2AB
+post_code: ''
 when: Sunday, Every Week
 www: ''
 status: listed

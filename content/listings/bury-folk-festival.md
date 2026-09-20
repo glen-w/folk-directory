@@ -7,7 +7,7 @@ event_types:
 locations:
 - bury-st-edmunds
 - suffolk
-county: Greater Manchester
+county: Suffolk
 venue: ''
 address: ''
 place: Bury St Edmunds

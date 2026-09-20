@@ -8,7 +8,7 @@ locations:
 - oxfordshire
 county: Oxfordshire
 venue: ''
-address: Wallingford
+address: ''
 place: Wallingford
 post_code: ''
 when: Various

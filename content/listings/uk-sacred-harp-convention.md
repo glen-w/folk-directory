@@ -8,7 +8,7 @@ locations:
 - south-yorkshire
 county: South Yorkshire
 venue: various
-address: Stannington, Sheffield
+address: Stannington
 place: Sheffield
 post_code: ukshapenote.org.uk
 when: September

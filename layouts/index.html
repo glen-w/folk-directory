@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{- $listings := where .Site.RegularPages "Section" "listings" -}}
 {{- $typeMeta := slice
-  (dict "slug" "folk-club" "noun" "clubs")
-  (dict "slug" "session" "noun" "sessions")
-  (dict "slug" "festival" "noun" "festivals")
-  (dict "slug" "dance" "noun" "dances")
+  (dict "slug" "folk-club" "noun" "clubs" "icon" "/images/logo/icon-folk-club.svg")
+  (dict "slug" "session" "noun" "sessions" "icon" "/images/logo/icon-session.svg")
+  (dict "slug" "festival" "noun" "festivals" "icon" "/images/logo/icon-festival.svg")
+  (dict "slug" "dance" "noun" "dances" "icon" "/images/logo/icon-dance.svg")
 -}}
 {{- $counts := dict -}}
 {{- range $listings -}}
@@ -26,7 +26,7 @@
       {{- range $typeMeta -}}
         {{- $n := index $counts .slug | default 0 -}}
         {{- if gt $n 0 -}}
-        <button type="button" class="home-hero-chip home-hero-chip--{{ .slug }}" data-map-type="{{ .slug }}" aria-pressed="false">{{ .noun | title }} ({{ $n }})</button>
+        <button type="button" class="home-hero-chip home-hero-chip--{{ .slug }}" data-map-type="{{ .slug }}" aria-pressed="false"><img class="home-hero-chip-icon" src="{{ .icon }}" alt="" width="16" height="16" aria-hidden="true">{{ .noun | title }} ({{ $n }})</button>
         {{- end -}}
       {{- end -}}
     </nav>

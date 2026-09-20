@@ -7,7 +7,7 @@ event_types:
 locations:
 - bolton-castle-and-redmire
 - yorkshire
-county: Greater Manchester
+county: North Yorkshire
 venue: ''
 address: ''
 place: Bolton Castle and Redmire

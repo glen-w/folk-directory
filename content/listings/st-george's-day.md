@@ -8,7 +8,7 @@ locations:
 - north-yorkshire
 county: North Yorkshire
 venue: The Old Post Office
-address: Commondale
+address: ''
 place: Commondale
 post_code: YO21 2HG
 when: April

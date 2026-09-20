@@ -8,7 +8,7 @@ locations:
 - wiltshire
 county: Wiltshire
 venue: Boscombe Village Social Club
-address: Boscombe
+address: ''
 place: Boscombe
 post_code: SP4 0AB
 when: Fridays

@@ -8,7 +8,7 @@ locations:
 - buckinghamshire
 county: Buckinghamshire
 venue: Bull Hotel
-address: Stony Stratford
+address: ''
 place: Stony Stratford
 post_code: ''
 when: 2nd Tuesday every month

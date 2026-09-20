@@ -10,7 +10,7 @@ county: Newport
 venue: Newport Fugitives Athletic Club
 address: High Cross Road
 place: Newport
-post_code: NP10 9AD
+post_code: ''
 when: Every Thursday 8:45
 www: www.newportfolkclub.co.uk
 email: topdog@newportfolkclub.co.uk

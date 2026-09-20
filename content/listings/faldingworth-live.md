@@ -8,7 +8,7 @@ locations:
 - lincolnshire
 county: Lincolnshire
 venue: Faldingworth Memorial Hall
-address: Faldingworth
+address: ''
 place: Faldingworth
 post_code: LN8 3SE
 when: Saturdays

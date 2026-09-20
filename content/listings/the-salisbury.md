@@ -10,7 +10,7 @@ county: Hampshire
 venue: Harnham Social Club
 address: Pitt Street, Sheffield
 place: Salisbury
-post_code: S1 4DD
+post_code: ''
 when: January
 www: ''
 status: listed

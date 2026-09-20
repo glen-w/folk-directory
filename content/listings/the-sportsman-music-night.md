@@ -10,7 +10,7 @@ county: West Yorkshire
 venue: The Sportsman
 address: 1 St Johns Rd
 place: Huddersfield
-post_code: OL13 8LD
+post_code: ''
 when: Wednesday, 1st and 3rd
 www: ''
 status: listed

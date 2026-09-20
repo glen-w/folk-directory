@@ -10,7 +10,7 @@ county: Greater London
 venue: Sutton Cricket Club
 address: Gander Green Lane
 place: Sutton
-post_code: SM1 2EH
+post_code: ''
 when: Wednesdays, 8-11pm
 www: ''
 email: Sutton-Acoustic@Blueyonder.co.uk

@@ -10,7 +10,7 @@ county: Kent
 venue: The Folk House
 address: 40a Park Street
 place: Bristol
-post_code: CT5 4HS
+post_code: ''
 when: October
 www: ''
 email: bristol_cajun@yahoo.com

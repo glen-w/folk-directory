@@ -6,7 +6,7 @@ event_types:
 - folk-club
 county: Nottinghamshire
 venue: The Tiger Inn
-address: Long Eaton, Nottingham
+address: Nottingham
 place: Long Eaton
 post_code: NG10 1BG
 when: Last Friday of the month

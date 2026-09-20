@@ -128,6 +128,27 @@ def test_map_www_string_slice_and_empty():
     assert g.map_www({"www": "''"}) == ""
 
 
+def test_geocode_no_corpus_id_coord_seeding():
+    """Corpus entity ids do not match published listing ids; never seed pins from corpus."""
+    assert not hasattr(g, "load_corpus_coords")
+
+
+def test_coords_from_uk_postcode(monkeypatch):
+    class Resp:
+        status_code = 200
+
+        def raise_for_status(self):
+            return None
+
+        @staticmethod
+        def json():
+            return {"result": {"latitude": 52.45786, "longitude": -2.146676}}
+
+    monkeypatch.setattr(g.requests, "get", lambda *a, **k: Resp())
+    hit = g.coords_from_uk_postcode("DY8 1EP")
+    assert hit == {"lat": 52.45786, "lng": -2.146676}
+
+
 def test_street_address_drops_country_suffix():
     assert lc.street_address("121 Gallowgate, United Kingdom") == "121 Gallowgate"
     assert lc.street_address("6 Parkgate, UK") == "6 Parkgate"

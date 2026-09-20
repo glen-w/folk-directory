@@ -10,7 +10,7 @@ county: West Midlands
 venue: Claptrap the Venue
 address: High Street
 place: Stourbridge
-post_code: SG8 6PP
+post_code: ''
 when: Saturday, Variable
 www: nextlevelfolk.com
 status: listed

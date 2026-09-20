@@ -8,7 +8,7 @@ locations:
 - kent
 county: Kent
 venue: Oast House Community Centre
-address: Granary Close, Rainham
+address: Granary Close
 place: Rainham
 post_code: ME8 7SG
 when: Second Friday each month

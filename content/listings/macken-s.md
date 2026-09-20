@@ -12,7 +12,7 @@ county: Down
 venue: Macken's
 address: South Promenade
 place: Newcastle
-post_code: BT33 0EY
+post_code: ''
 lat: 54.19865
 lng: -5.88812
 when: Monthly, Last Friday

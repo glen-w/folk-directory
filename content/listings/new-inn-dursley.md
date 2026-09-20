@@ -7,7 +7,7 @@ event_types:
 locations:
 - pontblyddyn
 - wales
-county: Gloucestershire
+county: Flintshire
 venue: The New Inn
 address: ''
 place: Pontblyddyn

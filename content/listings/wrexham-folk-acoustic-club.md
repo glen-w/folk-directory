@@ -9,8 +9,8 @@ locations:
 county: Wrexham
 venue: Pub - The Nag's Head. Every first and third Thursday of the month from October
   to Junem,
-address: The Nag's Head, Mount Street, Wrexham
-place: Buxton
+address: The Nag's Head, Mount Street
+place: Wrexham
 post_code: LL13 8DW
 when: Thursday, 1st in Month
 www: www.wrexhamfolkacoustic.club

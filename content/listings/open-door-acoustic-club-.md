@@ -8,7 +8,7 @@ locations:
 - somerset
 county: Somerset
 venue: Waldegrave Arms
-address: East Harptree
+address: ''
 place: East Harptree
 post_code: BS40 6BD
 when: Third Friday

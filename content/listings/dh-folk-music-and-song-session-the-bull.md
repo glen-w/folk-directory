@@ -10,7 +10,7 @@ county: Lancashire
 venue: The Bull
 address: The Bull Price Street
 place: Birmingham
-post_code: BB4 6JU
+post_code: ''
 when: Monthly, 1st Tuesday
 www: ''
 status: listed

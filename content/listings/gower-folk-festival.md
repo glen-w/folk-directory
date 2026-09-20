@@ -7,10 +7,12 @@ event_types:
 locations:
 - parkmill
 county: Swansea
-venue: June
-address: The Gower Heritage Centre
+venue: The Gower Heritage Centre
+address: ''
 place: Parkmill
-post_code: Gower
+post_code: SA3 2EH
+lat: 51.58353
+lng: -4.10290
 when: June
 www: www.gowerfolkfestival.co.uk
 email: contact@gowerfolkfestival.co.uk

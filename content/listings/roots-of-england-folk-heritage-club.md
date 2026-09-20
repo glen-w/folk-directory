@@ -8,9 +8,11 @@ locations:
 - cumbria
 county: Cumbria
 venue: Lowick Community Hall
-address: Lowick
+address: ''
 place: Lowick
-post_code: L12 8EE
+post_code: LA12 8EE
+lat: 54.26816
+lng: -3.08886
 when: Mondays
 www: myspace.com/rootsofenglandfolkclub
 status: listed

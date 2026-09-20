@@ -10,7 +10,7 @@ county: Shropshire
 venue: Kennedy's
 address: 297 Caledonian Rd, London
 place: Much Wenlock
-post_code: N1 1EG
+post_code: ''
 when: October
 www: gawiefest.co.uk
 email: mike@gawiefest.co.uk

@@ -10,7 +10,7 @@ county: Merseyside
 venue: Cornmarket
 address: Old Ropery, Fenwick Street
 place: Liverpool
-post_code: BB4 6JU
+post_code: ''
 when: Monthly, 1st Tuesday
 www: ''
 status: listed

@@ -11,7 +11,7 @@ locations:
 county: Galway
 venue: Tigh Coili
 address: ''
-place: Mainguard St
+place: Galway
 post_code: ''
 lat: 53.27216
 lng: -9.05399

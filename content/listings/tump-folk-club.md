@@ -10,7 +10,7 @@ county: West Midlands
 venue: The Humber pub
 address: Humber Road
 place: Coventry
-post_code: DL1 5RL
+post_code: ''
 when: Thursday, Every Week
 www: ''
 status: listed

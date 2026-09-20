@@ -8,11 +8,11 @@ locations:
 - buxton
 county: Derbyshire
 venue: The Devonshire Arms
-address: Market Place, Hartington
-place: Buxton
+address: Market Place
+place: Hartington
 post_code: SK17 0AL
 when: Thursday, 1st & 3rd
-www: newcrystalfolkclub.weebly.com
+www: ''
 email: lindawoodroffe@live.co.uk
 status: listed
 ---

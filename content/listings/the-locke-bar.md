@@ -13,6 +13,8 @@ venue: The Locke Bar
 address: ''
 place: George's Quay
 post_code: ''
+lat: 52.66472
+lng: -8.62306
 when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed

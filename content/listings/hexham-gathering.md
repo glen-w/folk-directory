@@ -11,7 +11,7 @@ county: Tyne and Wear
 venue: The Sage
 address: St Mary's Sq
 place: Hexham
-post_code: NE8 2JR
+post_code: ''
 when: May
 www: thesagegateshead.org/folkworks
 email: folkworks@thesagegateshead.org

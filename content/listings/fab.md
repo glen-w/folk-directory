@@ -8,7 +8,7 @@ locations:
 - essex
 county: Essex
 venue: The White Hart
-address: King's Walk, Argent Street, Grays
+address: King's Walk, Argent Street
 place: Grays
 post_code: RM17 6HR
 when: Sunday afternoon (three per month)

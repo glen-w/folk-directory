@@ -214,11 +214,11 @@ def test_real_listing_files_match_expected_when():
     listings = ROOT / "content" / "listings"
     expected = {
         "an-grian-n-hotel.md": (
-            "Takes place every month on the 2nd Friday at 9:00 pm - Late",
+            "Monthly, 2nd Friday, 9:00pm",
             "Monthly, 2nd Friday, 9:00pm",
         ),
         "baker-s-bar.md": ("Thursday, 21:00", "Weekly, Thursday, 9:00pm"),
-        "edinburgh-folk-club.md": ("Wednesday, Every Week", "Weekly, Wednesday"),
+        "edinburgh-folk-club.md": ("Weekly, Wednesday", "Weekly, Wednesday"),
         "hexham-gathering.md": ("May", "May"),
     }
     for name, (orig, new) in expected.items():
