@@ -45,6 +45,38 @@
   margin-bottom: 1.5rem;
 }
 
+/* PaperMod resets ul padding to 0; keep claim lists aligned with body text */
+.listing-claim ul,
+.listing-claim ol {
+  margin: 0.4rem 0 1rem;
+  padding-inline-start: 1.35rem;
+}
+
+.listing-claim li {
+  margin-top: 0.35rem;
+  padding-inline-start: 0.25rem;
+}
+
+.listing-claim ul {
+  list-style: none;
+}
+
+.listing-claim ul li {
+  position: relative;
+}
+
+.listing-claim ul li::before {
+  content: "";
+  position: absolute;
+  left: -1rem;
+  top: 0.7em;
+  width: 0.35em;
+  height: 0.35em;
+  border-radius: 50%;
+  background: currentColor;
+  transform: translateY(-50%);
+}
+
 .listing-claim-alt {
   margin: 0 0 1.25rem;
 }
