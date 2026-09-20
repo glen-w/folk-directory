@@ -10,7 +10,7 @@ county: South Yorkshire
 venue: The Old No7
 address: The Old Nó 7
 place: Market Hill. Barnsley
-post_code: S70 1LF
+post_code: S70 2PX
 when: Monthly, 2nd Sunday
 www: ''
 status: listed

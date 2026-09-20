@@ -5,8 +5,9 @@ name: Gloucester Folk Club
 event_types:
 - folk-club
 locations:
-- west-midlands
-county: West Midlands
+- gloucester
+- gloucestershire
+county: Gloucestershire
 venue: ''
 address: ''
 place: Gloucester

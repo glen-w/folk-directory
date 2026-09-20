@@ -9,9 +9,11 @@ locations:
 - england
 county: Berkshire
 venue: Norden Farm Centre for the Arts
-address: ''
+address: Altwood Road
 place: Maidenhead
 post_code: ''
+lat: 51.51521
+lng: -0.74709
 www: www.nordenfarm.org/?tmpl=events&es_dspl=3&es_cat=13&t_id=0&_sopHoSessId=zLErPfMsMr
 status: listed
 ---

@@ -120,6 +120,16 @@ def test_fallback_queries_include_street_without_club_name():
     assert street_i < city_i
 
 
+def test_woolston_place_alias_avoids_basingstoke_street():
+    assert g.normalize_place("Woolston") == "Woolston, Southampton"
+    data = {"place": "Woolston", "county": "Hampshire"}
+    address = g.build_address(data)
+    assert "Southampton" in address
+    assert "Woolston, Southampton" in g.fallback_queries(data, address)[0] or any(
+        "southampton" in q.lower() for q in g.fallback_queries(data, address)
+    )
+
+
 def test_map_www_string_slice_and_empty():
     assert g.map_www({"www": " shipyardrsongwriters.com/gigs "}) == "shipyardrsongwriters.com/gigs"
     assert g.map_www({"www": ["https://example.test", "ignored"]}) == "https://example.test"
@@ -136,6 +146,7 @@ def test_geocode_no_corpus_id_coord_seeding():
 def test_coords_from_uk_postcode(monkeypatch):
     class Resp:
         status_code = 200
+        content = b"{}"
 
         def raise_for_status(self):
             return None
@@ -147,6 +158,47 @@ def test_coords_from_uk_postcode(monkeypatch):
     monkeypatch.setattr(g.requests, "get", lambda *a, **k: Resp())
     hit = g.coords_from_uk_postcode("DY8 1EP")
     assert hit == {"lat": 52.45786, "lng": -2.146676}
+
+
+def test_coords_from_uk_postcode_uses_terminated_centroid(monkeypatch):
+    """Retired codes 404 live but still expose a last-known centroid."""
+
+    class Resp:
+        status_code = 404
+        content = b"{}"
+
+        def raise_for_status(self):
+            raise AssertionError("404 should not raise_for_status")
+
+        @staticmethod
+        def json():
+            return {
+                "status": 404,
+                "error": "Postcode not found",
+                "terminated": {
+                    "postcode": "DE1 1YS",
+                    "year_terminated": 2015,
+                    "latitude": 52.924629,
+                    "longitude": -1.48595,
+                },
+            }
+
+    monkeypatch.setattr(g.requests, "get", lambda *a, **k: Resp())
+    hit = g.coords_from_uk_postcode("DE1 1YS")
+    assert hit == {"lat": 52.924629, "lng": -1.48595}
+
+
+def test_coords_from_uk_postcode_404_without_terminated(monkeypatch):
+    class Resp:
+        status_code = 404
+        content = b"{}"
+
+        @staticmethod
+        def json():
+            return {"status": 404, "error": "Invalid postcode"}
+
+    monkeypatch.setattr(g.requests, "get", lambda *a, **k: Resp())
+    assert g.coords_from_uk_postcode("DE1 1YS") is None
 
 
 def test_street_address_drops_country_suffix():
@@ -179,3 +231,40 @@ def test_promote_coords_never_writes_pin_into_address():
     )
     assert street == ""
     assert pin == {"lat": 54.66370, "lng": -5.66544}
+
+
+def test_resolve_coords_tries_street_before_broad_cache(monkeypatch):
+    """A poisoned place+county cache must not skip an uncached street query."""
+    data = {
+        "venue": "Norden Farm Centre for the Arts",
+        "address": "Altwood Road",
+        "place": "Maidenhead",
+        "county": "Berkshire",
+    }
+    address = g.build_address(data)
+    cache = {
+        "locations": {
+            "maidenhead, berkshire, united kingdom": {
+                "address": "Maidenhead, Berkshire, United Kingdom",
+                "coordinates": {"lat": 51.4079651, "lng": -1.2830546},
+                "geocoded": True,
+            }
+        }
+    }
+    calls: list[str] = []
+
+    def fake_geocode(q: str):
+        calls.append(q)
+        if "Altwood" in q or "Norden Farm" in q:
+            return 51.5155436, -0.7460257
+        return None
+
+    monkeypatch.setattr(g, "geocode_query", fake_geocode)
+    monkeypatch.setattr(g.time, "sleep", lambda *_a, **_k: None)
+    coords, api_called, source = g.resolve_coords(data, address, cache=cache)
+    assert api_called
+    assert coords == {"lat": 51.5155436, "lng": -0.7460257}
+    assert "nominatim:" in source
+    assert calls, "expected a live geocode attempt for the street/venue query"
+    assert calls[0].lower().startswith("norden farm") or "altwood" in calls[0].lower()
+    assert "maidenhead, berkshire" not in calls[0].lower() or "altwood" in calls[0].lower()

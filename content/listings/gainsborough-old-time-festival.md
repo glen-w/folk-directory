@@ -6,7 +6,8 @@ event_types:
 - festival
 locations:
 - gainsborough
-county: London
+- lincolnshire
+county: Lincolnshire
 venue: Various
 address: ''
 place: Gainsborough

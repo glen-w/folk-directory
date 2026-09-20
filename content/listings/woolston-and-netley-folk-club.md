@@ -5,12 +5,16 @@ name: Woolston and Netley Folk Club
 event_types:
 - folk-club
 locations:
-- the-south-east
+- woolston
+- netley
+- hampshire
 county: Hampshire
 venue: ''
-address: ''
+address: Netley Abbey
 place: Woolston
 post_code: ''
+lat: 50.87607
+lng: -1.34872
 when: every Sunday evening with regular guests
 www: www.woolnetfolk.co.uk
 status: listed

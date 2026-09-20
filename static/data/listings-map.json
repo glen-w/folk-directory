@@ -1,17 +1,15 @@
 {
   "metadata": {
-    "generated_at": "2026-09-20T12:41:37.788110+00:00",
+    "generated_at": "2026-09-20T18:30:45.547107+00:00",
     "source": "folkdirectory-corpus",
     "total": 1380,
-    "geocoded": 1261,
-    "failed": 119,
+    "geocoded": 1356,
+    "failed": 24,
     "coarse_skips": 0,
-    "api_calls": 119,
-    "cache_hits": 360,
-    "postcode_hits": 617,
-    "body_coord_hits": 284,
-    "updated_at": "2026-09-20T12:43:26.194065+00:00",
-    "note": "surgical pin fixes after OpenCage compare"
+    "api_calls": 100,
+    "cache_hits": 358,
+    "postcode_hits": 634,
+    "body_coord_hits": 288
   },
   "locations": [
     {
@@ -245,8 +243,8 @@
       "event_type": "festival",
       "permalink": "/listings/alcester-folk-festival/",
       "coordinates": {
-        "lat": 52.2150202,
-        "lng": -1.8695764
+        "lat": 52.311873,
+        "lng": -1.937622
       },
       "geocoded": true,
       "status": "listed",
@@ -272,10 +270,10 @@
     {
       "id": 3739,
       "title": "Allen Valleys Folk Festival",
-      "venue": "Berry Brow Liberal Club",
+      "venue": "",
       "place": "Allendale",
       "description": "The festival is a small village-based event, booking about a dozen bands and artists for the festival weekend. The village hall and local church serve as the main music venues, each with an audience capacity of about…",
-      "address": "Berry Brow Liberal Club, 6 Parkgate, Huddersfield, Allendale, Northumberland, United Kingdom",
+      "address": "Allendale, Northumberland, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/allen-valleys-folk-festival/",
       "coordinates": {
@@ -329,8 +327,11 @@
       "address": "George and Dragon in Houghton, Amberley, West Sussex, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/amberley-acoustic/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.908911,
+        "lng": -0.5346514
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.amberleyacoustic.co.uk"
     },
@@ -649,8 +650,11 @@
       "address": "Newton Stewart, Dumfries and Galloway, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/autumn-trad-fest/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.959045,
+        "lng": -4.4836737
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.tradmusic.com/springgrass-bluegrass-music-festival.php"
     },
@@ -680,8 +684,11 @@
       "address": "Riddlesden Memorial Institute, Riddlesden Institute. Scott Lane, Riddlesden Keighley BD20 5BUden, Keighley, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/baccapipes-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.8684021,
+        "lng": -1.9020456
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.baccapipes.org.uk"
     },
@@ -797,8 +804,8 @@
       "event_type": "festival",
       "permalink": "/listings/banbury-folk-festival/",
       "coordinates": {
-        "lat": 52.0601807,
-        "lng": -1.3402795
+        "lat": 52.061536,
+        "lng": -1.327414
       },
       "geocoded": true,
       "status": "listed",
@@ -830,8 +837,11 @@
       "address": "Barnsley Civic Hall, Hanson Street, Milton Keynes, South Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/barnsley-acoustic-roots-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.0406502,
+        "lng": -0.7594092
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "myspace.com/barnsleyacoustic"
     },
@@ -841,11 +851,14 @@
       "venue": "The Old No7",
       "place": "Market Hill. Barnsley",
       "description": "",
-      "address": "The Old No7, The Old Nó 7, Market Hill. Barnsley, S70 1LF, South Yorkshire, United Kingdom",
+      "address": "The Old No7, The Old Nó 7, Market Hill. Barnsley, S70 2PX, South Yorkshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/barnsley-celtic-sessions/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.553034,
+        "lng": -1.481816
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -2053,8 +2066,11 @@
       "address": "Lord Nelson, Brighton, East Sussex, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/brighton-acoustic-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.788658,
+        "lng": 0.3062875
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.brightonacoustic.com"
     },
@@ -2084,8 +2100,11 @@
       "address": "The Folk House, 40a Park Street, Bristol, Kent, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/bristol-cajun-&-zydeco-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.4544734,
+        "lng": -2.6015465
+      },
+      "geocoded": true,
       "status": "defunct",
       "www": ""
     },
@@ -2115,8 +2134,11 @@
       "address": "Folk House, Bristol, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/bristol-folk-house/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.4544734,
+        "lng": -2.6015465
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.bristolfolkhouse.co.uk/live-music"
     },
@@ -2415,7 +2437,7 @@
       "venue": "",
       "place": "Bury St Edmunds",
       "description": "The 9th Bury St Edmunds Folk Festival is a one-day event held in the walled garden at Nowton Park this summer. The festival features craft stalls, children's activities, music workshops, hot food, and a bar with local…",
-      "address": "Bury St Edmunds, Greater Manchester, United Kingdom",
+      "address": "Bury St Edmunds, Suffolk, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/bury-folk-festival/",
       "coordinates": {
@@ -2554,8 +2576,11 @@
       "address": "Aberdeen, Aberdeenshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/cafe-drummond/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 57.3016088,
+        "lng": -2.2515426
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.ents24.com/web/venue/4420/Aberdeen/Cafe+Drummond.html"
     },
@@ -2670,8 +2695,11 @@
       "address": "London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cellar-upstairs/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5074456,
+        "lng": -0.1277653
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.cellarupstairs.org.uk"
     },
@@ -3211,8 +3239,11 @@
       "address": "Coal Aston Village Hall, Eckington Rd, Dronfield, Derbyshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/coal-aston-live/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3112147,
+        "lng": -1.4499843
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.scuppered.org/coal-aston-live-events"
     },
@@ -3276,8 +3307,11 @@
       "address": "Pelsall, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/common-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.6284169,
+        "lng": -1.9667399
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.commonfolk.co.uk"
     },
@@ -3406,8 +3440,11 @@
       "address": "Cornmarket, Old Ropery, Fenwick Street, Liverpool, Merseyside, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cornmarket-acoustic/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.387364,
+        "lng": -3.1849588
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -3420,8 +3457,11 @@
       "address": "Wadebridge, Cornwall, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/cornwall-folk-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.5171441,
+        "lng": -4.8340186
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "cornwallfolkfestival.com"
     },
@@ -3469,8 +3509,8 @@
       "event_type": "folk-club",
       "permalink": "/listings/cottingham-live-folk-club/",
       "coordinates": {
-        "lat": 53.7804805,
-        "lng": -0.4178553
+        "lat": 53.782144,
+        "lng": -0.415225
       },
       "geocoded": true,
       "status": "listed",
@@ -3553,8 +3593,11 @@
       "address": "Craigie Village Hall, Main Street, Craigie Village, By Kilmarnock, South Ayrshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/craigie-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 55.5919612,
+        "lng": -4.4874279
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.cultural-connections.co.uk/folk_club.html"
     },
@@ -3788,8 +3831,11 @@
       "address": "Croydon, London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/croydon-folk-and-blues-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.3736962,
+        "lng": -0.1003062
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.folkandblues.org/index.htm"
     },
@@ -3972,8 +4018,11 @@
       "address": "The Cwmdu Inn, Cwmdu, Llandeilo, Carmarthenshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cwmdu/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.9538465,
+        "lng": -3.9871735
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.cwmdu.org/clubs-groups"
     },
@@ -4037,8 +4086,11 @@
       "address": "The Woodside Hotel, High Street, Aberdour, Fife, KY3 0US, Fife, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/dalgety-bay-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 56.053342,
+        "lng": -3.3028767
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.dbfolkclub.co.uk"
     },
@@ -4406,8 +4458,8 @@
       "event_type": "folk-club",
       "permalink": "/listings/derby-heritage-traditional-folk-club-(gaol-folk-club)/",
       "coordinates": {
-        "lat": 51.5029954,
-        "lng": -0.0014602
+        "lat": 52.924629,
+        "lng": -1.48595
       },
       "geocoded": true,
       "status": "listed",
@@ -4558,8 +4610,11 @@
       "address": "The Bull, The Bull Price Street, Birmingham, Lancashire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/dh-folk-music-and-song-session-the-bull/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.4948994,
+        "lng": -1.8518439
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -4909,7 +4964,7 @@
       "venue": "The Dumbles Pub",
       "place": "Southwell",
       "description": "The Dumbles Folk Club welcomes all musicians, singers, poets and listeners. The club is a relaxed and friendly singaround group. Admission is free, and a free supper is kindly provided by the hosts Steve (Tink) and…",
-      "address": "The Dumbles Pub, Westhorpe, Southwell, Southwell, NG25 0ND, Nottinghamshire, United Kingdom",
+      "address": "The Dumbles Pub, Westhorpe, Southwell, NG25 0ND, Nottinghamshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/dumbles-folk-club/",
       "coordinates": {
@@ -5283,8 +5338,11 @@
       "address": "The Elsinore, Flowergate, Whitby, North Yorkshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/elsinore-tuesday-sessions/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.4865563,
+        "lng": -0.6165639
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -5464,7 +5522,7 @@
       "venue": "The White Hart",
       "place": "Grays",
       "description": "FAB Club is a Get a Floor Spot Folk Club. Anyone can turn up and perform a couple of numbers or just come to watch the show. The club is called FAB because anything remotely connected to folk, acoustic or blues music…",
-      "address": "The White Hart, King's Walk, Argent Street, Grays, Grays, RM17 6HR, Essex, United Kingdom",
+      "address": "The White Hart, King's Walk, Argent Street, Grays, RM17 6HR, Essex, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/fab/",
       "coordinates": {
@@ -5654,8 +5712,11 @@
       "address": "Stokes Barn, Much Wenlock, Shropshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/festival-at-the-edge/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.5955951,
+        "lng": -2.5578451
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -5804,8 +5865,11 @@
       "address": "Fishguard, Pembrokeshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/fishguard-folk-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.9938212,
+        "lng": -4.9764707
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "pembrokeshire-folk-music.co.uk"
     },
@@ -5818,8 +5882,11 @@
       "address": "The Royal Oak - The Globe, Fishguard, Pembrokeshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/fishguard-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.9938212,
+        "lng": -4.9764707
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "pembrokeshire-folk-music.co.uk"
     },
@@ -6019,8 +6086,11 @@
       "address": "Bristol, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-around-fishponds-bristol/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.4430141,
+        "lng": -2.5816622
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.folkaroundfishponds.org.uk"
     },
@@ -6030,12 +6100,12 @@
       "venue": "Norden Farm Centre for the Arts",
       "place": "Maidenhead",
       "description": "Folk at Norden Farm, Maidenhead Held at Norden Farm Centre for the Arts, Altwood Road, Maidenhead",
-      "address": "Norden Farm Centre for the Arts, Maidenhead, Berkshire, United Kingdom",
+      "address": "Norden Farm Centre for the Arts, Altwood Road, Maidenhead, Berkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-at-norden-farm-maidenhead/",
       "coordinates": {
-        "lat": 51.4079651,
-        "lng": -1.2830546
+        "lat": 51.5152123,
+        "lng": -0.7470914
       },
       "geocoded": true,
       "status": "listed",
@@ -6221,8 +6291,8 @@
       "event_type": "session",
       "permalink": "/listings/folk-at-the-tavern/",
       "coordinates": {
-        "lat": 53.54004,
-        "lng": -2.11844
+        "lat": 53.540037,
+        "lng": -2.118441
       },
       "geocoded": true,
       "status": "listed",
@@ -6322,8 +6392,11 @@
       "address": "Various venues in Canterbury, Canterbury, Kent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-in-the-barn/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.2800275,
+        "lng": 1.0802533
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.folkinthebarn.co.uk"
     },
@@ -6353,8 +6426,11 @@
       "address": "The Slaughtered Lamb, London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-in-the-cellar-4208/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5074456,
+        "lng": -0.1277653
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "folkinthecellar.co.uk"
     },
@@ -6384,8 +6460,11 @@
       "address": "London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-london/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5074456,
+        "lng": -0.1277653
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.folklondon.co.uk"
     },
@@ -6432,8 +6511,11 @@
       "address": "Salford, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-music-workshop/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.4877463,
+        "lng": -2.2891921
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.salfordfolkmusicplayers.org.uk"
     },
@@ -6947,11 +7029,14 @@
       "venue": "The Griffin Pub",
       "place": "Frome",
       "description": "",
-      "address": "The Griffin Pub, Milk Street, Frome, Devon, Frome, Devon, United Kingdom",
+      "address": "The Griffin Pub, Milk Street, Devon, Frome, Devon, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/frome-acoustic-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.2294852,
+        "lng": -2.3198467
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "myspace.com/163217654"
     },
@@ -7080,12 +7165,12 @@
       "venue": "Various",
       "place": "Gainsborough",
       "description": "",
-      "address": "Gainsborough, London, United Kingdom",
+      "address": "Gainsborough, Lincolnshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/gainsborough-old-time-festival/",
       "coordinates": {
-        "lat": 51.53598,
-        "lng": -0.0886685
+        "lat": 53.3995376,
+        "lng": -0.7758801
       },
       "geocoded": true,
       "status": "listed",
@@ -7284,8 +7369,11 @@
       "address": "Kennedy's, 297 Caledonian Rd, London, Much Wenlock, Shropshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/get-a-word-in-edgeways/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.5955951,
+        "lng": -2.5578451
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "gawiefest.co.uk"
     },
@@ -7465,12 +7553,12 @@
       "venue": "",
       "place": "Gloucester",
       "description": "Gloucester Folk Club , Gloucester Meets second Thursday of the month with occassional guests.",
-      "address": "Gloucester, West Midlands, United Kingdom",
+      "address": "Gloucester, Gloucestershire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/gloucester-folk-club/",
       "coordinates": {
-        "lat": 52.405214,
-        "lng": -1.9708282
+        "lat": 51.8653705,
+        "lng": -2.2458192
       },
       "geocoded": true,
       "status": "listed",
@@ -7587,8 +7675,11 @@
       "address": "Grashott Village Hall (and other venues), Headley Road, GRAYSHOTT, Nr. HINDHEAD, Surrey, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/grayshott-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.2715316,
+        "lng": -0.3414524
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.grayshottfolkclub.co.uk"
     },
@@ -7669,8 +7760,11 @@
       "address": "Greenbank Folk Club, Bristol, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/greenbank-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.4430141,
+        "lng": -2.5816622
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.greenbankfolkclub.co.uk"
     },
@@ -7700,8 +7794,11 @@
       "address": "London, Greater London, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/greensleeves-morris-ring-meeting/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5074456,
+        "lng": -0.1277653
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "themorrisring.org"
     },
@@ -7714,8 +7811,11 @@
       "address": "Nets Bar (Formerly Gregson Lane S & C Club), Gregson Lane, Preston, Lancashire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/gregson-lane-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.731576,
+        "lng": -2.6191133
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.gregsonlane.co.uk"
     },
@@ -7745,8 +7845,11 @@
       "address": "Grove Inn, Leeds, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/grove-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.7909301,
+        "lng": -1.5479187
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "grovefolkclub.org.uk"
     },
@@ -7759,8 +7862,11 @@
       "address": "Les Rocquettes Hotel, St Peter Port, Guernsey, GY1 1RN, Channel Islands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/guernsey-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 57.1669969,
+        "lng": -7.374733
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -8028,8 +8134,11 @@
       "address": "Harberton, Devon, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/harberton-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.4116638,
+        "lng": -3.7239172
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.harbertonfolk.co.uk"
     },
@@ -8124,7 +8233,7 @@
       "venue": "The Devonshire Arms",
       "place": "Hartington",
       "description": "",
-      "address": "The Devonshire Arms, Market Place, Hartington, Hartington, SK17 0AL, Derbyshire, United Kingdom",
+      "address": "The Devonshire Arms, Market Place, Hartington, SK17 0AL, Derbyshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/hartington-folk-club/",
       "coordinates": {
@@ -8348,8 +8457,11 @@
       "address": "The Sage, St Mary's Sq, Hexham, Tyne and Wear, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/hexham-gathering/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.8953549,
+        "lng": -1.5527327
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "thesagegateshead.org/folkworks"
     },
@@ -8394,8 +8506,8 @@
       "event_type": "festival",
       "permalink": "/listings/holmfirth-festival-of-folk/",
       "coordinates": {
-        "lat": 53.5703517,
-        "lng": -1.7870301
+        "lat": 53.57027,
+        "lng": -1.788017
       },
       "geocoded": true,
       "status": "listed",
@@ -9124,8 +9236,11 @@
       "address": "Katie Fitzgeralds, Stourbridge, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/katie-fitzgeralds/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.4581784,
+        "lng": -2.1577953
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.katiefitzgeralds.co.uk"
     },
@@ -9410,8 +9525,11 @@
       "address": "Polish Ex-Servicemen's Club, Bennochy House, Bennochy Court, Kirkcaldy, Fife, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/kirkaldy-acoustic-music-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 56.1110218,
+        "lng": -3.1582296
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "kirkcaldyacousticmusicclub.co.uk"
     },
@@ -9419,13 +9537,16 @@
       "id": 3780,
       "title": "Kirkby in Ashfield Folk and Acoustic Club",
       "venue": "Duke of Wellington",
-      "place": "Notts",
+      "place": "Kirkby in Ashfield",
       "description": "",
-      "address": "Duke of Wellington, Church Street, Kirkby In Ashfield, Notts, S70 1LF, Nottinghamshire, United Kingdom",
+      "address": "Duke of Wellington, Church Street, Kirkby in Ashfield, NG17 8LA, Nottinghamshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/kirkby-in-ashfield-folk-and-acoustic-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.09939,
+        "lng": -1.269301
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -9591,8 +9712,11 @@
       "address": "Tite and Locke (Public House), Station Rd, Lancaster, LA1 5NW, Lancashire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lancaster-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.048795,
+        "lng": -2.80715
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -9826,8 +9950,11 @@
       "address": "Lewes, East Sussex, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/lewes-folk-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.8746139,
+        "lng": 0.0051153
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "lewesfolkfest.org"
     },
@@ -9922,8 +10049,11 @@
       "address": "Halesowen, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lighthouse-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.4492074,
+        "lng": -2.0514646
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.lighthouse-folk.org.uk"
     },
@@ -9950,7 +10080,7 @@
       "venue": "The Unison Club",
       "place": "Lincoln",
       "description": "The annual Lincoln Folk Festival, which has run for 25 years in the city of Lincoln, UK, is no more. Instead, regular concerts are held throughout the year, with a 'Grand Concert' (this is the 'plus one').",
-      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
+      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lincoln's-folk-in-the-cellar-plus-one/",
       "coordinates": {
@@ -9984,7 +10114,7 @@
       "venue": "The Unison Club",
       "place": "Lincoln",
       "description": "Beaumont Manor is adjacent to City Hall Car Park. The Lounge Bar is on the ground floor, with access via the rear doorway. A selection of hot meals and snacks is available at the fully licensed bar. The club is 'all…",
-      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
+      "address": "The Unison Club, Beaumont Manor, Beaumont Fee, Lincoln, LN1 1UL, Lincolnshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lincoln-folk-club/",
       "coordinates": {
@@ -10072,8 +10202,11 @@
       "address": "Liverpool, Merseyside, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/liverpool-sea-shanty-session/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.387364,
+        "lng": -3.1849588
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.liverpoolseashanty.co.uk"
     },
@@ -10324,8 +10457,11 @@
       "address": "Crindau Constitutional Club, 45 Malpas Rd, Newport, NP12 5PJ, Newport, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/lyceum-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5984758,
+        "lng": -3.0005281
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.lyceumfolknewport.org.uk"
     },
@@ -10488,8 +10624,11 @@
       "address": "The Magazine Hotel, Magazine Lane, New Brighton, Merseyside, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/magazine-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.4322195,
+        "lng": -3.041357
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -10621,8 +10760,11 @@
       "address": "Manchester, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/manchester-folk-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.4424618,
+        "lng": -2.2324547
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "manchesterfolk.com"
     },
@@ -11037,7 +11179,7 @@
       "venue": "",
       "place": "Bolton Castle and Redmire",
       "description": "An annual medieval music festival wholly dedicated to medieval music-making. It's unique in the UK. A major event in the early music calendar - a weekend dedicated solely to the music of the middle ages.",
-      "address": "Bolton Castle and Redmire, Greater Manchester, United Kingdom",
+      "address": "Bolton Castle and Redmire, North Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/medieval-music-in-the-dales/",
       "coordinates": {
@@ -11091,8 +11233,11 @@
       "address": "Mellor Brook, Lancashire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/mellor-brook-fiddle-day/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.7755289,
+        "lng": -2.5468214
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "fiddlemusic.co.uk"
     },
@@ -11629,7 +11774,7 @@
       "venue": "Oast House Community Centre",
       "place": "Rainham",
       "description": "",
-      "address": "Oast House Community Centre, Granary Close, Rainham, Rainham, ME8 7SG, Kent, United Kingdom",
+      "address": "Oast House Community Centre, Granary Close, Rainham, ME8 7SG, Kent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/moore-or-less-folk-club/",
       "coordinates": {
@@ -12303,7 +12448,7 @@
       "venue": "The New Inn",
       "place": "Pontblyddyn",
       "description": "New Inn Folk Club, Pontblyddyn. The club meets on Tuesdays in Pontblyddyn, Mold, Clwyd.",
-      "address": "The New Inn, Pontblyddyn, Gloucestershire, United Kingdom",
+      "address": "The New Inn, Pontblyddyn, Flintshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/new-inn-dursley/",
       "coordinates": {
@@ -12340,8 +12485,11 @@
       "address": "Newport Fugitives Athletic Club, High Cross Road, Newport, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/newport-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5886713,
+        "lng": -3.0414877
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.newportfolkclub.co.uk"
     },
@@ -12371,8 +12519,11 @@
       "address": "Claptrap the Venue, High Street, Stourbridge, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/next-level-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.4553183,
+        "lng": -2.1440432
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "nextlevelfolk.com"
     },
@@ -12436,8 +12587,11 @@
       "address": "Various pubs on the bus route between Bolton and Wigan, Bolton and Wigan, Greater Manchester, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/no-7-tuesday-session/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.5625364,
+        "lng": -2.5702003
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -12484,8 +12638,11 @@
       "address": "North Shropshire, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/north-shropshire-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.0617024,
+        "lng": -2.6979811
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.northshropshirefolk.com"
     },
@@ -12549,8 +12706,11 @@
       "address": "Jurnets Bar, Wensum Lodge, King Street, Norwich, NR1 1QW, Norfolk, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/norwich-music-house/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.62423,
+        "lng": 1.303163
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -12580,8 +12740,11 @@
       "address": "Bristol, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/nova-scotia-folk-club-bristol/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.4430141,
+        "lng": -2.5816622
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.novascotiafolkclub.co.uk"
     },
@@ -12798,8 +12961,11 @@
       "address": "Baltic Fleet, Liverpool, Merseyside, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/off-the-starboard-bow/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.387364,
+        "lng": -3.1849588
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.trimrigdoxy.com/offthestarboardbow/index.html"
     },
@@ -12945,7 +13111,7 @@
       "venue": "Orpington Liberal Hall",
       "place": "Orpington",
       "description": "",
-      "address": "Orpington Liberal Hall, 7 Station Road, Orpington, BR6 ORZ, Orpington, Kent, United Kingdom",
+      "address": "Orpington Liberal Hall, 7 Station Road, BR6 ORZ, Orpington, Kent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/orpington-friday-folk/",
       "coordinates": {
@@ -13000,8 +13166,8 @@
       "event_type": "festival",
       "permalink": "/listings/otley-black-sheep-folk-festival/",
       "coordinates": {
-        "lat": 53.9055083,
-        "lng": -1.6938874
+        "lat": 53.904831,
+        "lng": -1.691692
       },
       "geocoded": true,
       "status": "listed",
@@ -13319,8 +13485,11 @@
       "address": "Shottstown Miners Club, 165 John Street, EH26 8A, Penicuik, Midlothian, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/penicuik-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 55.827236,
+        "lng": -3.2218145
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.penicuikfolk.org.uk"
     },
@@ -13351,8 +13520,8 @@
       "event_type": "folk-club",
       "permalink": "/listings/penzance-folk-club/",
       "coordinates": {
-        "lat": 50.11405,
-        "lng": -5.53877
+        "lat": 50.114052,
+        "lng": -5.538774
       },
       "geocoded": true,
       "status": "listed",
@@ -13367,8 +13536,11 @@
       "address": "Peppard War Memorial Hall, Gallowstree Road, Peppard Common, Henley-on-Thames, Oxfordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/peppard-unplugged/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5375786,
+        "lng": -0.9050287
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -13497,8 +13669,11 @@
       "address": "The Pilgrim Centre, Dale Street, Craven Arms, SY7 9NY7, Shropshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/play-it-by-ear/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.0131742,
+        "lng": -2.5247441
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.kittygreenwoodmusic.com"
     },
@@ -13580,8 +13755,8 @@
       "event_type": "folk-club",
       "permalink": "/listings/pot-glass-folk-acoustic/",
       "coordinates": {
-        "lat": 54.51162,
-        "lng": -1.3506
+        "lat": 54.511617,
+        "lng": -1.350598
       },
       "geocoded": true,
       "status": "listed",
@@ -13630,8 +13805,11 @@
       "address": "Church Inn, Church Inn, Church Lane, Bury New Rd, Prestwich, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/prestwich-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.5304274,
+        "lng": -2.2960186
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -13729,8 +13907,11 @@
       "address": "Quay Arts Centre, 15 Sea Street, Newport Harbour, Isle of Wight, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/quay-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.6710825,
+        "lng": -1.3328043
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -14046,8 +14227,11 @@
       "address": "Ffordd Las Community Centre, Ffordd Las community Centre, Ffordd Las Rd, Rhyl, Denbighshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/rhyl-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3207425,
+        "lng": -3.4907258
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "rhylfolkclub.com"
     },
@@ -14686,8 +14870,11 @@
       "address": "Fagans, 69 Broad Lane, Sheffield, South Yorkshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/saturday-night-session-at-fagans/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3830536,
+        "lng": -1.4763104
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -14901,8 +15088,11 @@
       "address": "Scarborough, North Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/seafest/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.2820009,
+        "lng": -0.4011868
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "seafest.org.uk"
     },
@@ -15000,8 +15190,11 @@
       "address": "Dolgellau, Gwynedd, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/sesiwn-fawr-dolgellau/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.7426873,
+        "lng": -3.8855673
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "sesiwnfawr.cymru/en/home"
     },
@@ -15011,7 +15204,7 @@
       "venue": "Various",
       "place": "Dolgellau",
       "description": "",
-      "address": "Dolgellau, Gwynedd, Dolgellau, LL40 1AB, Gwynedd, United Kingdom",
+      "address": "Gwynedd, Dolgellau, LL40 1AB, Gwynedd, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/sesiwn-ioan-rhagfyr/",
       "coordinates": {
@@ -15133,8 +15326,11 @@
       "address": "Bull Hotel, Stony Stratford, Buckinghamshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/session-at-bull-hotel/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.0567532,
+        "lng": -0.8525831
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "myspace.com/stonysecondtuesday"
     },
@@ -16524,8 +16720,11 @@
       "address": "Sheffield, South Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/sheffield-folk-sessions/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3806626,
+        "lng": -1.4702278
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.sheffieldfolksessionsfestival.co.uk"
     },
@@ -16538,8 +16737,11 @@
       "address": "Shenanigans, 77 Tithebarn Street, Liverpool L2 3EN, 77 Tithebarn Street, Liverpool, L2 3EN, Merseyside, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/shenanigans-liverpool-irish-traditional-session/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.387364,
+        "lng": -3.1849588
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -16570,8 +16772,8 @@
       "event_type": "festival",
       "permalink": "/listings/shepley-spring-festival/",
       "coordinates": {
-        "lat": 53.5887533,
-        "lng": -1.7048254
+        "lat": 53.586782,
+        "lng": -1.628916
       },
       "geocoded": true,
       "status": "listed",
@@ -17181,8 +17383,11 @@
       "address": "Staines, Surrey, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/staines-folk-and-blues-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.434012,
+        "lng": -0.511044
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.stainesfolkandblues.org.uk"
     },
@@ -17331,8 +17536,11 @@
       "address": "Bishop's Stortford, Hertfordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/stortfolk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.8676279,
+        "lng": 0.1631961
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.beerfordbury.com"
     },
@@ -17515,8 +17723,11 @@
       "address": "The Gas Lamp, 50 Bridge Street, Manchester, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/sunday-singaround/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.4424618,
+        "lng": -2.2324547
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -17580,8 +17791,11 @@
       "address": "Sutton Cricket Club, Gander Green Lane, Sutton, Greater London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/sutton-acoustic-music-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.3613329,
+        "lng": -0.2056045
+      },
+      "geocoded": true,
       "status": "defunct",
       "www": ""
     },
@@ -17594,8 +17808,11 @@
       "address": "Sutton, Greater London, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/sutton-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.3574426,
+        "lng": -0.1736053
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "myweb.tiscali.co.uk/markii/suttonfolk.htm"
     },
@@ -18730,8 +18947,11 @@
       "address": "The Chemic Tavern, 9 Johnston Street, Leeds, West Yorkshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/the-chemic-wednesday-irish-session/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.8145116,
+        "lng": -1.5528725
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -19272,8 +19492,8 @@
       "event_type": "festival",
       "permalink": "/listings/the-gate-to-southwell-folk-festival/",
       "coordinates": {
-        "lat": 53.0782513,
-        "lng": -0.9550786
+        "lat": 53.074604,
+        "lng": -0.814291
       },
       "geocoded": true,
       "status": "listed",
@@ -19424,8 +19644,11 @@
       "address": "Halsway Manor, Leeds, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-grove-folk-club-leeds/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.7974185,
+        "lng": -1.5437941
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.folkatthegrove.co.uk"
     },
@@ -19659,8 +19882,11 @@
       "address": "Glossop, Derbyshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-lift-global-music-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.4433552,
+        "lng": -1.9499173
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "liftglobal.com"
     },
@@ -20268,8 +20494,11 @@
       "address": "Edinburgh, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/the-queens-hall/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 55.9533456,
+        "lng": -3.1883749
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.thequeenshall.net"
     },
@@ -20452,8 +20681,11 @@
       "address": "Harnham Social Club, Pitt Street, Sheffield, Salisbury, Hampshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-salisbury/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.0414917,
+        "lng": -1.6350309
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -20599,7 +20831,7 @@
       "venue": "The Tiger Inn",
       "place": "Long Eaton",
       "description": "The club is very friendly and has an excellent PA system, mics, monitors and sound desk, giving the best sound for both performer and audience. Entrance is one pound, which includes an enjoyable night's entertainment…",
-      "address": "The Tiger Inn, Long Eaton, Nottingham, Long Eaton, NG10 1BG, Nottinghamshire, United Kingdom",
+      "address": "The Tiger Inn, Nottingham, Long Eaton, NG10 1BG, Nottinghamshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-spinning-jenny-folk-club/",
       "coordinates": {
@@ -20619,8 +20851,11 @@
       "address": "The Sportsman, 1 St Johns Rd, Huddersfield, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-sportsman-music-night/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.6503153,
+        "lng": -1.7842059
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -20803,8 +21038,11 @@
       "address": "Kent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/the-travelling-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.2070749,
+        "lng": 0.7210362
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.travellingfolk.co.uk"
     },
@@ -21154,8 +21392,11 @@
       "address": "Berry Brow Liberal Club, 6 Parkgate, Huddersfield, West Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/third-thursday-acoustic/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.5957575,
+        "lng": -1.6196446
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -21270,8 +21511,11 @@
       "address": "The Gregson Arts and Community Centre, 38 Moorgate, Lancaster, Lancashire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/thursday-session/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.0483489,
+        "lng": -2.7937466
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -21720,8 +21964,11 @@
       "address": "The Humber pub, Humber Road, Coventry, West Midlands, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/tump-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.3931611,
+        "lng": -1.4837185
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -21802,8 +22049,11 @@
       "address": "Longside Football Social Club, Davidson Park, Longside, Aberdeenshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/ugie-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 57.5178437,
+        "lng": -1.9377708
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.ugiefolk.co.uk"
     },
@@ -21813,11 +22063,14 @@
       "venue": "various",
       "place": "Sheffield",
       "description": "",
-      "address": "Stannington, Sheffield, Sheffield, South Yorkshire, United Kingdom",
+      "address": "Stannington, Sheffield, South Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/uk-sacred-harp-convention/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3937523,
+        "lng": -1.5406848
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -22184,7 +22437,7 @@
       "venue": "The Rose & Crown",
       "place": "St Albans",
       "description": "non-smoking-crisp-crunching-walking-talking-mobile-phone-ringing-in-yer-face-folk-club",
-      "address": "The Rose & Crown, Fishpool Street, St Albans, St Albans, AL3 4RU, Herefordshire, United Kingdom",
+      "address": "The Rose & Crown, Fishpool Street, St Albans, AL3 4RU, Herefordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/wandering-windward-st.-albans-folk-song-club/",
       "coordinates": {
@@ -22204,8 +22457,11 @@
       "address": "The Bulls Head, Church Street, Warrington, Cheshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/warrington-singers-night/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.3905608,
+        "lng": -2.5828038
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -22490,8 +22746,11 @@
       "address": "Whitby, North Yorkshire, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/whitby-folk-week/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.4866526,
+        "lng": -0.6135315
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "whitbyfolk.co.uk"
     },
@@ -22555,8 +22814,11 @@
       "address": "The White Hart, 19 The Ln, Mickleby, Saltburn-by-the-Sea, North Yorkshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/white-hart-folk/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 54.5055416,
+        "lng": -0.7623289
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.whitehartfolkclub.weebly.com"
     },
@@ -22685,7 +22947,7 @@
       "venue": "The Royal Native Oyster Stores",
       "place": "Whitstable",
       "description": "“But I don’t like folk music ...” Don’t worry. Our definition “But I don’t like folk music ...” Don’t worry. Our definition of folk music is broad and takes in everything from a traditional English ballad to…",
-      "address": "The Royal Native Oyster Stores, Horsebridge Road, Whitstable, Whitstable, CT5 1BU, Kent, United Kingdom",
+      "address": "The Royal Native Oyster Stores, Horsebridge Road, Whitstable, CT5 1BU, Kent, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/whitstable-folk-nights/",
       "coordinates": {
@@ -22790,8 +23052,11 @@
       "address": "The Harvesters Inn, Church Road, Long Itchington, Southam, Warwickshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/willow-tool-s-music-parlour/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 52.253094,
+        "lng": -1.3884119
+      },
+      "geocoded": true,
       "status": "listed",
       "www": ""
     },
@@ -22838,8 +23103,11 @@
       "address": "Wimborne, Dorset, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/wimborne-minster-folk-festival/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.7995189,
+        "lng": -1.987339
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "wmff.co.uk"
     },
@@ -22951,11 +23219,14 @@
       "venue": "",
       "place": "Woolston",
       "description": "Woolston and Netley Folk Club, Netley Abbey, Hampshire. Meets every Sunday evening with regular guests.",
-      "address": "Woolston, Hampshire, United Kingdom",
+      "address": "Netley Abbey, Woolston, Southampton, Hampshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/woolston-and-netley-folk-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 50.87607,
+        "lng": -1.34872
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.woolnetfolk.co.uk"
     },
@@ -23033,11 +23304,14 @@
       "venue": "Pub - The Nag's Head. Every first and third Thursday of the month from October to Junem",
       "place": "Wrexham",
       "description": "",
-      "address": "Pub - The Nag's Head. Every first and third Thursday of the month from October to Junem, The Nag's Head, Mount Street, Wrexham, Wrexham, United Kingdom",
+      "address": "Pub - The Nag's Head. Every first and third Thursday of the month from October to Junem, The Nag's Head, Mount Street, Wrexham, LL13 8DW, Wrexham, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/wrexham-folk-acoustic-club/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 53.043719,
+        "lng": -2.990777
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.wrexhamfolkacoustic.club"
     },
@@ -23118,8 +23392,11 @@
       "address": "London, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/young-banker/",
-      "coordinates": null,
-      "geocoded": false,
+      "coordinates": {
+        "lat": 51.5074456,
+        "lng": -0.1277653
+      },
+      "geocoded": true,
       "status": "listed",
       "www": "www.efdss.org"
     }

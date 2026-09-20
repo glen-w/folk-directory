@@ -5,12 +5,13 @@ name: Kirkby in Ashfield Folk and Acoustic Club
 event_types:
 - folk-club
 locations:
-- notts
+- kirkby-in-ashfield
+- nottinghamshire
 county: Nottinghamshire
 venue: Duke of Wellington
-address: Church Street, Kirkby In Ashfield
-place: Notts
-post_code: S70 1LF
+address: Church Street
+place: Kirkby in Ashfield
+post_code: NG17 8LA
 when: Friday, 2nd in Month
 www: ''
 status: listed
