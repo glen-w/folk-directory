@@ -23,12 +23,14 @@
     <p class="home-hero-lead">Find UK &amp; Ireland folk clubs, sessions &amp; festivals</p>
     <nav class="home-hero-chips" aria-label="Filter map by type">
       <button type="button" class="home-hero-chip home-hero-chip--all is-active" data-map-type="" aria-pressed="true">All events ({{ len $listings }})</button>
-      {{- range $typeMeta -}}
-        {{- $n := index $counts .slug | default 0 -}}
-        {{- if gt $n 0 -}}
-        <button type="button" class="home-hero-chip home-hero-chip--{{ .slug }}" data-map-type="{{ .slug }}" aria-pressed="false"><img class="home-hero-chip-icon" src="{{ .icon }}" alt="" width="16" height="16" aria-hidden="true">{{ .noun | title }} ({{ $n }})</button>
+      <div class="home-hero-chips-types">
+        {{- range $typeMeta -}}
+          {{- $n := index $counts .slug | default 0 -}}
+          {{- if gt $n 0 -}}
+          <button type="button" class="home-hero-chip home-hero-chip--{{ .slug }}" data-map-type="{{ .slug }}" aria-pressed="false"><img class="home-hero-chip-icon" src="{{ .icon }}" alt="" width="16" height="16" aria-hidden="true">{{ .noun | title }} ({{ $n }})</button>
+          {{- end -}}
         {{- end -}}
-      {{- end -}}
+      </div>
     </nav>
   </header>
 
