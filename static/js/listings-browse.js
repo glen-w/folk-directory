@@ -10,6 +10,21 @@
     defaultSort: "title",
   };
 
+  const TYPE_PLACEHOLDER_LOGOS = {
+    "folk-club": "/images/logo/icon-folk-club.svg",
+    session: "/images/logo/icon-session.svg",
+    festival: "/images/logo/icon-festival.svg",
+    dance: "/images/logo/icon-dance.svg",
+  };
+
+  function placeholderForType(typeSlug, siteFallback) {
+    return (
+      TYPE_PLACEHOLDER_LOGOS[typeSlug] ||
+      siteFallback ||
+      DEFAULTS.placeholderLogo
+    );
+  }
+
   function slugToLabel(value) {
     return String(value || "")
       .split("-")
@@ -367,7 +382,7 @@
         '<p class="listings-empty">No matches — try another county or <a href="/submit/">Submit a listing</a>.</p>';
       return;
     }
-    const fallback = placeholderLogo || DEFAULTS.placeholderLogo;
+    const siteFallback = placeholderLogo || DEFAULTS.placeholderLogo;
     root.innerHTML = items
       .map((item) => {
         const typeSlug =
@@ -375,6 +390,7 @@
             ? String(item.event_types[0])
             : "";
         const typeLabel = typeSlug ? slugToLabel(typeSlug) : "";
+        const fallback = placeholderForType(typeSlug, siteFallback);
         const where = placeLine(item);
         const when = String(item.when || "").trim();
         const mapUrl = where ? mapsHref(item, where) : "";

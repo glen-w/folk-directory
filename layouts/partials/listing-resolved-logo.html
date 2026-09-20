@@ -1,13 +1,24 @@
 {{/*
   Resolve a listing logo path.
   Uses Params.logo only when the file exists under static/.
-  Otherwise falls back to the Folk Directory icon.
+  Otherwise falls back to a type icon (folk-club / session / festival / dance),
+  or the Folk Directory icon when type is unknown.
 
   Returns dict:
     src           string  — URL path for <img src>
-    isPlaceholder bool    — true when using the site placeholder
+    isPlaceholder bool    — true when using a site/type placeholder
 */}}
-{{- $placeholder := "/images/logo/folk-directory-icon.png" -}}
+{{- $siteFallback := "/images/logo/folk-directory-icon.png" -}}
+{{- $typeIcons := dict
+  "folk-club" "/images/logo/icon-folk-club.svg"
+  "session" "/images/logo/icon-session.svg"
+  "festival" "/images/logo/icon-festival.svg"
+  "dance" "/images/logo/icon-dance.svg"
+-}}
+{{- $types := .Params.event_types | default slice -}}
+{{- if not (reflect.IsSlice $types) -}}{{- $types = slice $types -}}{{- end -}}
+{{- $type := index $types 0 | default "" | printf "%v" -}}
+{{- $placeholder := index $typeIcons $type | default $siteFallback -}}
 {{- $src := $placeholder -}}
 {{- $isPlaceholder := true -}}
 {{- with .Params.logo -}}
