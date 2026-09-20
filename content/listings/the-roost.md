@@ -20,4 +20,4 @@ www: roostmaynooth.ie
 status: listed
 ---
 
-Good session in a great bar
+A session in a bar.

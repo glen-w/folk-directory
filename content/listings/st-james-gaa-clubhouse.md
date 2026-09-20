@@ -20,4 +20,4 @@ logo: /images/listings/st_james_gaa_clubhouse_logo_7163.png
 status: listed
 ---
 
-Generally an older crowd and slower pace - good learning environment. Supportive group.
+Generally an older crowd and a slower pace, making it a good learning environment. A supportive group.

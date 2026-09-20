@@ -17,4 +17,4 @@ www: flutefling.scot/scottish-flute-events/edinburgh-flutefling-2026
 status: listed
 ---
 
-Traditional flutes and whistles in Scotland. FluteFling classes, workshops and weekends provide opportunities for people to learn and develop traditional skills on the whistle and flute in a Scottish setting. Not quite a festival, but for those interested in traditional flute music, it is a big thing. Event nearly sold out, you'd better be quick!
+Traditional flutes and whistles in Scotland. FluteFling classes, workshops and weekends provide opportunities for people to learn and develop traditional skills on the whistle and flute in a Scottish setting. Not quite a festival, but a significant event for those interested in traditional flute music.

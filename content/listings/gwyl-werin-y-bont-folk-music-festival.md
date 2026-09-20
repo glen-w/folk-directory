@@ -18,4 +18,4 @@ email: efanmiles@gmail.com
 status: listed
 ---
 
-An afternoon and evening event, featuring Welsh musicians. New to our lists this year.
+An afternoon and evening event featuring Welsh musicians.

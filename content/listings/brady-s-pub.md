@@ -15,6 +15,7 @@ place: Maynooth
 post_code: W23 PY93
 lat: 53.3817
 lng: -6.59057
+when: Monthly, 2nd & 4th Wednesday
 www: www.ccemhaighnuad.com
 email: eolas@ccemaighnuad.com
 logo: /images/listings/brady_s_pub_logo_7187.png

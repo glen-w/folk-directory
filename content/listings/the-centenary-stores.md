@@ -19,4 +19,4 @@ www: thestores.ie
 status: listed
 ---
 
-Sorry it hasn't been listed before. Sometimes outdoors on the street in summer weather permitting.
+Sometimes held outdoors on the street in summer, weather permitting.

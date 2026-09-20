@@ -18,4 +18,4 @@ email: mauiwauievents@gmail.com
 status: listed
 ---
 
-Not strictly a folk event. A mixture of styles and events that some of you may be interested in. A bit like Breaded Theory they say.
+Not strictly a folk event. A mixture of styles and events, described as similar to Breaded Theory.

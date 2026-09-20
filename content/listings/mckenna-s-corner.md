@@ -13,9 +13,9 @@ venue: McKenna's Corner
 address: ''
 place: The Diamond, Clones
 post_code: ''
-when: Saturday, 21:30
+when: Weekly, Saturday, 9:30pm
 www: ''
 status: listed
 ---
 
-In the heart of Clones — Ulster final Saturday, this is where the county congregates. The session runs all year, but the post-match Saturdays in Croke Park summer are something else.
+A session in Clones that runs throughout the year. It is particularly well attended on Ulster final Saturdays and on post-match Saturdays during the Croke Park summer, when players from across the county gather.

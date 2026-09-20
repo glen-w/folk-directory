@@ -21,4 +21,4 @@ logo: /images/listings/the_cobblestone_pub_logo_7226.png
 status: listed
 ---
 
-A great place to hear music with most of the participants playing to a high standard.
+A good place to hear music, with most participants playing to a high standard.

@@ -18,4 +18,4 @@ www: www.facebook.com/killalabayfolk
 status: listed
 ---
 
-Killala Bay Folk Club, Co Mayo The Killala Bay Folk Club began in October 2016, and meets on the first Friday of every month in The Far Side @ Johnny Lynns, Killala, Co. Mayo, from 9-11pm. Singers, musicians, storytellers and listeners all welcome. See for information on monthly club nights, upcoming events etc.
+The Killala Bay Folk Club began in October 2016 and meets on the first Friday of every month in The Far Side, Johnny Lynns, Killala, Co. Mayo, from 9–11 pm. Singers, musicians, storytellers and listeners are all welcome.

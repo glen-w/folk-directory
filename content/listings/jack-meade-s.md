@@ -13,9 +13,9 @@ venue: Jack Meade's
 address: ''
 place: Cheekpoint Road, Waterford
 post_code: ''
-when: Sunday, 15:00
+when: Weekly, Sunday, 3:00pm
 www: ''
 status: listed
 ---
 
-Under a 15th-century bridge on the River Suir. Sunday afternoon sessions in the beer garden when it's fine, inside when it's not. One of the most unusual pub settings in Ireland.
+Under a 15th-century bridge on the River Suir. Sunday afternoon sessions in the beer garden in fair weather, inside otherwise. One of the most unusual pub settings in Ireland.

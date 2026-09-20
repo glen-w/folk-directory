@@ -20,4 +20,4 @@ email: info@mchughsbar.com
 status: listed
 ---
 
-This has started as a result of some Belfast traddies from BelfastTrad.org who aren't pros yet wanting a session they can swap tunes and play together in. It started on November 29th 2009.
+McHugh's is a session for Belfast trad players from BelfastTrad.org who are not yet professional, providing a space to swap tunes and play together. It began on 29 November 2009.

@@ -19,4 +19,4 @@ www: www.islandviewhotel.ie
 status: listed
 ---
 
-What can I say? This is a particularly friendly group of regular players. They are very accomplished, almost to a man, being a bit grey on the top, they have years of experience playing this music they were raised on.
+The regular players at Oscar Taylor's are a friendly, accomplished group, mostly older men with years of experience playing the traditional music they grew up with.

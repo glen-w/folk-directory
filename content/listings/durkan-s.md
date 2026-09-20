@@ -13,7 +13,7 @@ venue: Durkan's
 address: ''
 place: Castlebar
 post_code: ''
-when: Friday, 21:00
+when: Weekly, Friday, 9:00pm
 www: ''
 status: listed
 ---

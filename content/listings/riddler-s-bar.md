@@ -18,4 +18,4 @@ www: irish-fiddler.com
 status: listed
 ---
 
-This session is for those who are yet to brave the average Limerick session but definitely have their sights set upon it.
+This session is for those who are yet to brave the average Limerick session but have their sights set upon it.

@@ -13,7 +13,7 @@ venue: The Hibernian Bar
 address: ''
 place: Ormonde Street
 post_code: ''
-when: Tuesday, 21:00
+when: Weekly, Tuesday, 9:00pm
 www: ''
 status: listed
 ---

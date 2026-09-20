@@ -15,7 +15,7 @@ place: Navan
 post_code: C15 YX00
 lat: 53.65269
 lng: -6.68501
-when: Wednesday, 21:00
+when: Weekly, Wednesday, 9:00pm
 www: thecentral.ie
 email: everything@thecentral.ie
 status: listed

@@ -21,4 +21,4 @@ email: info@shamrockinn.ie
 status: listed
 ---
 
-Had a "trad session" sign up outside the hotel pub, so I thought I'd check it out. Started between 9:30 PM and 10:00 PM with fiddler, box player and keyboard player.
+A trad session takes place in the hotel pub, starting between 9:30 PM and 10:00 PM, with fiddler, box player and keyboard player.

@@ -20,4 +20,4 @@ www: maddensbridgebar.com
 status: listed
 ---
 
-friendly, suitable for all musicians,
+Friendly and suitable for all musicians.

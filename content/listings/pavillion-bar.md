@@ -20,4 +20,4 @@ www: www.laverysbelfast.com/thepavilion/index.asp
 status: listed
 ---
 
-Good craic and free pints for musicians.
+A welcoming bar offering free pints for musicians.

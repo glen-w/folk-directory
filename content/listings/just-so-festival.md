@@ -17,4 +17,4 @@ www: www.justsofestival.org.uk
 status: listed
 ---
 
-A not for profit family music and arts festival and although we don't call ourselves a folk festival the majority of our musical programming is folk, so we thought you might be interested. Very family focused, with circus acts, music, films, children's entertainment. Doesn't seem to like my pop-up box so click here instead to view their site.
+A not-for-profit family music and arts festival. Although not branded as a folk festival, the majority of the musical programming is folk. The festival is very family-focused, featuring circus acts, music, films, and children's entertainment.

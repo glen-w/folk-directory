@@ -19,4 +19,4 @@ www: thebrewerybar.ie
 status: listed
 ---
 
-Good wee session, been running about a year now. We're about 50/50 tunes & songs. We've a fairly regular supply of walk-ins and the more the merrier if there's anyone in Letterkenny on the hunt for music.
+A session at The Brewery Bar in Letterkenny, running for about a year. The mix is roughly equal between tunes and songs. Walk-ins are a regular feature and the session is open to anyone in the area.

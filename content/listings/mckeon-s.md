@@ -13,9 +13,9 @@ venue: McKeon's
 address: ''
 place: Newtowncashel
 post_code: ''
-when: Sunday, 16:00
+when: Weekly, Sunday, 4:00pm
 www: ''
 status: listed
 ---
 
-Lough Ree shoreline pub with Sunday afternoon sessions. Slow and traditional — the lake view through the window and the music inside are genuinely competing for attention.
+A pub on the Lough Ree shoreline, hosting Sunday afternoon sessions. The music is slow and traditional, and the lake is visible through the window.

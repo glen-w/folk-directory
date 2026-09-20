@@ -18,4 +18,4 @@ www: www.thewelcomeinncork.com/index.php?page=whats-on
 status: listed
 ---
 
-friendly session, box banjo guitar. all welcome
+A friendly session with box banjo and guitar. All welcome.

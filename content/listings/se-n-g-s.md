@@ -13,7 +13,7 @@ venue: Seán Óg's
 address: ''
 place: Tralee
 post_code: ''
-when: Nightly · 21:30
+when: Nightly, 9:30pm
 www: ''
 status: listed
 ---

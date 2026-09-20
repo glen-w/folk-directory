@@ -13,9 +13,9 @@ venue: The Foxe's Cave
 address: ''
 place: Birr
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Heritage pub in castle-town Birr. Friday nights have regular trad — the kind of session that picks up after closing time across the road.
+Heritage pub in castle-town Birr. Regular trad sessions take place on Friday nights, often continuing after closing time across the road.

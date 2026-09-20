@@ -15,8 +15,9 @@ place: Ballsbridge
 post_code: ''
 lat: 53.33704
 lng: -6.23399
+when: Around 9:30pm-10:00pm
 www: www.rummsd4.com
 status: listed
 ---
 
-A good session with plenty of room sit and watch or participate. Probably not a good place for beginners. The musicians vary wildly on openness to newcomers playing. Usually starts around 9:30 or 10pm.
+A good session with plenty of room to sit and watch or participate. Not typically suited to beginners. The musicians vary considerably in their openness to newcomers playing. Usually starts around 9:30 or 10pm.

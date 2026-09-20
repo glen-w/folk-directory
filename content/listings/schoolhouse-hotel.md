@@ -21,4 +21,4 @@ logo: /images/listings/schoolhouse_hotel_logo_7276.png
 status: listed
 ---
 
-Hi, there is a trad session starting up in the schoolhouse hotel (northumberland road, ballsbridge).
+A trad session is starting up at the Schoolhouse Hotel, Northumberland Road, Ballsbridge.

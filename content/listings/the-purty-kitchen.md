@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/the_purty_kitchen_logo_7306.png
 ---
 
-If you're passing by Monkstown on the southside of Dublin, stop by the Purty Kitchen for a few tunes with us, all welcome.
+The Purty Kitchen in Monkstown, on the south side of Dublin, hosts a session where all are welcome.

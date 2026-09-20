@@ -15,9 +15,10 @@ place: Multyfarnham
 post_code: ''
 lat: 53.62465
 lng: -7.39076
+when: Monthly, 1st Sunday
 www: weirsmultyfarnham.ie
 email: weirsbar@gmail.com
 status: listed
 ---
 
-Come join The Ceólminers and friends for a trad/folk music session on the first Sunday of every month in this friendly and renowned Westmeath bar and restaurant . All singers, musicians and beginners welcome. No ego's permitted.
+Join The Ceólminers & friends for a lively trad/folk session in this friendly and renowned Westmeath bar and restaurant. All singers, musicians and beginners welcome. Leave your ego at the door!

@@ -21,4 +21,4 @@ logo: /images/listings/seven_oaks_hotel_logo_7213.png
 status: listed
 ---
 
-Long-running Monday night session (since the mid-1970s) where old-time waltzes sit alongside jigs, reels and polkas.
+A long-running Monday night session (since the mid-1970s) where old-time waltzes sit alongside jigs, reels and polkas.

@@ -13,9 +13,12 @@ venue: Tigh Coili
 address: ''
 place: Mainguard St
 post_code: ''
-when: Sunday, 16:00
-www: ''
+lat: 53.27216
+lng: -9.05399
+when: Weekly, Sunday, 4:00pm
+www: tigchoiligalway.com
+logo: /images/listings/tigh_choili_logo_7231.png
 status: listed
 ---
 
-Two-hour set Sunday afternoons. The lock-in regulars say it's the best in the city since 2019.
+A pub in Galway town with a growing reputation for trad sessions. Sessions run seven days a week, usually twice a day at around 6pm and again at 9pm, with a two-hour set on Sunday afternoons. Lock-in regulars say it is the best in the city since 2019.

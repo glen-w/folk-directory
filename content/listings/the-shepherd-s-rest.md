@@ -21,4 +21,4 @@ email: info@shepherdsrestpub.com
 status: listed
 ---
 
-There's a kids session from 5pm to 7pm, followed by an adults session.
+A kids session runs from 5pm to 7pm, followed by an adults session.

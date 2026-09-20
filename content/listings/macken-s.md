@@ -15,10 +15,10 @@ place: Newcastle
 post_code: BT33 0EY
 lat: 54.19865
 lng: -5.88812
-when: Last Friday of every month.
+when: Monthly, Last Friday
 www: mackensbar.co.uk/mackens-pub
 email: hello@mackensbar.co.uk
 status: listed
 ---
 
-Great wee pub with good atmosphere and acoustics. Musicians made very welcome. Regulars include, Seamus McKibbin, Tom Polland, Vincey Polland, Peter Mc Kee, Andy Dickson, Anne Bailey, John McGreevey, Michael K
+A pub with good atmosphere and acoustics. Musicians are very welcome. Regulars include Seamus McKibbin, Tom Polland, Vincey Polland, Peter Mc Kee, Andy Dickson, Anne Bailey, and John McGreevey.

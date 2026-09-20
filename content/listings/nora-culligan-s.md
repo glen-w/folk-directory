@@ -20,4 +20,4 @@ www: www.instagram.com/noraculligans/?hl=en
 status: listed
 ---
 
-All welcome to join or listen but space is limited and can get pretty snug!!
+All are welcome to join or listen, though space is limited and the room can get snug.

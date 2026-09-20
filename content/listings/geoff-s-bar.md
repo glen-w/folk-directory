@@ -13,9 +13,9 @@ venue: Geoff's Bar
 address: ''
 place: John Street, Waterford
 post_code: ''
-when: Wednesday, 21:30
+when: Weekly, Wednesday, 9:30pm
 www: ''
 status: listed
 ---
 
-Waterford city's best-kept secret — Wednesday nights in a city-centre pub that's stubbornly refused to modernise. Musicians play in a circle, no stage.
+A Wednesday-night session in a city-centre pub in Waterford that has kept its traditional character. Musicians play in a circle, with no stage.

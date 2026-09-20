@@ -13,7 +13,7 @@ venue: Lawlor's of Maynooth
 address: ''
 place: Maynooth
 post_code: ''
-when: Wednesday, 21:30
+when: Weekly, Wednesday, 9:30pm
 www: ''
 status: listed
 ---

@@ -20,4 +20,4 @@ email: info@mcgrorys.ie
 status: listed
 ---
 
-A fun and lively session in a relaxing atmosphere in one of inishowens top venues.
+A fun and lively session in a relaxing atmosphere, held in one of Inishowen's top venues.

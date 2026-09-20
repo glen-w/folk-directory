@@ -21,4 +21,4 @@ logo: /images/listings/dunsany_gaa_club_logo_7131.png
 status: listed
 ---
 
-Session in the club bar in the village.
+A session is held in the club bar in the village.

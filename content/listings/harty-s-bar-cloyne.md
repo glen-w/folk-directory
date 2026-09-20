@@ -20,4 +20,4 @@ email: cloyneclasses@gmail.com
 status: listed
 ---
 
-Traditional session at Harty's Bar Cloyne in Cloyne.
+Traditional session at Harty's Bar in Cloyne.

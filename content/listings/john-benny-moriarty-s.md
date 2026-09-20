@@ -13,9 +13,9 @@ venue: John Benny Moriarty's
 address: ''
 place: Dingle
 post_code: ''
-when: Monday, 21:30
+when: Weekly, Monday, 9:30pm
 www: ''
 status: listed
 ---
 
-Six nights a week (Mon, Tue, Thu, Fri, Sat + Sun bank holidays). Set dancing floor cleared from 21:30. One of Kerry's most consistent sessions.
+Six nights a week (Mon, Tue, Thu, Fri, Sat, plus Sunday bank holidays). The set dancing floor is cleared from 21:30. One of Kerry's most consistent sessions.

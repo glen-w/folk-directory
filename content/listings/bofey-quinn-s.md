@@ -15,6 +15,7 @@ place: Corofin
 post_code: V95 HE39
 lat: 52.9454
 lng: -9.06529
+when: Weekly, Wednesday
 www: bofeyquinns.weebly.com
 status: listed
 ---

@@ -15,10 +15,10 @@ place: Swatragh
 post_code: ''
 lat: 54.91012
 lng: -6.66369
-when: Thursday, 20:30
+when: Weekly, Thursday, 8:30pm
 www: friels.ie
 email: frielsbar@gmail.com
 status: listed
 ---
 
-Session is open to visiting musicians and locals. Rotating set of host musicians each week. Starts at 8.30
+The session is open to visiting musicians and locals. A rotating set of host musicians plays each week. Starts at 8.30.

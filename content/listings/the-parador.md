@@ -21,4 +21,4 @@ email: info@theparador.com
 status: listed
 ---
 
-The session has been going for many years, the 2 mainstays being Tom Clarke on pipes and Andy Dixon on fiddle. Numbers vary from week to week and after a lean spell running up to X
+The session has been going for many years, the two mainstays being Tom Clarke on pipes and Andy Dixon on fiddle. Numbers vary from week to week.

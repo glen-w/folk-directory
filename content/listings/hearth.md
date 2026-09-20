@@ -15,9 +15,10 @@ place: Belfast
 post_code: BT4 3JB
 lat: 54.59521
 lng: -5.87033
+when: Weekly, Wednesday
 www: www.hearthpub.co.uk
 email: hello@hearthpub.com
 status: listed
 ---
 
-New session in Ballyhackamore for people of all skill levels. Every Wednesday but check their social media pages before heading as they keep them very up to date.
+A new session in Ballyhackamore, open to all skill levels. Meets every Wednesday; schedule updates are posted on social media.

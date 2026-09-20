@@ -15,9 +15,9 @@ place: Galway
 post_code: H91 YP97
 lat: 53.26914
 lng: -9.06187
-when: Nightly · 21:30
+when: Nightly, 9:30pm
 www: www.thecranebar.com
 status: listed
 ---
 
-The upstairs room is the one. Traditional musicians only — no amplification, no set lists. One of the most authentic sessions in Connacht, nightly.
+The session is held in the upstairs room. Traditional musicians only — no amplification, no set lists. One of the most authentic sessions in Connacht, held nightly.

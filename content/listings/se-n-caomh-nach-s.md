@@ -13,9 +13,9 @@ venue: Seán Caomhánach's
 address: ''
 place: Graiguenamanagh
 post_code: ''
-when: Thursday, 21:30
+when: Weekly, Thursday, 9:30pm
 www: ''
 status: listed
 ---
 
-On the Barrow in Graiguenamanagh, where Carlow and Kilkenny meet. Thursday sessions in a pub that overlooks the river. Occasional bodhran-heavy weekend sets.
+A pub on the Barrow in Graiguenamanagh, where Carlow and Kilkenny meet. Thursday sessions in a pub that overlooks the river. Occasional bodhran-heavy weekend sets.

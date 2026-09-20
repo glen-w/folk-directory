@@ -12,6 +12,7 @@ venue: ''
 address: ''
 place: Selkirk
 post_code: ''
+when: Monthly
 www: www.vixenrecords.com/sjclub.htm
 status: listed
 ---

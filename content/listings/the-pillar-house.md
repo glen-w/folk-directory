@@ -20,4 +20,4 @@ www: thepillarhouse.ie
 status: listed
 ---
 
-Junior/kids session at 5:30pm, followed by the seniors session. Welcoming to musicians.
+Junior/kids session at 5:30 pm, followed by the seniors' session. Welcoming to musicians.

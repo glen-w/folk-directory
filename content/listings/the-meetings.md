@@ -13,9 +13,9 @@ venue: The Meetings
 address: ''
 place: Roundwood
 post_code: ''
-when: Saturday, 21:00
+when: Weekly, Saturday, 9:00pm
 www: ''
 status: listed
 ---
 
-In Ireland's highest village. Saturday sessions in a mountain pub that makes the Wicklow Gap drive worth it. Occasional Sunday sessions in summer.
+Sessions are held on Saturdays in a mountain pub in Ireland's highest village, near the Wicklow Gap. Occasional Sunday sessions take place in summer.

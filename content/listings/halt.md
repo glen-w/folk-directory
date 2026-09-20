@@ -15,11 +15,11 @@ place: Belfast
 post_code: ''
 lat: 54.59475
 lng: -5.9344
-when: Every Wednesday, 7pm to 9pm.
+when: Weekly, Wednesday, 7:00pm-9:00pm
 www: halt.weaverscross.co.uk
 email: enquiries@halt.weaverscross.co.uk
 status: listed
 logo: /images/listings/halt_logo_3198.png
 ---
 
-HALT is a new spot in the old Europa bus station.
+Halt is a new venue in the old Europa bus station.

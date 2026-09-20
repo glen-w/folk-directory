@@ -21,4 +21,4 @@ email: info@mcneillsofhowth.ie
 status: listed
 ---
 
-Wonderful local crowd. Welcoming and accomplished. The call passes around the room from player to player. Set your tempo. Nice folks here. Worthy of a visit on a Wed night.
+A local, welcoming, and accomplished crowd gathers for sessions on Wednesday nights. The call passes around the room from player to player.

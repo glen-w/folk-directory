@@ -15,6 +15,7 @@ place: Clontarf
 post_code: D03 H7X0
 lat: 53.36273
 lng: -6.22208
+when: Weekly, Tuesday, 8:00pm-11:00pm
 www: clasac.ie
 email: cst@gmail.com
 status: listed

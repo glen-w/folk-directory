@@ -21,4 +21,4 @@ logo: /images/listings/the_abbey_hotel_logo_7280.png
 status: listed
 ---
 
-A truly magnificent atmosphere that can't be missed. All are welcome.
+A warm, welcoming atmosphere. All are welcome.

@@ -14,11 +14,11 @@ place: Dublin
 post_code: D02 F243
 lat: 53.34696
 lng: -6.25817
-when: Sunday session is from 4pm to 6pm.
+when: Weekly, Sunday, 4:00pm-6:00pm
 www: www.jrmahons.ie
 email: info@jrmahons.ie
 logo: /images/listings/j_r_mahon_s_logo_7147.png
 status: listed
 ---
 
-These are great weekly open sessions organised by Declan Coles, the singer and bodhrán player from New York. Often has special guests popping in. Monday, Tuesday & Wednesday sessions run from 9pm to 11:15
+J.R. Mahon's hosts weekly open sessions organised by Declan Coles, a singer and bodhrán player from New York. Special guests are a regular feature. Sessions run Monday, Tuesday and Wednesday from 9pm to 11:15.

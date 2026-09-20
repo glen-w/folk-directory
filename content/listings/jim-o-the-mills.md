@@ -15,9 +15,9 @@ place: Upperchurch
 post_code: ''
 lat: 52.68764
 lng: -7.99338
-when: Thursday, 20:30
+when: Weekly, Thursday, 8:30pm
 www: ''
 status: listed
 ---
 
-Legendary Thursday session in a rural Tipperary pub that punches well above its weight. Musicians travel from around the county for this one.
+A Thursday session in a rural Tipperary pub. Musicians travel from around the county to attend.

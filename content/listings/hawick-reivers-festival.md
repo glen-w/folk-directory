@@ -17,4 +17,4 @@ www: www.hawickreivers.com
 status: listed
 ---
 
-Hawick steps back in time to the 16th century and through drama, song, poetry and re-enactments invites visitors and towns-people alike to experience life in this turbulent, often violent, but very colourful period in our history.
+Hawick steps back in time to the 16th century and, through drama, song, poetry and re-enactments, invites visitors and townspeople alike to experience life in this turbulent, often violent, but very colourful period of local history.

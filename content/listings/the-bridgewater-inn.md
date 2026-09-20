@@ -13,9 +13,9 @@ venue: The Bridgewater Inn
 address: ''
 place: Arklow
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Arklow's main trad night. Friday sessions on the quayside — strong session history in a port town that kept trad going through quieter decades.
+Arklow's main trad night. Friday sessions on the quayside, with a strong session history in a port town that kept trad going through quieter decades.

@@ -20,4 +20,4 @@ www: www.theduncairn.com
 status: listed
 ---
 
-Check the website for details of when it's on
+Details of when it is on are available on the website.

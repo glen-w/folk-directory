@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/slevin_s_pub_logo_7267.png
 ---
 
-All musicians and singers welcomed in a very relaxed supportive atmosphere.
+All musicians and singers are welcome in a relaxed, supportive atmosphere.

@@ -15,9 +15,10 @@ place: Belfast
 post_code: BT1 4JB
 lat: 54.59731
 lng: -5.92664
+when: Most evenings
 www: thegarrickbar.com
 logo: /images/listings/garrick_bar_logo_3219.png
 status: listed
 ---
 
-Great venue for high quality trad music consistently over the last two decades four evenings of the week and has recently added a Thursday evening to make it five.
+A venue for trad music, consistently hosting sessions four evenings a week over the last two decades. A Thursday evening has recently been added, making it five.

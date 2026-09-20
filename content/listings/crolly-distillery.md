@@ -15,6 +15,7 @@ place: Crolly
 post_code: ''
 lat: 55.02403
 lng: -8.26756
+when: Weekly, 3:00pm-5:00pm
 www: thecrollydistillery.com
 status: listed
 ---

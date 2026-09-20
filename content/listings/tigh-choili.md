@@ -19,4 +19,4 @@ logo: /images/listings/tigh_choili_logo_7231.png
 status: listed
 ---
 
-This place is fast becoming the "in" pub for trad sessions in Galway town. There are sessions seven days a week, usually two a day (one at around 6pm and another at 9pm or so).
+A pub in Galway town with a growing reputation for trad sessions. Seven days a week, usually twice a day, at around 6pm and again at 9pm.

@@ -20,4 +20,4 @@ email: glenribbeenbnb@oceanfree.net
 status: listed
 ---
 
-This session has been going for some months it's MOSTLY ballads and "come-alyas". I've been asked along to have more trad.
+Mostly ballads and "come-alyas", along with some more traditional material.

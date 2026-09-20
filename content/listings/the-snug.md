@@ -13,9 +13,9 @@ venue: The Snug
 address: ''
 place: Market Street
 post_code: ''
-when: Nightly · 21:30
+when: Nightly, 9:30pm
 www: ''
 status: listed
 ---
 
-On the Garavogue River. Open sessions nightly — travelling musicians welcome to sit in. Good craic, no attitude.
+On the Garavogue River. Open sessions nightly; travelling musicians are welcome to sit in. The atmosphere is relaxed and welcoming.

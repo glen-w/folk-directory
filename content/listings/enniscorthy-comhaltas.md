@@ -13,9 +13,9 @@ venue: Enniscorthy Comhaltas
 address: ''
 place: Enniscorthy
 post_code: ''
-when: Wednesday, 20:30
+when: Weekly, Wednesday, 8:30pm
 www: ''
 status: listed
 ---
 
-Wednesday night sessions run by the local Comhaltas branch. All ages, all standards — the place to hear what the county's junior musicians are growing into.
+Wednesday night sessions run by the local Comhaltas branch. Open to all ages and all standards, with a focus on the county's junior musicians.

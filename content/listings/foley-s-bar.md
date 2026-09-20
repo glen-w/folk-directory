@@ -15,8 +15,9 @@ place: Rathkeale
 post_code: ''
 lat: 52.51266
 lng: -8.97914
+when: Weekly, Saturday
 www: www.foleyspub.ie
 status: listed
 ---
 
-Nice homely rural pub. Great athmosephere ,great foood, great music by local trad. musicions on Sat. nights.
+A homely rural pub with a warm atmosphere and good food. Local traditional musicians play on Saturday nights.

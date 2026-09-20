@@ -18,4 +18,4 @@ www: www.gallagherspubcork.com
 status: listed
 ---
 
-This is a nice session all welcome
+A session, all welcome.

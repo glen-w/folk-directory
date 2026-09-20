@@ -20,4 +20,4 @@ www: oneillsbeara.ie
 status: listed
 ---
 
-We didn't attend, but got the info from players in a session in the same town.
+Details for this venue were provided by players attending a session in the same town.

@@ -21,4 +21,4 @@ logo: /images/listings/the_gregory_tavern_logo_7182.png
 status: listed
 ---
 
-All musicians, singers, dancers welcome.
+All musicians, singers, and dancers welcome.

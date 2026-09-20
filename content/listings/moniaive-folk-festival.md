@@ -17,4 +17,4 @@ www: www.moniaivefolkfestival.com
 status: listed
 ---
 
-Described by The Times as One of the coolest villages in Britain. Moniaive probably has more musical events and festivals (per head of population) than anywhere else in the country. And with a sizeable group of traditional musicians living in the village and surrounding countryside, our pub sessions are amongst the finest. Sessions, piping competitions, workshops, and more.
+Described by The Times as one of the coolest villages in Britain, Moniaive probably has more musical events and festivals (per head of population) than anywhere else in the country. With a sizeable group of traditional musicians living in the village and surrounding countryside, the pub sessions are amongst the finest. The festival features sessions, piping competitions, workshops, and more.

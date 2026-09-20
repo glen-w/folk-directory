@@ -13,9 +13,9 @@ venue: The Harbour Bar
 address: ''
 place: Portlaoise
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Portlaoise's go-to trad night. The Harbour Bar holds the county's best-known weekly session — players from Laois, Offaly, and Kilkenny all show up.
+The Harbour Bar in Portlaoise hosts the county's best-known weekly trad session, drawing players from Laois, Offaly, and Kilkenny.

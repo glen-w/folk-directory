@@ -19,4 +19,4 @@ www: www.dukeofyorkbelfast.com
 status: listed
 ---
 
-I didn't post this one but I have been to it a few times.
+[No usable description available.]

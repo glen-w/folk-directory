@@ -19,4 +19,4 @@ www: anchorinnswanage.com
 status: listed
 ---
 
-The Anchor Inn at The Anchor Inn (Watchet) — A lunchtime session at 1o'clock on the 'teenth' Sunday of every month.
+The Anchor Inn, Watchet. A lunchtime session at one o'clock on the 'teenth' Sunday of every month.

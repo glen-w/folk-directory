@@ -21,4 +21,4 @@ logo: /images/listings/imperial_hotel_logo_7243.png
 status: listed
 ---
 
-Intermediate/Improvers level - if you can play a few tunes, please join us. Singers also welcome.
+Intermediate/improvers level. Singers welcome.

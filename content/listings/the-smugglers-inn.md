@@ -20,4 +20,4 @@ email: DickGlasgow@causewaymusic.co.uk
 status: listed
 ---
 
-I started this session about three years ago, just after they opened. It is primarily a restaurant, with a bar attached, & so offers a quiet, relaxed atmosphere ideal for singing, so we provide a nice blend of songs & tunes.
+The session began about three years ago, shortly after the venue opened. The Smugglers Inn is primarily a restaurant with a bar attached, offering a quiet, relaxed atmosphere. The session features a blend of songs and tunes.

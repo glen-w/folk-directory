@@ -21,4 +21,4 @@ email: scullysfest@gmail.com
 status: listed
 ---
 
-The music is mainly Sliabh Luachra. It's an open session.
+The music is mainly Sliabh Luachra. This is an open session.

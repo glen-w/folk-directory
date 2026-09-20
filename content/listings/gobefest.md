@@ -17,4 +17,4 @@ www: gobefest.com
 status: listed
 ---
 
-Gobefest, Manchester's original urban folk music and dance festival with strong Central and Eastern European leanings, is back. Established in 2017, Gobefest has its roots firmly in Transylvania and Hungary, but over the years has expanded its reach to cherry pick some of the finest performing artists from around the Carpathian Basin and beyond.
+Gobefest, Manchester's original urban folk music and dance festival with strong Central and Eastern European leanings, is back. Established in 2017, Gobefest has its roots firmly in Transylvania and Hungary, but over the years has expanded its reach to cherry-pick some of the finest performing artists from around the Carpathian Basin and beyond.

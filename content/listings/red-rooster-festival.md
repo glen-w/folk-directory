@@ -17,4 +17,4 @@ www: www.redrooster.org.uk
 status: listed
 ---
 
-A mixed styles event, covering Cajun, Soul, Rock + Roll, Blues, Roots and Country. We have a policy of including some random events with some music that could be considered as folkish, and several of the above do meet our rules. Celebrating its 11th year. So must be good.
+A mixed styles event covering Cajun, Soul, Rock and Roll, Blues, Roots and Country. The festival has a policy of including some random events with music that could be considered folkish, and several of the above meet its rules. Celebrating its 11th year.

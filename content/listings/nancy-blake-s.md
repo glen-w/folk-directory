@@ -13,9 +13,9 @@ venue: Nancy Blake's
 address: ''
 place: Upper Denmark Street
 post_code: ''
-when: Friday, 22:00
+when: Weekly, Friday, 10:00pm
 www: ''
 status: listed
 ---
 
-Live band most Fridays in the back bar. Loud, unpretentious.
+A live band plays most Fridays in the back bar. The atmosphere is loud and unpretentious.

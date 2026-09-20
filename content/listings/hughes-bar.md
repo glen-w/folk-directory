@@ -13,9 +13,9 @@ venue: Hughes' Bar
 address: ''
 place: Chancery Street
 post_code: ''
-when: Nightly · 21:00
+when: Nightly, 9:00pm
 www: ''
 status: listed
 ---
 
-Around the corner from the Four Courts. Nightly sessions draw serious musicians as well as the legal crowd from across the road. No nonsense, good craic.
+Around the corner from the Four Courts, the bar hosts nightly sessions that draw serious musicians as well as the legal crowd from across the road. The atmosphere is no-nonsense and welcoming.

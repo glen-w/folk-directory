@@ -15,9 +15,10 @@ place: Sallins
 post_code: W91 WR2D
 lat: 53.24873
 lng: -6.66533
+when: Monthly, 1st Friday
 www: railwayinn.ie
 email: hello@railwayinn.ie
 status: listed
 ---
 
-Friendly open session. First Friday of month.
+A friendly open session on the first Friday of the month.

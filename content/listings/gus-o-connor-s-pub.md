@@ -22,4 +22,4 @@ logo: /images/listings/gus_o_connor_s_pub_logo_7253.png
 status: listed
 ---
 
-Open afternoon session every Sunday from 4 to 7pm with Charles & Stéphane
+Open afternoon session every Sunday from 4 to 7 pm with Charles & Stéphane.

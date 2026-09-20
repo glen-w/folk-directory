@@ -13,7 +13,7 @@ venue: Farrell's Bar
 address: ''
 place: Longford Town
 post_code: ''
-when: Wednesday, 21:00
+when: Weekly, Wednesday, 9:00pm
 www: ''
 status: listed
 ---

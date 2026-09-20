@@ -13,7 +13,7 @@ venue: Kyteler's Inn
 address: ''
 place: Kieran Street
 post_code: ''
-when: Nightly · 20:00
+when: Nightly, 8:00pm
 www: ''
 status: listed
 ---

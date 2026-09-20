@@ -22,4 +22,4 @@ status: listed
 logo: /images/listings/mannion_s_bar_logo_7298.png
 ---
 
-There's no music currently (February, 2023) at the pub, unfortunately.
+No music is currently held at the pub (as of February 2023).

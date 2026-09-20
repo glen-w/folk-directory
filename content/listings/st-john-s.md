@@ -20,4 +20,4 @@ www: www.ballinteerstjohns.com
 status: listed
 ---
 
-St John's at St John's (Ballinteer) — This was a good session for 'improvers' but it doesn't happen anymore...
+St John's, Ballinteer, hosted a session aimed at improvers. The session no longer takes place.

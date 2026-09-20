@@ -21,4 +21,4 @@ email: mccartys1@eircom.net
 status: listed
 ---
 
-Musicians welcome
+Musicians are welcome.

@@ -21,4 +21,4 @@ email: cafeaonsceal@gmail.com
 status: listed
 ---
 
-Lunchtime practice session in this bilingual café. Check Instagram for which weekend it falls on.
+A lunchtime practice session in a bilingual café. Check Instagram for which weekend it falls on.

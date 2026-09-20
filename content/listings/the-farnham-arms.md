@@ -13,7 +13,7 @@ venue: The Farnham Arms
 address: ''
 place: Cavan Town
 post_code: ''
-when: Thursday, 21:00
+when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 ---

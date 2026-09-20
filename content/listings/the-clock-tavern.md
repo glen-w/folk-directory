@@ -22,4 +22,4 @@ logo: /images/listings/the_clock_tavern_logo_7140.png
 status: listed
 ---
 
-Friday session with David Munnelly and Julie Langan. There is also an early Saturday session with Freda Hatton, Declan Askin and Julie Langan.
+Friday sessions are held with David Munnelly and Julie Langan. An early Saturday session is also held with Freda Hatton, Declan Askin and Julie Langan.

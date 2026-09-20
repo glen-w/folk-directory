@@ -15,9 +15,9 @@ place: Dublin
 post_code: D02 PF50
 lat: 53.33818
 lng: -6.2542
-when: Nightly 21:00; Nightly · 21:00
+when: Nightly, 9:00pm
 www: www.odonoghues.ie
 status: listed
 ---
 
-Famous trad room since 1934. Nightly sessions, every night of the week.
+A traditional music venue operating since 1934, with sessions held every night of the week.

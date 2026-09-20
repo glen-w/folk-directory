@@ -21,4 +21,4 @@ email: oifig@studiocuan.ie
 status: listed
 ---
 
-Starting on March 13th, this session is on Sundays from 6-8pm featuring Charlie Lennon, Éilís Lennon and Toner Quinn.
+Starting on March 13th, the session runs on Sundays from 6–8 pm, featuring Charlie Lennon, Éilís Lennon and Toner Quinn.

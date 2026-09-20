@@ -17,4 +17,4 @@ www: www.parkbarglasgow.com
 status: listed
 ---
 
-This is a great wee session if your into playing tunes. Myself and the guitarist from my band are there every week to make sure its happening, get all sorts of great musicians along. Its really becoming a fantastic session.
+A weekly session for playing tunes, with a range of musicians attending.

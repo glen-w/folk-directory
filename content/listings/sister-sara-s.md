@@ -15,10 +15,10 @@ place: Letterkenny
 post_code: F92 PD92
 lat: 54.95213
 lng: -7.72553
-when: Tuesdays 8pm.
+when: Weekly, Tuesday, 8:00pm
 www: sistersaras.ie
 logo: /images/listings/sister_sara_s_logo_7240.png
 status: listed
 ---
 
-Organized by Comhaltas Letterkenny. Tuesdays 8pm. Going tonight.
+Organised by Comhaltas Letterkenny. Held on Tuesdays at 8pm.

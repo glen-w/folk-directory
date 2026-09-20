@@ -15,10 +15,10 @@ place: Westport
 post_code: F28 FV40
 lat: 53.79941
 lng: -9.52232
-when: Nightly · 21:30
+when: Nightly, 9:30pm
 www: www.mattmolloy.com
 status: listed
 logo: /images/listings/matt_molloy_s_logo_4160.png
 ---
 
-Owned by Chieftains flutist Matt Molloy since 1989. Nightly sessions in the back room — the quality of musicians who walk through on any given night is genuinely unpredictable in the best possible way. No cover charge.
+Owned by Chieftains flutist Matt Molloy since 1989. Nightly sessions take place in the back room, with a varied mix of musicians. No cover charge.

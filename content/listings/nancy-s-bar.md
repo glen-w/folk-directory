@@ -13,9 +13,9 @@ venue: Nancy's Bar
 address: ''
 place: Ardara
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Seventh-generation family-run pub in the heartland of Donegal tweed country. Friday and Saturday sessions. Famous enough that musicians plan journeys around it.
+Seventh-generation family-run pub in the heartland of Donegal tweed country. Friday and Saturday sessions. Well known enough that musicians plan journeys around it.

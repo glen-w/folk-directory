@@ -20,4 +20,4 @@ www: lilys-bar-malin-town.business.site
 status: listed
 ---
 
-Sit back and relax with a nice pint, in a warm, cosy and friendly atmosphere, with local musicians playing the best in irish traditional. Hosting weekly sessions all year round and all musicians are welcome.
+A warm, cosy, and friendly bar with local musicians playing Irish traditional music. Weekly sessions are held all year round and all musicians are welcome.

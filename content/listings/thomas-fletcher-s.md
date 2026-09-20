@@ -20,4 +20,4 @@ email: info@fletcherspubnaas.ie
 status: listed
 ---
 
-Tommy Fletcher's pub is an iconic landmark pub in Naas that has been serving good Guinness and whiskey from the barrel for over 150 years. Pleasant atmosphere and perfect "back room" session area.
+Thomas Fletcher's is a long-established pub in Naas, serving Guinness and whiskey from the barrel for over 150 years. The back room provides a session area.

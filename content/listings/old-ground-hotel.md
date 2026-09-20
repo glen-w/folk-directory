@@ -20,4 +20,4 @@ logo: /images/listings/old_ground_hotel_logo_7228.png
 status: listed
 ---
 
-Traditional session at Old Ground Hotel in Ennis.
+A traditional session is held at the Old Ground Hotel in Ennis.

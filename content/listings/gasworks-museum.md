@@ -21,4 +21,4 @@ email: brian.pundyke@btinternet.com
 status: listed
 ---
 
-It is a "Slow Session" specifically setup to encourage musicians who have no group skills to participate in session playing.
+It is a 'Slow Session' specifically set up to encourage musicians who have no group skills to participate in session playing.

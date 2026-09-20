@@ -22,4 +22,4 @@ logo: /images/listings/the_villa_rose_hotel_logo_7154.png
 status: listed
 ---
 
-All ages and abilities welcome, anyone who wants to gets to play or sing. Well established.
+All ages and abilities welcome. Anyone is free to play or sing. Well established.

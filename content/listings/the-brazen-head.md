@@ -13,9 +13,9 @@ venue: The Brazen Head
 address: ''
 place: Bridge St
 post_code: ''
-when: Sunday, 21:30
+when: Weekly, Sunday, 9:30pm
 www: ''
 status: listed
 ---
 
-Ireland's oldest pub (since 1198). Sunday trad lifts the room from late.
+Ireland's oldest pub, established in 1198. A Sunday traditional music session starts late.

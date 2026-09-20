@@ -13,9 +13,9 @@ venue: Mulligan's
 address: ''
 place: Athlone
 post_code: ''
-when: Thursday, 21:30
+when: Weekly, Thursday, 9:30pm
 www: ''
 status: listed
 ---
 
-Shannon-town institution. Thursday nights draw players from Westmeath, Roscommon, and Offaly — the geographical centre of Ireland happens to be a good acoustic crossroads.
+A Shannon-town institution. Thursday nights draw players from Westmeath, Roscommon, and Offaly — the geographical centre of Ireland happens to be a good acoustic crossroads.

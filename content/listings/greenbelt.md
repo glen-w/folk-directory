@@ -17,4 +17,4 @@ www: www.greenbelt.org.uk
 status: listed
 ---
 
-It's been around for over 50 years. Not many events can say that! An arts, faith and justice festival with a long and rich history. Greenbelt covers a variety of styles of music and other things, including guest speakers and comedy. Expect a variety of styles of entertainment.
+Greenbelt is an arts, faith and justice festival with a history of over 50 years. It covers a variety of musical styles, along with guest speakers, comedy and other entertainment.

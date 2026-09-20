@@ -22,4 +22,4 @@ status: listed
 logo: /images/listings/o_neill_s_bar_logo_7222.png
 ---
 
-Singing added through the night with friendly atomphere.
+Singing is added through the night, with a friendly atmosphere.

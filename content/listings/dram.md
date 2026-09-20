@@ -13,6 +13,7 @@ place: Glasgow
 post_code: G3 6ND
 lat: 55.87124
 lng: -4.27701
+when: Around 6:00pm
 www: www.dramglasgow.co.uk/events
 email: dram@threethistles.co.uk
 status: listed

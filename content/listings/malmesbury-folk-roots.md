@@ -17,4 +17,4 @@ www: www.malmesburyfolkroots.org
 status: listed
 ---
 
-Site not fully updated on our last visit. A one-day festival in the beautiful grounds of the historic Malmesbury Abbey. Featuring the best in folk and roots music from the UK and beyond, we have put together an AWESOME line-up. All proceeds to the Malmesbury Mayoral Charities.
+A one-day festival in the beautiful grounds of the historic Malmesbury Abbey, featuring folk and roots music from the UK and beyond. All proceeds go to the Malmesbury Mayoral Charities.

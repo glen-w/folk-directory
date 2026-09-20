@@ -20,4 +20,4 @@ www: thebluelight.ie
 status: listed
 ---
 
-I've found it intimate and welcoming. It's been running for years. I think there's a weekly Tuesday session too.
+The Blue Light is an intimate, welcoming venue that has been running for years. A weekly Tuesday session is also held.

@@ -17,4 +17,4 @@ www: www.folkonthefarmfestival.com
 status: listed
 ---
 
-From small beginnings in 2013 the Folk on the Farm festival has quickly established itself as one of the highlights of the folk festival calendar, attracting hundreds each year and featuring some of the best folk artists from around the UK. Includes Quality Real Ale (from The Great Orme Brewery Company), Festival Food, Stalls, Fringe Festival in Cafe, Singarounds & Sessions.
+Established in 2013, the Folk on the Farm festival has grown to attract hundreds of visitors each year, featuring folk artists from around the UK. The festival includes real ale from The Great Orme Brewery Company, festival food, stalls, a fringe programme in the café, singarounds, and sessions.

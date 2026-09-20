@@ -20,4 +20,4 @@ www: www.baldoyleparish.ie
 status: listed
 ---
 
-Saturday afternoon session in the Peter and Paul church hall, Baldoyle. Open to all.
+A Saturday afternoon session in the Peter and Paul church hall, Baldoyle. Open to all.

@@ -21,4 +21,4 @@ logo: /images/listings/the_maghera_inn_logo_3252.png
 status: listed
 ---
 
-Session for musicians of all abilities. Learners are welcome, and may get constructive criticism (bodhrán players especially).
+A session for musicians of all abilities. Learners are welcome and may receive constructive criticism (bodhrán players especially).

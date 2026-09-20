@@ -20,4 +20,4 @@ www: www.abbeytavernquin.com
 status: listed
 ---
 
-All musicians and singers are very welcome.
+All musicians and singers are welcome.

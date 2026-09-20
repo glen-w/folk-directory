@@ -20,4 +20,4 @@ status: listed
 logo: /images/listings/thirteen_on_the_green_logo_7178.png
 ---
 
-The skill level is fairly broad, we welcome beginners but we also have some very seasoned regular musicians coming along to the session.
+The skill level is fairly broad; beginners are welcome alongside seasoned regular musicians who attend the session.

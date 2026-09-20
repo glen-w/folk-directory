@@ -15,9 +15,9 @@ place: Donegal Town
 post_code: ''
 lat: 54.65475
 lng: -8.1112
-when: Nightly · 20:30
+when: Nightly, 8:30pm
 www: ''
 status: listed
 ---
 
-Seven nights a week in the heart of Donegal Town. Live music and dance. Gets going by 21:30.
+Seven nights a week in the heart of Donegal Town. Live music and dance, starting by 21:30.

@@ -13,9 +13,9 @@ venue: McGann's Pub
 address: ''
 place: Doolin
 post_code: ''
-when: Nightly · 21:30
+when: Nightly, 9:30pm
 www: ''
 status: listed
 ---
 
-Part of the Doolin trad triangle with O'Connor's and McDermott's. Slightly more elbow room than Gus's. Sessions nightly from March–October.
+Part of the Doolin trad triangle with O'Connor's and McDermott's. Slightly larger than Gus's. Sessions nightly from March to October.

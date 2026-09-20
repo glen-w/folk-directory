@@ -19,4 +19,4 @@ email: info@pavilioncork.com
 status: listed
 ---
 
-Anchored by two or more of the Ceili All Stars and even though it's a new session (started April '08) it has all the marks of a great one.
+A session started in April 2008, anchored by two or more of the Ceili All Stars.

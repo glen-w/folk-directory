@@ -13,9 +13,9 @@ venue: The Cartoon Inn
 address: ''
 place: Rathnew
 post_code: ''
-when: Thursday, 21:30
+when: Weekly, Thursday, 9:30pm
 www: ''
 status: listed
 ---
 
-Rathnew's weekly trad night in a proper old-school pub. Thursday is the session locals defend — worth the detour off the N11.
+A weekly trad session in Rathnew, held on Thursdays at The Cartoon Inn, a pub off the N11.

@@ -17,4 +17,4 @@ www: www.englandsmedievalfestival.com
 status: listed
 ---
 
-A medieval event, with stage shows, jousting, music and dance, and lots of things for the kids too. They have a full line up of folk music. It's a one-of-a-kind event with a very special blend of history and fun for the whole family. Something different especially if you like older music.
+A medieval event featuring stage shows, jousting, music and dance, with activities for children. The festival offers a full lineup of folk music and is family-friendly, with a particular emphasis on older and traditional music.

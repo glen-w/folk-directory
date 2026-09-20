@@ -19,4 +19,4 @@ email: info@westernhotelgalway.ie
 status: listed
 ---
 
-What promises to be a fun session. See the web link for more info, Uniquely, the money we get from the bar is split between all musicians (once you can play a bit!), so it makes for a very open session......
+Uniquely, bar takings are split among all musicians (once a player can contribute), making for a very open session. See the website for more information.

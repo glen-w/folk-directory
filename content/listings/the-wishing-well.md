@@ -20,4 +20,4 @@ www: www.thewishingwell.ie
 status: listed
 ---
 
-Great Tunes and Songs!! All kinds of craic :) Listen for the music and make your way there! It's a mighty night!
+A lively night of tunes and songs, with plenty of craic. Listen for the music and make your way there.

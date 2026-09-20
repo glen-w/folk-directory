@@ -13,9 +13,9 @@ venue: Larkin's
 address: ''
 place: Garrykennedy
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Thatched pub right on the shore of Lough Derg. Friday and Saturday trad sessions with a view that earns the drive.
+A thatched pub on the shore of Lough Derg. Trad sessions on Fridays and Saturdays.

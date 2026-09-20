@@ -21,4 +21,4 @@ logo: /images/listings/pier_36_logo_3243.png
 status: listed
 ---
 
-This a friendly open session - all musicians welcome.
+A friendly open session; all musicians welcome.

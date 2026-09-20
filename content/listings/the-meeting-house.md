@@ -21,4 +21,4 @@ logo: /images/listings/the_meeting_house_logo_3217.png
 status: listed
 ---
 
-The Singer Session, all year except holiday closures, poor weather, or too few participants.
+The Singer Session runs all year, subject to holiday closures, poor weather, or too few participants.

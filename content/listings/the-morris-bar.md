@@ -21,4 +21,4 @@ logo: /images/listings/the_morris_bar_logo_7125.png
 status: listed
 ---
 
-Monthly session conducted through Irish (seisiún ceoil trí Ghaeilge), with Paahto Cummins.
+Monthly session conducted in Irish (seisiún ceoil trí Ghaeilge), with Paahto Cummins.

@@ -13,9 +13,9 @@ venue: McCormack's Bar
 address: ''
 place: Kells
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-In the Book of Kells town. Friday sessions in a pub that's been running them longer than anyone can remember — ask the barman, he'll shrug and say 'always'.
+A pub in Book of Kells hosting long-running Friday sessions.

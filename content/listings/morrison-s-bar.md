@@ -14,11 +14,11 @@ place: Limerick
 post_code: ''
 lat: 52.65047
 lng: -8.58501
-when: Monthly, last Thursday
+when: Monthly, Last Thursday
 www: morrisons.ie
 email: accounts@morrisons.ie
 logo: /images/listings/morrison_s_bar_logo_7256.png
 status: listed
 ---
 
-Small friendly session at Morrison's in Ballysimon, connected with Cruinniú at the University of Limerick.
+A small, friendly session at Morrison's in Ballysimon, connected with Cruinniú at the University of Limerick.

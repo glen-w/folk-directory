@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/kelehans_logo_7148.png
 ---
 
-Session in Kelehans bar. Intermediates welcome.
+A session in Kelehans bar. Intermediates welcome.

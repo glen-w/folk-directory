@@ -18,4 +18,4 @@ www: galwayfolkfestival.com
 status: listed
 ---
 
-Home - Galway Folk Festival 2026. Facebook Instagram Youtube. © All Rights Reserved. Galway Folk Festival 2026.
+Galway Folk Festival 2026.

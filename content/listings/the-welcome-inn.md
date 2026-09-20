@@ -18,4 +18,4 @@ www: www.thewelcomeinncork.com/index.php?page=whats-on
 status: listed
 ---
 
-friendly session, box banjo guitar. all welcome
+Sessions are held at The Welcome Inn, featuring box, banjo, and guitar. All are welcome.

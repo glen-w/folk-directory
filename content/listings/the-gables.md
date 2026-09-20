@@ -14,8 +14,9 @@ place: Cork
 post_code: ''
 lat: 51.89334
 lng: -8.47019
+when: Around 9:30pm
 www: www.thegablesbar.com
 status: listed
 ---
 
-This is a great session. Starts around 9.30 and is a good place to be able to here other musicians. Friendly bunch including folk who play button box, whistle, fiddle, bouzouki, guitar etc).
+The Gables hosts a session starting around 9.30. It is a good place to hear other musicians, with a friendly group playing button box, whistle, fiddle, bouzouki, guitar, etc.

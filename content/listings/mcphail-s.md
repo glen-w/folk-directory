@@ -13,9 +13,9 @@ venue: McPhail's
 address: ''
 place: Lawrence Street, Drogheda
 post_code: ''
-when: Wednesday, 21:30
+when: Weekly, Wednesday, 9:30pm
 www: ''
 status: listed
 ---
 
-Mid-week session that's been Drogheda's best-kept trad secret. Wednesday nights draw the players who don't want the weekend crowd.
+A mid-week trad session in Drogheda. Wednesday nights attract players who prefer a quieter setting to the weekend crowd.

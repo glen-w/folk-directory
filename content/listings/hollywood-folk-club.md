@@ -18,4 +18,4 @@ www: roscommonpeople.ie/mick-hanly-to-perform-at-festival-folk-this-easter-thurs
 status: listed
 ---
 
-Mick Hanly to perform at ‘Festival Folk’ this Easter Thursday. Mick Hanly will be performing at ‘Festival Folk’ along with an impressive list of talented musicians, including Eleanor Shanley, Charlie McGettigan, and Leo Logan.
+Mick Hanly performs at 'Festival Folk' on Easter Thursday, alongside Eleanor Shanley, Charlie McGettigan, and Leo Logan.

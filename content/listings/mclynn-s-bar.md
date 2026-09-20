@@ -13,9 +13,9 @@ venue: McLynn's Bar
 address: ''
 place: Old Market Street
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Family-run since 1889. Friday and Saturday sessions, mid-week nights through summer. One of Sligo's most consistently recommended trad spots.
+Family-run since 1889. Friday and Saturday sessions, with mid-week nights through the summer. One of Sligo's most consistently recommended trad spots.

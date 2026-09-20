@@ -18,4 +18,4 @@ email: info@oxfordstorytellingfestival.co.uk
 status: listed
 ---
 
-Oxford Storytelling Festival, an exciting boutique family festival is coming to Waterperry this Summer. An August bank holiday full of Magic, Myth and Mystery to enchant and enliven your senses.
+The Oxford Storytelling Festival is a family festival held in Waterperry on an August bank holiday, with a theme of magic, myth and mystery.

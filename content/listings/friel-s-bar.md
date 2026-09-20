@@ -13,9 +13,9 @@ venue: Friel's Bar
 address: ''
 place: Miltown Malbay
 post_code: ''
-when: 'Friday, 21:30'
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---
 
-Known among musicians as one of the best sessions in the county — fewer tourists, stronger playing. Home of the Willie Clancy Summer School overflow each July.
+Known among musicians as one of the best sessions in the county, with fewer tourists and strong playing. Home of the Willie Clancy Summer School overflow each July.

@@ -21,4 +21,4 @@ status: listed
 logo: /images/listings/nancy_hand_s_bar_logo_7262.png
 ---
 
-Moderately paced - suitable for all levels. Tunes and songs. Check out some video and info on
+Moderately paced, suitable for all levels. Tunes and songs.

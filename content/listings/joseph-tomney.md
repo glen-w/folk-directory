@@ -20,4 +20,4 @@ logo: /images/listings/joseph_tomney_logo_3201.png
 status: listed
 ---
 
-Good strong Irish trad session. No mikes! Everyone welcome. This is the REAL thing, the real McCoy. Proper tradition music, played with commitment and joy!
+A strong Irish traditional music session. No microphones are used. Everyone is welcome.

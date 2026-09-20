@@ -10,11 +10,12 @@ locations:
 - ireland
 county: Kerry
 venue: An Droichead Beag
-address: "An tSráid Mhór"
+address: An tSráid Mhór
 place: Dingle
 post_code: V92 DK2E
 lat: 52.1422
 lng: -10.26937
+when: Nightly
 www: androicheadbeag.com
 logo: /images/listings/an_droichead_beag_logo_7313.png
 status: listed

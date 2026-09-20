@@ -15,6 +15,7 @@ place: Toomebridge
 post_code: ''
 lat: 54.80576
 lng: -6.42055
+when: Fortnightly
 www: crosskeys-inn.com
 email: info@crosskeys-inn.com
 status: listed

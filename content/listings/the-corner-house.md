@@ -15,9 +15,10 @@ place: Lurgan
 post_code: BT66 6LG
 lat: 54.4681
 lng: -6.38316
+when: Weekly, Monday, 9:30pm
 www: www.cornerhousebar.com
 email: info@cornerhousebar.com
 status: listed
 ---
 
-Hi, Just to let everyone know that the Corner house is starting a Trad/Folk Session again starting Mon October 9th at 9:30pm. All Musicians Welcome.
+The Corner House is hosting a trad/folk session on Mondays from 9:30pm, starting 9 October. All musicians are welcome.

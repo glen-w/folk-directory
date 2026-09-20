@@ -21,4 +21,4 @@ logo: /images/listings/kilkenny_home_rule_club_logo_7165.png
 status: listed
 ---
 
-There is also a youth trad session on the last Friday of the month, 7:00pm–9:00pm.
+There is also a youth trad session on the last Friday of the month, 7:00 pm–9:00 pm.

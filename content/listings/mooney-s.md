@@ -13,9 +13,9 @@ venue: Mooney's
 address: ''
 place: Gorey
 post_code: ''
-when: Thursday, 21:00
+when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 ---
 
-Gorey's main trad night. Thursday sessions in a town-centre pub — popular with Wicklow commuters who stop off heading home.
+Gorey's main trad night. Thursday sessions in a town-centre pub, popular with Wicklow commuters stopping off on their way home.

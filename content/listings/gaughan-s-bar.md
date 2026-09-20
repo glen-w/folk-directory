@@ -13,9 +13,9 @@ venue: Gaughan's Bar
 address: ''
 place: Ballina
 post_code: ''
-when: Thursday, 21:30
+when: Weekly, Thursday, 9:30pm
 www: ''
 status: listed
 ---
 
-Ballina's best-regarded trad night. Musicians travel from Castlebar and Westport for this one — strong fiddle tradition, no cover.
+Ballina's best-regarded trad night. Musicians travel from Castlebar and Westport for the session — strong fiddle tradition, no cover.

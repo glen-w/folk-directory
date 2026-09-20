@@ -20,4 +20,4 @@ email: dickglasgow@btinternet.com
 status: listed
 ---
 
-This is a 50/50 Ballads & Tunes Session, with a mix of Scottish & Irish music & song.
+A 50/50 ballads and tunes session, with a mix of Scottish and Irish music and song.

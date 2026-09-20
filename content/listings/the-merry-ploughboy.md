@@ -13,7 +13,7 @@ venue: The Merry Ploughboy
 address: ''
 place: Edmondstown
 post_code: ''
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---

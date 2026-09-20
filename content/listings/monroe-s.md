@@ -19,4 +19,4 @@ www: monroes.ie
 status: listed
 ---
 
-Level suitable for intermediate or "improvers".
+Suitable for intermediate or improver-level players.

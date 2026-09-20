@@ -13,9 +13,9 @@ venue: Monroe's Tavern
 address: ''
 place: Dominick Street
 post_code: ''
-when: Tuesday, 21:30
+when: Weekly, Tuesday, 9:30pm
 www: ''
 status: listed
 ---
 
-Tuesday night set dancing at Monroe's is a Galway institution. Show up knowing nothing — regulars will pull you onto the floor. Live trad throughout.
+Tuesday night set dancing at Monroe's is a Galway institution. Beginners are welcome, and regulars will draw newcomers onto the floor. Live trad throughout.

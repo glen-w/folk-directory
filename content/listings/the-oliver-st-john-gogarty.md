@@ -18,4 +18,4 @@ www: www.gogartys.ie
 status: listed
 ---
 
-....for some time but I do remember some great music. Quite fast, if memory serves me right.
+Music is played in a fairly fast style.

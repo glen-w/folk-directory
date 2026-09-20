@@ -20,4 +20,4 @@ logo: /images/listings/o_connell_s_pub_and_restaurant_logo_7193.png
 status: listed
 ---
 
-Just starting up again after the bar reopens following the post-celtic-tiger crash. Good mature players. Varied mix of tunes.
+The session is in its early stages following the bar's reopening after the Celtic Tiger crash. Players are mature and the mix of tunes is varied.

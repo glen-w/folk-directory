@@ -19,4 +19,4 @@ www: frielspub.ie
 status: listed
 ---
 
-Isn`t this the pub just on the left when you arrive at Miltown on the road from Ennis ? If it is, it used to be Willie Clancy`s regular. I saw him in there once but he wasn`t playing unfortunately.
+A pub on the left when arriving at Miltown on the road from Ennis. It was Willie Clancy's regular.

@@ -13,7 +13,7 @@ venue: Gus O'Connor's
 address: ''
 place: Doolin
 post_code: ''
-when: Nightly · 21:00
+when: Nightly, 9:00pm
 www: ''
 status: listed
 ---
