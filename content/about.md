@@ -15,7 +15,7 @@ date: 2024-06-10
 
 **2026** — Site back! Completely remade on folkdirectory.co.uk with the preserved 2018 UK listings, an expanded set of clubs, sessions and festivals across the UK and Ireland, and a map of venues. [Get in touch](/contact) with thoughts, feedback and comments.
 
-**Sources** — Gathered from other folk directories (see [Links](/links/)), venue websites and social pages, and from organisers and punters who send in updates. Organisers can also [claim their listing](/claim/) from the event page. We check listings periodically, and we are working on a more reliable way of confirming that nights are still running so you can tell which entries have been looked at recently.
+**Sources** — Gathered from other folk directories (see [Links](/links/)), venue websites and social pages, and from organisers and folkies & friends who send in updates. Organisers can also [claim their listing](/claim/) from the event page. We check listings periodically, and we are working on a more reliable way of confirming that nights are still running so you can tell which entries have been looked at recently.
 
 ---
 
