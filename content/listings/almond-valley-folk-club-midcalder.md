@@ -14,7 +14,7 @@ place: Midcalder
 post_code: ''
 lat: 55.89035
 lng: -3.48205
-when: Tuesday of each month from 8pm in the back room
+when: Monthly, 3rd Tuesday, 8pm
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Armagh
 post_code: ''
 lat: 54.31611
 lng: -6.71892
-when: Friday of each month from October to April at St
+when: Monthly, 1st Friday (October–April)
 www: www.armaghpipers.org/tradAtTheTrian/index.html
 status: listed
 ---

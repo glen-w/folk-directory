@@ -8,12 +8,12 @@ locations:
 - england
 county: East Sussex
 venue: Lord Nelson
-address: ''
+address: 36 Trafalgar Street
 place: Brighton
 post_code: ''
-lat: 50.78866
-lng: 0.30629
-when: Monthly, Monday
+lat: 50.82831
+lng: -0.13905
+when: Monthly, 1st Monday
 www: www.brightonacoustic.com
 status: listed
 ---

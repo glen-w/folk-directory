@@ -144,6 +144,8 @@ def test_geocode_no_corpus_id_coord_seeding():
 
 
 def test_coords_from_uk_postcode(monkeypatch):
+    g.clear_postcode_meta_cache()
+
     class Resp:
         status_code = 200
         content = b"{}"
@@ -162,6 +164,7 @@ def test_coords_from_uk_postcode(monkeypatch):
 
 def test_coords_from_uk_postcode_uses_terminated_centroid(monkeypatch):
     """Retired codes 404 live but still expose a last-known centroid."""
+    g.clear_postcode_meta_cache()
 
     class Resp:
         status_code = 404
@@ -189,6 +192,8 @@ def test_coords_from_uk_postcode_uses_terminated_centroid(monkeypatch):
 
 
 def test_coords_from_uk_postcode_404_without_terminated(monkeypatch):
+    g.clear_postcode_meta_cache()
+
     class Resp:
         status_code = 404
         content = b"{}"
@@ -253,7 +258,7 @@ def test_resolve_coords_tries_street_before_broad_cache(monkeypatch):
     }
     calls: list[str] = []
 
-    def fake_geocode(q: str):
+    def fake_geocode(q: str, listing_county: str = ""):
         calls.append(q)
         if "Altwood" in q or "Norden Farm" in q:
             return 51.5155436, -0.7460257

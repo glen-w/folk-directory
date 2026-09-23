@@ -6,13 +6,13 @@ event_types:
 - folk-club
 locations:
 - bolton
-county: Fife
+county: Greater Manchester
 venue: Over Hulton Conservative Club
-address: Over Hulton Conservative Club, St Helens Road, Over Hulton
+address: St Helens Road, Over Hulton
 place: Bolton
-post_code: BL5 1AA
-lat: 53.55018
-lng: -2.46928
+post_code: ''
+lat: 53.55713
+lng: -2.46367
 when: Wednesday, Variable
 www: www.overhultonfolkclub.com
 email: overhultonfolkclub@hotmail.com

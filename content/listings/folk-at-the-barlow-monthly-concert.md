@@ -6,13 +6,13 @@ event_types:
 - folk-club
 locations:
 - bolton
-county: Cumbria
-venue: The Barlow, Edgworth
-address: The Barlow, Edgworth
+county: Greater Manchester
+venue: The Barlow
+address: Edgworth
 place: Bolton
-post_code: BL7 0AP
-lat: 53.6452
-lng: -2.39327
+post_code: ''
+lat: 53.57829
+lng: -2.43004
 when: Friday, 3rd in Month
 www: www.folkatthebarlow.com
 email: folkatthebarlow@gmail.com

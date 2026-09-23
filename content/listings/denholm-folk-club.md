@@ -13,7 +13,7 @@ place: Denholm
 post_code: ''
 lat: 55.45727
 lng: -2.68388
-when: Thursday
+when: Every other Thursday, 8.30pm
 www: www.scotborders-folk.org.uk/denholm_folk_club.htm
 status: listed
 ---

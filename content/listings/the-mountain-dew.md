@@ -14,7 +14,7 @@ place: Corduff
 post_code: ''
 lat: 53.32199
 lng: -6.26076
-when: every Tuesday at The British Oak, 109 Old Dover Road,
+when: Every Tuesday, 8.30pm
 www: comhaltas.ie/locations/detail/west_london
 status: listed
 ---

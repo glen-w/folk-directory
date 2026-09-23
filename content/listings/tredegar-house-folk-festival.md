@@ -10,7 +10,7 @@ county: Newport
 venue: Tredegar House and Country Park
 address: ''
 place: Newport
-post_code: NP10 8YW
+post_code: ''
 lat: 51.56159
 lng: -3.02811
 when: May

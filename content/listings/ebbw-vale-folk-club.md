@@ -13,7 +13,7 @@ place: Ebbw Vale
 post_code: ''
 lat: 51.78129
 lng: -3.20844
-when: Friday of the month at Ebbw Vale Welfare Club, Eugene Cr
+when: Monthly, last Friday
 www: ''
 status: listed
 ---

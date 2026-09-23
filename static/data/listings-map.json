@@ -1,15 +1,16 @@
 {
   "metadata": {
-    "generated_at": "2026-09-20T23:21:14.084494+00:00",
+    "generated_at": "2026-09-23T10:19:50.559817+00:00",
     "source": "folkdirectory-corpus",
     "total": 1375,
     "geocoded": 1351,
     "failed": 24,
     "coarse_skips": 0,
-    "api_calls": 24,
+    "api_calls": 13,
     "cache_hits": 0,
     "postcode_hits": 0,
-    "body_coord_hits": 1351
+    "body_coord_hits": 0,
+    "rejected_postcodes": 0
   },
   "locations": [
     {
@@ -747,14 +748,14 @@
       "id": 815,
       "title": "Balerno Folk Club",
       "venue": "Balerno Bowling Club",
-      "place": "Midlothian",
+      "place": "Balerno",
       "description": "",
-      "address": "Balerno Bowling Club, 5 Ladycroft, Balerno, Midlothian, EH14 7AG, Midlothian, United Kingdom",
+      "address": "Balerno Bowling Club, 5 Ladycroft, Balerno, Balerno, Edinburgh, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/balerno-folk-club/",
       "coordinates": {
-        "lat": 55.88462,
-        "lng": -3.33856
+        "lat": 55.8852179,
+        "lng": -3.3385552
       },
       "geocoded": true,
       "status": "listed",
@@ -2063,12 +2064,12 @@
       "venue": "Lord Nelson",
       "place": "Brighton",
       "description": "The club meets at The Lord Nelson, 36 Trafalgar Street, Brighton, on the first Monday of each month. It is an informal floor-spot set-up with a featured guest act. Given that there is no PA, most regular performers have…",
-      "address": "Lord Nelson, Brighton, East Sussex, United Kingdom",
+      "address": "Lord Nelson, 36 Trafalgar Street, Brighton, East Sussex, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/brighton-acoustic-club/",
       "coordinates": {
-        "lat": 50.78866,
-        "lng": 0.30629
+        "lat": 50.828306,
+        "lng": -0.1390474
       },
       "geocoded": true,
       "status": "listed",
@@ -3741,14 +3742,14 @@
       "id": 3797,
       "title": "Crookes Folk Club",
       "venue": "Princess Royal",
-      "place": "South Yorkshire",
+      "place": "Sheffield",
       "description": "",
-      "address": "Princess Royal, 43 Slinn Street, Sheffield, South Yorkshire, YO13 0PT, South Yorkshire, United Kingdom",
+      "address": "Princess Royal, 43 Slinn Street, Sheffield, Sheffield, South Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/crookes-folk-club/",
       "coordinates": {
-        "lat": 54.30018,
-        "lng": -0.44743
+        "lat": 53.3888123,
+        "lng": -1.5010193
       },
       "geocoded": true,
       "status": "listed",
@@ -3981,12 +3982,12 @@
       "venue": "Redcar Borough Park Bowling Club",
       "place": "Redcar",
       "description": "",
-      "address": "Redcar Borough Park Bowling Club, 1 Thwaites Lane, Redcar, TS10 2DU, Surrey, United Kingdom",
+      "address": "Redcar Borough Park Bowling Club, 1 Thwaites Lane, Redcar, North Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/cutty-wren-folk-club/",
       "coordinates": {
-        "lat": 54.60933,
-        "lng": -1.0592
+        "lat": 54.609498,
+        "lng": -1.0610713
       },
       "geocoded": true,
       "status": "listed",
@@ -4583,91 +4584,6 @@
       "geocoded": true,
       "status": "listed",
       "www": "www.sticklepath.org/groups-committees/devvy-folk-sessions"
-    },
-    {
-      "id": 3843,
-      "title": "Folk Music and Song Session The Bull",
-      "venue": "The Bull",
-      "place": "Birmingham",
-      "description": "",
-      "address": "The Bull, The Bull Price Street, Birmingham, Lancashire, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/dh-folk-music-and-song-session-the-bull/",
-      "coordinates": {
-        "lat": 52.4949,
-        "lng": -1.85184
-      },
-      "geocoded": true,
-      "status": "listed",
-      "www": ""
-    },
-    {
-      "id": 3842,
-      "title": "Folk Music and Song Session",
-      "venue": "The Wellington",
-      "place": "Birmingham",
-      "description": "",
-      "address": "The Wellington, The Wellington, 37 Bennetts Hill, Birmingham, B2 5SN, West Midlands, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/dh-folk-music-and-song-session/",
-      "coordinates": {
-        "lat": 52.4805,
-        "lng": -1.90037
-      },
-      "geocoded": true,
-      "status": "listed",
-      "www": ""
-    },
-    {
-      "id": 3845,
-      "title": "Folk The Blue Bell",
-      "venue": "The Blue Bell",
-      "place": "Earlswood",
-      "description": "DH Folk at The Blue Bell, Earlswood, on the fourth Tuesday of each month.",
-      "address": "The Blue Bell, The Blue Bell, Warings Green Road, The Blue Bell, Earlswood, B94 6BP, West Midlands, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/dh-folk-the-blue-bell/",
-      "coordinates": {
-        "lat": 52.36619,
-        "lng": -1.81283
-      },
-      "geocoded": true,
-      "status": "listed",
-      "www": ""
-    },
-    {
-      "id": 3844,
-      "title": "Folk The Good Intent",
-      "venue": "The Good Intent",
-      "place": "Birmingham",
-      "description": "",
-      "address": "The Good Intent, The Good Intent Great Western. Arcade, Birmingham, B2 5HU, West Midlands, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/dh-folk-the-good-intent/",
-      "coordinates": {
-        "lat": 52.4819,
-        "lng": -1.89714
-      },
-      "geocoded": true,
-      "status": "listed",
-      "www": ""
-    },
-    {
-      "id": 3846,
-      "title": "Folk The Wellington (5th Week)",
-      "venue": "The Wellington",
-      "place": "Bennetts Hill Birmingham",
-      "description": "A folk session at The Wellington, Bennetts Hill, Birmingham, on the fifth Tuesday of the month.",
-      "address": "The Wellington, Bennetts Hill Birmingham, B2 5SN, West Midlands, United Kingdom",
-      "event_type": "session",
-      "permalink": "/listings/dh-folk-the-wellington-5th-week/",
-      "coordinates": {
-        "lat": 52.4805,
-        "lng": -1.90037
-      },
-      "geocoded": true,
-      "status": "listed",
-      "www": ""
     },
     {
       "id": 3726,
@@ -6097,15 +6013,15 @@
     {
       "id": 852,
       "title": "Folk at the Barlow monthly Concert",
-      "venue": "The Barlow, Edgworth",
+      "venue": "The Barlow",
       "place": "Bolton",
       "description": "",
-      "address": "The Barlow, Edgworth, Bolton, BL7 0AP, Cumbria, United Kingdom",
+      "address": "The Barlow, Edgworth, Bolton, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-at-the-barlow-monthly-concert/",
       "coordinates": {
-        "lat": 53.6452,
-        "lng": -2.39327
+        "lat": 53.5782863,
+        "lng": -2.4300367
       },
       "geocoded": true,
       "status": "listed",
@@ -6217,14 +6133,14 @@
       "id": 3782,
       "title": "Folk at The Mullions",
       "venue": "The Mullions",
-      "place": "Somerset",
+      "place": "Street",
       "description": "",
-      "address": "The Mullions, Street, Somerset, SY8 4NE, Somerset, United Kingdom",
+      "address": "The Mullions, Street, Somerset, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/folk-at-the-mullions/",
       "coordinates": {
-        "lat": 52.30679,
-        "lng": -2.69608
+        "lat": 51.1267494,
+        "lng": -2.7397217
       },
       "geocoded": true,
       "status": "listed",
@@ -6452,6 +6368,40 @@
       "www": "www.folklondon.co.uk"
     },
     {
+      "id": 3843,
+      "title": "Folk Music and Song Session The Bull",
+      "venue": "The Bull",
+      "place": "Birmingham",
+      "description": "",
+      "address": "The Bull, The Bull Price Street, Birmingham, Lancashire, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-music-and-song-session-the-bull/",
+      "coordinates": {
+        "lat": 52.4949,
+        "lng": -1.85184
+      },
+      "geocoded": true,
+      "status": "listed",
+      "www": ""
+    },
+    {
+      "id": 3842,
+      "title": "Folk Music and Song Session",
+      "venue": "The Wellington",
+      "place": "Birmingham",
+      "description": "",
+      "address": "The Wellington, The Wellington, 37 Bennetts Hill, Birmingham, B2 5SN, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-music-and-song-session/",
+      "coordinates": {
+        "lat": 52.4805,
+        "lng": -1.90037
+      },
+      "geocoded": true,
+      "status": "listed",
+      "www": ""
+    },
+    {
       "id": 481,
       "title": "Folk Music at the Links",
       "venue": "Links Hotel",
@@ -6654,6 +6604,57 @@
       "geocoded": true,
       "status": "listed",
       "www": "folkstation.co.uk"
+    },
+    {
+      "id": 3845,
+      "title": "Folk The Blue Bell",
+      "venue": "The Blue Bell",
+      "place": "Earlswood",
+      "description": "DH Folk at The Blue Bell, Earlswood, on the fourth Tuesday of each month.",
+      "address": "The Blue Bell, The Blue Bell, Warings Green Road, The Blue Bell, Earlswood, B94 6BP, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-the-blue-bell/",
+      "coordinates": {
+        "lat": 52.36619,
+        "lng": -1.81283
+      },
+      "geocoded": true,
+      "status": "listed",
+      "www": ""
+    },
+    {
+      "id": 3844,
+      "title": "Folk The Good Intent",
+      "venue": "The Good Intent",
+      "place": "Birmingham",
+      "description": "",
+      "address": "The Good Intent, The Good Intent Great Western. Arcade, Birmingham, B2 5HU, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-the-good-intent/",
+      "coordinates": {
+        "lat": 52.4819,
+        "lng": -1.89714
+      },
+      "geocoded": true,
+      "status": "listed",
+      "www": ""
+    },
+    {
+      "id": 3846,
+      "title": "Folk The Wellington (5th Week)",
+      "venue": "The Wellington",
+      "place": "Bennetts Hill Birmingham",
+      "description": "A folk session at The Wellington, Bennetts Hill, Birmingham, on the fifth Tuesday of the month.",
+      "address": "The Wellington, Bennetts Hill Birmingham, B2 5SN, West Midlands, United Kingdom",
+      "event_type": "session",
+      "permalink": "/listings/folk-the-wellington-5th-week/",
+      "coordinates": {
+        "lat": 52.4805,
+        "lng": -1.90037
+      },
+      "geocoded": true,
+      "status": "listed",
+      "www": ""
     },
     {
       "id": 1296,
@@ -6891,14 +6892,14 @@
       "id": 3835,
       "title": "Friars Folk & Roots",
       "venue": "The Frog & Fiddle",
-      "place": "Gloucestershire",
+      "place": "Cheltenham",
       "description": "",
-      "address": "The Frog & Fiddle, 313-315 High Street, Cheltenham, Gloucestershire, NE6 1LD, Gloucestershire, United Kingdom",
+      "address": "The Frog & Fiddle, 313-315 High Street, Cheltenham, Cheltenham, Gloucestershire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/friars-folk-roots/",
       "coordinates": {
-        "lat": 54.97539,
-        "lng": -1.58929
+        "lat": 51.903459,
+        "lng": -2.0792363
       },
       "geocoded": true,
       "status": "listed",
@@ -9179,15 +9180,15 @@
     {
       "id": 3740,
       "title": "Jura Music Festival",
-      "venue": "Kempston Hammers sports club",
-      "place": "The Isle of Jura",
+      "venue": "",
+      "place": "Isle of Jura",
       "description": "32nd Anniversary ! 6000 deer. 200 people. 1 Jura Music Festival. A music festival with a leaning towards traditional music, but other genres as well. A well-established favourite for lovers of the traditional music…",
-      "address": "Kempston Hammers sports club, 134 High Street, Kempston, Bedford, The Isle of Jura, MK42 7BN, Argyll and Bute, United Kingdom",
+      "address": "Isle of Jura, Argyll and Bute, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/jura-music-festival/",
       "coordinates": {
-        "lat": 52.11459,
-        "lng": -0.50769
+        "lat": 55.8326731,
+        "lng": -5.9516934
       },
       "geocoded": true,
       "status": "listed",
@@ -9792,14 +9793,14 @@
       "id": 3816,
       "title": "Launderette Sessions",
       "venue": "Old Cinema Launderette",
-      "place": "Durham",
+      "place": "",
       "description": "",
-      "address": "Old Cinema Launderette, 38, Marshall Terrace, Durham, SN1 3JS, Durham, United Kingdom",
+      "address": "Old Cinema Launderette, 38, Marshall Terrace, Durham, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/launderette-sessions/",
       "coordinates": {
-        "lat": 51.55597,
-        "lng": -1.78035
+        "lat": 54.7802482,
+        "lng": -1.5454999
       },
       "geocoded": true,
       "status": "listed",
@@ -13196,12 +13197,12 @@
       "venue": "Over Hulton Conservative Club",
       "place": "Bolton",
       "description": "",
-      "address": "Over Hulton Conservative Club, Over Hulton Conservative Club, St Helens Road, Over Hulton, Bolton, BL5 1AA, Fife, United Kingdom",
+      "address": "Over Hulton Conservative Club, St Helens Road, Over Hulton, Bolton, Greater Manchester, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/over-hulton-folk-club/",
       "coordinates": {
-        "lat": 53.55018,
-        "lng": -2.46928
+        "lat": 53.557127,
+        "lng": -2.4636715
       },
       "geocoded": true,
       "status": "listed",
@@ -13562,14 +13563,14 @@
       "id": 3807,
       "title": "Pickering Acoustic Music",
       "venue": "The Sun Inn",
-      "place": "North Yorkshire",
+      "place": "Pickering",
       "description": "Pickering Acoustic Music at The Sun Inn (North Yorkshire) — Monday, every two weeks",
-      "address": "The Sun Inn, 136 Westgate, Pickering, North Yorkshire, B2 5HU, North Yorkshire, United Kingdom",
+      "address": "The Sun Inn, 136 Westgate, Pickering, Pickering, North Yorkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/pickering-acoustic-music/",
       "coordinates": {
-        "lat": 52.4819,
-        "lng": -1.89714
+        "lat": 54.2460194,
+        "lng": -0.78444
       },
       "geocoded": true,
       "status": "listed",
@@ -14222,14 +14223,14 @@
       "id": 3815,
       "title": "Rickmansworth Folk Club",
       "venue": "Rickmansworth Conservative Club",
-      "place": "Hertfordshire",
+      "place": "Rickmansworth",
       "description": "",
-      "address": "Rickmansworth Conservative Club, Bury Lane, Rickmansworth, Hertfordshire, EH44 6HF, Hertfordshire, United Kingdom",
+      "address": "Rickmansworth Conservative Club, Bury Lane, Rickmansworth, Rickmansworth, Hertfordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/rickmansworth-folk-club/",
       "coordinates": {
-        "lat": 55.61896,
-        "lng": -3.06414
+        "lat": 51.6375671,
+        "lng": -0.4692432
       },
       "geocoded": true,
       "status": "listed",
@@ -15170,7 +15171,7 @@
       "venue": "Various",
       "place": "Dolgellau",
       "description": "",
-      "address": "Gwynedd, Dolgellau, LL40 1AB, Gwynedd, United Kingdom",
+      "address": "Gwynedd, Dolgellau, Gwynedd, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/sesiwn-ioan-rhagfyr/",
       "coordinates": {
@@ -15255,12 +15256,12 @@
       "venue": "Bredenbury Village Hall",
       "place": "Bredenbury",
       "description": "",
-      "address": "Bredenbury Village Hall, Bredenbury, HR7 4TF, Worcestershire, United Kingdom",
+      "address": "Bredenbury Village Hall, Bredenbury, Herefordshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/session-at-bredenbury-village-hall/",
       "coordinates": {
-        "lat": 52.20564,
-        "lng": -2.57362
+        "lat": 52.2010415,
+        "lng": -2.5722921
       },
       "geocoded": true,
       "status": "listed",
@@ -15952,12 +15953,12 @@
       "venue": "The Crown",
       "place": "Standish, Wigan",
       "description": "",
-      "address": "The Crown, Platt Lane, Standish, Wigan, WN1 2XF, Lancashire, United Kingdom",
+      "address": "The Crown, Platt Lane, Standish, Wigan, Greater Manchester, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/session-at-the-crown/",
       "coordinates": {
-        "lat": 53.59709,
-        "lng": -2.6414
+        "lat": 53.5967753,
+        "lng": -2.6372389
       },
       "geocoded": true,
       "status": "listed",
@@ -16037,12 +16038,12 @@
       "venue": "The Guest House",
       "place": "Southport",
       "description": "",
-      "address": "The Guest House, 14 Union St, Southport, PR9 0QF, Lancashire, United Kingdom",
+      "address": "The Guest House, 14 Union St, Southport, Lancashire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/session-at-the-guest-house/",
       "coordinates": {
-        "lat": 53.65052,
-        "lng": -2.99993
+        "lat": 53.6248844,
+        "lng": -2.9622333
       },
       "geocoded": true,
       "status": "listed",
@@ -16156,12 +16157,12 @@
       "venue": "The Mason Arms",
       "place": "Billinge, Wigan",
       "description": "",
-      "address": "The Mason Arms, 99 Carr Mill Rd, Billinge, Wigan, WN5 7TY, Lancashire, United Kingdom",
+      "address": "The Mason Arms, 99 Carr Mill Rd, Billinge, Wigan, Greater Manchester, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/session-at-the-mason-arms/",
       "coordinates": {
-        "lat": 53.48736,
-        "lng": -2.7112
+        "lat": 53.4873348,
+        "lng": -2.71118
       },
       "geocoded": true,
       "status": "listed",
@@ -16782,15 +16783,15 @@
     {
       "id": 3881,
       "title": "Shropshire Roads Folk",
-      "venue": "Ist Wednesday Three Horseshoes at Sambrook TF10 8AP, 2nd Wed Lion at Edgmond TF10 8HH, 3rd Wed Tha Falcon at Hinstock TF9 2TA, 4th Wed Kings Head Newport TF10 7JJ, 5th Wed Lion Edgmond TF10 8HH.",
-      "place": "including Kings Head Newport",
-      "description": "",
-      "address": "Ist Wednesday Three Horseshoes at Sambrook TF10 8AP, 2nd Wed Lion at Edgmond TF10 8HH, 3rd Wed Tha Falcon at Hinstock TF9 2TA, 4th Wed Kings Head Newport TF10 7JJ, 5th Wed Lion Edgmond TF10 8HH., Various Pubs around Newport Shropshire, including Kings Head Newport, TF10 7JJ, West Midlands, United Kingdom",
+      "venue": "Various",
+      "place": "Newport",
+      "description": "Rotating Wednesday sessions around Newport, Shropshire: Three Horseshoes Sambrook; Lion Edgmond; Falcon Hinstock; Kings Head Newport.",
+      "address": "Newport, Shropshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/shropshire-roads-folk/",
       "coordinates": {
-        "lat": 52.77284,
-        "lng": -2.38155
+        "lat": 52.6895102,
+        "lng": -2.7277429
       },
       "geocoded": true,
       "status": "listed",
@@ -17463,14 +17464,14 @@
       "id": 3809,
       "title": "Stonehouse Folk Club",
       "venue": "Church Hall",
-      "place": "South Lanarkshire",
+      "place": "Stonehouse",
       "description": "",
-      "address": "Church Hall, St. Ninian's Church Hall, Stonehouse, South Lanarkshire, B2 5SN, South Lanarkshire, United Kingdom",
+      "address": "Church Hall, St. Ninian's Church Hall, Stonehouse, Stonehouse, South Lanarkshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/stonehouse-folk-club/",
       "coordinates": {
-        "lat": 52.4805,
-        "lng": -1.90037
+        "lat": 55.6982283,
+        "lng": -3.9813873
       },
       "geocoded": true,
       "status": "listed",
@@ -17751,15 +17752,15 @@
     {
       "id": 746,
       "title": "Sutton Folk Club",
-      "venue": "",
+      "venue": "Sutton Village Hall",
       "place": "Sutton",
       "description": "Sutton Folk Club meets monthly on Saturdays with guests at Sutton Village Hall, Sutton, Bedfordshire.",
-      "address": "Sutton, Greater London, United Kingdom",
+      "address": "Sutton Village Hall, Sutton, Bedfordshire, United Kingdom",
       "event_type": "folk-club",
       "permalink": "/listings/sutton-folk-club/",
       "coordinates": {
-        "lat": 51.35744,
-        "lng": -0.17361
+        "lat": 52.1110483,
+        "lng": -0.2153275
       },
       "geocoded": true,
       "status": "listed",
@@ -19485,15 +19486,15 @@
     {
       "id": 2955,
       "title": "The Good Intent",
-      "venue": "The Rising Sun pub",
-      "place": "Kent",
+      "venue": "The Good Intent",
+      "place": "Petersfield",
       "description": "",
-      "address": "The Rising Sun pub, Delce Road, Rochester, Kent, ME1 2BU, Hampshire, United Kingdom",
+      "address": "The Good Intent, Petersfield, Hampshire, United Kingdom",
       "event_type": "session",
       "permalink": "/listings/the-good-intent/",
       "coordinates": {
-        "lat": 51.38411,
-        "lng": 0.50777
+        "lat": 51.0066496,
+        "lng": -0.9339982
       },
       "geocoded": true,
       "status": "listed",
@@ -21808,7 +21809,7 @@
       "venue": "Tredegar House and Country Park",
       "place": "Newport",
       "description": "A weekend of dance and music from across the world. Concerts, ceilidhs, music sessions and FREE dance displays.",
-      "address": "Tredegar House and Country Park, Newport, NP10 8YW, Newport, United Kingdom",
+      "address": "Tredegar House and Country Park, Newport, United Kingdom",
       "event_type": "festival",
       "permalink": "/listings/tredegar-house-folk-festival/",
       "coordinates": {

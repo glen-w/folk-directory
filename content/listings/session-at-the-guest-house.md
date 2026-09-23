@@ -11,9 +11,9 @@ county: Lancashire
 venue: The Guest House
 address: 14 Union St
 place: Southport
-post_code: PR9 0QF
-lat: 53.65052
-lng: -2.99993
+post_code: ''
+lat: 53.62488
+lng: -2.96223
 when: Third Mondays, 2000-2300
 www: ''
 email: lesb@lesliebrown.plus.com

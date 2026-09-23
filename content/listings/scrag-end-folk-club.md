@@ -13,7 +13,7 @@ place: Swadlincote
 post_code: DE11 8EN
 lat: 52.76189
 lng: -1.55179
-when: Sundays of the month in the restaurant
+when: Monthly, 1st & 3rd Sunday, 8pm
 www: www.scragfolk.co.uk
 status: listed
 ---

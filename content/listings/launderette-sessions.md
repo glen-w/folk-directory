@@ -10,9 +10,9 @@ county: Durham
 venue: Old Cinema Launderette
 address: 38, Marshall Terrace
 place: Durham
-post_code: SN1 3JS
-lat: 51.55597
-lng: -1.78035
+post_code: ''
+lat: 54.78025
+lng: -1.5455
 when: Varied, Variable
 www: ''
 status: listed

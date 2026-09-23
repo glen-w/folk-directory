@@ -6,14 +6,14 @@ event_types:
 - session
 locations:
 - billinge-wigan
-- lancashire
-county: Lancashire
+- greater-manchester
+county: Greater Manchester
 venue: The Mason Arms
 address: 99 Carr Mill Rd
 place: Billinge, Wigan
-post_code: WN5 7TY
-lat: 53.48736
-lng: -2.7112
+post_code: ''
+lat: 53.48733
+lng: -2.71118
 when: Every Thursday, 8.30 - 11.00pm
 www: masonsarmsbillinge.co.uk
 email: brianr@bjsystems.co.uk

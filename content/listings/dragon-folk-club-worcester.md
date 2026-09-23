@@ -14,7 +14,7 @@ place: Worcester
 post_code: ''
 lat: 52.19653
 lng: -2.20956
-when: Wednesday of the month from 8 - 10:30pm in the upper room o
+when: Monthly, 1st & 3rd Wednesday, 8–10:30pm
 www: www.dragonfolkclub.com
 status: listed
 ---

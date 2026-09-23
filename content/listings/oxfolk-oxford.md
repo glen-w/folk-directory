@@ -14,7 +14,7 @@ place: Oxford
 post_code: ''
 lat: 51.75201
 lng: -1.25785
-when: Saturday of the month from October to May
+when: Monthly, 2nd Saturday (October–May)
 www: www.oxfolk.org.uk
 status: listed
 ---

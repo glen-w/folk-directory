@@ -13,7 +13,7 @@ place: Poynton
 post_code: SK12 1RB
 lat: 53.34904
 lng: -2.11617
-when: Monthly October-April
+when: Monthly, 4th Saturday (October–April)
 www: poyntonceilidh.co.uk
 email: info@poyntonceilidh.co.uk
 status: listed

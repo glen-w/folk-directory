@@ -13,7 +13,7 @@ place: Barrow upon Soar, near Loughborough
 post_code: LE12 8PN
 lat: 52.75016
 lng: -1.15122
-when: Monday nights
+when: Monthly, 2nd Monday, 8.30pm
 www: guf.org.uk
 email: bill.wilkes@btinternet.com
 status: listed

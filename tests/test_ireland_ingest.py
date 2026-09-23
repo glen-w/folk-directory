@@ -185,6 +185,28 @@ def test_publish_soft_dup_avoids_id_suffix_for_empty_venue():
     )
 
 
+def test_slugify_strips_organiser_dh_prefix():
+    """Folk Music Map placemark names like 'DH Folk …' must not become dh- slugs."""
+    assert pub.slugify("DH Folk Music and Song Session The Bull") == (
+        "folk-music-and-song-session-the-bull"
+    )
+    assert pub.slugify("DH Folk The Blue Bell") == "folk-the-blue-bell"
+    assert pub._norm_title("DH Folk The Good Intent") == "folk the good intent"
+    # Soft-dup still equates prefixed and stripped titles
+    assert pub.same_listing_soft(
+        {
+            "title": "DH Folk Music and Song Session",
+            "place": "Birmingham",
+            "venue": "The Wellington",
+        },
+        {
+            "title": "Folk Music and Song Session",
+            "place": "Birmingham",
+            "venue": "The Wellington",
+        },
+    )
+
+
 def test_uk_thesession_still_weak():
     ent = bc.entity_from_cluster(
         [

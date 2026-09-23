@@ -6,14 +6,14 @@ event_types:
 - session
 locations:
 - standish-wigan
-- lancashire
-county: Lancashire
+- greater-manchester
+county: Greater Manchester
 venue: The Crown
 address: Platt Lane
 place: Standish, Wigan
-post_code: WN1 2XF
-lat: 53.59709
-lng: -2.6414
+post_code: ''
+lat: 53.59678
+lng: -2.63724
 when: Second Sundays, 12.00-3.00 - lunch time
 www: thecrownatworthington.co.uk
 email: brianr@bjsystems.co.uk

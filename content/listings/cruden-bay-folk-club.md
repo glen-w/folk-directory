@@ -14,7 +14,7 @@ place: Cruden Bay
 post_code: ''
 lat: 57.41729
 lng: -1.85115
-when: Friday, Every Month Live Club Nights will resume from Ju
+when: Monthly, last Friday
 www: crudenbayfolkclub.co.uk
 email: info@crudenbayfolkclub.co.uk
 logo: /images/listings/cruden_bay_folk_club_logo_962.png

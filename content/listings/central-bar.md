@@ -14,7 +14,7 @@ place: Gateshead
 post_code: ''
 lat: 54.96258
 lng: -1.60193
-when: Thursday of each month from 12
+when: Monthly, 3rd Thursday, 12.30–3.30pm
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Bennetts Hill Birmingham
 post_code: B2 5SN
 lat: 52.4805
 lng: -1.90037
-when: Tuesday, Other
+when: Monthly, 5th Tuesday
 www: ''
 status: listed
 ---

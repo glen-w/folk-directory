@@ -13,7 +13,7 @@ place: Fyvie
 post_code: ''
 lat: 57.43075
 lng: -2.39241
-when: Wednesdays of each month in the Vale Hotel, Fyvie in the Nor
+when: Monthly, 1st & 2nd Wednesday
 www: www.fyviefolk.org.uk
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Huntly
 post_code: ''
 lat: 57.44748
 lng: -2.78642
-when: Wednesday of every month at Harry's Bar (behind The Crown p
+when: Monthly, 3rd Wednesday, 8pm
 www: ''
 status: listed
 ---

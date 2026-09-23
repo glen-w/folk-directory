@@ -13,7 +13,7 @@ place: Dalry
 post_code: ''
 lat: 55.70599
 lng: -4.71114
-when: Monthly, Friday
+when: Monthly, 1st Friday
 www: www.dalryfolkclub.weebly.com
 logo: /images/listings/dalry_folk_club_logo_964.png
 status: listed

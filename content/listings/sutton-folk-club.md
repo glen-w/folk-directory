@@ -5,15 +5,16 @@ name: Sutton Folk Club
 event_types:
 - folk-club
 locations:
-- the-south
-county: Greater London
-venue: ''
+- sutton
+- bedfordshire
+county: Bedfordshire
+venue: Sutton Village Hall
 address: ''
 place: Sutton
 post_code: ''
-lat: 51.35744
-lng: -0.17361
-when: Saturdays with guests at Sutton Village Hall, Sut
+lat: 52.11105
+lng: -0.21533
+when: Saturdays with guests at Sutton Village Hall
 www: myweb.tiscali.co.uk/markii/suttonfolk.htm
 status: listed
 ---

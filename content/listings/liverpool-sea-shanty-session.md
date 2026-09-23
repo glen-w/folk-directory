@@ -13,7 +13,7 @@ place: Liverpool
 post_code: ''
 lat: 53.38736
 lng: -3.18496
-when: Saturday of every month - 8
+when: Monthly, 1st Saturday, 8.30pm
 www: www.liverpoolseashanty.co.uk
 status: listed
 ---

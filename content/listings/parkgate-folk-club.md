@@ -13,7 +13,7 @@ place: Parkgate
 post_code: CH64 6RN
 lat: 53.29975
 lng: -3.08746
-when: Thursdays
+when: Monthly, last Thursday
 www: parkgatefolkclub.com
 email: info@parkgatefolkclub.com
 status: listed

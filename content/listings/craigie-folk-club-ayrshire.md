@@ -14,7 +14,7 @@ place: Ayrshire
 post_code: ''
 lat: 55.4597
 lng: -4.61979
-when: Monthly, Friday
+when: Monthly, 1st Friday
 www: www.scottish-folk-music.com/folk-clubs/craigie-folk-club.htm
 status: listed
 ---

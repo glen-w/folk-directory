@@ -13,7 +13,7 @@ place: Daliburgh
 post_code: ''
 lat: 57.16781
 lng: -7.37133
-when: Friday of every month
+when: Monthly, 1st Friday
 www: projects.handsupfortrad.scot/southuistfolk
 email: southuistfolkclub@gmail.com
 status: listed

@@ -10,9 +10,9 @@ county: South Yorkshire
 venue: Princess Royal
 address: 43 Slinn Street, Sheffield
 place: South Yorkshire
-post_code: YO13 0PT
-lat: 54.30018
-lng: -0.44743
+post_code: ''
+lat: 53.38881
+lng: -1.50102
 when: Weekly, Thursday
 www: ''
 status: listed

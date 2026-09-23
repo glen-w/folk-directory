@@ -13,7 +13,7 @@ place: Dalbeattie
 post_code: ''
 lat: 54.9307
 lng: -3.82007
-when: Thursday of the month (except January) in the Masonic Lodg
+when: Monthly, 2nd Thursday (except January), 8–11pm
 www: www.dalbeattie-acoustic.club
 status: listed
 ---

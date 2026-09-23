@@ -13,7 +13,7 @@ place: Amberley
 post_code: ''
 lat: 50.90891
 lng: -0.53465
-when: Tuesday nights but other Tuesdays are also used
+when: Monthly, 1st & 3rd Tuesday
 www: ''
 status: listed
 ---

@@ -52,3 +52,4 @@ __pycache__/
 .pytest_cache/
 .venv/
 venv/
+.stfolder/syncthing-folder-6a6217.txt

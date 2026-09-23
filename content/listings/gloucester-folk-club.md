@@ -14,7 +14,7 @@ place: Gloucester
 post_code: ''
 lat: 51.86537
 lng: -2.24582
-when: Thursday of the month with occassional guests
+when: Monthly, 2nd Thursday
 www: glosfolkclub.freewebspace.com
 status: listed
 ---

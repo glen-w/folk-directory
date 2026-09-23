@@ -12,7 +12,7 @@ venue: ''
 address: ''
 place: Long Whatton, Derbyshire
 post_code: ''
-when: Tuesday of every month at The Falcon Inn, 64 Main Street,
+when: Monthly, 2nd Tuesday, 7.30pm
 www: www.tigerfolk.com
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Pinner
 post_code: ''
 lat: 51.59687
 lng: -0.37701
-when: Wednesdays of each month ( check our website to be sure, dat
+when: Monthly, 1st & 3rd Wednesday
 www: www.pinfab.wordpress.com
 status: listed
 ---
