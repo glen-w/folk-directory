@@ -17,3 +17,4 @@ when: Monthly, Last Friday
 www: www.glasgowwestend.co.uk/whatson/partickfolkclub09.php
 status: listed
 ---
+

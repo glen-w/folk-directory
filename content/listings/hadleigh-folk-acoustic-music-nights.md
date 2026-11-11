@@ -7,12 +7,12 @@ event_types:
 locations:
 - suffolk
 county: Suffolk
-venue: Ansell Centre
-address: Market Pl, Hadleigh, Ipswich
+venue: The Ansell Centre
+address: Market Place
 place: Suffolk
-post_code: ''
-lat: 52.23476
-lng: 1.04513
+post_code: IP7 5DL
+lat: 52.04281
+lng: 0.95376
 when: Monthly, 1st Friday
 www: www.hadleighfolk.org.uk
 email: simonhaines1@icloud.com

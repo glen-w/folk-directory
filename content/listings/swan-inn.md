@@ -19,3 +19,5 @@ www: www.stranraerfolkclub.org.uk
 email: mark@stranraerfolkclub.org.uk
 status: listed
 ---
+
+The Swan Inn hosts the Potteries Folk Club, which meets on the second Friday of the month. The club was founded over 60 years ago and is dedicated to promoting and preserving folk music. Events are open to everyone, whether experienced or new to the genre, and no membership is required.

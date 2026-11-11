@@ -18,3 +18,5 @@ www: purbeckfolk.co.uk
 email: paul@purbeckfolk.co.uk
 status: listed
 ---
+
+The Purbeck Folk Festival is an award-winning small festival held on a sheep farm on the Jurassic Coastline. It runs over the August Bank Holiday weekend (27–30 August) and is open to all ages, with activities for children, parents, and seasoned folk musicians alike. The festival features competitions including Purbeck Rising, a Poetry Slam, and Beard Off.

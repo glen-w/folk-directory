@@ -7,12 +7,12 @@ event_types:
 locations:
 - england
 county: West Sussex
-venue: George and Dragon in Houghton
+venue: The George and Dragon
 address: ''
 place: Amberley
-post_code: ''
-lat: 50.90891
-lng: -0.53465
+post_code: BN18 9LW
+lat: 50.89459
+lng: -0.55281
 when: Monthly, 1st & 3rd Tuesday
 www: ''
 status: listed

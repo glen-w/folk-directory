@@ -19,3 +19,5 @@ email: saltburnfolkfestival@talktalk.net
 logo: /images/listings/saltburn_international_festival_of_folk_music_logo_282.png
 status: listed
 ---
+
+Saltburn International Festival of Folk Music is a family festival held over a weekend in August. The programme includes concerts, street performances, crafts, folk dance, spoken word, film, workshops, ceilidh, community music making, and puppetry.

@@ -18,3 +18,5 @@ www: priddyfolk.org
 email: tickets@priddyfolk.org
 status: listed
 ---
+
+The Priddy Folk Festival takes place in the village of Priddy, high on the Mendip Hills in Somerset. The 2027 edition is scheduled for 9–11 July. The festival features music, dancing, and open green spaces, with performances held in marquees. It is described as the friendliest folk festival in the UK.

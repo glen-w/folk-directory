@@ -19,6 +19,3 @@ logo: /images/listings/devvy_folk_sessions_logo_824.png
 status: listed
 ---
 
-A folk music session held at Tafarn Cwmdu, the village pub in Cwmdu, on the first Friday of each month at 8pm. A core of regular local musicians gathers to play and sing, drawing on repertoire from the Celtic countries, England, and across Europe. Visitors are welcome to join in and bring their own styles to the session.
-
-By custom, one end of the room is set aside for those who prefer to listen. The session dates back to the reopening of the pub nearly 30 years ago.

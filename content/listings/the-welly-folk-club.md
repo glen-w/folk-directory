@@ -17,3 +17,5 @@ when: Weekly, Thursday
 www: thewilsonfamilyalbum.co.uk
 status: listed
 ---
+
+The Welly Folk Club is the home of The Wilson Family Folk Group. It meets every Thursday from 8.30pm at The Wellington Inn, High Street, Wolviston Village, County Durham (TS22 5JY).

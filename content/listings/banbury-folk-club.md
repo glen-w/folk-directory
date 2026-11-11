@@ -7,12 +7,12 @@ event_types:
 locations:
 - oxfordshire
 county: Oxfordshire
-venue: The Mill Arts Centre
-address: Spiceball Park
+venue: The Cromwell Lodge Hotel
+address: North Bar St
 place: Banbury.
-post_code: ''
-lat: 52.06018
-lng: -1.34028
+post_code: OX16 0TB
+lat: 52.06209
+lng: -1.33999
 when: Wednesdays
 www: banburyfolkclub.co.uk
 email: irhuckin@aol.com

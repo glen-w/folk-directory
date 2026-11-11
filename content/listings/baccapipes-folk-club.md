@@ -8,12 +8,12 @@ locations:
 - keighley
 - england
 county: West Yorkshire
-venue: Riddlesden Memorial Institute
-address: Riddlesden Institute. Scott Lane, Riddlesden Keighley BD20 5BUden
+venue: The Riddlesden Institute
+address: Scott Lane
 place: Keighley.
-post_code: ''
-lat: 53.8684
-lng: -1.90205
+post_code: BD20 5BU
+lat: 53.87946
+lng: -1.88848
 when: Weekly, Friday
 www: www.baccapipes.org.uk
 logo: /images/listings/baccapipes_folk_club_logo_755.png

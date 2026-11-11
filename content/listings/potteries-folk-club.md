@@ -18,3 +18,7 @@ www: www.potteriesfolkclub.com
 logo: /images/listings/potteries_folk_club_logo_874.png
 status: listed
 ---
+
+The Potteries Folk Club meets on the second Friday of the month. Founded over 60 years ago, the club has been dedicated to promoting and preserving folk music ever since.
+
+Events are open to everyone, whether a seasoned player or simply curious about the genre. No membership is required to attend.

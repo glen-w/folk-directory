@@ -410,6 +410,41 @@ def test_website_source_reads_cache_txt(tmp_path: Path, monkeypatch: pytest.Monk
     assert "weekly folk club" in text
 
 
+def test_website_source_skips_rival_club_page(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+    cache_dir = tmp_path / "ingest" / "cache" / "liamtho.com"
+    cache_dir.mkdir(parents=True)
+    html = cache_dir / "home.html"
+    html.write_text("<html></html>", encoding="utf-8")
+    txt = cache_dir / "home.txt"
+    txt.write_text(
+        "Topsham Folk Club meets on Sundays at Matthews Hall, Topsham.",
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(rw, "ROOT", tmp_path)
+    by_id = {
+        847: {
+            "id": 847,
+            "fetch_status": "ok",
+            "www": "liamtho.com/FolkAtTheClub",
+            "extracted": {"folk_relevant": True},
+            "cache_path": str(html.relative_to(tmp_path)),
+        }
+    }
+    text, why = rw.website_source_for_listing(
+        {
+            "id": 847,
+            "www": "liamtho.com/FolkAtTheClub",
+            "name": "Folk At THe Club",
+            "venue": "Churchdown Club",
+            "place": "Churchdown",
+        },
+        by_id,
+        {},
+    )
+    assert text == ""
+    assert why == "source_identity"
+
+
 def test_parse_review_json_empty_rejects():
     out = rw.parse_review_json("")
     assert out["verdict"] == "reject"

@@ -18,3 +18,5 @@ when: Fortnightly, Wednesday
 www: www.penzancefolkclub.co.uk
 status: listed
 ---
+
+Penzance Folk Club meets at the Bath Inn, Cornwall Terrace, Penzance, TR18 4HL, on alternate Wednesdays from 7:30pm. The club is a warm and friendly gathering in Cornwall's far west, offering round-the-room sessions and guest nights. Visitors are welcome.

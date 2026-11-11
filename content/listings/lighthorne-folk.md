@@ -17,3 +17,5 @@ when: Monthly, 1st Monday
 www: lighthornefolk.yolasite.com
 status: listed
 ---
+
+Lighthorne Folk is a folk music venue at The Antelope Inn, Lighthorne, CV35 0BX, running a regular Monday live music session. The venue is currently seeking a new location for 2027, with the hope of returning to the Antelope Inn. Performer bookings are paused until the new venue is confirmed; interested artists may register their interest via the enquiry form on the Monday Live Music Session page.

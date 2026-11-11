@@ -18,3 +18,5 @@ when: Weekly, Wednesday
 www: www.folkwales.org.uk/folk.html
 status: listed
 ---
+
+FolkWales is the online home of Llantrisant Folk Club and publishes the FolkWales online magazine, covering news, views, reviews, features, articles, and comment on folk and roots music in Wales and beyond. The site also maintains an all-Wales listings section with detailed information on folk and roots events.

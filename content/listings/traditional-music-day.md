@@ -19,3 +19,7 @@ email: info@eatmt.fsnet.co.uk
 logo: /images/listings/traditional_music_day_logo_295.png
 status: listed
 ---
+
+Traditional Music Day is an event celebrating the traditional music, song, dance and customs of East Anglia, organised by EATMT. The trust undertakes research and projects to preserve and re-invigorate the region's traditions, including a Heritage Fund of the National Lottery–funded project celebrating the folk songs collected by Vaughan Williams in the area.
+
+EATMT also runs community projects, schools outreach and traditional music cafés, and offers hire of traditional instruments and a maypole at reasonable rates. The trust maintains archives of traditional musicians and a team of folklorists and researchers.

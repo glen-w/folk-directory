@@ -8,7 +8,7 @@ locations:
 - sheffield
 county: South Yorkshire
 venue: Cafe No 9
-address: Nether Edge Rd
+address: 9 Nether Edge Road
 place: Sheffield
 post_code: S7 1RU
 lat: 53.35875

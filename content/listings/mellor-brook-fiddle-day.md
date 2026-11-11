@@ -17,3 +17,5 @@ when: March
 www: fiddlemusic.co.uk
 status: listed
 ---
+
+Mellor Brook Fiddle Day is a fiddle-focused event associated with the Palatine Fiddlers, offering fiddle lessons for those inspired by folk and traditional fiddle music.

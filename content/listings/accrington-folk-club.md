@@ -7,12 +7,12 @@ event_types:
 locations:
 - england
 county: Lancashire
-venue: Accrington Cricket Club
+venue: The Accrington Cricket Club
 address: ''
 place: Accrington
-post_code: ''
-lat: 53.76431
-lng: -2.35801
+post_code: BB5 5BD
+lat: 53.76264
+lng: -2.36003
 when: Wednesday from 8
 www: ''
 status: listed

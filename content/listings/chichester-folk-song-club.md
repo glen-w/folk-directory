@@ -18,3 +18,5 @@ www: chifolksongclub.co.uk
 email: chifolksongclub@btinternet.com
 status: listed
 ---
+
+Chichester Folk Song Club has provided a venue for folk music in Chichester for over sixty years. The club runs from 8:15pm to 11:00pm, preceded by a music session from 7:45pm. Programmes feature guest performers, themed evenings, and singarounds.

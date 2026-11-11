@@ -127,6 +127,8 @@ def test_front_matter_field_keeps_body():
 def test_yaml_scalar_does_not_quote_comma_addresses():
     """Speech quotes are only for YAML-special characters, not street commas."""
     assert va.yaml_scalar("19 The Ln, Mickleby") == "19 The Ln, Mickleby"
+    assert va.yaml_scalar("-3.03544") == "-3.03544"
+    assert va.yaml_scalar("53.41713") == "53.41713"
     assert va.yaml_scalar("121 Gallowgate") == "121 Gallowgate"
     assert va.yaml_scalar("St. Mary's Road") == '"St. Mary\'s Road"'
     text = "---\naddress: ''\n---\n\nBody.\n"

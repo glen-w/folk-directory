@@ -18,3 +18,5 @@ when: Monthly, 3rd Wednesday
 www: www.potandglassfolkclub.co.uk
 status: listed
 ---
+
+Pot & Glass is a folk and acoustic music club. Visiting singers, musicians, and listeners are always welcome.

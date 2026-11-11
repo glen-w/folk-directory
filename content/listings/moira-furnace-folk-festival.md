@@ -20,3 +20,5 @@ email: info@moirafurnacefolkfestival.co.uk
 logo: /images/listings/moira_furnace_folk_festival_logo_284.png
 status: listed
 ---
+
+A small, friendly folk festival held in the heart of the National Forest. The festival features a real ale bar, on-site camping, Morris dancing, stalls, food outlets, workshops, singarounds, and a Saturday night ceilidh.

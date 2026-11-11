@@ -7,12 +7,12 @@ event_types:
 locations:
 - scotland
 county: Inverclyde
-venue: Baxters then at The Liberal Club
-address: ''
+venue: The Loreto Club
+address: Houston Street
 place: Inverclyde
-post_code: ''
-lat: 55.94381
-lng: -4.80944
+post_code: PA16 8DA
+lat: 55.95318
+lng: -4.76679
 when: meets every Tuesday night from around 8pm onwards at The Loreto Club,
 www: ''
 status: listed

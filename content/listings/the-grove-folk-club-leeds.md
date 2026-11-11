@@ -8,12 +8,12 @@ locations:
 - leeds
 - england
 county: West Yorkshire
-venue: Halsway Manor
-address: ''
+venue: The Grove Inn
+address: Back Row
 place: Leeds
-post_code: ''
-lat: 53.79742
-lng: -1.54379
+post_code: LS11 5PL
+lat: 53.79098
+lng: -1.54794
 when: meets on Fridays at The Grove Inn, Back Row, David Street, off Wat
 www: www.folkatthegrove.co.uk
 status: listed

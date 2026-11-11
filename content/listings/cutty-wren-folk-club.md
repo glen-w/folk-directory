@@ -11,9 +11,9 @@ county: North Yorkshire
 venue: Redcar Borough Park Bowling Club
 address: 1 Thwaites Lane
 place: Redcar
-post_code: ''
-lat: 54.6095
-lng: -1.06107
+post_code: TS10 2FD
+lat: 54.60887
+lng: -1.06298
 when: Weekly, Tuesday
 www: cuttywrenfolkclub.com
 email: info@cuttywrenfolkclub.com

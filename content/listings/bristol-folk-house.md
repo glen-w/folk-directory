@@ -8,11 +8,11 @@ locations:
 - bristol
 county: Bristol
 venue: Folk House
-address: ''
+address: 40A Park Street
 place: Bristol
-post_code: ''
-lat: 51.45447
-lng: -2.60155
+post_code: BS1 5JG
+lat: 51.4543
+lng: -2.60203
 when: ''
 www: www.bristolfolkhouse.co.uk/live-music
 email: admin@bristolfolkhouse.co.uk

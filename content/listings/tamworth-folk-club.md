@@ -18,3 +18,5 @@ www: www.tamworthfolk.co.uk
 logo: /images/listings/tamworth_folk_club_logo_863.png
 status: listed
 ---
+
+Tamworth Folk Club is a regular folk session held at a pub in Tamworth. The venue was named CAMRA National Pub of the Year in 2023.

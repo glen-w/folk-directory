@@ -7,12 +7,12 @@ event_types:
 locations:
 - ivybridge
 county: Devon
-venue: Westward Inn
+venue: The Moorland Hotel
 address: Lee Mill
 place: Ivybridge
-post_code: PL21 9EE
-lat: 50.38483
-lng: -3.97178
+post_code: PL7 5HP
+lat: 50.43938
+lng: -4.03866
 when: Sundays
 www: moorfolk.co.uk
 email: ben123@talktalk.net

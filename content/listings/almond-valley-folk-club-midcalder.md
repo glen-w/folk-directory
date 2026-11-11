@@ -8,12 +8,12 @@ locations:
 - midcalder
 - scotland
 county: West Lothian
-venue: Railway Inn
-address: ''
+venue: The Railway Inn
+address: 43 Main Street
 place: Midcalder
-post_code: ''
-lat: 55.89035
-lng: -3.48205
+post_code: EH55 8DL
+lat: 55.85108
+lng: -3.57289
 when: Monthly, 3rd Tuesday, 8:00pm
 www: ''
 status: listed

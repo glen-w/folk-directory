@@ -7,12 +7,12 @@ event_types:
 locations:
 - hitchin
 county: Hertfordshire
-venue: The Sun Hotel
-address: Sun Street
+venue: The Cricket Pavilion
+address: Lucas Lane
 place: Hitchin
-post_code: SG5 1AF
-lat: 51.94673
-lng: -0.27842
+post_code: SG5 2JA
+lat: 51.95001
+lng: -0.2905
 when: Sunday
 www: www.hitchinfolkclub.idnet.net
 status: listed

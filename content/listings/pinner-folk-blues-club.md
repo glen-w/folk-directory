@@ -7,12 +7,12 @@ event_types:
 locations:
 - england
 county: Greater London
-venue: ''
-address: ''
+venue: St Thomas More RC Church
+address: 32 Field End Road
 place: Pinner
-post_code: ''
-lat: 51.59687
-lng: -0.37701
+post_code: HA5 2QT
+lat: 51.58361
+lng: -0.40111
 when: Monthly, 1st & 3rd Wednesday
 www: www.pinfab.wordpress.com
 status: listed

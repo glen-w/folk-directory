@@ -8,12 +8,12 @@ locations:
 - oxford
 - england
 county: Oxfordshire
-venue: ''
-address: ''
+venue: Kennington Village Hall
+address: Kennington Road
 place: Oxford
-post_code: ''
-lat: 51.75201
-lng: -1.25785
+post_code: OX1 5PG
+lat: 51.71812
+lng: -1.24447
 when: Monthly, 2nd Saturday (October–May)
 www: www.oxfolk.org.uk
 status: listed

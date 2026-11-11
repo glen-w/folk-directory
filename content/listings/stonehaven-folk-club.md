@@ -19,3 +19,5 @@ www: www.stonehavenfolkclub.co.uk
 logo: /images/listings/stonehaven_folk_club_logo_805.png
 status: listed
 ---
+
+The Stonehaven Folk Club meets in the 'Outside Hall' at the Stonehaven Community Education Centre on Friday nights. The regular start time is 8.30 pm; following the summer break, sessions begin at 8 pm.

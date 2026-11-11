@@ -19,3 +19,5 @@ email: bagman@themorrisring.org
 logo: /images/listings/rutland_morris_ring_meeting_logo_266.png
 status: listed
 ---
+
+The Morris Ring, formed in 1934, is an association of some 180 morris, sword and mummers clubs and teams. The Rutland Ring Meeting is one of the Ring's regular gatherings for member sides.

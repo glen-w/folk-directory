@@ -7,12 +7,12 @@ event_types:
 locations:
 - windlesham
 county: Surrey
-venue: The Sun
-address: 1 Chertsey Road
+venue: The Foresters Arms
+address: 173 London Rd
 place: Windlesham
-post_code: GU20 6HY
-lat: 51.36884
-lng: -0.64413
+post_code: GU19 5DH
+lat: 51.35598
+lng: -0.69984
 when: Tuesday
 www: bracknellfolk.org.uk
 email: info@bracknellfolk.org.uk
