@@ -15,7 +15,7 @@ place: Coralstown
 post_code: ''
 lat: 53.49065
 lng: -7.20303
-when: 8:30pm on Fridays.
+when: Weekly, Friday, 8:30pm
 www: marylynchspub.ie
 email: info@marylynchspub.ie
 status: listed

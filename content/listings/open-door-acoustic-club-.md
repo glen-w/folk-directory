@@ -13,7 +13,7 @@ place: East Harptree
 post_code: BS40 6BD
 lat: 51.30071
 lng: -2.62457
-when: Third Friday
+when: Monthly, 3rd Friday
 www: please-events.co.uk/opendoor/index.php?option=com_frontpage&Itemid=1
 status: listed
 ---

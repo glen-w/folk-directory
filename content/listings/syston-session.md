@@ -13,7 +13,7 @@ place: Syston
 post_code: LE7 1GQ
 lat: 52.70044
 lng: -1.07781
-when: Every Monday, 9pm
+when: Weekly, Monday, 9:00pm
 www: ''
 email: michael@sandersdesign.co.uk
 status: listed

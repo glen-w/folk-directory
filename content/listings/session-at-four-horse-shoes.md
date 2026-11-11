@@ -14,7 +14,7 @@ place: Nursling, Southampton
 post_code: SO16 0YA
 lat: 50.9447
 lng: -1.47424
-when: Every Tuesday, 8.00pm
+when: Weekly, Tuesday, 8:00pm
 www: ''
 email: mike@mikebunce.co.uk
 status: listed

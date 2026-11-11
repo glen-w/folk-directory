@@ -14,7 +14,7 @@ place: Coventry
 post_code: CV1 5DL
 lat: 52.40648
 lng: -1.50289
-when: Every Second Friday, 9pm
+when: Fortnightly, Friday, 9:00pm
 www: ''
 email: ewan_cameron@tiscali.co.uk
 status: listed

@@ -13,7 +13,7 @@ place: 31 Spring Gardens; Gainsborough;Lilnshire
 post_code: DN21 2SA
 lat: 53.40788
 lng: -0.7807
-when: Every other Friday
+when: Fortnightly, Friday
 www: gainsboroughfolkclub.com
 email: mike_dewsbury@yahoo.co.uk
 status: listed

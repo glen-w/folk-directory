@@ -13,7 +13,7 @@ place: 39 Kendal
 post_code: LA9 5AF
 lat: 54.32271
 lng: -2.74606
-when: Mondays 9pm
+when: Weekly, Monday, 9:00pm
 www: visitcumbria.com/kendal/kendal-ring-o-bells.htm
 status: listed
 edited: 23/01/2012

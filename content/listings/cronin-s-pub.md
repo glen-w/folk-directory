@@ -15,8 +15,8 @@ place: Crosshaven
 post_code: P43 XD43
 lat: 51.80204
 lng: -8.29453
-when: Last Wednesday of the month from 8pm.
+when: Monthly, Last Wednesday, 8:00pm
 www: www.croninspub.ie
-status: listed
 logo: /images/listings/cronin_s_pub_logo_7130.png
+status: listed
 ---

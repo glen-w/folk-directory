@@ -14,7 +14,7 @@ place: Glasbury
 post_code: HR3 5NR
 lat: 52.04622
 lng: -3.19464
-when: First Saturday of the month, 8pm
+when: Monthly, 1st Saturday, 8:00pm
 www: ''
 email: timberframe@keme.co.uk
 status: listed

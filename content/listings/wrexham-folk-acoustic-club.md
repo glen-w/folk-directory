@@ -14,7 +14,7 @@ place: Wrexham
 post_code: LL13 8DW
 lat: 53.04372
 lng: -2.99078
-when: Thursday, 1st in Month
+when: Monthly, 1st Thursday
 www: www.wrexhamfolkacoustic.club
 status: listed
 ---

@@ -13,7 +13,7 @@ place: North Boarhunt, Hampshire
 post_code: ''
 lat: 50.88938
 lng: -1.14717
-when: First and third Monday
+when: Monthly, 1st & 3rd Monday
 www: ocsle.org.uk/SCoFF/forestfolk
 email: info@forestfolk.co.uk
 status: listed

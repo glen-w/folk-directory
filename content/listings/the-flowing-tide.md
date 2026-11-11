@@ -14,7 +14,8 @@ place: Dublin
 post_code: D01 H6P1
 lat: 53.34883
 lng: -6.25782
-when: Nice city centre sessions from 7pm to 9pm featuring well established players.
+when: 19:00–21:00
 www: theflowingtide.ie
 status: listed
 ---
+City centre sessions featuring well established players.

@@ -13,7 +13,7 @@ place: Hartington
 post_code: SK17 0AL
 lat: 53.14062
 lng: -1.8094
-when: Thursday, 1st & 3rd
+when: Monthly, 1st & 3rd Thursday
 www: ''
 email: lindawoodroffe@live.co.uk
 status: listed

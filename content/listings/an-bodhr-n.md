@@ -15,7 +15,7 @@ place: Oliver Plunkett Street
 post_code: ''
 lat: 51.89759
 lng: -8.47197
-when: Friday, 21:00
+when: Weekly, Friday, 9:00pm
 www: ''
 status: listed
 ---

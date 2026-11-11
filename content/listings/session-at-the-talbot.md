@@ -14,7 +14,7 @@ place: Knightwick
 post_code: WR6 5PH
 lat: 52.20041
 lng: -2.39483
-when: First Wednesday of the month, 20.30 - 23.10
+when: Monthly, 1st Wednesday, 8:30pm-11:10pm
 www: talbot.co.uk
 email: john.taylor39@btinternet.com
 status: listed

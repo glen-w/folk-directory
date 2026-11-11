@@ -13,7 +13,7 @@ place: Wymondham
 post_code: NR18 0PN
 lat: 52.57321
 lng: 1.10943
-when: Last Sunday of the month
+when: Monthly, Last Sunday
 www: meetinthehedge.co.uk
 email: meetinthehedge@yahoo.co.uk
 status: listed

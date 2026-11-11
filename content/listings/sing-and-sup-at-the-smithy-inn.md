@@ -13,7 +13,7 @@ place: Carnforth
 post_code: LA6 1PS
 lat: 54.20332
 lng: -2.73325
-when: Sunday, 2nd in Month
+when: Monthly, 2nd Sunday
 www: ''
 status: listed
 ---

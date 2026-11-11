@@ -13,7 +13,7 @@ place: Sheffield
 post_code: S35 2XF
 lat: 53.46446
 lng: -1.46471
-when: Friday, 1st in Month
+when: Monthly, 1st Friday
 www: ''
 status: listed
 ---

@@ -9,13 +9,14 @@ locations:
 - galway
 - ireland
 county: Galway
-venue: MacNeill's Pub (The Hardiman)
-address: ''
-place: Eyre Square / downstairs Hardiman Hotel, Galway City
+venue: The Hardiman
+address: Eyre Square
+place: Galway
 post_code: ''
+lat: 53.27393
+lng: -9.04802
 when: Weekly, Monday & Thursday, 7:00pm
 www: www.thehardiman.ie/discover/festivals
 status: listed
 ---
-
 Live Irish music and traditional Irish dancers at MacNeill's Pub in the Hardiman, Galway.

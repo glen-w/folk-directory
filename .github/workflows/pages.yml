@@ -30,8 +30,18 @@ jobs:
           hugo-version: "0.148.1"
           extended: true
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Build
         run: hugo --minify
+
+      - name: Public contract tests
+        run: |
+          python3 -m pip install --quiet pytest
+          python3 -m pytest tests/test_search_index.py tests/test_listings_browse.py tests/test_relaunch_contracts.py -k "not placeholder_listing_titles"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -13,7 +13,7 @@ place: Reading
 post_code: RG1 7RJ
 lat: 51.45184
 lng: -0.97918
-when: Wednesday, 4th in Month
+when: Monthly, 4th Wednesday
 www: ''
 status: listed
 ---

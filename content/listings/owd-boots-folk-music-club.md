@@ -13,7 +13,7 @@ place: Nottingham
 post_code: NG2 2GR
 lat: 52.93923
 lng: -1.13857
-when: Tuesday, 2nd in Month
+when: Monthly, 2nd Tuesday
 www: ''
 status: listed
 ---

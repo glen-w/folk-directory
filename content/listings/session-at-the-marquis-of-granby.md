@@ -14,7 +14,7 @@ place: Waddingham
 post_code: DN21 4SW
 lat: 53.453
 lng: -0.5219
-when: Second and Last Sundays, From 3pm
+when: Monthly, 2nd & Last Sunday, 3:00pm
 www: ''
 email: dgannon@lincoln.ac.uk
 status: listed

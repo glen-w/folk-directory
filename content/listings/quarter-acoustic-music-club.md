@@ -13,7 +13,7 @@ place: South Lanarkshire
 post_code: ML3 7XA
 lat: 55.73826
 lng: -4.03286
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: quarteraccoustic.wixsite.com/qamc01
 status: listed
 ---

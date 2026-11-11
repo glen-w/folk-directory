@@ -15,9 +15,9 @@ place: Belfast
 post_code: BT7 1RS
 lat: 54.58898
 lng: -5.93422
-when: Sunday session from 7pm to 9pm.
+when: Weekly, Sunday, 7:00pm-9:00pm
 www: laverys.com
 email: info@laverys.com
-status: listed
 logo: /images/listings/lavery_s_logo_3210.png
+status: listed
 ---

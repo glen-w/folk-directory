@@ -13,7 +13,7 @@ place: Ebbw Vale
 post_code: ''
 lat: 51.78129
 lng: -3.20844
-when: Monthly, last Friday
+when: Monthly, Last Friday
 www: ''
 status: listed
 ---

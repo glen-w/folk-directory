@@ -13,7 +13,7 @@ place: North Yorkshire
 post_code: HG2 8QT
 lat: 53.97747
 lng: -1.52185
-when: Wednesday, 1st in Month
+when: Monthly, 1st Wednesday
 www: harrogatefolk.com
 status: listed
 ---

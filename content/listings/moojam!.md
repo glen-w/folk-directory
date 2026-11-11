@@ -13,7 +13,7 @@ place: Penrith
 post_code: CA11 7AY
 lat: 54.66316
 lng: -2.75127
-when: first and third Monday
+when: Monthly, 1st & 3rd Monday
 www: facebook.com/moobarpenrith
 email: mail@rblmusic.com
 status: listed

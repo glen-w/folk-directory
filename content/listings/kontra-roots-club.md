@@ -13,7 +13,7 @@ place: Finedon
 post_code: NN9 5EJ
 lat: 52.33722
 lng: -0.64487
-when: 2nd & 4th Fridays
+when: Monthly, 2nd & 4th Friday
 www: kcbworld.co.uk/kcbworld.co.uk/Kontra_Roots_Club.html
 email: kev@kcbworld.co.uk
 status: listed

@@ -15,8 +15,8 @@ place: Corbally
 post_code: ''
 lat: 54.16243
 lng: -9.07525
-when: Sundays from 6pm to 8pm.
+when: Weekly, Sunday, 6:00pm-8:00pm
 www: www.muddyburns.com
-status: listed
 logo: /images/listings/muddy_burns_logo_7126.png
+status: listed
 ---

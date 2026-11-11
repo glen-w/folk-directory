@@ -14,7 +14,7 @@ place: Westgate. Shipley Bradford
 post_code: BD18 3QX
 lat: 53.83453
 lng: -1.77838
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: www.nawaller.com/topicfc
 status: listed
 ---

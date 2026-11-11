@@ -10,13 +10,14 @@ locations:
 county: North Yorkshire
 venue: ''
 address: ''
-place: Drax Nr Selby
+place: Drax
 post_code: ''
+lat: 53.7255
+lng: -0.98154
 when: June
 www: www.towerfest.co.uk
 email: sales@towerfest.co.uk
 logo: /images/listings/towerfest_logo_3665.png
 status: listed
 ---
-
 Country music in Yorkshire. We often include something that isn't your traditional folk festival, and country music is sort of folky. So here it is.

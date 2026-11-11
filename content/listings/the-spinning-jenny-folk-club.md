@@ -11,7 +11,7 @@ place: Long Eaton
 post_code: NG10 1BG
 lat: 52.89487
 lng: -1.27298
-when: Last Friday of the month
+when: Monthly, Last Friday
 www: ''
 email: theysayjumpwesayhowhigh@hotmail.com
 status: defunct

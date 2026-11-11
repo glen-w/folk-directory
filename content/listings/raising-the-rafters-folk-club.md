@@ -13,7 +13,7 @@ place: Wath-upon-Dearne
 post_code: S63 7RD
 lat: 53.5027
 lng: -1.34732
-when: Saturday, 2nd in Month
+when: Monthly, 2nd Saturday
 www: www.raisingtherafters.co.uk
 status: listed
 ---

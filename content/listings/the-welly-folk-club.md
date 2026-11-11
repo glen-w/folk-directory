@@ -13,7 +13,7 @@ place: Wolviston Village
 post_code: TS22 5JY
 lat: 54.62407
 lng: -1.29953
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: thewilsonfamilyalbum.co.uk
 status: listed
 ---

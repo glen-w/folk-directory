@@ -13,7 +13,7 @@ place: Teignmouth
 post_code: TQ14 8BA
 lat: 50.54389
 lng: -3.49754
-when: Last Thursday of the month
+when: Monthly, Last Thursday
 www: communigate.co.uk/twc/teignfc
 status: listed
 edited: 24/10/2011

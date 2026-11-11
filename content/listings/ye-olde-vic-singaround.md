@@ -13,7 +13,7 @@ place: Stockport
 post_code: SK3 9ED
 lat: 53.40419
 lng: -2.16659
-when: Monday, 2nd in Month
+when: Monthly, 2nd Monday
 www: yeoldevicmusic.uk
 status: listed
 ---

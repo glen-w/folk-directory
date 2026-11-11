@@ -13,7 +13,7 @@ place: Lincs
 post_code: PE10 0UZ
 lat: 52.81455
 lng: -0.36513
-when: Monday, 3rd in Month
+when: Monthly, 3rd Monday
 www: www.peteshaw.co.uk/index.php/hhtunes
 status: listed
 ---

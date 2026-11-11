@@ -13,7 +13,7 @@ place: Lighthorne
 post_code: CV35 0BX
 lat: 52.19954
 lng: -1.50457
-when: Monday, 1st in Month
+when: Monthly, 1st Monday
 www: lighthornefolk.yolasite.com
 status: listed
 ---

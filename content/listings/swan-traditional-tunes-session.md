@@ -13,7 +13,7 @@ place: Cumbria
 post_code: CA13 9PH
 lat: 54.66197
 lng: -3.35932
-when: Wednesday, 2nd in Month
+when: Monthly, 2nd Wednesday
 www: ''
 status: listed
 ---

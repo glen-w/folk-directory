@@ -13,7 +13,7 @@ place: Otford
 post_code: TN14 5PQ
 lat: 51.31331
 lng: 0.18901
-when: 2nd Thursday monthly
+when: Monthly, 2nd Thursday
 www: travellersrestfolk.co.uk
 email: info@uplandsguesthouse.co.uk
 status: listed

@@ -14,7 +14,7 @@ place: Barton
 post_code: B50 4NP
 lat: 52.15828
 lng: -1.84238
-when: Second Tuesday of the month, 8.30
+when: Monthly, 2nd Tuesday, 8:30pm
 www: ''
 email: alanwhitbread@yahoo.co.uk
 status: listed

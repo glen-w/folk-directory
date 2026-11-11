@@ -14,7 +14,7 @@ place: Egglescliffe
 post_code: TS16 9DQ
 lat: 54.51162
 lng: -1.3506
-when: Wednesday, 3rd in Month
+when: Monthly, 3rd Wednesday
 www: www.potandglassfolkclub.co.uk
 status: listed
 ---

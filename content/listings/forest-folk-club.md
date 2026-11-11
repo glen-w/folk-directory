@@ -14,7 +14,7 @@ place: Coleford
 post_code: GL16 8LH
 lat: 51.76708
 lng: -2.60901
-when: Sunday, 1st & 3rd
+when: Monthly, 1st & 3rd Sunday
 www: forestfolkclub.com
 email: orepool.inn@hotmail.com
 logo: /images/listings/forest_folk_club_logo_731.png

@@ -13,7 +13,7 @@ place: Street
 post_code: ''
 lat: 51.12675
 lng: -2.73972
-when: Monday, Every 2 weeks
+when: Fortnightly, Monday
 www: ''
 status: listed
 ---

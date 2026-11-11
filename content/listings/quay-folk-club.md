@@ -13,7 +13,7 @@ place: Isle of Wight
 post_code: ''
 lat: 50.67108
 lng: -1.3328
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: ''
 status: listed
 ---

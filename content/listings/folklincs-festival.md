@@ -14,7 +14,7 @@ place: Barton upon Humber
 post_code: DN18 5JR
 lat: 53.69693
 lng: -0.4419
-when: Monday, 1st in Month
+when: Monthly, 1st Monday
 www: Www.folklincs.com
 logo: /images/listings/folklincs_festival_logo_930.png
 status: listed

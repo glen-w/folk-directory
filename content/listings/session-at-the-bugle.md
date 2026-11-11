@@ -14,7 +14,7 @@ place: Botley, Southampton
 post_code: SO30 2EA
 lat: 50.91447
 lng: -1.27147
-when: First Tuesdays, 8.00pm
+when: Monthly, 1st Tuesday, 8:00pm
 www: thebugleinnbotley.co.uk
 email: george@gbfraser.eclipse.co.uk
 status: listed

@@ -15,7 +15,7 @@ place: Belfast
 post_code: BT1 1HL
 lat: 54.59974
 lng: -5.9324
-when: 'Saturday afternoons, from about 16:00'
+when: Weekly, Saturday, 4:00pm
 www: kellyscellars.co.uk
 status: listed
 ---

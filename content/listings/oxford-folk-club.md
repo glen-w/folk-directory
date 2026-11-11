@@ -13,7 +13,7 @@ place: Oxford
 post_code: OX1 4PD
 lat: 51.74379
 lng: -1.25617
-when: Fridays 8.30pm
+when: Weekly, Friday, 8:30pm
 www: oxfordfolkclub.com
 email: pamcooper@hotmail.com
 status: listed

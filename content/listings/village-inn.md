@@ -15,8 +15,8 @@ place: Kilchreest
 post_code: ''
 lat: 53.1787
 lng: -8.65226
-when: Every Friday from around 21.30
+when: Weekly, Friday, 9:30pm
 www: leonardcatering.ie/villlage-inn-home
-status: listed
 logo: /images/listings/village_inn_logo_7143.png
+status: listed
 ---

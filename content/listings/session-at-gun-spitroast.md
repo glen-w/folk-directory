@@ -14,7 +14,7 @@ place: Horsmonden
 post_code: TN12 8HT
 lat: 51.13871
 lng: 0.42884
-when: Second Wednesdays, 20.00-22.00
+when: Monthly, 2nd Wednesday, 8:00pm-10:00pm
 www: rittendenfestival.com
 email: gmatkin@gmail.com
 status: listed

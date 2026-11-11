@@ -14,7 +14,7 @@ place: Chorley
 post_code: PR7 3QG
 lat: 53.63888
 lng: -2.63789
-when: First Saturdays, 2.00 - 5.00pm
+when: Monthly, 1st Saturday, 2:00pm-5:00pm
 www: bjsystems.dyndns.org/ctms/index.html
 email: brianr@bjsystems.co.uk
 status: listed

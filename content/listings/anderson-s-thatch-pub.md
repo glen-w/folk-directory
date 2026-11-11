@@ -15,9 +15,9 @@ place: Carrick-on-Shannon
 post_code: ''
 lat: 53.90986
 lng: -8.12957
-when: Sessions at around 9pm on Wednesdays, Fridays, Saturdays, and Sundays.
+when: Weekly, Wednesday & Friday & Saturday & Sunday, 9:00pm
 www: www.andersonsthatchpub.com/music-and-events
 email: dethatch@gmail.com
-status: listed
 logo: /images/listings/anderson_s_thatch_pub_logo_7117.png
+status: listed
 ---

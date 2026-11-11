@@ -14,7 +14,7 @@ place: Haconby, Bourne
 post_code: PE10 0UZ
 lat: 52.81455
 lng: -0.36513
-when: Third Monday of the Month
+when: Monthly, 3rd Monday
 www: peterboroughfolkdiary.org.uk/hhare.aspx
 status: listed
 ---

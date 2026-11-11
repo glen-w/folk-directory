@@ -13,7 +13,7 @@ place: Calthwaite nr Penrith
 post_code: CA11 9QT
 lat: 54.7539
 lng: -2.82775
-when: Second Thursday
+when: Monthly, 2nd Thursday
 www: theglobeinncalthwaite.com
 email: mail@rblmusic.com
 status: listed

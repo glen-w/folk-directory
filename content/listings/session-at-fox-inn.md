@@ -14,7 +14,7 @@ place: Worcester
 post_code: WR2 6NX
 lat: 52.24025
 lng: -2.29454
-when: Last Friday of the month, 2000 - 2330
+when: Monthly, Last Friday, 8:00pm-11:30pm
 www: worcesterfolk.org.uk
 email: mike@worcesterfolk.org.uk
 status: listed

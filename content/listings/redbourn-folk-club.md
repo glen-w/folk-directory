@@ -8,11 +8,13 @@ locations:
 - redbourn-near-st-albans-herts
 - england
 county: Hertfordshire
-venue: The Holly-Bush PH, Redbourne
-address: The Hollybush Public House, Church End
-place: Redbourn (near St Albans) Herts .
+venue: The Holly Bush
+address: Church End
+place: Redbourn
 post_code: ''
-when: Wednesday, Every Week
+lat: 51.79264
+lng: -0.40583
+when: Weekly, Wednesday
 www: www.redbournfolkclub.org.uk
 status: listed
 ---

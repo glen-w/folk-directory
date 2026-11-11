@@ -13,7 +13,7 @@ place: Great Bardfield
 post_code: CM7 4SL
 lat: 51.945
 lng: 0.43942
-when: Second Thursday each month
+when: Monthly, 2nd Thursday
 www: ''
 status: listed
 ---

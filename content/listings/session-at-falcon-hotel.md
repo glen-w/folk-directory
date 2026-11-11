@@ -14,7 +14,7 @@ place: Bromyard
 post_code: HR7 4BT
 lat: 52.18871
 lng: -2.50571
-when: Every Tuesday, 8.00pm
+when: Weekly, Tuesday, 8:00pm
 www: bromyardsessions.co.uk
 email: info@bromyardsessions.co.uk
 status: listed

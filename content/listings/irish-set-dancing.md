@@ -13,7 +13,7 @@ place: Leintwardine
 post_code: SY7 0LQ
 lat: 52.36543
 lng: -2.87681
-when: 2nd Sunday of Month
+when: Monthly, 2nd Sunday
 www: ''
 email: pete@thedancingbridge.freeserve.co.uk
 status: listed

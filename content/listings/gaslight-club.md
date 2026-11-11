@@ -13,7 +13,7 @@ place: Leeds
 post_code: LS1 7BT
 lat: 53.79532
 lng: -1.54085
-when: Monday, Every Week
+when: Weekly, Monday
 www: ''
 status: listed
 ---

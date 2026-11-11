@@ -14,7 +14,7 @@ place: Ashleworth
 post_code: GL19 4HZ
 lat: 51.92404
 lng: -2.26525
-when: First Monday of month, 8.30pm onwards
+when: Monthly, 1st Monday, 8:30pm
 www: ''
 email: b111t@aol.com
 status: listed

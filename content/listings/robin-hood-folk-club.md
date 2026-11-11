@@ -14,7 +14,7 @@ place: Long Eaton
 post_code: NG10 1JF
 lat: 52.89631
 lng: -1.27199
-when: Saturdays - fortnightly
+when: Fortnightly, Saturday
 www: homepage.ntlworld.com/geoff.bowers/Robinhood.htm
 email: thepalmtrees@googlemail.com
 status: listed

@@ -13,7 +13,7 @@ place: Fenton Stoke-on-Trent
 post_code: ST4 3FA
 lat: 52.99819
 lng: -2.16351
-when: Friday, 2nd in Month
+when: Monthly, 2nd Friday
 www: www.potteriesfolkclub.com
 logo: /images/listings/potteries_folk_club_logo_874.png
 status: listed

@@ -13,7 +13,7 @@ place: Moffat
 post_code: DG10 9HF
 lat: 55.33316
 lng: -3.44476
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: ''
 status: listed
 ---

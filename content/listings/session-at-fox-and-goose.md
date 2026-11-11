@@ -14,7 +14,7 @@ place: Hebden Bridge
 post_code: HX7 6AZ
 lat: 53.74214
 lng: -2.02083
-when: Second Thursdays, 8.30pm
+when: Monthly, 2nd Thursday, 8:30pm
 www: ''
 email: foxale@tiscali.co.uk
 status: listed

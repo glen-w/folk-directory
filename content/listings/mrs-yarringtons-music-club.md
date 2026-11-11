@@ -13,7 +13,7 @@ place: Battle
 post_code: TN33 0SL
 lat: 50.89219
 lng: 0.51914
-when: Every other tuesday
+when: Fortnightly, Tuesday
 www: mrsyarringtons.me.uk
 email: mrsyarringtons@hotmail.co.uk
 status: listed

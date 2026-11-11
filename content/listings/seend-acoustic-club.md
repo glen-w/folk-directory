@@ -13,7 +13,7 @@ place: Seend, near Melksham
 post_code: SN12 6NS
 lat: 51.34945
 lng: -2.0829
-when: First and third Tuesdays
+when: Monthly, 1st & 3rd Tuesday
 www: seendacoustic.org
 email: seendacoustic@gmail.com
 status: listed

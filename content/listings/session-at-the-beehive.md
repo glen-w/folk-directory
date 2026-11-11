@@ -14,7 +14,7 @@ place: Swindon
 post_code: SN1 3JS
 lat: 51.55597
 lng: -1.78035
-when: Fourth Monday of the month, 8pm
+when: Monthly, 4th Monday, 8:00pm
 www: ''
 email: mess@music-alive.org.uk
 status: listed

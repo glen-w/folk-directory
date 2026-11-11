@@ -14,9 +14,9 @@ place: Galway
 post_code: H91 P65D
 lat: 53.27454
 lng: -9.04746
-when: Session on Tuesdays at 6pm.
+when: Weekly, Tuesday, 6:00pm
 www: anpucan.ie
 email: info@anpucan.ie
-status: listed
 logo: /images/listings/an_p_c_n_logo_7138.png
+status: listed
 ---

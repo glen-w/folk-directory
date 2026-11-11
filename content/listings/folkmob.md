@@ -13,7 +13,7 @@ place: Eltham
 post_code: SE9 6TE
 lat: 51.45843
 lng: 0.04695
-when: Every Wednesday at 8.30pm.
+when: Weekly, Wednesday, 8:30pm
 www: sites.google.com/site/folkmobonline
 email: davefolk@hotmail.com
 status: listed

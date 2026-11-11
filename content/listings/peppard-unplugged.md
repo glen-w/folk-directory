@@ -13,7 +13,7 @@ place: Henley-on-Thames
 post_code: ''
 lat: 51.53758
 lng: -0.90503
-when: Saturday, 2nd in Month
+when: Monthly, 2nd Saturday
 www: ''
 status: listed
 ---

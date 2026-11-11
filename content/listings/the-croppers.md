@@ -14,7 +14,7 @@ place: Liversedge
 post_code: WF15 7LQ
 lat: 53.69818
 lng: -1.70653
-when: Friday, Every Week
+when: Weekly, Friday
 www: www.croppersfolk.co.uk
 status: listed
 ---

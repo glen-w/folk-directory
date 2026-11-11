@@ -15,10 +15,8 @@ place: Portstewart
 post_code: BT55 7PU
 lat: 55.18305
 lng: -6.69743
-when: Last Friday of the month.
+when: Monthly, Last Friday
 www: www.cromorehalt.co.uk
 logo: /images/listings/cromore_halt_logo_3233.png
 status: listed
 ---
-
-

@@ -13,7 +13,7 @@ place: Shoreham-by-Sea
 post_code: BN43 5UA
 lat: 50.83518
 lng: -0.27239
-when: Thursday, 1st in Month
+when: Monthly, 1st Thursday
 www: folkmaster.co.uk
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Surrey
 post_code: TW20 9EW
 lat: 51.43189
 lng: -0.54832
-when: Thursday, 1st in Month
+when: Monthly, 1st Thursday
 www: www.runnymedefolkclub.co.uk
 logo: /images/listings/runnymede_folk_club_logo_928.png
 status: listed

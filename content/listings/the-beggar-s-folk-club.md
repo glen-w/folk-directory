@@ -13,7 +13,7 @@ place: Ottringham
 post_code: HU12 0BJ
 lat: 53.70846
 lng: -0.07772
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: beggarsfolk.co.uk
 status: listed
 ---

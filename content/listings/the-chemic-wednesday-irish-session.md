@@ -13,7 +13,7 @@ place: Leeds
 post_code: ''
 lat: 53.81451
 lng: -1.55287
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: ''
 status: listed
 ---

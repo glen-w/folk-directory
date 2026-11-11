@@ -13,7 +13,7 @@ place: Middlesbrough
 post_code: TS5 4BY
 lat: 54.56924
 lng: -1.25745
-when: Friday, Last in month
+when: Monthly, Last Friday
 www: ''
 status: listed
 ---

@@ -14,7 +14,7 @@ place: Sligo
 post_code: ''
 lat: 54.27133
 lng: -8.47531
-when: Fridays at 5pm.
+when: Weekly, Friday, 5:00pm
 www: www.hargadons.com
 status: listed
 ---

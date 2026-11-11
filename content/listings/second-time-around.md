@@ -13,7 +13,7 @@ place: Nottingham
 post_code: NG9 1EL
 lat: 52.92326
 lng: -1.21803
-when: Friday, Every Week
+when: Weekly, Friday
 www: folkbeeston.club
 status: listed
 ---

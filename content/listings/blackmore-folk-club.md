@@ -13,7 +13,7 @@ place: Writtle
 post_code: CM1 3DT
 lat: 51.72995
 lng: 0.42639
-when: First Thursday every month
+when: Monthly, 1st Thursday
 www: ''
 email: alan@folkmusic.org.uk
 status: listed

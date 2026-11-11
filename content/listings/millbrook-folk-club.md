@@ -13,7 +13,7 @@ place: Cornwall
 post_code: PL10 1AX
 lat: 50.3481
 lng: -4.21665
-when: Friday, 3rd in Month
+when: Monthly, 3rd Friday
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Melrose
 post_code: TD6 9PD
 lat: 55.59755
 lng: -2.72099
-when: First and third Fridays
+when: Monthly, 1st & 3rd Friday
 www: rollinghillsfolkclub.org.uk
 email: rolling.hills1@btinternet.com
 status: listed

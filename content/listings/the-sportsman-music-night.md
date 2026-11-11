@@ -13,7 +13,7 @@ place: Huddersfield
 post_code: ''
 lat: 53.65032
 lng: -1.78421
-when: Wednesday, 1st and 3rd
+when: Monthly, 1st & 3rd Wednesday
 www: ''
 status: listed
 ---

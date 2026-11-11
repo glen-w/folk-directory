@@ -13,7 +13,7 @@ place: Thames Ditton, Surrey
 post_code: KT7 0HB
 lat: 51.38203
 lng: -0.34181
-when: Fridays, 8.15pm
+when: Weekly, Friday, 8:15pm
 www: theramclub.co.uk
 email: ramclub@btinternet.com
 status: defunct

@@ -13,7 +13,7 @@ place: Nuneaton
 post_code: CV11 5LA
 lat: 52.52255
 lng: -1.47315
-when: Wednesday, 1st in Month
+when: Monthly, 1st Wednesday
 www: ''
 status: listed
 ---

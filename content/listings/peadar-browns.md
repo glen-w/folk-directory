@@ -14,7 +14,7 @@ place: Dublin
 post_code: D08 YK26
 lat: 53.33623
 lng: -6.27354
-when: Every Saturday afternoon from 4pm.
+when: Weekly, Saturday, 4:00pm
 www: www.peadarbrowns.com
 status: listed
 ---

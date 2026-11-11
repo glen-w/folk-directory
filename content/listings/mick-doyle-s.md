@@ -15,7 +15,7 @@ place: Graiguenamanagh
 post_code: ''
 lat: 52.54076
 lng: -6.95549
-when: Last Monday of every month, starts at 9pm
+when: Monthly, Last Monday, 9:00pm
 www: www.mickdoyles.ie
 email: mickdoylesgraig@gmail.com
 status: listed

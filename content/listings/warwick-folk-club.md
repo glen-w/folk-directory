@@ -14,7 +14,7 @@ place: Warwick
 post_code: CV34 5RN
 lat: 52.29453
 lng: -1.58649
-when: Monday, Every Week
+when: Weekly, Monday
 www: www.warwickfolkclub.co.uk
 status: listed
 ---

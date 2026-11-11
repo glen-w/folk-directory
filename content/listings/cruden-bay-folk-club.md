@@ -14,7 +14,7 @@ place: Cruden Bay
 post_code: ''
 lat: 57.41729
 lng: -1.85115
-when: Monthly, last Friday
+when: Monthly, Last Friday
 www: crudenbayfolkclub.co.uk
 email: info@crudenbayfolkclub.co.uk
 logo: /images/listings/cruden_bay_folk_club_logo_962.png

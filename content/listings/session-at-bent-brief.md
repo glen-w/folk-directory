@@ -14,7 +14,7 @@ place: Southampton
 post_code: SO14 6RP
 lat: 50.9197
 lng: -1.39676
-when: Last Thursdays, 9pm
+when: Monthly, Last Thursday, 9:00pm
 www: ''
 email: paul@fremantle.org
 status: listed

@@ -13,7 +13,7 @@ place: Barnack, near Stamford
 post_code: PE9 3ET
 lat: 52.6318
 lng: -0.41025
-when: First Tuesday of the month
+when: Monthly, 1st Tuesday
 www: www.acousticsessions.co.uk
 logo: /images/listings/acoustic_sessions_logo_67.png
 status: listed

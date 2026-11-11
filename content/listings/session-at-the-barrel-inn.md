@@ -14,7 +14,7 @@ place: Thornbury
 post_code: BS35 2AB
 lat: 51.60776
 lng: -2.52473
-when: Third Thursdays, 8pm
+when: Monthly, 3rd Thursday, 8:00pm
 www: ''
 email: carol.mosses@hotmail.co.uk
 status: listed

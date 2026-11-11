@@ -13,7 +13,7 @@ place: Newport
 post_code: ''
 lat: 51.58867
 lng: -3.04149
-when: Every Thursday 8:45
+when: Weekly, Thursday, 8:45pm
 www: www.newportfolkclub.co.uk
 email: topdog@newportfolkclub.co.uk
 logo: /images/listings/newport_folk_club_logo_512.png

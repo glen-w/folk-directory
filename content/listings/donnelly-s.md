@@ -15,9 +15,9 @@ place: Barna
 post_code: H91 TD65
 lat: 53.25117
 lng: -9.15182
-when: Every Saturday at 10pm.
+when: Weekly, Saturday, 10:00pm
 www: www.donnellysofbarna.com
 email: dine@donnellysofbarna.com
-status: listed
 logo: /images/listings/donnelly_s_logo_7167.png
+status: listed
 ---

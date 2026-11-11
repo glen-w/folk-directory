@@ -13,7 +13,7 @@ place: Warrington
 post_code: ''
 lat: 53.39056
 lng: -2.5828
-when: Sunday, Every Week
+when: Weekly, Sunday
 www: ''
 status: listed
 ---

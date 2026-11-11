@@ -13,7 +13,7 @@ place: Hitchin
 post_code: SG5 1HX
 lat: 51.94898
 lng: -0.27946
-when: Last Friday of the month
+when: Monthly, Last Friday
 www: unicornceilidhs.org.uk
 email: alan.creamer@btconnect.com
 logo: /images/listings/unicorn_ceilidhs_logo_516.png

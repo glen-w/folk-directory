@@ -14,7 +14,7 @@ place: Pontyclun
 post_code: ''
 lat: 51.52519
 lng: -3.39015
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: www.folkwales.org.uk/folk.html
 status: listed
 ---

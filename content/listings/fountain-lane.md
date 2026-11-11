@@ -15,7 +15,7 @@ place: Belfast
 post_code: ''
 lat: 54.59855
 lng: -5.93128
-when: Every Tuesday from 7pm to 9pm.
+when: Weekly, Tuesday, 7:00pm-9:00pm
 www: fountainlanebelfast.com
 email: hello@fountainlanebelfast.com
 status: listed

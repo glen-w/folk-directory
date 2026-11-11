@@ -13,7 +13,7 @@ place: Ruthin
 post_code: LL15 1AW
 lat: 53.11353
 lng: -3.30668
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: ruthinallstyles.co.uk
 status: listed
 ---

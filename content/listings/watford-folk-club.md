@@ -14,7 +14,7 @@ place: Watford
 post_code: WD17 2JP
 lat: 51.65039
 lng: -0.38892
-when: Friday, Every Week
+when: Weekly, Friday
 www: watfordfolkclub.co.uk
 logo: /images/listings/watford_folk_club_logo_814.png
 status: listed

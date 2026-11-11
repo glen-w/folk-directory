@@ -13,7 +13,7 @@ place: Ryton
 post_code: NE40 3QP
 lat: 54.97736
 lng: -1.76524
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: www.yeoldecrossryton.com
 status: listed
 ---

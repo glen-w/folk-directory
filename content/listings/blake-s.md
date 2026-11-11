@@ -14,10 +14,8 @@ place: Galway
 post_code: H91 VY1F
 lat: 53.2746
 lng: -9.05278
-when: Sessions on Thursdays and Sundays at 9pm.
+when: Weekly, Thursday & Sunday, 9:00pm
 www: brasseriegalway.com
 email: info@brasseriegalway.com
 status: listed
 ---
-
-

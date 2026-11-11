@@ -14,7 +14,7 @@ place: Sheffield
 post_code: S6 2UB
 lat: 53.39617
 lng: -1.48931
-when: Second Wednesdays, 8.00 pm - 10.30pm
+when: Monthly, 2nd Wednesday, 8:00pm-10:30pm
 www: ''
 email: paul@hallamtrads.co.uk
 status: listed

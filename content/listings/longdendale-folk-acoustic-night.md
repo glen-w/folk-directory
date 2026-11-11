@@ -13,7 +13,7 @@ place: Glossop
 post_code: SK13 1JY
 lat: 53.47321
 lng: -1.96686
-when: Thursday, 2nd & 4th
+when: Monthly, 2nd & 4th Thursday
 www: ''
 status: listed
 ---

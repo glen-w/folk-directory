@@ -13,7 +13,7 @@ place: Lincoln
 post_code: LN1 1HU
 lat: 53.23244
 lng: -0.54377
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: ''
 status: listed
 ---

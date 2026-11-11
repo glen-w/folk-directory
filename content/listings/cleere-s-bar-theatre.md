@@ -15,7 +15,7 @@ place: Parliament Street
 post_code: ''
 lat: 52.65408
 lng: -7.25428
-when: Monday, 21:00
+when: Weekly, Monday, 9:00pm
 www: ''
 status: listed
 ---

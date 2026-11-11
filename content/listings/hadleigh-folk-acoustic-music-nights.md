@@ -13,7 +13,7 @@ place: Suffolk
 post_code: ''
 lat: 52.23476
 lng: 1.04513
-when: Friday, 1st in Month
+when: Monthly, 1st Friday
 www: www.hadleighfolk.org.uk
 email: simonhaines1@icloud.com
 status: listed

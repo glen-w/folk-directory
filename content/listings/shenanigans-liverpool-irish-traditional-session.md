@@ -13,7 +13,7 @@ place: Liverpool
 post_code: L2 3EN
 lat: 53.38736
 lng: -3.18496
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: ''
 status: listed
 ---

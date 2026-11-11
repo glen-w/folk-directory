@@ -15,7 +15,7 @@ place: Ennis
 post_code: ''
 lat: 52.84352
 lng: -8.98375
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---

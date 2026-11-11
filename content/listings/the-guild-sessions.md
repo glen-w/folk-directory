@@ -13,7 +13,7 @@ place: Lincoln
 post_code: LN5 7SF
 lat: 53.22251
 lng: -0.54383
-when: Monday, 3rd in Month
+when: Monthly, 3rd Monday
 www: ''
 status: listed
 ---

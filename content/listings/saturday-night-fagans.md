@@ -13,7 +13,7 @@ place: Sheffield
 post_code: S1 4BS
 lat: 53.3831
 lng: -1.47633
-when: Saturday, Every Week
+when: Weekly, Saturday
 www: ''
 status: listed
 ---

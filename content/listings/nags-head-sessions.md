@@ -13,7 +13,7 @@ place: Scarborough
 post_code: YO13 0PT
 lat: 54.30018
 lng: -0.44743
-when: Saturday, Every Week
+when: Weekly, Saturday
 www: ''
 status: listed
 ---

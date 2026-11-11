@@ -13,7 +13,7 @@ place: Northampton
 post_code: NN4 8BS
 lat: 52.22975
 lng: -0.89649
-when: 1st and 3rd Tuesdays
+when: Monthly, 1st & 3rd Tuesday
 www: greatknightfolkclub.co.uk
 email: john.new26@btinternet.com
 status: listed

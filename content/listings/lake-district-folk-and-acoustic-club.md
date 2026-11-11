@@ -13,7 +13,7 @@ place: Kendal Cumbria
 post_code: LA8 9LN
 lat: 54.37641
 lng: -2.81577
-when: Friday, 2nd in Month
+when: Monthly, 2nd Friday
 www: www.facebook.com/groups/239547332815313
 status: listed
 ---

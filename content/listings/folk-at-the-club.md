@@ -13,7 +13,7 @@ place: Churchdown
 post_code: GL3 2ER
 lat: 51.87682
 lng: -2.1687
-when: Monday, 1st & 3rd
+when: Monthly, 1st & 3rd Monday
 www: liamtho.com/FolkAtTheClub
 status: listed
 ---

@@ -14,7 +14,7 @@ place: Kelso
 post_code: TD5 7JH
 lat: 55.5999
 lng: -2.43508
-when: Friday, Every Week
+when: Weekly, Friday
 www: www.kelsofolk.co.uk
 status: listed
 ---

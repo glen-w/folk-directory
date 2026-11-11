@@ -13,7 +13,7 @@ place: Combe Martin
 post_code: EX34 0EG
 lat: 51.20069
 lng: -4.02667
-when: 2nd & 4th Saturdays
+when: Monthly, 2nd & 4th Saturday
 www: ''
 email: contact@shammickacoustic.org.uk
 status: defunct

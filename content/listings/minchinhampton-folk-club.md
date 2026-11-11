@@ -13,7 +13,7 @@ place: Minchinhampton
 post_code: GL6 9BN
 lat: 51.70493
 lng: -2.18657
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: www.facebook.com/profile.php?id=100072098543669
 status: listed
 ---

@@ -14,7 +14,7 @@ place: Penzance
 post_code: TR18 4HL
 lat: 50.11405
 lng: -5.53877
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: www.penzancefolkclub.co.uk
 status: listed
 ---

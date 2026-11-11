@@ -13,7 +13,7 @@ place: Bury St Edmunds
 post_code: IP33 1PR
 lat: 52.24404
 lng: 0.71189
-when: First and Third Fridays
+when: Monthly, 1st & 3rd Friday
 www: milkmaidmusic.co.uk/folkclub.html
 email: contact@milkmaidmusic.co.uk
 status: listed

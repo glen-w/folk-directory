@@ -14,7 +14,7 @@ place: Old Kilpatrick
 post_code: ''
 lat: 55.92607
 lng: -4.46173
-when: on Thursday nights at 8pm
+when: Weekly, Thursday, 8:00pm
 www: ''
 status: listed
 ---

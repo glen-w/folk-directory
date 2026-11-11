@@ -14,7 +14,7 @@ place: Downham Market
 post_code: PE38 9HH
 lat: 52.60361
 lng: 0.37818
-when: Third Fridays, 8pm-late
+when: Monthly, 3rd Friday, 8:00pm
 www: ''
 email: nicodobben@yahoo.co.uk
 status: listed

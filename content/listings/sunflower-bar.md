@@ -14,7 +14,7 @@ place: Belfast
 post_code: ''
 lat: 54.59639
 lng: -5.93018
-when: every Thursday at 8pm
+when: Weekly, Thursday, 8:00pm
 www: www.sunflowerbelfast.com/sunflower-live-music
 status: listed
 ---

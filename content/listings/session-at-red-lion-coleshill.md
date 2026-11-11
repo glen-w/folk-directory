@@ -14,7 +14,7 @@ place: Coleshill, near Amersham
 post_code: HP7 0LH
 lat: 51.64662
 lng: -0.6309
-when: fourth Sundays, 8pm-11pm ish
+when: Monthly, 4th Sunday, 8:00pm-11:00pm
 www: ''
 email: susanbell@tesco.net
 status: listed

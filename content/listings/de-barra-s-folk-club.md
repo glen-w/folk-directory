@@ -15,7 +15,7 @@ place: Clonakilty
 post_code: ''
 lat: 51.62322
 lng: -8.89141
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: entertainment.ie/events/venue-information/de-barras-folk-club-418
 status: listed
 ---

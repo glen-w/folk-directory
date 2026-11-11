@@ -14,7 +14,7 @@ place: Tredington
 post_code: CV36 4NS
 lat: 52.09013
 lng: -1.62665
-when: Fourth Sundays, 8.30pm
+when: Monthly, 4th Sunday, 8:30pm
 www: ''
 email: nigel@thursdayshop.co.uk
 status: listed

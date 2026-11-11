@@ -13,7 +13,7 @@ place: Glasgow
 post_code: G3 6ND
 lat: 55.8714
 lng: -4.27707
-when: Monday, 1st in Month
+when: Monthly, 1st Monday
 www: www.facebook.com/groups/893696297379282
 status: listed
 ---

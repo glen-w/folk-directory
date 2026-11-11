@@ -14,7 +14,7 @@ place: Southport
 post_code: PR9 0QE
 lat: 53.65051
 lng: -2.99921
-when: First Mondays, 8.30pm to 11.00pm
+when: Monthly, 1st Monday, 8:30pm-11:00pm
 www: rednev-rearm.blogspot.com
 email: RedNevReARM@aol.com
 status: listed

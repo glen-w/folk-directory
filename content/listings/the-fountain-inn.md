@@ -13,7 +13,7 @@ place: Penzance
 post_code: TR20 8QH
 lat: 50.12882
 lng: -5.6065
-when: Tuesday, 1st & 3rd
+when: Monthly, 1st & 3rd Tuesday
 www: Thefountainnewbridge.co.uk
 status: listed
 ---

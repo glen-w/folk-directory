@@ -15,7 +15,7 @@ place: Cecil Street
 post_code: ''
 lat: 52.66121
 lng: -8.62787
-when: Saturday, 21:30
+when: Weekly, Saturday, 9:30pm
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Liverpool
 post_code: L1 4JN
 lat: 53.40216
 lng: -2.98101
-when: 2nd Saturday monthly
+when: Monthly, 2nd Saturday
 www: radicalliverpool.com/Home_Page.html
 email: radicalliverpool@btinternet.com
 status: listed

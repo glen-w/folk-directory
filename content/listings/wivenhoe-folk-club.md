@@ -13,7 +13,7 @@ place: Wivenhoe
 post_code: CO7 9AZ
 lat: 51.85636
 lng: 0.95913
-when: First Thursday every month
+when: Monthly, 1st Thursday
 www: wivenhoe.gov.uk/Orgs/folkclub/home.htm
 status: listed
 ---

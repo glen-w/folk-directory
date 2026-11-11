@@ -15,8 +15,8 @@ place: Belfast
 post_code: BT1 1FP
 lat: 54.60147
 lng: -5.93028
-when: Every Friday from 5:30pm.
+when: Weekly, Friday, 5:30pm
 www: www.thedeersheadbelfast.com
-status: listed
 logo: /images/listings/the_deer_s_head_logo_3215.png
+status: listed
 ---

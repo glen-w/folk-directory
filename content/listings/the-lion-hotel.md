@@ -13,7 +13,7 @@ place: Warwickshire
 post_code: CV33 9HE
 lat: 52.23719
 lng: -1.45205
-when: Thursday, 1st in Month
+when: Monthly, 1st Thursday
 www: tinyurl.com/harbury-folk-club
 status: listed
 ---

@@ -15,9 +15,9 @@ place: Belfast
 post_code: BT9 5BQ
 lat: 54.58085
 lng: -5.93799
-when: Sundays from 8pm to 10pm.
+when: Weekly, Sunday, 8:00pm-10:00pm
 www: posthousebelfast.com
 email: hello@posthousebelfast.com
-status: listed
 logo: /images/listings/post_house_logo_3229.png
+status: listed
 ---

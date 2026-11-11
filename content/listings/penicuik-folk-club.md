@@ -14,7 +14,7 @@ place: Penicuik
 post_code: ''
 lat: 55.82724
 lng: -3.22181
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: www.penicuikfolk.org.uk
 status: listed
 ---

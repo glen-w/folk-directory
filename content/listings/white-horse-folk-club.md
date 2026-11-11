@@ -15,7 +15,7 @@ place: Highworth
 post_code: SN6 7HH
 lat: 51.63298
 lng: -1.71128
-when: Wednesday, 1st & 3rd
+when: Monthly, 1st & 3rd Wednesday
 www: www.whitehorsefolkclub.co.uk
 status: listed
 ---

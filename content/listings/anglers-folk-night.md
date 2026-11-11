@@ -18,3 +18,7 @@ www: anglers.rest
 logo: /images/listings/anglers_folk_night_logo_859.png
 status: listed
 ---
+
+A monthly folk session held at The Anglers Rest, Bamford, on the first Sunday of the month from 19:00 to 21:30. Open to musicians, singers, poets, dancers, and listeners of all styles and standards.
+
+The Anglers Rest is a traditional 17th-century coaching inn in the Hope Valley, Derbyshire. The pub is community-owned, having been saved by the Bamford Community Society in 2013. It is dog-friendly, family-friendly, and has disabled access.

@@ -13,7 +13,7 @@ place: Halesowen
 post_code: B62 9JG
 lat: 52.47321
 lng: -2.03123
-when: Friday, Every Week
+when: Weekly, Friday
 www: newcrystalfolkclub.weebly.com
 status: listed
 ---

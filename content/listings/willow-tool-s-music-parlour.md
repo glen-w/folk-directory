@@ -13,7 +13,7 @@ place: Southam
 post_code: ''
 lat: 52.25309
 lng: -1.38841
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: ''
 status: listed
 ---

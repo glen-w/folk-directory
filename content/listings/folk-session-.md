@@ -13,7 +13,7 @@ place: Sudbury
 post_code: CO10 5PX
 lat: 52.04807
 lng: 0.84445
-when: Second Wednesday of the Month
+when: Monthly, 2nd Wednesday
 www: gutlevel.co.uk/whatson/folk-session-march
 status: listed
 edited: 04/10/2013

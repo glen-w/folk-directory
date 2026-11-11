@@ -15,7 +15,7 @@ place: Carrick-on-Shannon
 post_code: ''
 lat: 53.94415
 lng: -8.09528
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---

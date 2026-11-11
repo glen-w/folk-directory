@@ -13,7 +13,7 @@ place: New Brighton
 post_code: ''
 lat: 53.43222
 lng: -3.04136
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: ''
 status: listed
 ---

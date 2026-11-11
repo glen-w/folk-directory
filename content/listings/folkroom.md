@@ -13,7 +13,7 @@ place: London
 post_code: WC1X 9NB
 lat: 51.52853
 lng: -0.11815
-when: Wednesdays, fortnightly
+when: Fortnightly, Wednesday
 www: ''
 email: stephen@folkroom.co.uk
 status: listed

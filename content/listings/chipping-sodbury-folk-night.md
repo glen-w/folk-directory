@@ -13,7 +13,7 @@ place: Bristol
 post_code: BS37 6AG
 lat: 51.53804
 lng: -2.39266
-when: Thursday, 1st in Month
+when: Monthly, 1st Thursday
 www: ''
 status: listed
 ---

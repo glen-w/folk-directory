@@ -15,7 +15,7 @@ place: Bangor
 post_code: ''
 lat: 54.6637
 lng: -5.66544
-when: Tuesdays, 9pm to 11pm.
+when: Weekly, Tuesday, 9:00pm-11:00pm
 www: www.jennywattsbangor.com
 email: hello@jennywattsbangor.com
 status: listed

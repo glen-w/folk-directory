@@ -13,7 +13,7 @@ place: Kirkcudbright
 post_code: DG6 4JQ
 lat: 54.83487
 lng: -4.05337
-when: Friday, 1st & 3rd
+when: Monthly, 1st & 3rd Friday
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Stony Stratford
 post_code: MK11 1AQ
 lat: 52.05719
 lng: -0.85304
-when: Sunday, Every Week
+when: Weekly, Sunday
 www: www.facebook.com/miceforlent
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Aberdeenshire
 post_code: AB54 8AJ
 lat: 57.4471
 lng: -2.78699
-when: Wednesday, 3rd in Month
+when: Monthly, 3rd Wednesday
 www: Www.folklincs.com
 status: listed
 ---

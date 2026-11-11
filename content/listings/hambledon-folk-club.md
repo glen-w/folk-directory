@@ -13,7 +13,7 @@ place: Hambledon
 post_code: PO7 4RW
 lat: 50.93054
 lng: -1.08387
-when: Second Wednesday each month
+when: Monthly, 2nd Wednesday
 www: hambledonfolk.co.uk
 email: folkclubhambledon@hotmail.co.uk
 status: listed

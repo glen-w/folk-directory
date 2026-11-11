@@ -8,13 +8,14 @@ locations:
 - barnsley-civic-and-mandela-gardens
 - yorkshire
 county: South Yorkshire
-venue: ''
+venue: Barnsley Civic
 address: ''
-place: Barnsley Civic and Mandela Gardens
+place: Barnsley
 post_code: ''
+lat: 53.55364
+lng: -1.4798
 when: May
 www: barnsleycivic.co.uk/barnsley-folk-festival
 status: listed
 ---
-
 A comeback event at Barnsley Civic and Mandela Gardens. Friday 29th May 2026 for three days. Saturday is free, 11am to 4pm. barnsleycivic.co.uk/barnsley-folk-festival/ Yorkshire, England.

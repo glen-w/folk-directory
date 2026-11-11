@@ -13,7 +13,7 @@ place: Sheffield
 post_code: S1 4DD
 lat: 53.38087
 lng: -1.47955
-when: Thursday, 2nd in Month
+when: Monthly, 2nd Thursday
 www: ''
 status: listed
 ---

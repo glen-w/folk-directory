@@ -13,7 +13,7 @@ place: Manchester
 post_code: M8 8PY
 lat: 53.49337
 lng: -2.24017
-when: Tuesday, 3rd in Month
+when: Monthly, 3rd Tuesday
 www: www.all-things-considered.org
 logo: /images/listings/the_virtual_folk_club_logo_856.png
 status: listed

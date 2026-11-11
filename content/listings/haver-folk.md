@@ -14,7 +14,7 @@ place: Romford
 post_code: ''
 lat: 51.57605
 lng: 0.18226
-when: every Wednesday from 8pm to chucking out time
+when: Weekly, Wednesday, 8:00pm
 www: www.haverfolk.com
 status: listed
 ---

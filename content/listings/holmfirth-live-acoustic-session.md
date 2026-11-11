@@ -13,7 +13,7 @@ place: Holmfirth
 post_code: HD9 3UX
 lat: 53.57209
 lng: -1.80765
-when: Tuesday, 2nd in Month
+when: Monthly, 2nd Tuesday
 www: ''
 status: listed
 ---

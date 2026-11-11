@@ -13,7 +13,7 @@ place: Bedford
 post_code: MK40 2JX
 lat: 52.14139
 lng: -0.46885
-when: Tuesday, Last in month
+when: Monthly, Last Tuesday
 www: redcuthbert.uk/music-sessions
 logo: /images/listings/the_burnaby_arms_logo_850.png
 status: listed

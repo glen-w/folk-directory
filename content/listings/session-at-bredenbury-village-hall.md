@@ -14,7 +14,7 @@ place: Bredenbury
 post_code: ''
 lat: 52.20104
 lng: -2.57229
-when: Fourth Thursdays, 8.30pm onwards
+when: Monthly, 4th Thursday, 8:30pm
 www: bredenburyfolkclub.webs.com
 email: dwyer40@yahoo.co.uk
 status: listed

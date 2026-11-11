@@ -13,7 +13,7 @@ place: Manchester
 post_code: M8 5SR
 lat: 53.51792
 lng: -2.23897
-when: Friday nights- fortnightly
+when: Fortnightly, Friday
 www: newclevelandfolkclub.blogspot.com
 email: lorna.egan@btinternet.com
 status: listed

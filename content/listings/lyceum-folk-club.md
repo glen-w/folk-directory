@@ -13,7 +13,7 @@ place: Newport
 post_code: ''
 lat: 51.59848
 lng: -3.00053
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: www.lyceumfolknewport.org.uk
 email: info@lyceumfolknewport.org.uk
 status: listed

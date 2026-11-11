@@ -15,7 +15,7 @@ place: Ballyconnell
 post_code: ''
 lat: 54.11667
 lng: -7.58333
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---

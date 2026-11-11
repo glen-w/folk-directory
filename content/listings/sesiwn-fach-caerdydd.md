@@ -14,7 +14,7 @@ place: Cardiff
 post_code: CF10 1GL
 lat: 51.48091
 lng: -3.17877
-when: Monday, Every Week
+when: Weekly, Monday
 www: www.sesiwn.com
 status: listed
 ---

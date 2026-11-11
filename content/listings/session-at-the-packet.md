@@ -14,7 +14,7 @@ place: Retford
 post_code: DN22 6LJ
 lat: 53.32119
 lng: -0.93694
-when: Second Thursdays, 8.00pm-11pm
+when: Monthly, 2nd Thursday, 8:00pm-11:00pm
 www: ''
 email: richardbeswick@supanet.com
 status: listed

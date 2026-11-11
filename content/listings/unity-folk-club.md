@@ -13,7 +13,7 @@ place: London
 post_code: NW5 2RX
 lat: 51.55156
 lng: -0.13331
-when: Last Monday of every month
+when: Monthly, Last Monday
 www: unityfolkclub.org
 email: glorialazenby@homechoice.co.uk
 logo: /images/listings/unity_folk_club_logo_447.png

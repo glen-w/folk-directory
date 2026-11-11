@@ -13,7 +13,7 @@ place: Ovingham, Prudhoe
 post_code: NE42 6BN
 lat: 54.96716
 lng: -1.87053
-when: 3rd Wednesday every month
+when: Monthly, 3rd Wednesday
 www: ''
 email: cannycrack@hotmail.com
 status: listed

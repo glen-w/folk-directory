@@ -14,7 +14,7 @@ place: Soudley
 post_code: GL14 2UA
 lat: 51.79236
 lng: -2.49533
-when: Third Tuesday of the month, 8.30 - 11pm
+when: Monthly, 3rd Tuesday, 8:30pm-11:00pm
 www: ''
 email: b111t@aol.com
 status: listed

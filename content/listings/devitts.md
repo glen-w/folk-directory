@@ -15,7 +15,7 @@ place: Camden St
 post_code: ''
 lat: 53.3344
 lng: -6.26516
-when: Monday, 18:30
+when: Weekly, Monday, 6:30pm
 www: ''
 status: listed
 ---

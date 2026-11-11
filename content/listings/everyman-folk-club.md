@@ -13,7 +13,7 @@ place: Stratford St Andrew, Saxmundham
 post_code: IP17 1LL
 lat: 52.19127
 lng: 1.44693
-when: Last Friday
+when: Monthly, Last Friday
 www: wheatstone.co.uk/everyman
 email: everyman@wheatstone.co.uk
 status: listed

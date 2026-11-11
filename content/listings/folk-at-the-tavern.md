@@ -13,7 +13,7 @@ place: Oldham
 post_code: OL8 1ES
 lat: 53.54004
 lng: -2.11844
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: ''
 status: listed
 ---

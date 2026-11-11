@@ -5,15 +5,17 @@ name: Phoenix Folk Club, Poynton
 event_types:
 - folk-club
 locations:
-- poynnton-sk12-ijy
-- cork
-- ireland
+- poynton
+- cheshire
+- england
 county: Cheshire
 venue: Poynton British Legion
-address: Poynton Legion Club. Geotges Rd West
-place: Poynnton SK12 IJY
-post_code: ''
-when: Friday, 1st in Month
+address: Georges Road West
+place: Poynton
+post_code: SK12 1JY
+lat: 53.34819
+lng: -2.12121
+when: Monthly, 1st Friday
 www: ''
 status: listed
 ---

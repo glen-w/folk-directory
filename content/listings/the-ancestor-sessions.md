@@ -13,7 +13,7 @@ place: Callington
 post_code: PL17 7AS
 lat: 50.5045
 lng: -4.31442
-when: Friday, 3rd in Month
+when: Monthly, 3rd Friday
 www: ''
 status: listed
 ---

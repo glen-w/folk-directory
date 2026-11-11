@@ -14,7 +14,7 @@ place: Ballycastle
 post_code: BT54 6AS
 lat: 55.20023
 lng: -6.25283
-when: Every Friday, 10pm till late
+when: Weekly, Friday, 10:00pm
 www: houseofmcdonnell.blogspot.com
 email: avgm50@dsl.pipex.com
 status: listed

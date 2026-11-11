@@ -15,7 +15,7 @@ place: Drumkeeran
 post_code: ''
 lat: 54.16886
 lng: -8.14429
-when: Friday, 21:00
+when: Weekly, Friday, 9:00pm
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Atherstone
 post_code: CV9 1BB
 lat: 52.57733
 lng: -1.54721
-when: Wednesday, 1st & 3rd in Month
+when: Monthly, 1st & 3rd Wednesday
 www: www.atherstonefolkclub.org.uk
 logo: /images/listings/atherstone_folk_club_logo_865.png
 status: listed

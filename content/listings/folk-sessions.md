@@ -13,7 +13,7 @@ place: Crowborough
 post_code: TN6
 lat: 51.05845
 lng: 0.25695
-when: 1st Saturday of month
+when: Monthly, 1st Saturday
 www: folknstuffnnonsense.20m.com/folksessions.html
 email: folkatthefirestation@gmail.com
 status: listed

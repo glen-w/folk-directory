@@ -13,7 +13,7 @@ place: Pontyclun
 post_code: CF72 9EH
 lat: 51.52248
 lng: -3.39068
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: folk.wales/updates/about-llantrisant-folk-club/
 status: listed
 ---

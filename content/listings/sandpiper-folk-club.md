@@ -14,7 +14,7 @@ place: Wolverhampton
 post_code: WV6 7BQ
 lat: 52.58867
 lng: -2.26579
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: www.sandpiperfolkclub.com
 status: listed
 ---

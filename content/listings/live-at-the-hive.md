@@ -13,7 +13,7 @@ place: Birmingham
 post_code: B13 8DD
 lat: 52.4471
 lng: -1.8884
-when: Thursday, Last in month
+when: Monthly, Last Thursday
 www: www.paperbacktheatre.com/live-at-the-hive
 email: liveatthehivemoseley@gmail.com
 status: listed

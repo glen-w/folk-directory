@@ -13,7 +13,7 @@ place: Birmingham
 post_code: B5 6AH
 lat: 52.47167
 lng: -1.89123
-when: Last Wednesday of the month
+when: Monthly, Last Wednesday
 www: ''
 status: defunct
 edited: 06/03/2012

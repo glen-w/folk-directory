@@ -14,7 +14,7 @@ place: Stonehaven
 post_code: AB39 2DH
 lat: 56.96762
 lng: -2.21501
-when: Friday, Every Week
+when: Weekly, Friday
 www: www.stonehavenfolkclub.co.uk
 logo: /images/listings/stonehaven_folk_club_logo_805.png
 status: listed

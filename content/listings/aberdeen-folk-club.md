@@ -18,3 +18,5 @@ when: Weekly, Wednesday
 www: www.aberdeenfolkclub.co.uk
 status: listed
 ---
+
+Aberdeen Folk Club holds sing-around sessions at The Inn At The Park.

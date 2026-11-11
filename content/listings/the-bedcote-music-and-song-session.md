@@ -13,7 +13,7 @@ place: Stourbridge
 post_code: DY8 1EP
 lat: 52.45786
 lng: -2.14668
-when: Tuesday, Every 2 weeks
+when: Fortnightly, Tuesday
 www: ''
 status: listed
 ---

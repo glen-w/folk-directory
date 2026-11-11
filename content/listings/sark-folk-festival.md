@@ -6,10 +6,10 @@ event_types:
 - festival
 locations:
 - sark-channel-islands
-county: Hampshire
+county: Channel Islands
 venue: Various
 address: ''
-place: Sark, Channel Islands
+place: Sark
 post_code: ''
 when: July
 www: sarkfolkfestival.com

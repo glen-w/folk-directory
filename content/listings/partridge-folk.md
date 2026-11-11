@@ -13,7 +13,7 @@ place: Horsham
 post_code: RH13 8GW
 lat: 50.96115
 lng: -0.30888
-when: Monday, 4th in Month
+when: Monthly, 4th Monday
 www: ''
 status: listed
 ---

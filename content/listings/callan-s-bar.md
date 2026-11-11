@@ -15,7 +15,7 @@ place: Clanbrassil Street, Dundalk
 post_code: ''
 lat: 54.00574
 lng: -6.40253
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: ''
 status: listed
 ---

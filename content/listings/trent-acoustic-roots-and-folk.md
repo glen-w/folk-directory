@@ -13,7 +13,7 @@ place: Nottinghamshire
 post_code: NG12 2FD
 lat: 52.94667
 lng: -1.0394
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: ''
 status: listed
 ---

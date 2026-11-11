@@ -14,7 +14,7 @@ place: Irvine
 post_code: KA12 0TN
 lat: 55.61999
 lng: -4.66552
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: www.irvinefolkclub.org.uk
 status: listed
 ---

@@ -14,7 +14,7 @@ place: Stockwell, London
 post_code: SW9 0TP
 lat: 51.46997
 lng: -0.11705
-when: First Friday of the month.
+when: Monthly, 1st Friday
 www: ''
 email: nofrillsband@gmail.com
 status: listed

@@ -14,9 +14,9 @@ place: Cork
 post_code: T12 TD26
 lat: 51.8982
 lng: -8.47052
-when: Wednesdays and Thursdays at 9pm.
+when: Weekly, Wednesday & Thursday, 9:00pm
 www: www.thelongvalleybar.ie
 email: longvalleybar@gmail.com
-status: listed
 logo: /images/listings/the_long_valley_logo_7122.png
+status: listed
 ---

@@ -13,7 +13,7 @@ place: Wakefield
 post_code: WF1 1DL
 lat: 53.68037
 lng: -1.50076
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: www.thepolkahop.co.uk
 status: listed
 ---

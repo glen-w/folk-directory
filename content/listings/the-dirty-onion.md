@@ -15,10 +15,9 @@ place: Belfast
 post_code: BT1 2LA
 lat: 54.60165
 lng: -5.9263
-when: Weekly, Friday to Sunday
+when: Weekly, Friday & Sunday
 www: www.thedirtyonion.com/whats-on
 email: info@thedirtyonion.com
 status: listed
 ---
-
 Friday 9pm–12am; Saturday 2–4pm and 9pm–12am; Sunday 2–5pm and 7–10pm.

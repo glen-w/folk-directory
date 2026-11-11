@@ -14,7 +14,8 @@ place: Maidenhead
 post_code: SL6 5HX
 lat: 51.52409
 lng: -0.75378
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: www.maidenheadfolkclub.org.uk
 status: listed
+email: maidenheadfolkclub@gmail.com
 ---

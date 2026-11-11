@@ -13,7 +13,7 @@ place: Glasgow
 post_code: G51 1LF
 lat: 55.85348
 lng: -4.27955
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: instagram.com/gatheringsouth
 status: listed
 ---

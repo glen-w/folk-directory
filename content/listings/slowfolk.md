@@ -13,7 +13,7 @@ place: Stoke-on-Trent
 post_code: ST4 4BU
 lat: 52.99735
 lng: -2.18847
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: ''
 status: listed
 ---

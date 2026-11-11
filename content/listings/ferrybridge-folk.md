@@ -13,7 +13,7 @@ place: Knottingley
 post_code: WF11 8ND
 lat: 53.71422
 lng: -1.26837
-when: Wednesday, Last in month
+when: Monthly, Last Wednesday
 www: ''
 status: listed
 ---

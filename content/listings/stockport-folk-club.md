@@ -13,7 +13,7 @@ place: Stockport
 post_code: SK4 1HJ
 lat: 53.41248
 lng: -2.16739
-when: Thursday, Every 2 weeks
+when: Fortnightly, Thursday
 www: folkmusic.wixsite.com/stockport-acoustic
 status: listed
 ---

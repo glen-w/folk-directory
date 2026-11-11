@@ -13,7 +13,7 @@ place: Christchurch, Dorset
 post_code: BH23 3NJ
 lat: 50.72828
 lng: -1.74569
-when: Sundays 8pm
+when: Weekly, Sunday, 8:00pm
 www: www.nelsontavern.com
 email: enquiries@nelsontavern.com
 status: listed

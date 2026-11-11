@@ -14,7 +14,7 @@ place: Guisborough
 post_code: TS14 7BB
 lat: 54.5311
 lng: -1.048
-when: Sunday, 1st & 3rd
+when: Monthly, 1st & 3rd Sunday
 www: www.guisboroughfolkclub.ukforum.com
 status: listed
 ---

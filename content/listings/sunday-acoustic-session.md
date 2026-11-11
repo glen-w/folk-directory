@@ -13,7 +13,7 @@ place: Thornhill
 post_code: DG3 5ND
 lat: 55.24015
 lng: -3.76623
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: www.facebook.com/miceforlent
 status: listed
 ---

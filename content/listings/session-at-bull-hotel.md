@@ -13,7 +13,7 @@ place: Stony Stratford
 post_code: ''
 lat: 52.05675
 lng: -0.85258
-when: 2nd Tuesday every month
+when: Monthly, 2nd Tuesday
 www: ''
 status: listed
 ---

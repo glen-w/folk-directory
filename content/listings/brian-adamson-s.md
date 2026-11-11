@@ -15,7 +15,7 @@ place: Clones
 post_code: ''
 lat: 54.17741
 lng: -7.22732
-when: Every Friday from 10pm.
+when: Weekly, Friday, 10:00pm
 www: www.brianadamsons.ie
 email: info@brianadamsons.ie
 status: listed

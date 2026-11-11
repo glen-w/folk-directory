@@ -217,7 +217,7 @@ def test_real_listing_files_match_expected_when():
             "Monthly, 2nd Friday, 9:00pm",
             "Monthly, 2nd Friday, 9:00pm",
         ),
-        "baker-s-bar.md": ("Thursday, 21:00", "Weekly, Thursday, 9:00pm"),
+        "baker-s-bar.md": ("Weekly, Thursday, 9:00pm", "Weekly, Thursday, 9:00pm"),
         "edinburgh-folk-club.md": ("Weekly, Wednesday", "Weekly, Wednesday"),
         "hexham-gathering.md": ("May", "May"),
     }
@@ -350,3 +350,61 @@ def test_process_one_when_only_rejected_review_keeps_original(
     assert row["would_apply_when"] is False
     assert row["applied_when"] is False
     assert "when: Thursday, Every Week" in listing.read_text(encoding="utf-8")
+
+
+def test_cache_text_path_html_sibling():
+    assert rw.cache_text_path("ingest/cache/example.com/index.html").name == "index.txt"
+
+
+def test_rewrite_is_unusable_rejects_meta_comments():
+    assert rw.rewrite_is_unusable("")
+    assert rw.rewrite_is_unusable(
+        "[No usable content in the source body. The text consists entirely of unrelated spam.]"
+    )
+    assert not rw.rewrite_is_unusable("A weekly folk club in Bamford.")
+
+
+def test_website_source_skips_off_topic_and_not_folk(tmp_path: Path):
+    by_id = {
+        1: {"id": 1, "fetch_status": "skipped_off_topic", "www": "spam.example.co.uk"},
+        2: {
+            "id": 2,
+            "fetch_status": "ok",
+            "www": "casino.example.co.uk",
+            "extracted": {"folk_relevant": False},
+            "cache_path": "unused",
+        },
+    }
+    assert rw.website_source_for_listing({"id": 1, "www": "spam.example.co.uk"}, by_id, {}) == (
+        "",
+        "skipped_off_topic",
+    )
+    assert rw.website_source_for_listing({"id": 2, "www": "casino.example.co.uk"}, by_id, {}) == (
+        "",
+        "not_folk",
+    )
+    assert rw.website_source_for_listing({"id": 3}, by_id, {}) == ("", "no_www")
+
+
+def test_website_source_reads_cache_txt(tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
+    cache_dir = tmp_path / "ingest" / "cache" / "club.example"
+    cache_dir.mkdir(parents=True)
+    html = cache_dir / "home.html"
+    html.write_text("<html></html>", encoding="utf-8")
+    txt = cache_dir / "home.txt"
+    txt.write_text("A weekly folk club in Oxford with floor spots on Fridays.", encoding="utf-8")
+    monkeypatch.setattr(rw, "ROOT", tmp_path)
+    by_id = {
+        54: {
+            "id": 54,
+            "fetch_status": "ok",
+            "www": "oxfordfolkclub.com",
+            "extracted": {"folk_relevant": True},
+            "cache_path": str(html.relative_to(tmp_path)),
+        }
+    }
+    text, why = rw.website_source_for_listing(
+        {"id": 54, "www": "oxfordfolkclub.com"}, by_id, {}
+    )
+    assert why == ""
+    assert "weekly folk club" in text

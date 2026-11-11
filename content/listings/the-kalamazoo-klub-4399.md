@@ -13,7 +13,7 @@ place: London
 post_code: N8 7QB
 lat: 51.58803
 lng: -0.11647
-when: Friday, 2nd in Month
+when: Monthly, 2nd Friday
 www: kalamazooklub.com
 status: listed
 ---

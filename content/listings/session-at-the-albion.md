@@ -14,7 +14,7 @@ place: Ampthill
 post_code: MK45 2JT
 lat: 52.02792
 lng: -0.49519
-when: Second Wednesdays, 8.00pm ish
+when: Monthly, 2nd Wednesday, 8:00pm
 www: ''
 email: taztarry@btinternet.com
 status: listed

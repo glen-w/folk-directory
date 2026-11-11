@@ -15,7 +15,7 @@ place: Athlone
 post_code: N37 DW76
 lat: 53.42266
 lng: -7.94235
-when: 5pm every saturday.
+when: Weekly, Saturday, 5:00pm
 www: www.seansbar.ie
 email: info@seansbar.ie
 status: listed

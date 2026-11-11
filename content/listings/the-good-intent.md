@@ -14,7 +14,7 @@ place: Petersfield
 post_code: ''
 lat: 51.00665
 lng: -0.934
-when: Tuesday, 1st & 3rd
+when: Monthly, 1st & 3rd Tuesday
 www: www.goodintentpetersfield.co.uk
 email: info@goodintentpetersfield.co.uk
 status: listed

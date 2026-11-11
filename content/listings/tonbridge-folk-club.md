@@ -14,7 +14,7 @@ place: Tonbridge
 post_code: TN9 1AS
 lat: 51.1965
 lng: 0.27503
-when: Monday, 1st & 3rd
+when: Monthly, 1st & 3rd Monday
 www: tonbridgefolkclub.org
 status: listed
 ---

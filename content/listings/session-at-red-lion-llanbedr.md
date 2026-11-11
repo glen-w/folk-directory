@@ -14,7 +14,7 @@ place: Llanbedr, near Crickowel
 post_code: NP8 1SR
 lat: 51.87673
 lng: -3.10682
-when: Last Friday of the month, 8.30pm
+when: Monthly, Last Friday, 8:30pm
 www: ''
 status: listed
 ---

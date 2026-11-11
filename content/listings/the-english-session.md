@@ -15,7 +15,7 @@ place: Greenwich
 post_code: SE10 9SW
 lat: 51.48133
 lng: -0.01081
-when: Every Tuesday, 9pm onwards
+when: Weekly, Tuesday, 9:00pm
 www: greentrad.org.uk
 email: secretary@greentrad.org.uk
 status: listed

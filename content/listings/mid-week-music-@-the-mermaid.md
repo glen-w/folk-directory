@@ -13,7 +13,7 @@ place: St Albans
 post_code: AL1 3RL
 lat: 51.75356
 lng: -0.33234
-when: Every Wednesday from 8.30pm
+when: Weekly, Wednesday, 8:30pm
 www: nickstephensonmusic.com
 email: nickjukebox@yahoo.co.uk
 status: listed

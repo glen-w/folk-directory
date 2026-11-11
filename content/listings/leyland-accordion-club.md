@@ -13,7 +13,7 @@ place: Leyland
 post_code: PR25 1QN
 lat: 53.69404
 lng: -2.70713
-when: First, Third and Fifth Wednesdays of each month
+when: Monthly, 1st & 3rd & 5th Wednesday
 www: accordionclub.co.uk
 email: david@accordionclub.co.uk
 status: listed

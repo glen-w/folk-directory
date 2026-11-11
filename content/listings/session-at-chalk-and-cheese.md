@@ -14,7 +14,7 @@ place: Maiden Newton
 post_code: DT2 0BD
 lat: 50.7771
 lng: -2.57193
-when: Third Sundays, 19.45 till 23.00
+when: Monthly, 3rd Sunday, 7:45pm-11:00pm
 www: ''
 email: fiddler@casterbridge.net
 status: listed

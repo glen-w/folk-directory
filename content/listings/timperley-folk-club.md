@@ -13,7 +13,7 @@ place: Sale
 post_code: M33 4EE
 lat: 53.4134
 lng: -2.33797
-when: Friday, 1st & 3rd
+when: Monthly, 1st & 3rd Friday
 www: ''
 status: listed
 ---

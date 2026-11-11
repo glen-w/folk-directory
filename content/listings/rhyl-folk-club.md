@@ -14,7 +14,7 @@ place: Rhyl
 post_code: ''
 lat: 53.32074
 lng: -3.49073
-when: Friday, Every Week
+when: Weekly, Friday
 www: rhylfolkclub.com
 status: listed
 ---

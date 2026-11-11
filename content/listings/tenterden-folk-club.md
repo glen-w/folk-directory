@@ -13,7 +13,7 @@ place: Tenterden
 post_code: TN30 6JR
 lat: 51.06643
 lng: 0.68188
-when: Second Tuesday of every month
+when: Monthly, 2nd Tuesday
 www: tenterdenfolkfestival.org.uk
 email: info@tenterdenfolkfestival.org.uk
 logo: /images/listings/tenterden_folk_club_logo_498.png

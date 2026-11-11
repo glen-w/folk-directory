@@ -13,7 +13,7 @@ place: Stoke Newington
 post_code: N16 0UD
 lat: 51.56194
 lng: -0.07952
-when: First sunday
+when: Monthly, 1st Sunday
 www: mondegreenfolk.com
 email: mulreadyn@gmail.com
 status: listed

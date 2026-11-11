@@ -14,7 +14,7 @@ place: Leamington Spa
 post_code: CV32 4SX
 lat: 52.29297
 lng: -1.52571
-when: First Tuesday of the month, 8.00pm
+when: Monthly, 1st Tuesday, 8:00pm
 www: somervillearms.co.uk
 email: info@somervillearms.co.uk
 status: listed

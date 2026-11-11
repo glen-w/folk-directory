@@ -14,7 +14,7 @@ place: Cambridgeshire
 post_code: SG8 6PP
 lat: 52.11048
 lng: 0.03249
-when: Thursday, Last in month
+when: Monthly, Last Thursday
 www: www.roystonfolk.org
 status: listed
 ---

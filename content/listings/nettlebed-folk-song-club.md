@@ -9,8 +9,10 @@ locations:
 county: Oxfordshire
 venue: The Village Club
 address: High Street
-place: Nettlebed, near Henley on Thames
+place: Nettlebed
 post_code: ''
+lat: 51.57568
+lng: -0.99072
 when: Mondays
 www: pages.123-reg.co.uk/shirburn-50351/nettlebedfolkclub
 status: listed

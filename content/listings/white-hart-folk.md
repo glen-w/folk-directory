@@ -14,7 +14,7 @@ place: Saltburn-by-the-Sea
 post_code: ''
 lat: 54.50554
 lng: -0.76233
-when: Saturday, Every Week
+when: Weekly, Saturday
 www: www.whitehartfolkclub.weebly.com
 status: listed
 ---

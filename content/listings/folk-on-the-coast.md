@@ -13,7 +13,7 @@ place: Bognor Regis
 post_code: PO21 2TY
 lat: 50.78635
 lng: -0.68748
-when: 2nd Friday of each month
+when: Monthly, 2nd Friday
 www: www.folkonthecoast.co.uk/htfu.html
 email: rnash10@hotmail.com
 status: listed

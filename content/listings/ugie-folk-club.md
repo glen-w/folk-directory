@@ -14,7 +14,7 @@ place: Aberdeenshire
 post_code: ''
 lat: 57.51784
 lng: -1.93777
-when: Friday, 1st in Month
+when: Monthly, 1st Friday
 www: www.ugiefolk.co.uk
 email: information@ugiefolk.co.uk
 status: listed

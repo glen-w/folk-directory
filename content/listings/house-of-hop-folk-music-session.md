@@ -13,7 +13,7 @@ place: Darlington
 post_code: DL1 5RL
 lat: 54.52355
 lng: -1.55643
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: www.facebook.com/groups/893696297379282
 status: listed
 ---

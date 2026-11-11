@@ -13,7 +13,7 @@ place: Hebden Bridge West Yorkshire
 post_code: HX7 8AD
 lat: 53.74068
 lng: -2.0115
-when: Thursday, 4th in Month
+when: Monthly, 4th Thursday
 www: ''
 status: listed
 ---

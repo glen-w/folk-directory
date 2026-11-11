@@ -13,7 +13,7 @@ place: Wath upon Dearne
 post_code: S63 7QG
 lat: 53.50242
 lng: -1.34372
-when: Every Sunday from 8.00 pm
+when: Weekly, Sunday, 8:00pm
 www: sites.google.com/site/wathsundaysingaround
 email: wathsingaround@gmail.com
 status: listed

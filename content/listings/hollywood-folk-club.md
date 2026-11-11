@@ -10,12 +10,13 @@ locations:
 - ireland
 county: Roscommon
 venue: The Hollywood Bar
-address: ''
-place: Castle Street, Roscommon Town
+address: Castle Street
+place: Roscommon Town
 post_code: ''
+lat: 53.63124
+lng: -8.19068
 when: Second Thursday monthly from May 2026, ~20:00–22:00
 www: roscommonpeople.ie/mick-hanly-to-perform-at-festival-folk-this-easter-thursday
 status: listed
 ---
-
 Mick Hanly performs at 'Festival Folk' on Easter Thursday, alongside Eleanor Shanley, Charlie McGettigan, and Leo Logan.

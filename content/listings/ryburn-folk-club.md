@@ -13,7 +13,7 @@ place: West Yorkshire
 post_code: HX6 2QG
 lat: 53.70863
 lng: -1.91293
-when: Tuesday, 2nd & 4th
+when: Monthly, 2nd & 4th Tuesday
 www: www.ryburn3step.org.uk
 email: pete@petecoe.co.uk
 status: listed

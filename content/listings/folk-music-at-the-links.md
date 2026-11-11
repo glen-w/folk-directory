@@ -13,7 +13,7 @@ place: Montrose
 post_code: DD10 8RL
 lat: 56.71269
 lng: -2.46411
-when: Every second Tuesday
+when: Fortnightly, Tuesday
 www: linkshotelmusic.com/folk-music.php
 status: listed
 ---

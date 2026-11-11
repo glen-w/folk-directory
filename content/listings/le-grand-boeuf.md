@@ -14,7 +14,7 @@ place: Carshalton
 post_code: SM5 2PR
 lat: 51.36726
 lng: -0.16712
-when: 8pm every 3rd Wednesday
+when: Monthly, 3rd Wednesday, 8:00pm
 www: allezdansez.com
 email: allezdansez@btinternet.com
 status: listed

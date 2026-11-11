@@ -13,7 +13,7 @@ place: Spalding
 post_code: PE11 1SS
 lat: 52.78673
 lng: -0.15052
-when: First Wednesday each month
+when: Monthly, 1st Wednesday
 www: spaldingfolkclub.co.uk
 email: spaldingfolkclub@gmail.com
 logo: /images/listings/spalding_folk_club_logo_131.png

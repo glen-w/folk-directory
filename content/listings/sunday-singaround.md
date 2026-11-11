@@ -13,7 +13,7 @@ place: Manchester
 post_code: ''
 lat: 53.44246
 lng: -2.23245
-when: Sunday, 3rd in Month
+when: Monthly, 3rd Sunday
 www: ''
 status: listed
 ---

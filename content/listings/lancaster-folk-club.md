@@ -13,7 +13,7 @@ place: Lancaster
 post_code: LA1 5NW
 lat: 54.04879
 lng: -2.80715
-when: Wednesday, 1st in Month
+when: Monthly, 1st Wednesday
 www: ''
 status: listed
 ---

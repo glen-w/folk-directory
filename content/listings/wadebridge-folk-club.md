@@ -13,7 +13,7 @@ place: Wadebridge
 post_code: PL27 6QY
 lat: 50.58248
 lng: -4.90694
-when: Thursday, 3rd in Month
+when: Monthly, 3rd Thursday
 www: ''
 status: listed
 ---

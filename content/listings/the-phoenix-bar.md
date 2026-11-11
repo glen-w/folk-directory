@@ -15,7 +15,7 @@ place: Belfast
 post_code: BT15 2GW
 lat: 54.6136
 lng: -5.93601
-when: Wednesdays, 8pm-10pm.
+when: Weekly, Wednesday, 8:00pm-10:00pm
 www: www.thephoenixbelfast.com
 email: info@thephoenixbelfast.com
 status: listed

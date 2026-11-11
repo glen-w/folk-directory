@@ -13,7 +13,7 @@ place: Wakefield
 post_code: WF2 0LP
 lat: 53.7026
 lng: -1.52164
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: ''
 status: listed
 ---

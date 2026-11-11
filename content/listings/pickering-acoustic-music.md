@@ -13,7 +13,7 @@ place: North Yorkshire
 post_code: ''
 lat: 54.24602
 lng: -0.78444
-when: Monday, Every 2 weeks
+when: Fortnightly, Monday
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Lymington
 post_code: SO41 9GF
 lat: 50.75715
 lng: -1.54958
-when: First and Third Wednesdays
+when: Monthly, 1st & 3rd Wednesday
 www: ''
 email: info@lymingtonfolkclub.co.uk
 status: defunct

@@ -13,7 +13,7 @@ place: Lancaster
 post_code: ''
 lat: 54.04835
 lng: -2.79375
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: ''
 status: listed
 ---

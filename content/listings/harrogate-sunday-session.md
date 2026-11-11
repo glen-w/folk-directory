@@ -13,7 +13,7 @@ place: Harrogate
 post_code: HG1 2RB
 lat: 53.99356
 lng: -1.54367
-when: Sunday, 1st in Month
+when: Monthly, 1st Sunday
 www: ''
 status: listed
 ---

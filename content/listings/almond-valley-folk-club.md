@@ -18,3 +18,5 @@ www: magjam.wixsite.com/almondvalleyfolkclub
 email: almondvalleyfolkclub@outlook.com
 status: listed
 ---
+
+Almond Valley Folk Club meets once a month at the Railway Inn, Main St, West Calder EH55 8DL, West Lothian, Scotland. The club hosts concerts and sessions, with events typically beginning at 8pm. All are welcome, and a small admission fee applies depending on the activity.

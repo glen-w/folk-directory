@@ -13,7 +13,7 @@ place: Croydon
 post_code: CR0 1ND
 lat: 51.37021
 lng: -0.10018
-when: Sunday, 1st & 3rd
+when: Monthly, 1st & 3rd Sunday
 www: ukulele.magix.net
 status: listed
 ---

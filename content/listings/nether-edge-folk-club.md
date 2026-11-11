@@ -13,7 +13,7 @@ place: South Yorkshire
 post_code: S7 1RU
 lat: 53.35875
 lng: -1.48802
-when: Wednesday, Every Week
+when: Weekly, Wednesday
 www: ''
 status: listed
 ---

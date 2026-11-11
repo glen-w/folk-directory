@@ -13,7 +13,7 @@ place: Huntly
 post_code: ''
 lat: 57.44748
 lng: -2.78642
-when: Monthly, 3rd Wednesday, 8pm
+when: Monthly, 3rd Wednesday, 8:00pm
 www: ''
 status: listed
 ---

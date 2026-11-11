@@ -13,7 +13,7 @@ place: East Sussex
 post_code: BN7 2DJ
 lat: 50.87489
 lng: 0.00866
-when: Saturday, Every Week
+when: Weekly, Saturday
 www: www.lewessaturdayfolkclub.org
 status: listed
 ---

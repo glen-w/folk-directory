@@ -13,7 +13,7 @@ place: Whitminster
 post_code: GL2 7PB
 lat: 51.76752
 lng: -2.32758
-when: Monday, Every Week
+when: Weekly, Monday
 www: www.singaround.org
 status: listed
 ---

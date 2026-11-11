@@ -14,7 +14,7 @@ place: Midcalder
 post_code: ''
 lat: 55.89035
 lng: -3.48205
-when: Monthly, 3rd Tuesday, 8pm
+when: Monthly, 3rd Tuesday, 8:00pm
 www: ''
 status: listed
 ---

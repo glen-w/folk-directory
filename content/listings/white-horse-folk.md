@@ -13,7 +13,7 @@ place: Leics
 post_code: LE12 7LT
 lat: 52.7523
 lng: -1.08351
-when: Thursday, Last in month
+when: Monthly, Last Thursday
 www: d00207.wix.com/white-horse-folk
 status: listed
 ---

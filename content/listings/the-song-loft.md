@@ -13,7 +13,7 @@ place: Stony Stratford
 post_code: MK11 1JQ
 lat: 52.05461
 lng: -0.84829
-when: Friday, 2nd & 4th
+when: Monthly, 2nd & 4th Friday
 www: thesongloft.com
 status: listed
 ---

@@ -15,9 +15,8 @@ place: Limerick
 post_code: V94 VH4X
 lat: 52.65882
 lng: -8.63823
-when: Wednesday, 21:00
+when: Weekly, Wednesday, 9:00pm
 www: www.dolans.ie
 status: listed
 ---
-
 Wednesdays in the Warehouse. Sign-up from 20:30, six-minute slots. Decent PA, sympathetic crowd.

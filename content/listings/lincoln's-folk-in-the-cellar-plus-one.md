@@ -13,7 +13,7 @@ place: Lincoln
 post_code: LN1 1UL
 lat: 53.23115
 lng: -0.54245
-when: Last Saturday of the month
+when: Monthly, Last Saturday
 www: lincolnfolk.com
 email: marianne.watkins@virgin.net
 logo: /images/listings/lincoln_s_folk_in_the_cellar_plus_one_logo_130.png

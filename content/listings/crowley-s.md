@@ -15,9 +15,8 @@ place: Kenmare
 post_code: V93 Y152
 lat: 51.878
 lng: -9.58381
-when: Thursday, 21:00
+when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 ---
-
 Traditional Irish pub with regular live trad. Thursday and weekend sessions throughout the season.

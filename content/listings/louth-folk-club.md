@@ -13,7 +13,7 @@ place: Louth
 post_code: LN11 9BJ
 lat: 53.36676
 lng: -0.00142
-when: Thursday, 2nd & 4th
+when: Monthly, 2nd & 4th Thursday
 www: www.louthfolkclub.org.uk
 logo: /images/listings/louth_folk_club_logo_866.png
 status: listed

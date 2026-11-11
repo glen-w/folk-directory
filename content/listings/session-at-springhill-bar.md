@@ -14,7 +14,7 @@ place: Portrush
 post_code: BT56 8AB
 lat: 55.20498
 lng: -6.65131
-when: Every Thursday, 9pm till 11.30pm
+when: Weekly, Thursday, 9:00pm-11:30pm
 www: springhillbar.blogspot.com
 email: avgm50@dsl.pipex.com
 status: listed

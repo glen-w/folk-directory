@@ -15,7 +15,7 @@ place: Navan
 post_code: ''
 lat: 53.65309
 lng: -6.68404
-when: Thursday, 21:00
+when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Near Herstmonceux
 post_code: BN27 4RE
 lat: 50.90687
 lng: 0.34607
-when: 2nd and 4th Monday
+when: Monthly, 2nd & 4th Monday
 www: ''
 email: info@whitehorsefolk.co.uk
 status: defunct

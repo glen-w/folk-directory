@@ -10,8 +10,8 @@ locations:
 - ireland
 county: Cork
 venue: An Spailpín Fánach
-address: ''
-place: 28–29 South Main Street, Cork City
+address: 28 South Main Street
+place: Cork
 post_code: ''
 when: Weekly, Sunday
 www: ''

@@ -13,7 +13,7 @@ place: Wallasey
 post_code: CH44 1BY
 lat: 53.42172
 lng: -3.04084
-when: Sunday, 1st & 3rd
+when: Monthly, 1st & 3rd Sunday
 www: wfaclub.wixsite.com/wallaseyfolkacoustic
 email: wfac@btinternet.com
 status: listed

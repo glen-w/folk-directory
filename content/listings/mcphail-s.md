@@ -10,12 +10,13 @@ locations:
 - ireland
 county: Louth
 venue: McPhail's
-address: ''
-place: Lawrence Street, Drogheda
+address: Lawrence Street
+place: Drogheda
 post_code: ''
+lat: 53.71499
+lng: -6.35242
 when: Weekly, Wednesday, 9:30pm
 www: ''
 status: listed
 ---
-
 A mid-week trad session in Drogheda. Wednesday nights attract players who prefer a quieter setting to the weekend crowd.

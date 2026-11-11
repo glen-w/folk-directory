@@ -13,7 +13,7 @@ place: Neston
 post_code: CH64 9TZ
 lat: 53.28935
 lng: -3.06328
-when: Friday, 2nd in Month
+when: Monthly, 2nd Friday
 www: ''
 status: listed
 ---

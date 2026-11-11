@@ -13,7 +13,7 @@ place: Worcestershire
 post_code: WR6 6TE
 lat: 52.29364
 lng: -2.29718
-when: 2nd Friday of month
+when: Monthly, 2nd Friday
 www: ''
 email: kjsanders@tiscali.co.uk
 status: listed

@@ -8,7 +8,7 @@ locations:
 - lothian
 county: Edinburgh
 venue: Balerno Bowling Club
-address: 5 Ladycroft, Balerno
+address: 5 Ladycroft
 place: Balerno
 post_code: ''
 lat: 55.88522

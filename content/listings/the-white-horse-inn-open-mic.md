@@ -13,7 +13,7 @@ place: Clun
 post_code: SY7 8JA
 lat: 52.4213
 lng: -3.03001
-when: 2nd Wednesday of the Month
+when: Monthly, 2nd Wednesday
 www: ''
 email: pub@whi-clun.co.uk
 status: defunct

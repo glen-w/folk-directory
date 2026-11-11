@@ -13,7 +13,7 @@ place: London
 post_code: N8 8AA
 lat: 51.57796
 lng: -0.12466
-when: Every 2nd Friday of the month
+when: Monthly, 2nd Friday
 www: www.kalamazooklub.co.uk
 email: info@kalamazooklub.co.uk
 status: listed

@@ -13,7 +13,7 @@ place: Cumbria
 post_code: CA10 2BX
 lat: 54.64951
 lng: -2.74032
-when: Sunday, 4th in Month
+when: Monthly, 4th Sunday
 www: ''
 status: listed
 ---

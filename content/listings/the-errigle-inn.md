@@ -14,7 +14,7 @@ place: Belfast
 post_code: BT7 2GE
 lat: 54.57525
 lng: -5.91644
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: www.errigle.com
 email: info@errigle.com
 status: listed

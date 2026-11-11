@@ -13,7 +13,7 @@ place: Chesterfield
 post_code: S40 3AW
 lat: 53.23207
 lng: -1.45921
-when: Wednesday, 1st in Month
+when: Monthly, 1st Wednesday
 www: bramptonsessions.co.uk
 status: listed
 ---

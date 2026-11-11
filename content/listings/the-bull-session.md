@@ -13,7 +13,7 @@ place: Ditchling
 post_code: BN6 8TA
 lat: 50.92171
 lng: -0.11461
-when: Last Sunday of the month
+when: Monthly, Last Sunday
 www: unreel.info
 email: michael@mjra.net
 logo: /images/listings/the_bull_session_logo_628.png

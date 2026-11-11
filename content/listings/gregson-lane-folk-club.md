@@ -14,7 +14,7 @@ place: Preston
 post_code: ''
 lat: 53.73158
 lng: -2.61911
-when: Thursday, Every 2 weeks
+when: Fortnightly, Thursday
 www: www.gregsonlane.co.uk
 status: listed
 ---

@@ -13,7 +13,7 @@ place: Rainham
 post_code: ME8 7SG
 lat: 51.36653
 lng: 0.61195
-when: Second Friday each month
+when: Monthly, 2nd Friday
 www: mooreorlessfolkclub.co.uk
 email: cwilkin@btconnect.com
 status: listed

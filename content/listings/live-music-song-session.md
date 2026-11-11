@@ -13,7 +13,7 @@ place: Somerset
 post_code: BA6 9TN
 lat: 51.17925
 lng: -2.80723
-when: Wednesday, 1st in Month
+when: Monthly, 1st Wednesday
 www: www.roughroundtheedges.co.uk
 status: listed
 ---

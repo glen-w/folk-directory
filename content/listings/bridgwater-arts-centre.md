@@ -14,7 +14,7 @@ place: Bridgwater
 post_code: TA6 3DD
 lat: 51.1295
 lng: -3.00259
-when: Last Tuesday each month, 8pm
+when: Monthly, Last Tuesday, 8:00pm
 www: www.bridgwaterartscentre.co.uk
 email: info@bridgwaterartscentre.co.uk
 logo: /images/listings/bridgwater_arts_centre_logo_2968.png

@@ -13,7 +13,7 @@ place: South Lanarkshire
 post_code: ''
 lat: 55.69823
 lng: -3.98139
-when: Friday, 2nd & 4th
+when: Monthly, 2nd & 4th Friday
 www: ''
 status: listed
 ---

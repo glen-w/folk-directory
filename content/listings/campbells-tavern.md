@@ -15,7 +15,7 @@ place: Headford
 post_code: ''
 lat: 53.44561
 lng: -9.09517
-when: Every Wednesday and Thursday at 9pm.
+when: Weekly, Wednesday & Thursday, 9:00pm
 www: www.campbellstavern.net
 status: listed
 ---

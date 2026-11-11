@@ -13,7 +13,7 @@ place: Greater London
 post_code: KT6 5NF
 lat: 51.39221
 lng: -0.31202
-when: Wednesday, 2nd & 4th
+when: Monthly, 2nd & 4th Wednesday
 www: ''
 status: listed
 ---

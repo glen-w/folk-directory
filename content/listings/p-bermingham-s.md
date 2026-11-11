@@ -15,7 +15,7 @@ place: Navan
 post_code: C15 A337
 lat: 53.65245
 lng: -6.68326
-when: Session starts 5.30 on sunday evenings.
+when: Weekly, Sunday, 5:30pm
 www: berminghams.ie
 email: info@berminghams.ie
 status: listed

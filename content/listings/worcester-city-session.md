@@ -13,7 +13,7 @@ place: Worcester
 post_code: WR1 2HN
 lat: 52.19016
 lng: -2.22097
-when: 2nd Tuesday
+when: Monthly, 2nd Tuesday
 www: ''
 email: john.taylor39@btinternet.com
 status: listed

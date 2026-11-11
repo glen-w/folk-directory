@@ -13,7 +13,7 @@ place: Shropshire
 post_code: ''
 lat: 53.01317
 lng: -2.52474
-when: Wednesday, Every 2 weeks
+when: Fortnightly, Wednesday
 www: www.kittygreenwoodmusic.com
 status: listed
 ---

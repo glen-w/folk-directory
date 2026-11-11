@@ -13,7 +13,7 @@ place: Prestwich
 post_code: ''
 lat: 53.53043
 lng: -2.29602
-when: Friday, Every Week
+when: Weekly, Friday
 www: ''
 status: listed
 ---

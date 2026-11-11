@@ -15,10 +15,9 @@ place: Letterkenny
 post_code: F92 XKN5
 lat: 54.95094
 lng: -7.73687
-when: Friday, 21:30
+when: Weekly, Friday, 9:30pm
 www: www.blakesbar.ie
-status: listed
 logo: /images/listings/blake_s_bar_logo_4135.png
+status: listed
 ---
-
 Regular trad sessions and the popular Blake's Unplugged acoustic gigs. Friday and weekend sessions — the trad nights draw a mixed local crowd.

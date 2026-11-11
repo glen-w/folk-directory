@@ -13,7 +13,7 @@ place: Kendal
 post_code: LA9 4LD
 lat: 54.3253
 lng: -2.75347
-when: Thursdays 9pm
+when: Weekly, Thursday, 9:00pm
 www: ''
 status: listed
 edited: 23/01/2012

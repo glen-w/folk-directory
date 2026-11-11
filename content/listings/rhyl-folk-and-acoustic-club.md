@@ -14,7 +14,7 @@ place: Abergele
 post_code: LL22 8EN
 lat: 53.28908
 lng: -3.6403
-when: Friday, Every Week
+when: Weekly, Friday
 www: rhylfolkandacoustic.co.uk
 status: listed
 ---

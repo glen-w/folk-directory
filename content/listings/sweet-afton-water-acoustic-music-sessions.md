@@ -13,7 +13,7 @@ place: Ayrshire
 post_code: KA18 4AN
 lat: 55.39619
 lng: -4.18465
-when: Sunday, Last in month
+when: Monthly, Last Sunday
 www: ''
 status: listed
 ---

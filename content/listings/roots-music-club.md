@@ -13,7 +13,7 @@ place: Doncaster
 post_code: DN2 4TS
 lat: 53.53157
 lng: -1.12071
-when: Friday, Every Week
+when: Weekly, Friday
 www: www.rootsmusicclub.co.uk
 status: listed
 ---

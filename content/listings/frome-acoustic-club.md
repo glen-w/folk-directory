@@ -13,7 +13,7 @@ place: Frome
 post_code: ''
 lat: 51.22949
 lng: -2.31985
-when: Sundays, around 2pm
+when: Weekly, Sunday, 2:00pm
 www: ''
 status: listed
 ---

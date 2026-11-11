@@ -13,7 +13,7 @@ place: Scottish Borders
 post_code: EH44 6HF
 lat: 55.61896
 lng: -3.06414
-when: Thursday, Every Week
+when: Weekly, Thursday
 www: ''
 status: listed
 ---

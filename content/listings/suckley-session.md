@@ -13,7 +13,7 @@ place: Worcester
 post_code: WR6 5DJ
 lat: 52.17601
 lng: -2.41757
-when: Third Friday of month
+when: Monthly, 3rd Friday
 www: worcesterfolk.org.uk
 status: listed
 edited: 08/02/2012

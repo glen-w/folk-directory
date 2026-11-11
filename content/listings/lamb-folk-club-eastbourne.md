@@ -13,7 +13,7 @@ place: East Sussex
 post_code: BN21 1HQ
 lat: 50.77228
 lng: 0.26777
-when: Wednesday, 1st & 3rd
+when: Monthly, 1st & 3rd Wednesday
 www: lambfolkclub.co.uk
 email: eastbournelambfolk@outlook.com
 status: listed

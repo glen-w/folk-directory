@@ -14,7 +14,7 @@ place: Northampton
 post_code: NN6 9QX
 lat: 52.35029
 lng: -0.84607
-when: Last Thursday of the month, 8.30pm
+when: Monthly, Last Thursday, 8:30pm
 www: ''
 email: nick@albionfolk.co.uk
 status: listed

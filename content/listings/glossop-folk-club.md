@@ -13,7 +13,7 @@ place: Glossop
 post_code: SK13 8AT
 lat: 53.44279
 lng: -1.95284
-when: Tuesday, Every Week
+when: Weekly, Tuesday
 www: www.glossoplabourclub.org.uk/activities.html
 status: listed
 ---

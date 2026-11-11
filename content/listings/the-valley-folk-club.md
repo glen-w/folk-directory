@@ -13,7 +13,7 @@ place: Swansea
 post_code: SA7 9EN
 lat: 51.68917
 lng: -3.87794
-when: Friday, 1st, 3rd, 5th
+when: Monthly, 1st & 3rd & 5th Friday
 www: ''
 status: defunct
 ---

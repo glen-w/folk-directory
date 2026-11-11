@@ -14,7 +14,7 @@ place: South Shields
 post_code: NE33 3HE
 lat: 54.99021
 lng: -1.41395
-when: Sunday, Every Week
+when: Weekly, Sunday
 www: www.southshieldsfolkclub.co.uk
 status: listed
 ---

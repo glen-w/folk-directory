@@ -15,7 +15,7 @@ place: Edinburgh
 post_code: EH1 1LT
 lat: 55.94808
 lng: -3.18528
-when: Sunday, Every Week
+when: Weekly, Sunday
 www: www.royal-oak-folk.com
 status: listed
 ---

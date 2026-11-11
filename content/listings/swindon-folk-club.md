@@ -14,7 +14,7 @@ place: Swindon
 post_code: SN1 4BH
 lat: 51.55057
 lng: -1.77682
-when: Friday, 3rd in Month
+when: Monthly, 3rd Friday
 www: swindonfolkclub.wordpress.com
 email: swindonfolkclub@gmail.com
 logo: /images/listings/swindon_folk_club_logo_913.png

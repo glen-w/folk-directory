@@ -15,7 +15,7 @@ place: Harthill
 post_code: S26 7YL
 lat: 53.31685
 lng: -1.25904
-when: Friday, 1st in Month
+when: Monthly, 1st Friday
 www: www.beehivefolkclub.com
 email: petergarratt1@gmail.com
 logo: /images/listings/the_beehive_logo_757.png

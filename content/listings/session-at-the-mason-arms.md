@@ -14,7 +14,7 @@ place: Billinge, Wigan
 post_code: ''
 lat: 53.48733
 lng: -2.71118
-when: Every Thursday, 8.30 - 11.00pm
+when: Weekly, Thursday, 8:30pm-11:00pm
 www: masonsarmsbillinge.co.uk
 email: brianr@bjsystems.co.uk
 status: listed
