@@ -408,3 +408,26 @@ def test_website_source_reads_cache_txt(tmp_path: Path, monkeypatch: pytest.Monk
     )
     assert why == ""
     assert "weekly folk club" in text
+
+
+def test_parse_review_json_empty_rejects():
+    out = rw.parse_review_json("")
+    assert out["verdict"] == "reject"
+    assert "review_json" in out["issues"][0]
+
+
+def test_load_done_slugs_retries_errors(tmp_path: Path):
+    path = tmp_path / "out.jsonl"
+    path.write_text(
+        '{"slug": "a", "error": "timeout"}\n'
+        '{"slug": "b", "applied": true}\n'
+        '{"slug": "a", "review": {"verdict": "accept"}, "applied": true}\n',
+        encoding="utf-8",
+    )
+    assert rw.load_done_slugs(path) == {"a", "b"}
+    path.write_text(
+        '{"slug": "a", "error": "timeout"}\n'
+        '{"slug": "b", "applied": true}\n',
+        encoding="utf-8",
+    )
+    assert rw.load_done_slugs(path) == {"b"}

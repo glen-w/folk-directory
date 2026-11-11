@@ -20,3 +20,7 @@ email: info@kitchengardencafe.co.uk
 logo: /images/listings/folk_club_at_the_kitchen_garden_cafe_logo_22.png
 status: listed
 ---
+
+The Kitchen Garden is a cafe and bar in Kings Heath. By day, the cafe serves home-cooked food, fair trade coffee, and vegan cakes, alongside a garden shop offering handmade garden decorations and plants. In the evenings, Fletchers Bar is open, serving a variety of drinks and hosting live music with regular gigs.
+
+The venue has a cosy atmosphere with fairy lights, candles, and a diverse collection of plants. Amenities include free Wi-Fi, vegan, vegetarian, and gluten-free options, dog-friendly access, takeaway, a children's play area, and venue hire for events.

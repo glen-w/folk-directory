@@ -53,3 +53,6 @@ __pycache__/
 .venv/
 venv/
 .stfolder/syncthing-folder-6a6217.txt
+
+# Local watch / assessment run logs
+assessments/

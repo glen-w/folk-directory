@@ -19,3 +19,5 @@ www: www.duntonfolk.com
 email: duntofolk@hotmail.co.uk
 status: listed
 ---
+
+Dunton Folk, based in Dunton just outside Biggleswade, organises traditional music sessions among a range of other folk events, with strong links to Letchworth Morris and Jack In A Barrel.

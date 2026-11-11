@@ -17,3 +17,5 @@ when: Varied, Variable
 www: black-dog-radio.com/black-dog-radio-presents
 status: listed
 ---
+
+Folk at the Meadow is a contemporary folk music series presented by Black Dog Radio at the Belper Meadows Cricket Club Pavilion. The venue offers an intimate but airy setting, with a licensed bar, adjacent parking, and wheelchair access.

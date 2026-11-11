@@ -18,3 +18,5 @@ www: chesterfieldfolkclub.org
 status: defunct
 edited: 15/11/2011
 ---
+
+The club is now closed. It was supported by Chesterfield Library.

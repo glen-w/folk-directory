@@ -19,3 +19,7 @@ www: www.darlofolkacoustic.co.uk
 logo: /images/listings/darlington_folk_acoustic_club_logo_931.png
 status: listed
 ---
+
+Darlington Folk Acoustic Club is a folk and acoustic club based in Darlington, meeting on the second and fourth Thursday evenings of each month. The club was formerly the Darlington Folk Club and was renamed to reflect its broader musical interests. Meetings are hosted at the Rolling Mills Club, DL3 0HX.
+
+Evenings vary and include singarounds, open mic nights, and guest performances. All are welcome, regardless of calibre or ability, whether as singers, musicians, poets, or listeners. Attendance is free with no membership required; donations are appreciated.

@@ -19,3 +19,7 @@ www: www.baccapipes.org.uk
 logo: /images/listings/baccapipes_folk_club_logo_755.png
 status: listed
 ---
+
+BACCApipes Folk Club is a not-for-profit organisation run by volunteers, dedicated to acoustic, folk and social music. The club meets every Friday at The Riddlesden Institute, Scott Lane, Riddlesden, Keighley BD20 5BU. Doors open at 7:30pm and singing starts at 8pm.
+
+Members gather on a Facebook group to share photos and discussion.

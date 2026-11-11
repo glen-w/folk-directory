@@ -17,3 +17,5 @@ when: Sunday
 www: www.hitchinfolkclub.idnet.net
 status: listed
 ---
+
+Hitchin Folk Club meets on Sundays from 6.45pm at The Cricket Pavilion, Lucas Lane, Hitchin, Herts SG5 2JA, its venue from January 2020. The club has been running since 1967 and was named BBC Radio 2 Folk Club of the Year in 2005.

@@ -18,3 +18,7 @@ www: moorfolk.co.uk
 email: ben123@talktalk.net
 status: listed
 ---
+
+Folk on the Moor is a folk music club based at the Moorland Hotel, Wotter, PL7 5HP. Club nights take place on Sunday evenings, starting at 7.45 pm. The programme includes guest performers as well as Open Nights on other Sundays, where performers and audience members are equally welcome. On Open Nights, performers are asked to arrive by 7.30 pm. A large carpark is available at the rear of the hotel.
+
+Membership offers discounted seat prices. Further details are available from the club committee — Keith, Ben, Anton, or John — on any club night.
