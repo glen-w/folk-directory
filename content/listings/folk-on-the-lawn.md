@@ -7,7 +7,7 @@ event_types:
 locations:
 - abbey-mil
 county: Monmouthshire
-venue: ''
+venue: Abbey Mill, Tintern
 address: ''
 place: Abbey Mil
 post_code: ''

@@ -7,7 +7,7 @@ event_types:
 locations:
 - easton-farm-park
 county: Suffolk
-venue: ''
+venue: Easton Farm Park
 address: ''
 place: Easton Farm Park
 post_code: ''

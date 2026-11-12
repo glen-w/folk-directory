@@ -8,7 +8,7 @@ locations:
 - stainburn
 - cumbria
 county: Cumbria
-venue: ''
+venue: Rivendell festival site near Workington
 address: ''
 place: Stainburn
 post_code: ''

@@ -7,7 +7,7 @@ event_types:
 locations:
 - kelmarsh-hall-and-gardens
 county: Northamptonshire
-venue: ''
+venue: Kelmarsh Hall and Gardens
 address: ''
 place: Kelmarsh Hall and Gardens
 post_code: ''

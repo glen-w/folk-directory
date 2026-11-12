@@ -8,7 +8,7 @@ locations:
 - derby
 - derbyshire
 county: Derbyshire
-venue: ''
+venue: The Old Bell Hotel Derby, Chapel Street Arts Centre, Derby Museums
 address: ''
 place: Derby
 post_code: ''

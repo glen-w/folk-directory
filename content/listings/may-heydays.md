@@ -8,7 +8,7 @@ locations:
 - evesham
 - worcestershire
 county: Worcestershire
-venue: ''
+venue: The De Montfort School, Evesham
 address: ''
 place: Evesham
 post_code: ''

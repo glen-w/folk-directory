@@ -8,7 +8,7 @@ locations:
 - the-isle-of-jura
 - inner-hebrides
 county: Argyll and Bute
-venue: ''
+venue: Village Hall, Marquee
 address: ''
 place: Isle of Jura
 post_code: ''

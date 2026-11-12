@@ -7,7 +7,7 @@ event_types:
 locations:
 - lerwick
 county: Shetland
-venue: ''
+venue: Islesburgh Community Centre
 address: ''
 place: Lerwick
 post_code: ''

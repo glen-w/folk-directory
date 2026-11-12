@@ -7,7 +7,7 @@ event_types:
 locations:
 - west-midlands
 county: West Midlands
-venue: ''
+venue: Whitchurch Leisure Centre
 address: ''
 place: North Shropshire
 post_code: ''
@@ -15,5 +15,6 @@ lat: 52.0617
 lng: -2.69798
 www: www.northshropshirefolk.com
 status: listed
+when: 8 times a year
 ---
 north Shropshire Folk organises concerts around four times a year in north east Shropshire.

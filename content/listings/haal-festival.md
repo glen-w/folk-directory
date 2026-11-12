@@ -8,7 +8,7 @@ locations:
 - portsoy
 - aberdeenshire
 county: Aberdeenshire
-venue: ''
+venue: Portsoy
 address: ''
 place: Portsoy
 post_code: ''

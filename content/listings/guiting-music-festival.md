@@ -7,7 +7,7 @@ event_types:
 locations:
 - guiting-power
 county: Gloucestershire
-venue: ''
+venue: Guiting Power
 address: ''
 place: Guiting Power
 post_code: ''

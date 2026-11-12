@@ -7,7 +7,7 @@ event_types:
 locations:
 - south-west-england
 county: Cornwall
-venue: ''
+venue: The Victoria Inn, 1 The Square, Four Lanes, Redruth
 address: ''
 place: Four Lanes, Redruth
 post_code: ''
@@ -16,5 +16,6 @@ lng: -5.23797
 www: www.dreamersfolk.co.uk
 logo: /images/listings/dreamers_folk_logo_728.png
 status: listed
+when: Sunday, Every Week
 ---
 Dreamers Folk is a folk club in Four Lanes, Redruth.

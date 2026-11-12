@@ -8,7 +8,7 @@ locations:
 - george-watson-s-college
 - midlothian
 county: Midlothian
-venue: ''
+venue: George Watson's College
 address: ''
 place: George Watson's College
 post_code: ''

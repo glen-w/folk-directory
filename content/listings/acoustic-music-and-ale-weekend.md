@@ -8,7 +8,7 @@ locations:
 - marbury-country-park
 - cheshire
 county: Cheshire
-venue: ''
+venue: Marbury Country Park
 address: ''
 place: Marbury Country Park
 post_code: ''

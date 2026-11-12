@@ -16,6 +16,6 @@ lat: 53.34198
 lng: -6.25879
 www: www.thedukedublin.com
 status: listed
+email: thedukedublin@gmail.com
 ---
-
 Traditional session at The Duke in Dublin.

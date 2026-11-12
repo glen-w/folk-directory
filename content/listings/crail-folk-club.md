@@ -7,7 +7,7 @@ event_types:
 locations:
 - scotland
 county: Fife
-venue: ''
+venue: Community Hall, St Andrews Road, Crail, KY10 3UH
 address: ''
 place: Crail
 post_code: ''

@@ -7,7 +7,7 @@ event_types:
 locations:
 - salcombe-regis
 county: Devon
-venue: ''
+venue: McBuzz’s Barn and adjoining open-sided 'Tythe barn'
 address: ''
 place: Salcombe Regis
 post_code: ''

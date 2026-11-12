@@ -7,7 +7,7 @@ event_types:
 locations:
 - england
 county: Greater London
-venue: ''
+venue: upstairs at the Alpaca, 84-86 Essex Road, NI 8LU
 address: ''
 place: London
 post_code: ''

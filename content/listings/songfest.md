@@ -7,7 +7,7 @@ event_types:
 locations:
 - draycote-hotel
 county: Warwickshire
-venue: ''
+venue: Draycote Hotel
 address: ''
 place: Draycote Hotel
 post_code: ''

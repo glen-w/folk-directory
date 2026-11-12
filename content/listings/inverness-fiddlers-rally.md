@@ -8,7 +8,7 @@ locations:
 - inverness
 - invernessshire
 county: Highland
-venue: ''
+venue: Empire Theatre, Eden Court, Inverness
 address: ''
 place: Inverness
 post_code: ''

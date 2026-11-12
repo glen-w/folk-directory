@@ -8,7 +8,7 @@ locations:
 - sherbrooke-scout-camp-site
 - nottingham
 county: Nottinghamshire
-venue: ''
+venue: Sherbrooke Scout Camp Site
 address: ''
 place: Sherbrooke Scout Camp Site
 post_code: ''

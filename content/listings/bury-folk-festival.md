@@ -8,7 +8,7 @@ locations:
 - bury-st-edmunds
 - suffolk
 county: Suffolk
-venue: ''
+venue: Nowton Park Walled Garden
 address: ''
 place: Bury St Edmunds
 post_code: ''

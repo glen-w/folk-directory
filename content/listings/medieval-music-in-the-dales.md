@@ -8,7 +8,7 @@ locations:
 - bolton-castle-and-redmire
 - yorkshire
 county: North Yorkshire
-venue: ''
+venue: Bolton Castle and Redmire
 address: ''
 place: Bolton Castle and Redmire
 post_code: ''

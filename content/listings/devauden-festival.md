@@ -7,7 +7,7 @@ event_types:
 locations:
 - devauden
 county: Monmouthshire
-venue: ''
+venue: PENALLT
 address: ''
 place: Devauden
 post_code: ''

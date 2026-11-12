@@ -7,7 +7,7 @@ event_types:
 locations:
 - kemble-airfield
 county: Gloucestershire
-venue: ''
+venue: Kemble Airfield
 address: ''
 place: Kemble Airfield
 post_code: ''

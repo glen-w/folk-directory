@@ -7,7 +7,7 @@ event_types:
 locations:
 - claydon-estate
 county: Buckinghamshire
-venue: ''
+venue: Claydon Estate
 address: ''
 place: Claydon Estate
 post_code: ''
@@ -16,5 +16,4 @@ www: foundfestival.uk
 logo: /images/listings/found_festival_logo_3720.png
 status: listed
 ---
-
 New to us. It replaces the Towersey Festival Describes itself as a micro festival. A festival of discovery with music, dance, arts, crafts and wellness. Head turners from the world of Americana, Folk, Country, Blues, World and Roots Music. A festival with space to breathe and relax, to discover and learn, to create and share. Your first and forever festival, inspiring the best you.

@@ -8,7 +8,7 @@ locations:
 - gosforth-civic-theatre
 - tyne-and-wear
 county: Tyne and Wear
-venue: ''
+venue: Gosforth Civic Theatre
 address: ''
 place: Gosforth Civic Theatre
 post_code: ''

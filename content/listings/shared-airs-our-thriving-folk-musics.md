@@ -7,7 +7,7 @@ event_types:
 locations:
 - royal-college-of-music-museum
 county: Greater London
-venue: ''
+venue: Royal College of Music Museum
 address: ''
 place: Royal College of Music Museum
 post_code: ''

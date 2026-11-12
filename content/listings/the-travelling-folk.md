@@ -9,12 +9,13 @@ locations:
 county: Kent
 venue: ''
 address: ''
-place: ''
+place: various pre-selected pubs in West Kent and East Sussex
 post_code: ''
 lat: 51.20707
 lng: 0.72104
 www: www.travellingfolk.co.uk
 email: thetravellingfolk@gmail.com
 status: listed
+when: first and third Thursdays of each month
 ---
 The Travelling Folk.

@@ -8,7 +8,7 @@ locations:
 - killin
 - perth
 county: Stirling
-venue: ''
+venue: McLaren Hall, Killin
 address: ''
 place: Killin
 post_code: FK21 8UW

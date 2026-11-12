@@ -8,7 +8,7 @@ locations:
 - lochwinnoch
 - renfrewshire
 county: Renfrewshire
-venue: ''
+venue: McKillop Institute
 address: ''
 place: Lochwinnoch
 post_code: ''

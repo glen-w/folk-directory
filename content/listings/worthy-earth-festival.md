@@ -9,7 +9,7 @@ locations:
 - hampshire
 - ireland
 county: Down
-venue: ''
+venue: Dummer Down Farm
 address: ''
 place: Dummer Down Farm
 post_code: ''

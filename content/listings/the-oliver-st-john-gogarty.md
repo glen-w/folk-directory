@@ -16,6 +16,6 @@ lat: 53.34554
 lng: -6.26171
 www: www.gogartys.ie
 status: listed
+email: info@gogartys.ie
 ---
-
 Music is played in a fairly fast style.

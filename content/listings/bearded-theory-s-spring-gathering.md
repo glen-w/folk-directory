@@ -7,7 +7,7 @@ event_types:
 locations:
 - catton-hall
 county: Derbyshire
-venue: ''
+venue: Catton Hall
 address: ''
 place: Catton Hall
 post_code: ''

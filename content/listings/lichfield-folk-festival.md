@@ -8,7 +8,7 @@ locations:
 - borrowcop-hill
 - staffordshire
 county: Staffordshire
-venue: ''
+venue: King Edward School and Sports Centre, King's Hill Road, Lichfield WS14 9DE
 address: ''
 place: Borrowcop Hill
 post_code: ''
@@ -18,5 +18,4 @@ email: freddiethirsk.folk@talktalk.net
 logo: /images/listings/lichfield_folk_festival_logo_2026.png
 status: listed
 ---
-
 A weekend of dance and music in this lovely cathedral city.

@@ -7,7 +7,7 @@ event_types:
 locations:
 - sandwich
 county: Kent
-venue: ''
+venue: St. Mary’s Arts Centre
 address: ''
 place: Sandwich
 post_code: ''

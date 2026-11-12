@@ -8,7 +8,7 @@ locations:
 - kelso
 - scottish-borders
 county: Scottish Borders
-venue: ''
+venue: Old Parish Church (the Kirk)
 address: ''
 place: Kelso
 post_code: ''

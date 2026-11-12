@@ -7,7 +7,7 @@ event_types:
 locations:
 - plaitford
 county: Hampshire
-venue: ''
+venue: Powells Farm, Salisbury Road, Plaitford, Romsey, Hants, SO51 6EE
 address: ''
 place: Plaitford
 post_code: ''

@@ -8,7 +8,7 @@ locations:
 - derry
 - ireland
 county: Londonderry
-venue: ''
+venue: Cultúrlann Uí Chanáin, Derry
 address: ''
 place: Derry
 post_code: ''

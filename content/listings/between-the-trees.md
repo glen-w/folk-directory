@@ -8,7 +8,7 @@ locations:
 - candleston-woods
 - merthyr-mawr
 county: Bridgend
-venue: ''
+venue: Candleston Woods
 address: ''
 place: Candleston Woods
 post_code: ''
@@ -17,5 +17,4 @@ www: betweenthetrees.co.uk
 logo: /images/listings/between_the_trees_logo_3716.png
 status: listed
 ---
-
 Music, natural science and art. An idyllic, new, 100-acre woodland site in South Wales. Between the Trees has a unique theme of music, natural science and art. The festival aims to engage people of all ages with the natural world and to reconnect younger generations with the wonder and restorative qualities that this woodland environment offers.

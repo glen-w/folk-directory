@@ -7,7 +7,7 @@ event_types:
 locations:
 - bridport
 county: Dorset
-venue: ''
+venue: Bridport Town Hall, Millennium Green Marquee, Cobra Cafe
 address: ''
 place: Bridport
 post_code: ''

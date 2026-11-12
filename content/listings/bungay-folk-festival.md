@@ -8,7 +8,9 @@ locations:
 - bungay
 - suffolk
 county: Suffolk
-venue: ''
+venue: St Mary’s Church, The Fisher Theatre, Trinity Church, The Three Tuns pub, Broad
+  Street Gallery, The Mayfair, The British Legion Club, The Riverside Centre, Number
+  28 Wingfield Street, Bungay Community Centre
 address: ''
 place: Bungay
 post_code: ''
